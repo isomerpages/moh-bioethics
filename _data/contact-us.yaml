@@ -1,0 +1,32 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+#Contact Us
+
+locations:
+  # HQ Address [REQUIRED]
+  - title: Bioethics Advisory Committee Secretariat
+    address: "Harbourfront Centre, #11-23<br>1 Maritime Square (Lobby A)<br>Singapore 099253"
+    find-directions: https://www.google.com.sg/maps/place/Harbour+Front+Centre/@1.2644711,103.8174805,17z/data=!4m8!1m2!2m1!1sHarbourfront+Centre,+%2311-23!3m4!1s0x31da1be2682ed133:0x412ede0e69acf503!8m2!3d1.2645073!4d103.8203382
+
+# Contact Us
+column:
+  - title: General Enquiries & Feedback
+    content:
+    - line: +65 6710 5278 / 6710 5277
+    - line: bioethics_Singapore@moh.gov.sg (email)
+    # If you have an email, put (email) after the actual email
+
+  - title: Fax
+    content:
+    - line: +65 6255 8064
+
+  - title: Mailing Address
+    content:
+    - line: "Ministry of Health, 16 College Road, Singapore 169854<br>Attn: Regulatory Policy and Legislation Division (BAC Secretariat)"
+
+# Image
+image-url:

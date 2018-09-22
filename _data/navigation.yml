@@ -1,0 +1,52 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: Who We Are
+  url: /who-we-are/overview/
+  sub-links:
+  - title: Overview
+    url: /who-we-are/overview/
+  - title: What We Do
+    url: /who-we-are/what-we-do/
+  - title: Ethical Principles
+    url: /who-we-are/ethical-principles/
+  - title: Past Members
+    url: /who-we-are/past-members/
+- title: Bioethics Resource
+  url: /bioethics-resource/bioethics-background/
+  sub-links:
+  - title: Bioethics Background
+    url: /bioethics-resource/bioethics-background/
+  - title: Bioethics In Singapore
+    url: /bioethics-resource/bioethics-in-singapore/
+  - title: Useful Links
+    url: /bioethics-resource/useful-links/
+- title: Activities
+  url: /activities/current-projects/
+  sub-links:
+  - title: Current Projects
+    url: /activities/current-projects/
+  - title: Events
+    url: /activities/events/
+- title: Publications
+  url: /publications/
+  sub-links:
+  - title: All
+    url: /publications/
+  - title: Reports
+    url: /publications/reports/
+  - title: Consultation Papers
+    url: /publications/consultation-papers/
+  - title: Press Releases
+    url: /publications/press-releases/
+  - title: In The News
+    url: /publications/in-the-news/
+  - title: Others
+    url: /publications/others/
+- title: FAQ
+  url: /faq/
+- title: Contact Us
+  url: /contact-us/
