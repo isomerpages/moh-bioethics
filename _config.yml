@@ -39,7 +39,7 @@ custom_css_path: "/misc/custom.css"
 custom_print_css_path: "/assets/css/print.css"
 
 
-baseurl: /isomerpages-bioethics
+baseurl: ""
 collections:
   who-we-are:
     output: true
