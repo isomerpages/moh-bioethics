@@ -16,7 +16,7 @@ collection_name: bioethics-resource
 
  
 
-From the [Bioethics Exhibition]("https://www.science.edu.sg/whats-on/exhibitions/bioethics"){:target="_blank"} at the Science Centre Singapore (SCS), a collaboration between BAC, NUS Centre for Biomedical Ethics and SCS:
+From the [Bioethics Exhibition]({{"https://www.science.edu.sg/whats-on/exhibitions/bioethics"}}){:target="_blank"} at the Science Centre Singapore (SCS), a collaboration between BAC, NUS Centre for Biomedical Ethics and SCS:
 
 “Ethics is knowing the difference between what you have a right to do and what is right to do” - Potter Stewart, US Supreme Court Justice
 
