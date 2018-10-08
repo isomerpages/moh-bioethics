@@ -12,6 +12,8 @@ collection_name: bioethics-resource
 
 "The ethics of medical and biological research" - Oxford dictionaries
 
+![NCoB Ladder]({{"/images/NCoB.jpg" | absolute_url }})
+
  
 
 From the [Bioethics Exhibition]("https://www.science.edu.sg/whats-on/exhibitions/bioethics"){:target="_blank"} at the Science Centre Singapore (SCS), a collaboration between BAC, NUS Centre for Biomedical Ethics and SCS:
