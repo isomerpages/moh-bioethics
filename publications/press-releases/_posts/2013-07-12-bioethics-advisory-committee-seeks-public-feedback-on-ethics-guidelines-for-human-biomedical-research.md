@@ -5,6 +5,8 @@ permalink: "/publications/press-releases/bioethics-advisory-committee-seeks-publ
 date: 2013-07-12
 ---
 
+**Public Consultation on the BAC’s Draft Ethics Guidelines for Human Biomedical Research**
+
 1. The Bioethics Advisory Committee (BAC) is currently seeking comments on its draft Ethics Guidelines for Human Biomedical Research. A **public dialogue session**, to be chaired by BAC Chairman, Senior Judge (Ret.) Richard Magnus, will be held on **26 July 2012 (Thursday) from 4.00 to 6.00 pm** at Room 01-01A, Block MD 6, Centre for Translational Medicine, National University of Singapore(14 Medical Drive, Singapore 117599).
 
 2. The main purpose of these Guidelines is to present an accessible and consolidated ethics resource for biomedical researchers and members of ethics committees or institutional review boards (IRBs).The Guidelines are based on a review of the BAC’s past recommendations, which aim to safeguard against unethical practices and to ensure the protection and assurance of the safety, health, dignity, welfare and privacy of research participants. The recommendations were issued in seven reports, published between 2002 and 2010.
