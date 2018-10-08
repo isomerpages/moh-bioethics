@@ -44,9 +44,7 @@ For media enquiries, please contact:
 <br>Ms Charmaine Chan
 <br>DID: (65) 6773 1726
 <br>charmaine@bioethics-singapore.org
-
 <br>
-
 <br>Ms Nur Atishah Binte Mohammad Ali
 <br>DID: (65) 6773 6475
 <br>atishah@bioethics-singapore.org
