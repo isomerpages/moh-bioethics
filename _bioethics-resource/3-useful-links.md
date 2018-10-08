@@ -12,15 +12,15 @@ The BAC is not responsible and does not endorse the contents found on these exte
 
 ### **International**
 
-[International Association of Bioethics]({{"http://www.cioms.ch/"}}){:target="_blank"}
+[International Association of Bioethics]({{"http://www.bioethics-international.org/"}}){:target="_blank"}
 
-[International Institute of Research in Ethics and Biomedicine]({{"http://www.cioms.ch/"}}){:target="_blank"}
+[International Institute of Research in Ethics and Biomedicine]({{"http://www.iireb.org/en/index.html"}}){:target="_blank"}
 
-[World Medical Association]({{"http://www.cioms.ch/"}}){:target="_blank"}
+[World Medical Association]({{"https://www.wma.net/"}}){:target="_blank"}
 
-[World Health Organization]({{"http://www.cioms.ch/"}}){:target="_blank"}
+[World Health Organization]({{"http://www.who.int/en/"}}){:target="_blank"}
 
-[UNESCO International Bioethics Committee / Inter-Governmental Bioethics Committee]({{"http://www.cioms.ch/"}}){:target="_blank"}
+[UNESCO International Bioethics Committee / Inter-Governmental Bioethics Committee]({{"http://www.unesco.org/new/en/social-and-human-sciences/themes/bioethics/"}}){:target="_blank"}
 
 [Human Genome Organisation]({{"http://www.cioms.ch/"}}){:target="_blank"}
 
