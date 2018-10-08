@@ -33,13 +33,13 @@ date: 2013-03-26
 
 ---
 
-**About the BAC**
+### **About the BAC**
 
 The BAC was established by the Government in December 2000 to address the ethical, legal and social issues arising from human biomedical research and its applications. It develops and recommends policies on these issues, with the aim of protecting the rights and welfare of individuals, while allowing the biomedical sciences to develop and realise its full potential for the benefit of mankind.
 
 ---
 
-For media enquiries, please contact:
+### **For media enquiries, please contact:**
 
 <br>Ms Charmaine Chan
 <br>DID: (65) 6773 1726
