@@ -43,3 +43,5 @@ collection_name: bioethics-resource
     <td>Human Biomedical Research Act, Human Biomedical Research Act Regulations, and Human Biomedical Research (Restricted Research) Regulations came into force</td>
   </tr>
 </table>
+
+![Bioethics logo]({{"/images/Bioeth.jpg" | absolute_url }})
