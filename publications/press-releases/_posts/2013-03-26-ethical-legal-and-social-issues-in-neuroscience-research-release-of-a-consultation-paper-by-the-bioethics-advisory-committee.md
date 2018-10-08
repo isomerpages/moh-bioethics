@@ -41,9 +41,12 @@ The BAC was established by the Government in December 2000 to address the ethica
 
 For media enquiries, please contact:
 
-Ms Charmaine Chan
-DID: (65) 6773 1726
-charmaine@bioethics-singapore.org
-Ms Nur Atishah Binte Mohammad Ali
-DID: (65) 6773 6475
-atishah@bioethics-singapore.org
+<br>Ms Charmaine Chan
+<br>DID: (65) 6773 1726
+<br>charmaine@bioethics-singapore.org
+
+<br>
+
+<br>Ms Nur Atishah Binte Mohammad Ali
+<br>DID: (65) 6773 6475
+<br>atishah@bioethics-singapore.org
