@@ -12,10 +12,6 @@ collection_name: bioethics-resource
 
 "The ethics of medical and biological research" - Oxford dictionaries
 
-![NCoB Ladder]({{"/images/NCoB.jpg" | absolute_url }})
-
- 
-
 From the [Bioethics Exhibition]({{"https://www.science.edu.sg/whats-on/exhibitions/bioethics"}}){:target="_blank"} at the Science Centre Singapore (SCS), a collaboration between BAC, NUS Centre for Biomedical Ethics and SCS:
 
 “Ethics is knowing the difference between what you have a right to do and what is right to do” - Potter Stewart, US Supreme Court Justice
@@ -35,5 +31,12 @@ Since World War II, and arising mainly from forced research participation commit
 
 There have been a number of international documents and declarations that form the foundations of ethical biomedical research governance as practised in major jurisdictions. Some of the key ones are listed below. The principles expressed in these documents are generally endorsed by the BAC, and have been used to derive BAC's [own set of principles]({{"/who-we-are/ethical-principles" | absolute_url}}).
 
+a. [The Nuremberg Code (1947)]({{"https://history.nih.gov/research/downloads/nuremberg.pdf"}}){:target="_blank"}
 
-c.[The Belmont Report: Ethical Principles and Guidelines for the Protection of Human Subjects of Research -1979]({{"https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html"}}){:target="_blank"}
+b. [The Declaration of Helsinki: Ethical Principles for Research Involving Human Subjects (1964, Revised 2013)]({{"https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/"}}){:target="_blank"}
+
+c.[The Belmont Report: Ethical Principles and Guidelines for the Protection of Human Subjects of Research - 1979]({{"https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html"}}){:target="_blank"}
+
+d.[The International Ethical Guidelines for Health-related Research Involving Humans (2016)]({{"https://cioms.ch/wp-content/uploads/2017/01/WEB-CIOMS-EthicalGuidelines.pdf"}}){:target="_blank"}
+
+e.[The UNESCO Universal Declaration on Bioethics and Human Rights (2005)]({{"http://unesdoc.unesco.org/images/0014/001461/146180e.pdf"}}){:target="_blank"}
