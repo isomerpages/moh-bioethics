@@ -12,9 +12,9 @@ The BAC is not responsible and does not endorse the contents found on these exte
 
 ### **International**
 
-[International Association of Bioethics]("http://www.cioms.ch/"){:target="_blank"}
+[International Association of Bioethics](http://www.cioms.ch/){:target="_blank"}
 
-[International Institute of Research in Ethics and Biomedicine]("http://www.cioms.ch/"){:target="_blank"}
+[International Institute of Research in Ethics and Biomedicine](http://www.cioms.ch/){:target="_blank"}
 
 [World Medical Association]("http://www.cioms.ch/"){:target="_blank"}
 
