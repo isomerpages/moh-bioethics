@@ -13,3 +13,7 @@ University Professor, National University of Singapore<br>
 **Associate Professor David Chan Kum Wah**<br>
 Department of Philosophy, National University of Singapore<br>
 (January to May 2001)
+
+**Mr Jeffrey Chan Wah Teck**<br>
+Head, Civil Division, Attorney-General’s Chambers<br>
+(2001 to 2004)
