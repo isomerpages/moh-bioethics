@@ -51,5 +51,5 @@ The BAC was established by the Government in December 2000 to address the ethica
 <br>DID: (65) 6773 6475
 <br>atishah@bioethics-singapore.org
 
-[PDF version of press release]({{"/files/publications/2013/03/ethical-legal-and-social-issues-in-neuroscience-research-release-of-a-consultation-paper-by-the-bioethics-advisory-committee.pdf" | absolute_url}})
+[PDF version of press release]({{"/files/publications/press-releases/2013/01/ethical-legal-and-social-issues-in-neuroscience-research-release-of-a-consultation-paper-by-the-bioethics-advisory-committee.pdf" | absolute_url}})
 
