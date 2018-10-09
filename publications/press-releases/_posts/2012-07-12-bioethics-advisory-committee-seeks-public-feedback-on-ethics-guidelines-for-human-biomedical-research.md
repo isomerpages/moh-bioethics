@@ -2,7 +2,7 @@
 layout: post
 title:  "Bioethics Advisory Committee seeks public feedback on Ethics Guidelines for Human Biomedical Research`"
 permalink: "/publications/press-releases/bioethics-advisory-committee-seeks-public-feedback-on-ethics-guidelines-for-human-biomedical-research"
-date: 2013-07-12
+date: 2012-07-12
 ---
 
 **Public Consultation on the BAC’s Draft Ethics Guidelines for Human Biomedical Research**
@@ -66,3 +66,6 @@ The main revisions to the original recommendations are as follows:
 <br>Ms Nur Atishah
 <br>DID: (65) 773 6475
 <br>atishah@bioethics-singapore.org
+
+[PDF version of press release]({{"/assets/bioethics-advisory-committee-seeks-public-feedback-on-ethics-guidelines-for-human-biomedical-research.pdf" | absolute_url}})
+
