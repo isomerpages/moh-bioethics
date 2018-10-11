@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Bioethics in Singapore: The Ethical Microcosm"
-date:   2010-07-01
+title: "Bioethics in Singapore: The Ethical Microcosm"
+date: 2010-07-01
 permalink: /publications/others/bioethics-in-singapore-the-ethical-microcosm
 ---
 
