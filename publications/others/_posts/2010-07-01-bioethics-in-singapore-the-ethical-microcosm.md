@@ -1,11 +1,9 @@
 ---
 layout: post
 title:  "Bioethics in Singapore: The Ethical Microcosm"
-date:   2018-01-01
-permalink: /publications/others/the-ethical-microcosm
+date:   2010-07-01
+permalink: /publications/others/bioethics-in-singapore-the-ethical-microcosm
 ---
-
-### **Bioethics in Singapore: The Ethical Microcosm**
 
 Edited by John M Elliott, W Calvin Ho and Sylvia SN Lim<br>
 Published: July 2010
