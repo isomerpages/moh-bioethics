@@ -101,7 +101,7 @@ collection_name: activities
 <table class="table-v">
   <tr>
     <td>13 August</td>
-    <td>Science Public Forum 2011:"Stem Cell- Hope or Hype?" </td>
+    <td>Science Public Forum 2011:"Stem Cell- Hope or Hype?"</td>
   </tr>
 </table>
 
@@ -110,7 +110,7 @@ collection_name: activities
 <table class="table-v">
   <tr>
       <td>31 July</td>
-    <td>Public Forum: "Is Transcending Natural Boundaries Ethical?</td>
+    <td>Public Forum: "Is Transcending Natural Boundaries Ethical?"</td>
   </tr>
   <tr>
     <td>28 July</td>
@@ -123,5 +123,14 @@ collection_name: activities
   <tr>
     <td>26-27 July</td>
     <td>8th Global Summit of National Bioethics Advisory Bodies</td>
+  </tr>
+</table>
+
+### **2009**
+
+<table class="table-v">
+  <tr>
+    <td>23 September</td>
+    <td>"Resettling the Parameters: Public Health as the Foundation for Public Health Ethics" - Science in the Cafe with Dr Angus Dawson</td>
   </tr>
 </table>
