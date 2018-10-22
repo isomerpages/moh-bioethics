@@ -134,3 +134,24 @@ collection_name: activities
     <td>"Resettling the Parameters: Public Health as the Foundation for Public Health Ethics" - Science in the Cafe with Dr Angus Dawson</td>
   </tr>
 </table>
+
+### **2008**
+
+<table class="table-v">
+  <tr>
+      <td>16 August</td>
+    <td>Public Forum: "Mixing Human and Animal Tissues: Is such research ethical?"</td>
+  </tr>
+  <tr>
+    <td>14 August</td>
+    <td>Conference on Emerging Ethical and Regulatory Issues in Human Embryonic Stem Cell Research</td>
+  </tr>
+  <tr>
+    <td>19 January</td>
+    <td>Public Forum: "Human-Animal Combinations for Research"</td>
+  </tr>
+  <tr>
+    <td>17 January</td>
+    <td>Workshop on Recent Ethical and Regulatory Developments in Biomedical Research</td>
+  </tr>
+</table>
