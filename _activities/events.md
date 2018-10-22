@@ -169,3 +169,31 @@ collection_name: activities
   </tr>
 </table>
 
+### **2006**
+
+<table class="table-v">
+  <tr>
+      <td>15 October</td>
+    <td>Ethics Symposium for Healthcare Professionals (Part of SMA Ethics Convention): "Challenges of Consent and Confidentiality Requirements in a Globalised and Digitised Healthcare Environment"</td>
+  </tr>
+  <tr>
+    <td>14 October</td>
+    <td>Public Forum:"Bioethics, Genetics and Medical Research"</td>
+  </tr>
+  <tr>
+    <td>13 October</td>
+    <td>Workshop for IRB Members: Ethical Decision-Making by Institutional Reviews Board</td>
+  </tr>
+  <tr>
+    <td>12 October</td>
+    <td>Workshop for Researchers and IRB Members: Implementing Ethical Requirements in Biomedical Research</td>
+  </tr>
+  <tr>
+    <td>15 July</td>
+    <td>Public Forum: "Use of Personal Information in Biomedical Research"</td>
+  </tr>
+   <tr>
+    <td>11 Jan</td>
+    <td>"Genetics Prediction of Common Diseases - Medical and SOcial Aspects" - A public lecture by Professor Martin Bobrow</td>
+  </tr>
+</table>
