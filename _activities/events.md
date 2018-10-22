@@ -79,10 +79,6 @@ collection_name: activities
     <td>Public Dialogue Session on "Ethics Guidelines for Human Biomedical Research"</td>
   </tr>
   <tr>
-    <td>12 January</td>
-    <td>Public Forum:Brain, Mind & Technologies - What's New & What's Next?</td>
-  </tr>
-  <tr>
     <td>25 February</td>
     <td>Public Forum: Involving Patients and the Public in Biomedical Research</td>
   </tr>
@@ -101,7 +97,7 @@ collection_name: activities
 <table class="table-v">
   <tr>
     <td>13 August</td>
-    <td>Science Public Forum 2011:"Stem Cell- Hope or Hype?"</td>
+    <td>Science Public Forum 2011:"Stem Cell-Hope or Hype?"</td>
   </tr>
 </table>
 
@@ -193,7 +189,46 @@ collection_name: activities
     <td>Public Forum: "Use of Personal Information in Biomedical Research"</td>
   </tr>
    <tr>
-    <td>11 Jan</td>
-    <td>"Genetics Prediction of Common Diseases - Medical and SOcial Aspects" - A public lecture by Professor Martin Bobrow</td>
+    <td>11 January</td>
+    <td>"Genetics Prediction of Common Diseases - Medical and Social Aspects" - A public lecture by Professor Martin Bobrow</td>
+  </tr>
+</table>
+
+### **2005**
+
+<table class="table-v">
+  <tr>
+    <td>02 October</td>
+    <td>Joint Ethics Symposium with the Singapore Medical Association</td>
+  </tr>
+</table>
+
+### **2004**
+
+<table class="table-v">
+  <tr>
+    <td>18 November</td>
+    <td>5th HUGO Pacific Meeting & 6th Asia-Pacific Conference on Human Genetics: Ethics, Legal and Social Issues Forum (Public Session)</td>
+  </tr>
+   <tr>
+    <td>19 February</td>
+    <td>"Informed Consent - What Does It Mean?" A lecture by Professor Martin Bobrow</td>
+  </tr>
+   <tr>
+    <td>17 February</td>
+    <td>"Your Body, Your Genes" - Confidentiality in Medicine and Research - A public lecture by Professor Martin Bobrow</td>
+  </tr>
+</table>
+
+### **2004**
+
+<table class="table-v">
+  <tr>
+    <td>29 November</td>
+    <td>"Of Biotechnology and 'Man'" - A public lecture by Professor Bartha Knoppers</td>
+  </tr>
+   <tr>
+    <td>13 September</td>
+    <td>Life Sciences and The Law in Singapore</td>
   </tr>
 </table>
