@@ -95,3 +95,33 @@ collection_name: activities
     <td>SAL-BAC Symposium: "Retinking Informed Consent in Biomedical Research</td>
   </tr>
 </table>
+
+### **2011**
+
+<table class="table-v">
+  <tr>
+    <td>13 August</td>
+    <td>Science Public Forum 2011:"Stem Cell- Hope or Hype?" </td>
+  </tr>
+</table>
+
+### **2010**
+
+<table class="table-v">
+  <tr>
+      <td>31 July</td>
+    <td>Public Forum: "Is Transcending Natural Boundaries Ethical?</td>
+  </tr>
+  <tr>
+    <td>28 July</td>
+    <td>Launch of a permanent Bioethics Exhibition at Science Centre Singapore - collaborative project of Science Centre Singapore, BAC and NUS Centre for Biomedical Ethics</td>
+  </tr>
+  <tr>
+    <td>28 - 31 July</td>
+    <td>10th World Congress of Bioethics</td>
+  </tr>
+  <tr>
+    <td>26-27 July</td>
+    <td>8th Global Summit of National Bioethics Advisory Bodies</td>
+  </tr>
+</table>
