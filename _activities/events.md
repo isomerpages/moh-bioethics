@@ -10,7 +10,7 @@ collection_name: activities
 
 <table class="table-v">
   <tr>
-    <td>April 28</td>
+    <td>28 April</td>
     <td>Public Dialogue Session on "Ethical, Legal, and Social Issues Arising From Mitochondrial Genome Replacement Technology"</td>
   </tr>
 </table>
@@ -19,15 +19,15 @@ collection_name: activities
 
 <table class="table-v">
   <tr>
-    <td>July 27</td>
+    <td>27 July</td>
     <td>Science in the Cafe on "The Ethics of Mitochondrial Replacement</td>
   </tr>
   <tr>
-    <td>July 27</td>
+    <td>27 July</td>
     <td>Bioethics Movie Screening: Delivery Man</td>
   </tr>
   <tr>
-    <td>May 27</td>
+    <td>27 May</td>
     <td>Public Forum on "Mitochondrial Replacement: "Three-parent" babies to avoid diseases?"</td>
   </tr>
 </table>
@@ -36,7 +36,7 @@ collection_name: activities
 
 <table class="table-v">
   <tr>
-    <td>July 4-22</td>
+    <td>4-22 July</td>
     <td>Bioethics Festival</td>
   </tr>
 </table>
@@ -45,7 +45,7 @@ collection_name: activities
 
 <table class="table-v">
   <tr>
-    <td>July 4-22</td>
+    <td>29 June - 4 July</td>
     <td>Bioethics Week</td>
   </tr>
 </table>
@@ -54,19 +54,19 @@ collection_name: activities
 
 <table class="table-v">
   <tr>
-    <td>March 14</td>
+    <td>14 March</td>
     <td>Public Dialogue Session on "Ethical, Legal and Social Issues in Neuroscience Research"</td>
   </tr>
   <tr>
-    <td>January 12</td>
+    <td>12 January</td>
     <td>Public Forum:Brain, Mind & Technologies - What's New & What's Next?</td>
   </tr>
   <tr>
-    <td>January 11</td>
+    <td>11 January</td>
     <td>SAL-BAC Symposium: Neuroscience, Neuroethics and the Law</td>
   </tr>
   <tr>
-    <td>January 10</td>
+    <td>10 January</td>
     <td>Challenges in Neuroscience Research - Lecture and Dialogue Session for those involved in Neuroscience Research</td>
   </tr>
 </table>
@@ -75,23 +75,23 @@ collection_name: activities
 
 <table class="table-v">
   <tr>
-      <td>July 26</td>
+      <td>26 July</td>
     <td>Public Dialogue Session on "Ethics Guidelines for Human Biomedical Research"</td>
   </tr>
   <tr>
-    <td>January 12</td>
+    <td>12 January</td>
     <td>Public Forum:Brain, Mind & Technologies - What's New & What's Next?</td>
   </tr>
   <tr>
-    <td>February 25</td>
+    <td>25 February</td>
     <td>Public Forum: Involving Patients and the Public in Biomedical Research</td>
   </tr>
   <tr>
-    <td>February 24</td>
+    <td>24 February</td>
     <td>"Routine and Exotic Bioethics" - Science in the Cafe with Baroness O'Neill</td>
   </tr>
   <tr>
-    <td>February 23</td>
+    <td>23 February</td>
     <td>SAL-BAC Symposium: "Retinking Informed Consent in Biomedical Research</td>
   </tr>
 </table>
