@@ -40,3 +40,33 @@ collection_name: activities
     <td>Bioethics Festival</td>
   </tr>
 </table>
+
+### **2015**
+
+<table class="table-v">
+  <tr>
+    <td>July 4-22</td>
+    <td>Bioethics Week</td>
+  </tr>
+</table>
+
+### **2013**
+
+<table class="table-v">
+  <tr>
+    <td>March 14</td>
+    <td>Public Dialogue Session on "Ethical, Legal and Social Issues in Neuroscience Research"</td>
+  </tr>
+  <tr>
+    <td>January 12</td>
+    <td>Public Forum:Brain, Mind & Technologies - What's New & What's Next?</td>
+  </tr>
+  <tr>
+    <td>January 11</td>
+    <td>SAL-BAC Symposium: Neuroscience, Neuroethics and the Law</td>
+  </tr>
+  <tr>
+    <td>January 10</td>
+    <td>Challenges in Neuroscience Research - Lecture and Dialogue Session for those involved in Neuroscience Research</td>
+  </tr>
+</table>
