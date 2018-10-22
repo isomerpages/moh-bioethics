@@ -70,3 +70,28 @@ collection_name: activities
     <td>Challenges in Neuroscience Research - Lecture and Dialogue Session for those involved in Neuroscience Research</td>
   </tr>
 </table>
+
+### **2012**
+
+<table class="table-v">
+  <tr>
+      <td>July 26</td>
+    <td>Public Dialogue Session on "Ethics Guidelines for Human Biomedical Research"</td>
+  </tr>
+  <tr>
+    <td>January 12</td>
+    <td>Public Forum:Brain, Mind & Technologies - What's New & What's Next?</td>
+  </tr>
+  <tr>
+    <td>February 25</td>
+    <td>Public Forum: Involving Patients and the Public in Biomedical Research</td>
+  </tr>
+  <tr>
+    <td>February 24</td>
+    <td>"Routine and Exotic Bioethics" - Science in the Cafe with Baroness O'Neill</td>
+  </tr>
+  <tr>
+    <td>February 23</td>
+    <td>SAL-BAC Symposium: "Retinking Informed Consent in Biomedical Research</td>
+  </tr>
+</table>
