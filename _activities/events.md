@@ -155,3 +155,17 @@ collection_name: activities
     <td>Workshop on Recent Ethical and Regulatory Developments in Biomedical Research</td>
   </tr>
 </table>
+
+### **2007**
+
+<table class="table-v">
+  <tr>
+      <td>22 November</td>
+    <td>Public Lecture: "Donation of Human Eggs for Research"</td>
+  </tr>
+  <tr>
+    <td>01 February</td>
+    <td>Singapore Stem Cell Consortium Ethics Symposium (Part of the International Stem Cell Conference)</td>
+  </tr>
+</table>
+
