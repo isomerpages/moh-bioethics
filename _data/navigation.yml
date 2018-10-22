@@ -46,6 +46,13 @@
     url: /publications/in-the-news/
   - title: Others
     url: /publications/others/
+- title: News
+  url: /news/
+  sub-links:
+  - title: Press Releases
+    url: /news/press-releases/
+  - title: In the News
+    url: /news/in-the-news/
 - title: FAQ
   url: /faq/
 - title: Contact Us
