@@ -31,3 +31,12 @@ collection_name: activities
     <td>Public Forum on "Mitochondrial Replacement: "Three-parent" babies to avoid diseases?"</td>
   </tr>
 </table>
+
+### **2016**
+
+<table class="table-v">
+  <tr>
+    <td>July 4-22</td>
+    <td>Bioethics Festival</td>
+  </tr>
+</table>
