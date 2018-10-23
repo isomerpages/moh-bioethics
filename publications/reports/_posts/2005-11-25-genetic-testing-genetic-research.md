@@ -25,11 +25,11 @@ Annex C: Position Papers
 <br>[C-7 Preimplantation Genetic Diagnosis](/files/publications/reports/genetic-testing-and-genetic-research-annex-c-7.pdf){:target="_blank"} 
 <br>[C-8 Legal and Ethical Issues Pertaining to Preimplantation Genetic Diagnosis](/files/publications/reports/genetic-testing-and-genetic-research-annex-c-8.pdf){:target="_blank"} 
 
-<br>Annex D: [Consultation Paper entitled “Ethical, Legal and Social Issues in Genetic Testing and Genetics Research”](/files/publications/reports/genetic-testing-and-genetic-research-annex-d.pdf){:target="_blank"} 
+Annex D: [Consultation Paper entitled “Ethical, Legal and Social Issues in Genetic Testing and Genetics Research”](/files/publications/reports/genetic-testing-and-genetic-research-annex-d.pdf){:target="_blank"} 
 
-<br>Annex E: [Consultation Paper Distribution List (5 April 2005)](/files/publications/reports/genetic-testing-and-genetic-research-annex-e.pdf){:target="_blank"} 
+Annex E: [Consultation Paper Distribution List (5 April 2005)](/files/publications/reports/genetic-testing-and-genetic-research-annex-e.pdf){:target="_blank"} 
 
-<br>Annex F: [Written Responses received by the BAC](/files/publications/reports/genetic-testing-and-genetic-research-annex-e.pdf){:target="_blank"}
+Annex F: [Written Responses received by the BAC](/files/publications/reports/genetic-testing-and-genetic-research-annex-e.pdf){:target="_blank"}
 <br>[List of written responses]
 <br>[Annex F 1-2](/files/publications/reports/genetic-testing-and-genetic-research-annex-f-1-2.pdf){:target="_blank"}
 <br>[Annex F 3-7](/files/publications/reports/genetic-testing-and-genetic-research-annex-f-3-7.pdf){:target="_blank"}
@@ -39,4 +39,4 @@ Annex C: Position Papers
 <br>[Annex F 15-22](/files/publications/reports/genetic-testing-and-genetic-research-annex-f-15-22.pdf){:target="_blank"}
 <br>[Annex F 23-31](/files/publications/reports/genetic-testing-and-genetic-research-annex-f-23-31.pdf){:target="_blank"} 
 
-<br>[Annex G: Reports on dialogue sessions and focus group discussions](/files/publications/reports/genetic-testing-and-genetic-research-annex-g.pdf){:target="_blank"} 
+Annex G: [Reports on dialogue sessions and focus group discussions](/files/publications/reports/genetic-testing-and-genetic-research-annex-g.pdf){:target="_blank"} 
