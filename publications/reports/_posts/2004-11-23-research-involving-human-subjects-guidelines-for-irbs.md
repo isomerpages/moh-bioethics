@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Research Involving Subjects: Guidelines for IRBs 
+title:  Research Involving Subjects:Guidelines for IRBs 
 date:   2004-11-23
 permalink: /publications/reports/research-involving-subjects-guidelines-for-irbs
 ---
