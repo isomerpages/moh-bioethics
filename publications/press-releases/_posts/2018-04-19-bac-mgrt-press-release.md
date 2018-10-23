@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Public Consultation on Ethical, Legal and Social Issues Arising from Mitochondrial Genome Replacement Technology"
-Permalink: "/publications/press-releases/bac-mgrt-press-release"
+permalink: "/publications/press-releases/bac-mgrt-press-release"
 date:   2018-04-19
 ---
 
