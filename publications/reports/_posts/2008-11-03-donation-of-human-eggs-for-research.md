@@ -20,6 +20,5 @@ Annex C: [Written Responses Received During the Public Consultation](/files/publ
 Annex D: [Summary of Responses from REACH Online Discussion Forum and e-Consultation](/files/publications/reports/donation-of-human-eggs-for-research-annex-d.pdf){:target="_blank"}
 
 Annex E: [Background Submissions]
-
-[E(1) Oocyte Donation - Clinical and Scientific Aspects](/files/publications/reports/donation-of-human-eggs-for-research-annex-e-1.pdf){:target="_blank"}
+<br>[E(1) Oocyte Donation - Clinical and Scientific Aspects](/files/publications/reports/donation-of-human-eggs-for-research-annex-e-1.pdf){:target="_blank"}
 <br>[E(2) Oocyte Procurement for Research](/files/publications/reports/donation-of-human-eggs-for-research-annex-e-2.pdf){:target="_blank"}
