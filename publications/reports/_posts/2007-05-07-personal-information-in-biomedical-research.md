@@ -7,7 +7,7 @@ permalink: /publications/reports/personal-information-in-biomedical-research
 
 **Download:**
 
-[Full Report (3MB)](/files/publications/reports/personal-informations-in-biomedical-research-full-report.pdf){:target="_blank"}
+[Full Report](/files/publications/reports/personal-informations-in-biomedical-research-full-report.pdf){:target="_blank"}
 
 [Report Only](/files/publications/reports/personal-information-in-biomedical-research-report-only.pdf){:target="_blank"}
 
