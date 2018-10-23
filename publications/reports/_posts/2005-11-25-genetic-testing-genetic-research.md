@@ -7,7 +7,7 @@ permalink: /publications/reports/genetic-testing-genetic-research
 
 **Downloads:**
 
-[Full Report - 7MB](/files/publications/reports/genetic-testing-and-genetic-research-full-report.pdf){:target="_blank"}
+[Full Report](/files/publications/reports/genetic-testing-and-genetic-research-full-report.pdf){:target="_blank"}
 
 [Report Only](/files/publications/reports/genetic-testing-and-genetic-research-report-only.pdf){:target="_blank"}
 
