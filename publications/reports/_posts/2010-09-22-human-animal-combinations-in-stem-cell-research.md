@@ -7,7 +7,7 @@ permalink: /publications/reports/human-animal-combinations-in-stem-cell-research
 
 **Downloads:**
 
-[Full Report - 7MB](/files/publications/reports/human-animal-combinations-in-stem-cell-research-full-report.pdf){:target="_blank"}
+[Full Report](/files/publications/reports/human-animal-combinations-in-stem-cell-research-full-report.pdf){:target="_blank"}
 
 [Report Only](/files/publications/reports/human-animal-combinations-in-stem-cell-research-report-only.pdf){:target="_blank"}
 
