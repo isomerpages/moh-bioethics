@@ -7,7 +7,7 @@ permalink: /publications/reports/ethics-guidelines-for-human-biomedical-research
 
 **Download:**
 
-[Full Report (3MB)](/files/publications/reports/ethics-guidelines-human-biomed-research-full.pdf){:target="_blank"}
+[Full Report](/files/publications/reports/ethics-guidelines-human-biomed-research-full.pdf){:target="_blank"}
 
 [Report Only](/files/publications/reports/ethics-guidelines-human-biomed-research-report-only.pdf){:target="_blank"}
 
