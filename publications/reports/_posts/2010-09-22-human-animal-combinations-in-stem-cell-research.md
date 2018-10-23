@@ -20,6 +20,5 @@ Annex C: [Written Responses Received During the Public Consultation](/files/publ
 Annex D: [Summary of Responses from REACH Online Discussion Forum and e-Consultation](/files/publications/reports/human-animal-combinations-in-stem-cell-research-annex-d.pdf){:target="_blank"}
 
 Annex E: [Background Submissions](/files/publications/reports/human-animal-combinations-in-stem-cell-research-annex-e.pdf){:target="_blank"}
-
 <br> E1 - An Argument for Transplanting Human Stem Cells into Non-Human Embryos 
 <br> E2 - Stem Cell Research and Interspecies Fusion: Some Philosophical Issues
