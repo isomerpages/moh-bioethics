@@ -37,5 +37,6 @@ UNESCO Editorial Board that is producing a Book on Bioethics for Judges.
 <br>DID: (65) 6773 1726
 <br>charmaine@bioethics-singapore.org
 
+---
 
 [PDF Version of Press Release](/files/publications/press-releases/bac-mgrt-press-release.pdf)
