@@ -7,7 +7,7 @@ permalink: /publications/reports/donation-of-human-eggs-for-research
 
 **Downloads:**
 
-[Full Report - 7MB](/files/publications/reports/donation-of-human-eggs-for-research-full-report.pdf){:target="_blank"}
+[Full Report](/files/publications/reports/donation-of-human-eggs-for-research-full-report.pdf){:target="_blank"}
 
 [Report Only](/files/publications/reports/donation-of-human-eggs-for-research-report-only.pdf){:target="_blank"}
 
