@@ -8,7 +8,7 @@ collection_name: bioethics-resource
 
 ## **Monographs** 
 
-![Bioethics logo resource]({{"/images/bioethics-resources.jpg" | absolute_url }})
+![Bioethics logo resource]({{{{{{{{{{{"/images/bioethics-resources.jpg" | absolute_url }}}}}}}}}}}})
 
 ### **Bioethics in Singapore: The Ethical Microcosm**
 
