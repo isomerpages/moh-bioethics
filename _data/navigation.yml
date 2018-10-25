@@ -46,9 +46,6 @@
     url: /publications/press-releases/
 - title: News
   url: /news/
-  sub-links:
-  - title: In the News
-    url: /news/in-the-news/
 - title: FAQ
   url: /faq/
 - title: Contact Us
