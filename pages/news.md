@@ -12,14 +12,14 @@ title: News
     <td>20 April</td>
     <td>Straits Times</td>
     <td>Discussion on new genetics-linked tech welcome</td>
-  </tr>
+  <tr>
     <td>19 April</td>
     <td>TODAY</td>
     <td>Should 'three-parent' baby procedure to help</td>
-  </tr>
+  <tr>
     <td>19 April </td>
     <td>Channel NewsAsia</td>
     <td>Bioethics committee reviewing stand on genetic modification for mitochondrial disorders
-  </tr>
+  <tr>
 </table>
 
