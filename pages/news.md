@@ -20,6 +20,6 @@ title: News
     <td>19 April </td>
     <td>Channel NewsAsia</td>
     <td>Bioethics committee reviewing stand on genetic modification for mitochondrial disorders
-  <tr>
+  </tr>
 </table>
 
