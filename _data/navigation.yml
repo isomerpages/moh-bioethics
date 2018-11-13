@@ -24,6 +24,8 @@
     url: /bioethics-resource/bioethics-in-singapore/
   - title: Useful Links
     url: /bioethics-resource/useful-links/
+  - title: Useful Publications 
+    url: /bioethics-resource/useful-publications/
 - title: Activities
   url: /activities/current-projects/
   sub-links:
@@ -42,10 +44,8 @@
     url: /publications/consultation-papers/
   - title: Press Releases
     url: /publications/press-releases/
-  - title: In The News
-    url: /publications/in-the-news/
-  - title: Others
-    url: /publications/others/
+- title: News
+  url: /news/
 - title: FAQ
   url: /faq/
 - title: Contact Us
