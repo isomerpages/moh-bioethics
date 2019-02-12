@@ -48,7 +48,7 @@ Professorial Fellow, Division of Communication Research, Wee Kim Wee School of C
 Director, Division of Graduate Medical Studies, Yong Loo Lin School of Medicine, National University of Singapore<br>
 (2005 to 2008)
 
-**Professor Lee Hin Peng **<br>
+**Professor Lee Hin Peng**<br>
 Department of Epidemiology and Public Health, Yong Loo Lin School of Medicine, National University of Singapore<br>
 (Deputy Chairman from 2007 to 2011)
 
