@@ -88,6 +88,7 @@ Professor Lim was the longest serving appointee with 19 years of service as Vice
 ##### **International Panel of Experts**
 
 **Professor Peter Braude, FMedSci**<br>
-Emeritus Professor of Obstetrics and Gynaecology, School of Medicine, King’s College London, UK
+Emeritus Professor of Obstetrics and Gynaecology,<br>
+School of Medicine, King’s College London, UK
 
 Professor Peter Braude was Head of the Department of Women's Health at King’s College London (UK) until his retirement in 2011. He directed the Centre for Pre-implantation Genetic Diagnosis at Guy’s and St Thomas Hospital, which is the most active and successful of the HFEA licensed programmes in the UK. Previously in Cambridge, he led one of the first groups to be funded by the UK Medical Research Council to carry out research using human embryos fertilised in vitro. He was a former member of the Human Fertilisation and Embryology Authority from 1999 to 2004, and chair of the Scientific Advisory Committee for the Royal College of Obstetricians and Gynaecologists from 2004 to 2007. He currently sits on the committee for the Safety of Blood, Tissues and Organs.
