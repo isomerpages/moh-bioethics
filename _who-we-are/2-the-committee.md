@@ -79,7 +79,8 @@ National University of Singapore
 ##### **Emeritus Advisor**
 
 **Professor Lim Pin**<br>
-University Professor, National University of Singapore
+University Professor,<br>
+National University of Singapore
 
 As its first Chairman, Professor Lim led the BAC through a decade of great developments from its inception in 2000 up until December 2010. Given his valuable experience and outstanding contributions, Professor Lim has been recognised as Emeritus Advisor to the Committee.
 
