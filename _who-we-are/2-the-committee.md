@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Overview
-permalink: /who-we-are/overview/
-breadcrumb: Overview
+title: The Committee
+permalink: /who-we-are/the-committee/
+breadcrumb: The Committee
 collection_name: who-we-are
 ---
 
