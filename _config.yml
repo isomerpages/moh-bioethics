@@ -13,6 +13,8 @@ plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-sitemap
+  
+is_government: false
 
 # Breadcrumbs
 breadcrumbs:
