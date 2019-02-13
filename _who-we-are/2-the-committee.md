@@ -84,3 +84,10 @@ National University of Singapore
 As its first Chairman, Professor Lim led the BAC through a decade of great developments from its inception in 2000 up until December 2010. Given his valuable experience and outstanding contributions, Professor Lim has been recognised as Emeritus Advisor to the Committee.
 
 Professor Lim was the longest serving appointee with 19 years of service as Vice Chancellor at the National University of Singapore (NUS). Professor Lim began his career at the University of Singapore in 1966 as lecturer and was later promoted to Professor, heading the Department of Medicine. He served as the Deputy Vice-Chancellor from 1979 to 1981 and the Vice Chancellor from 1981 to 2000. In 2000, he was named the first University Professor of NUS. Professor Lim is currently University Professor at the Yong Loo Lin School of Medicine, NUS as well as Professor Emeritus and Senior Consultant at the Department of Endocrinology at the National University Hospital.
+
+##### **International Panel of Experts**
+
+**Professor Peter Braude, FMedSci**
+**Emeritus Professor of Obstetrics and Gynaecology, School of Medicine, King’s College London, UK**
+
+Professor Peter Braude was Head of the Department of Women's Health at King’s College London (UK) until his retirement in 2011. He directed the Centre for Pre-implantation Genetic Diagnosis at Guy’s and St Thomas Hospital, which is the most active and successful of the HFEA licensed programmes in the UK. Previously in Cambridge, he led one of the first groups to be funded by the UK Medical Research Council to carry out research using human embryos fertilised in vitro. He was a former member of the Human Fertilisation and Embryology Authority from 1999 to 2004, and chair of the Scientific Advisory Committee for the Royal College of Obstetricians and Gynaecologists from 2004 to 2007. He currently sits on the committee for the Safety of Blood, Tissues and Organs.
