@@ -8,19 +8,19 @@ collection_name: bioethics-resource
 
 ### **What is Bioethics?**
 
-"A discipline dealing with the ethical implications of biological research and applications especially in medicine" - Merriam-webster dictionary
+>"A discipline dealing with the ethical implications of biological research and applications especially in medicine" - Merriam-webster dictionary
 
-"The ethics of medical and biological research" - Oxford dictionaries
+>"The ethics of medical and biological research" - Oxford dictionaries
 
 From the [Bioethics Exhibition]({{"https://www.science.edu.sg/whats-on/exhibitions/bioethics"}}){:target="_blank"} at the Science Centre Singapore (SCS), a collaboration between BAC, NUS Centre for Biomedical Ethics and SCS:
 
-“Ethics is knowing the difference between what you have a right to do and what is right to do” - Potter Stewart, US Supreme Court Justice
+>“Ethics is knowing the difference between what you have a right to do and what is right to do” - Potter Stewart, US Supreme Court Justice
 
-“Bioethics is a universal quest to find ways we can deal with advances that are made in the biosciences, that are consistent with human well-being and what we should value as human beings” - Dr Justine Burley, Former Associate Professor, Department of Philosophy, National University of Singapore
+>“Bioethics is a universal quest to find ways we can deal with advances that are made in the biosciences, that are consistent with human well-being and what we should value as human beings” - Dr Justine Burley, Former Associate Professor, Department of Philosophy, National University of Singapore
 
-“Good science is characterised not only by intellectual and methodological rigour, but also by having a sound ethical basis” - Professor Lim Pin, Former Chairman, Bioethics Advisory Committee (Singapore)
+>“Good science is characterised not only by intellectual and methodological rigour, but also by having a sound ethical basis” - Professor Lim Pin, Former Chairman, Bioethics Advisory Committee (Singapore)
 
-“As Biomedicine and Biotechnology catch the interests and investments of governments all over the world, the need for ethical scrutiny, policy advice and possibly, new regulatory and governance structures is widely recognised” - Professor Alastair V. Campbell, Inaugural Chen Su Lan Centennial Professor in Medical Ethics and Director of the Centre for Biomedical Ethics, National University of Singapore
+>“As Biomedicine and Biotechnology catch the interests and investments of governments all over the world, the need for ethical scrutiny, policy advice and possibly, new regulatory and governance structures is widely recognised” - Professor Alastair V. Campbell, Inaugural Chen Su Lan Centennial Professor in Medical Ethics and Director of the Centre for Biomedical Ethics, National University of Singapore
 
  
 
