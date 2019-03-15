@@ -32,7 +32,7 @@ The Bioethics Advisory Committee (BAC) was appointed by the Government in Decemb
 <br>Senior Officer
 <br>Corporate Communications, A*STAR
 <br>DID: 837 9159
-<br>Email: Adeline_Chua@a-star.gov.sg
+<br>Email: <Adeline_Chua@a-star.gov.sg>
 
 ---
 
@@ -40,20 +40,20 @@ The Bioethics Advisory Committee (BAC) was appointed by the Government in Decemb
 
 **HUMAN GENETICS SUBCOMMITTEE MEMBERS**
 
-<br>1. Assoc/Prof Terry Kaan, Chairman
+1. Assoc/Prof Terry Kaan, Chairman
 <br>Faculty of Law, National University of Singapore
 
-<br>2. Mr Jeffrey Chan,
+2. Mr Jeffrey Chan,
 <br>Head, Civil Division,
 <br>Attorney-General's Chambers
 
-<br>3. Dr Samuel Chong
+3. Dr Samuel Chong
 <br>Dept of Paediatrics, National University Hospital
 
-<br>4. Dr Ong Toon Hui
+4. Dr Ong Toon Hui
 <br>Director, Elderly Development Division
 <br>Ministry of Community Development and Sports
 
-<br>5. Prof Yap Hui Kim
+5. Prof Yap Hui Kim
 <br>Vice-Dean, Research,
 <br>Faculty of Medicine, NUS
