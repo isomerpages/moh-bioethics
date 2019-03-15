@@ -36,7 +36,7 @@ Professor Lim Pin, Chairman of the BAC, added: “Even though the wide use of hu
 
 The views of the public and interested parties will assist the BAC in formulating recommendations on research involving human-animal combinations. Those interested in providing their views could obtain a copy of the Consultation Paper from the BAC website: www.bioethics-singapore.org and send their responses by 10 March 2008 to the BAC Secretariat via:
 
-Email: contactus@bioethics-singapore.org 
+Email: <contactus@bioethics-singapore.org>
 
 Post:
 <br>The Secretariat
@@ -61,8 +61,8 @@ The BAC was established by the Government in December 2000 to address the ethica
 
 <br>Mr Calvin Ho
 <br>DID: (65) 6826 6382
-<br>calvin_ho@bioethics-singapore.org 
+<br><calvin_ho@bioethics-singapore.org>
 <br>
 <br>Mr Alvin Chew
 <br>DID: (65) 6826 6291
-<br>alvin_chew@bioethics-singapore.org 
+<br><alvin_chew@bioethics-singapore.org>
