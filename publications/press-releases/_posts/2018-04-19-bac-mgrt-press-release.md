@@ -5,12 +5,10 @@ permalink: "/publications/press-releases/bac-mgrt-press-release"
 date:   2018-04-19
 ---
 
-**PUBLIC CONSULTATION ON ETHICAL, LEGAL AND SOCIAL ISSUES ARISING FROM MITOCHONDRIAL GENOME REPLACEMENT TECHNOLOGY**
-
 The Bioethics Advisory Committee (BAC) has issued a public consultation paper on the ethical, legal and social issues arising from Mitochondrial Genome Replacement Technology (MGRT), and invites public feedback on the potential issues related to the clinical
 application of this emerging technology in humans. The views of the public and interested organisations will assist the BAC in formulating its recommendation on whether the clinical application of MGRT should, or should not, be permitted in Singapore. The public consultation will take place for eight weeks from 20 April 2018 to 15 June 2018.
 
-<br> *MGRT – Previous Recommendations and Recent Developments*
+**MGRT – Previous Recommendations and Recent Developments**
 
 2\. MGRT aims to prevent the transmission of mitochondrial disorders<sup>[1]</sup> from a mother to er child, by replacing abnormal mitochondria with normal mitochondria from a healthy donor,at either the egg or early embryo (zygote) stage. As mitochondria contain genetic material<sup>[2]</sup> and are passed on by a mother to her child, MGRT may result in germline modification as an inheritable genetic change would be introduced if the resulting child is also female. 
 
@@ -20,7 +18,7 @@ application of this emerging technology in humans. The views of the public and i
 
 5\. The BAC’s public consultation paper examines three MGRT techniques : (i) Maternal Spindle Transfer (MST), (ii) Pronuclear Transfer (PNT), and (iii) Polar Body Transfer (PBT). All three techniques involve replacing the abnormal mitochondria in the egg / early embryo with healthy mitochondria from the egg / early embryo of a healthy donor<sup>[3]</sup>.
 
-<br> *Issues and Questions for Consideration*
+**Issues and Questions for Consideration**
 
 6\. The BAC would like to invite the public to contribute their views and feedback on a range of ethical, social and legal issues that could arise from clinical application of MGRT,including :
  - What are the possible benefits of MGRT?
@@ -37,7 +35,7 @@ and the resulting ethical, legal and social implications, and consider if Singap
 8\. Professor Kon Oi Lian, Chair of the MGRT Review Group and BAC Deputy Chair,added, “While introducing inheritable genetic changes carries unforeseeable risks, current pre-clinical scientific evidence suggests that MGRT is not unsafe. Due to the unique
 characteristics of mitochondria, there are possible safeguards that could be put in place to mitigate some of the long-term risks. However, the question remains whether the potential benefits justify allowing first-in-human clinical trials.” 
 
-<br> *How to participate*
+**How to participate**
 
 9\. The public consultation paper can be found on the BAC’s website at [www.bioethicssingapore.org](www.bioethicssingapore.org) and REACH at [www.reach.gov.sg](www.reach.gov.sg).
 
