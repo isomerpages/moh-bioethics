@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bioethics Advisory Committee seeks public feedback on Ethics Guidelines for Human Biomedical Research`"
+title:  "Bioethics Advisory Committee seeks public feedback on Ethics Guidelines for Human Biomedical Research"
 permalink: "/publications/press-releases/bioethics-advisory-committee-seeks-public-feedback-on-ethics-guidelines-for-human-biomedical-research"
 date: 2012-07-12
 ---
