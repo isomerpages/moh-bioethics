@@ -24,70 +24,68 @@ BAC Chairman, Professor Lim Pin agrees with Associate Professor Kaan, adding: â€
 
 The Consultation Paper will be distributed to 70 organisations and institutions seeking their views on the issues discussed and the recommendations proposed. The BAC also welcomes comments from the public. Those interested in providing their views could obtain a copy of the Consultation Paper at www.bioethics-singapore.org and should send their responses by 31 July 2006 to:
 
-contactus@bioethics-singapore.org 
+Email: <contactus@bioethics-singapore.org>
 
 All comments received will be carefully considered before the final recommendations are made to the Steering Committee on Life Sciences. The BAC plans to publish all written responses received, unless it receives a request to consider responses confidential.
 
 **List of Recommendations**
 
-The Legal Protection of Personal Information
+**The Legal Protection of Personal Information**
 
-**Recommendation 1**
-We recommend that the relevant authorities consider establishing a legal framework for the use of personal information in biomedical research.
+Recommendation 1
+<br>We recommend that the relevant authorities consider establishing a legal framework for the use of personal information in biomedical research.
 
-Informed Consent
+**Informed Consent**
 
-**Recommendation 2**
-Specific consent should be obtained when research involves identifiable personal information or tissue samples. General consent may be obtained for subsequent research involving the use of de-identified information or remnant tissue. The information to be provided to the individual when taking consent should depend on the sensitivity of the information and the risk of harm.
+Recommendation 2
+<br>Specific consent should be obtained when research involves identifiable personal information or tissue samples. General consent may be obtained for subsequent research involving the use of de-identified information or remnant tissue. The information to be provided to the individual when taking consent should depend on the sensitivity of the information and the risk of harm.
 
-Epidemiological Research and Public Health Research
+**Epidemiological Research and Public Health Research**
 
-**Recommendation 3**
-We recommend that the relevant authorities clarify the legal basis for the disclosure of medical information to disease registries by health care institutions and physicians; and establish mechanisms enabling the registries and healthcare institutions to increase the accessibility of personal information for research that can significantly advance public welfare, while safeguarding privacy concerns.
+Recommendation 3
+<br>We recommend that the relevant authorities clarify the legal basis for the disclosure of medical information to disease registries by health care institutions and physicians; and establish mechanisms enabling the registries and healthcare institutions to increase the accessibility of personal information for research that can significantly advance public welfare, while safeguarding privacy concerns.
 
-**Recommendation 4**
-We recommend that the relevant authorities consider establishing legal mechanisms to facilitate the use of personal information in registries, databases, and medical records for epidemiological research and public health research. These mechanisms should also ensure that there is minimal risk to individual privacy and confidentiality.
+Recommendation 4
+<br>We recommend that the relevant authorities consider establishing legal mechanisms to facilitate the use of personal information in registries, databases, and medical records for epidemiological research and public health research. These mechanisms should also ensure that there is minimal risk to individual privacy and confidentiality.
 
-Clinical Audit
+**Clinical Audit**
 
-**Recommendation 5**
-We recommend that the relevant authorities consider legal provisions necessary to ensure that the potentially increased scope of clinical audits does not violate medical confidentiality and to assure the public that privacy and confidentiality interests in personal information will be safeguarded.
+Recommendation 5
+<br>We recommend that the relevant authorities consider legal provisions necessary to ensure that the potentially increased scope of clinical audits does not violate medical confidentiality and to assure the public that privacy and confidentiality interests in personal information will be safeguarded.
 
-Additional Considerations about Consent
+**Additional Considerations about Consent**
 
-**Recommendation 6**
-We recommend that IRBs, when reviewing research, ensure that any concerns in regard to vulnerable persons are appropriately addressed.
+Recommendation 6
+<br>We recommend that IRBs, when reviewing research, ensure that any concerns in regard to vulnerable persons are appropriately addressed.
 
-**Recommendation 7**
-Research participants should be allowed to withdraw their consent to participate in a research at any time without explanation and without prejudice. They should be assured that upon withdrawal their personal information and/or tissue samples will either be destroyed or irreversibly de-identified.
+Recommendation 7
+<br>Research participants should be allowed to withdraw their consent to participate in a research at any time without explanation and without prejudice. They should be assured that upon withdrawal their personal information and/or tissue samples will either be destroyed or irreversibly de-identified.
 
-Privacy and Confidentiality
+**Privacy and Confidentiality**
 
-**Recommendation 8**
-Personal information should be de-identified as far and as early as possible and should be stored or transferred as de-identified information.
+Recommendation 8
+<br>Personal information should be de-identified as far and as early as possible and should be stored or transferred as de-identified information.
 
-**Recommendation 9**
-Researchers should not attempt to identify an individual from de-identified information as it is a serious breach of ethics to do so.
+Recommendation 9
+<br>Researchers should not attempt to identify an individual from de-identified information as it is a serious breach of ethics to do so.
 
-**Recommendation 10**
-Irreversibly de-identified personal information generally need not be subject to privacy and confidentiality requirements.
+Recommendation 10
+<br>Irreversibly de-identified personal information generally need not be subject to privacy and confidentiality requirements.
 
-**Recommendation 11**
-When reversibly de-identified information is used for research, IRBs should consider the adequacy of the extent and means of the de-identification in proportion to the risk. Should a person be identified from de-identified information, the person should still enjoy confidentiality and privacy entitlements.
+Recommendation 11
+<br>When reversibly de-identified information is used for research, IRBs should consider the adequacy of the extent and means of the de-identification in proportion to the risk. Should a person be identified from de-identified information, the person should still enjoy confidentiality and privacy entitlements.
 
-**Recommendation 12**
-The ethical principle of confidentiality should apply to the use of personal information from medical or public registries. Confidentiality safeguards should be commensurate with the potential risk of harm from inadvertent disclosure.
+Recommendation 12
+<br>The ethical principle of confidentiality should apply to the use of personal information from medical or public registries. Confidentiality safeguards should be commensurate with the potential risk of harm from inadvertent disclosure.
 
-Access to Medical Information by Employers and Insurers
+**Access to Medical Information by Employers and Insurers**
 
-**Recommendation 13**
-We recommend that the government consider implementing a moratorium on the use of predictive genetic information for insurance purposes and appoint an authority to consider long-term implications of the accessibility of predictive genetic test results by employers and the insurance industry and to monitor developments in this area.
+Recommendation 13
+<br>We recommend that the government consider implementing a moratorium on the use of predictive genetic information for insurance purposes and appoint an authority to consider long-term implications of the accessibility of predictive genetic test results by employers and the insurance industry and to monitor developments in this area.
 
 ---
 
-### **About the BAC**
-
-www.bioethics-singapore.org
+### **About the BAC** ###
 
 The BAC was established by the Government in December 2000 to address the ethical, legal and social issues arising from human biomedical research and its applications. It develops and recommends policies on these issues, with the aim of protecting the rights and welfare of individuals, while allowing the biomedical sciences to develop and realise its full potential for the benefit of mankind.
 
@@ -97,8 +95,8 @@ The BAC was established by the Government in December 2000 to address the ethica
 
 <br>Mr Calvin Ho
 <br>DID: (65) 6826 6382
-<br>calvin_ho@bioethics-singapore.org 
+<br><calvin_ho@bioethics-singapore.org>
 <br>
 <br>Mr Alvin Chew
 <br>DID: (65) 6826 6291
-<br>alvin_chew@bioethics-singapore.org 
+<br><alvin_chew@bioethics-singapore.org >
