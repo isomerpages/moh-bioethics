@@ -5,9 +5,7 @@ permalink: "/publications/press-releases/release-of-the-fourth-report-by-the-bio
 date: 2005-11-18
 ---
 
-**Summary:**
-
- This Report of the Bioethics Advisory Committee (BAC) sets out ethical considerations for the conduct of genetic testing and human genetic research. 
+This Report of the Bioethics Advisory Committee (BAC) sets out ethical considerations for the conduct of genetic testing and human genetic research. 
 
 The recommendations in the Report build on the existing ethical guidelines of the National Medical Ethics Committee of the Ministry of Health and apply to genetic testing whether conducted in a clinical or research setting. However, the recommendations on consent and counselling do not apply to standard clinical tests for the purposes of diagnosis or treatment, unless the tests involve direct analysis of human DNA, RNA, genes and/or chromosomes. 
 
