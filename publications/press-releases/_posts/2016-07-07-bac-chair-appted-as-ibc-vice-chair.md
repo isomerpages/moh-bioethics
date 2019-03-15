@@ -10,7 +10,7 @@ date:   2016-07-07
 Judge (ret.) Richard Magnus, Chair of the Bioethics Advisory Committee (BAC), has been elected as a Vice-Chair of the International Bioethics Committee (IBC) of UNESCO for a two-year term until the end of the 24th (Ordinary) IBC Session in 2017. This is the first time
 Singapore is being represented in the IBC Bureau.
 
-2. The IBC is the only advisory body of the United Nations system engaging in ethicalissues related to life sciences and its applications in order to ensure respect for human dignity and freedom. It was created in 1993, and comprises 36 independent experts who are appointed by the UNESCO Director-General.
+2\. The IBC is the only advisory body of the United Nations system engaging in ethicalissues related to life sciences and its applications in order to ensure respect for human dignity and freedom. It was created in 1993, and comprises 36 independent experts who are appointed by the UNESCO Director-General.
 
 3. The IBC was involved in the elaboration of the Universal Declaration on Human Genome and Human Rights (1997), the International Declaration on Human Genetic Data (2003) and the Universal Declaration on Bioethics and Human Rights (2005), which are to date, the only international instruments of reference in the field of bioethics. For 2016 to 2017, the IBC is looking into Healthcare for Refugees, and Big Data in Healthcare and Health Research.
 
