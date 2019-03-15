@@ -37,98 +37,98 @@ All comments received will be carefully considered before the final recommendati
 **Genetic Information**
 
 Recommendation 1
-Genetic Information derived from Clinical Genetic Testing should be confined to a healthcare context, owing to its complex nature and need for professional input. Accordingly, it should be regarded as medical information and the highest ethical standard should be applied in its derivation, management and use.
+<br>Genetic Information derived from Clinical Genetic Testing should be confined to a healthcare context, owing to its complex nature and need for professional input. Accordingly, it should be regarded as medical information and the highest ethical standard should be applied in its derivation, management and use.
 
 **General Ethical Considerations**
 
 Recommendation 2
-Genetic Testing should be conducted in a manner that is respectful of the welfare, safety, religious and cultural perspectives and traditions of individuals.
+<br>Genetic Testing should be conducted in a manner that is respectful of the welfare, safety, religious and cultural perspectives and traditions of individuals.
 
 Recommendation 3
-Genetic Testing should be voluntary and conducted only after free and informed consent has been obtained. Consent must be based on sufficient information, which includes the nature, purpose, risks and implications of the test. Consent should also be obtained for future clinical and/or research use of tissue specimens.
+<br>Genetic Testing should be voluntary and conducted only after free and informed consent has been obtained. Consent must be based on sufficient information, which includes the nature, purpose, risks and implications of the test. Consent should also be obtained for future clinical and/or research use of tissue specimens.
 
 Recommendation 4
-An individual should be informed of the test result without undue delay unless he or she has clearly indicated the wish not to know. However, the test results of newborn babies and children for treatable conditions should be disclosed. In research involving Genetic Testing, researchers should inform the individual prior to participation in the research, whether the Genetic Information so derived will be disclosed to him or her.
+<br>An individual should be informed of the test result without undue delay unless he or she has clearly indicated the wish not to know. However, the test results of newborn babies and children for treatable conditions should be disclosed. In research involving Genetic Testing, researchers should inform the individual prior to participation in the research, whether the Genetic Information so derived will be disclosed to him or her.
 
 **Genetic Testing of Vulnerable Persons**
 
 Recommendation 5
-We do not recommend the broad use of Genetic Testing on children and adolescents. Confirmatory Testing and Predictive Testing for genetic conditions where preventive intervention or treatment is available and beneficial in childhood are recommended. Carrier Testing should generally be deferred till the child is mature or when required to make reproductive decisions. Predictive Testing should generally be deferred where there is no preventive intervention or treatment, or where intervention or treatment is only available and beneficial during adulthood. However, in exceptional circumstances, parents and the physician should have the discretion to decide regarding Carrier and Predictive Testing, and genetic counselling should be an intrinsic part of the testing process.
+<br>We do not recommend the broad use of Genetic Testing on children and adolescents. Confirmatory Testing and Predictive Testing for genetic conditions where preventive intervention or treatment is available and beneficial in childhood are recommended. Carrier Testing should generally be deferred till the child is mature or when required to make reproductive decisions. Predictive Testing should generally be deferred where there is no preventive intervention or treatment, or where intervention or treatment is only available and beneficial during adulthood. However, in exceptional circumstances, parents and the physician should have the discretion to decide regarding Carrier and Predictive Testing, and genetic counselling should be an intrinsic part of the testing process.
 
 Recommendation 6
-Genetic Testing involving vulnerable persons should be conducted only if appropriate free and informed consent has been obtained. In the case of persons in special relationships, extra care should be taken to ensure that the consent is freely given.Clinical Genetic Testing should only be conducted if it is medically beneficial. Genetic Testing for research should only be conducted ifthe research is considered of sufficient importance and there is no appropriate alternative test population.
+<br>Genetic Testing involving vulnerable persons should be conducted only if appropriate free and informed consent has been obtained. In the case of persons in special relationships, extra care should be taken to ensure that the consent is freely given.Clinical Genetic Testing should only be conducted if it is medically beneficial. Genetic Testing for research should only be conducted ifthe research is considered of sufficient importance and there is no appropriate alternative test population.
 
 **Privacy and Public Access to Genetic Testing**
 
 Recommendation 7
-Genetic test results should not be disclosed to third parties, including employers and insurers, without the free and informed consent of the individual.
+<br>Genetic test results should not be disclosed to third parties, including employers and insurers, without the free and informed consent of the individual.
 
 Recommendation 8
-Genetic Testing should be conducted through the intermediation of a qualified healthcare professional. Accordingly, the advertising of genetic tests by manufacturers or suppliers to the public is strongly discouraged. A comprehensive regulatory framework should be established for access to Genetic Testing services. Genetic tests that provide predictive health information should not be directly offered to the public.
+<br>Genetic Testing should be conducted through the intermediation of a qualified healthcare professional. Accordingly, the advertising of genetic tests by manufacturers or suppliers to the public is strongly discouraged. A comprehensive regulatory framework should be established for access to Genetic Testing services. Genetic tests that provide predictive health information should not be directly offered to the public.
 
 Recommendation 9
-The non-consensual or deceitful obtaining of body samples for the purpose of Genetic Testing should be legally prohibited.
+<br>The non-consensual or deceitful obtaining of body samples for the purpose of Genetic Testing should be legally prohibited.
 
 **Preimplantation Genetic Testing**
 
 Recommendation 10
-Preimplantation genetic diagnosis is permissible provided that it is subject to control by a relevant authority and limited to serious medical conditions. The relevant authority should license, monitor and assess preimplantation genetic diagnosis to ensure that it is employed within legal and ethical limits.
+<br>Preimplantation genetic diagnosis is permissible provided that it is subject to control by a relevant authority and limited to serious medical conditions. The relevant authority should license, monitor and assess preimplantation genetic diagnosis to ensure that it is employed within legal and ethical limits.
 
 Recommendation 11
-Use of preimplantation genetic diagnosis for sex selection and the selection of certain desired traits for non-medical reasons should be prohibited.
+<br>Use of preimplantation genetic diagnosis for sex selection and the selection of certain desired traits for non-medical reasons should be prohibited.
 
 Recommendation 12
-Preimplantation tissue typing, whether as the sole objective or in conjunction with preimplantation genetic diagnosis to avoid a serious genetic disorder, is permissible but should be licensed and evaluated on a case-by-case basis.
+<br>Preimplantation tissue typing, whether as the sole objective or in conjunction with preimplantation genetic diagnosis to avoid a serious genetic disorder, is permissible but should be licensed and evaluated on a case-by-case basis.
 
 **Germline Genetic Modification**
 
 Recommendation 13
-Clinical practice of germline genetic modification should not be allowed at this time.
+<br>Clinical practice of germline genetic modification should not be allowed at this time.
 
 **Prenatal Genetic Diagnosis**
 
 Recommendation 14
-Prenatal genetic diagnosis should be voluntary, conducted with informed consent and with appropriate pre- and post-test counselling. The prospective parents’ choice of whether a genetic disorder warrants a prenatal genetic diagnosis or termination of the pregnancy should be respected.
+<br>Prenatal genetic diagnosis should be voluntary, conducted with informed consent and with appropriate pre- and post-test counselling. The prospective parents’ choice of whether a genetic disorder warrants a prenatal genetic diagnosis or termination of the pregnancy should be respected.
 
 Recommendation 15
-Prenatal genetic diagnosis should be limited to serious genetic diseases. The use of prenatal genetic diagnosis for gender selection, apart from sex-linked disorders is unacceptable. Similarly, it is unacceptable to use prenatal genetic diagnosis for the selection of any physical, social or psychological characteristics or normal physical variations.
+<br>Prenatal genetic diagnosis should be limited to serious genetic diseases. The use of prenatal genetic diagnosis for gender selection, apart from sex-linked disorders is unacceptable. Similarly, it is unacceptable to use prenatal genetic diagnosis for the selection of any physical, social or psychological characteristics or normal physical variations.
 
 Recommendation 16
-The appropriate professional bodies should prescribe detailed ethical guidelines on the practice of prenatal genetic diagnosis for their members.
+<br>The appropriate professional bodies should prescribe detailed ethical guidelines on the practice of prenatal genetic diagnosis for their members.
 
 **Predictive Testing**
 
 Recommendation 17
-Presymptomatic testing should be available for adults at risk who request it, even in the absence of treatment, after proper counselling and informed consent.
+<br>Presymptomatic testing should be available for adults at risk who request it, even in the absence of treatment, after proper counselling and informed consent.
 
 Recommendation 18
-Susceptibility testing should not be applied clinically unless there is unequivocal empirical evidence of validity and utility.
+<br>Susceptibility testing should not be applied clinically unless there is unequivocal empirical evidence of validity and utility.
 
 **Genetic Screening**
 
 Recommendation 19
-In genetic screening programmes, the appropriate free and informed consent should be obtained from the individual to be tested or parents (or legally designated persons) as the case may be. A confirmatory diagnostic test should be performed as soon as possible after a positive screening test, so as to minimise unnecessary anxiety or to enable measures for the prevention or treatment of the condition to be instituted without delay.
+<br>In genetic screening programmes, the appropriate free and informed consent should be obtained from the individual to be tested or parents (or legally designated persons) as the case may be. A confirmatory diagnostic test should be performed as soon as possible after a positive screening test, so as to minimise unnecessary anxiety or to enable measures for the prevention or treatment of the condition to be instituted without delay.
 
 **Standards of Genetic Test Providers**
 
 Recommendation 20
-All laboratories conducting Clinical Genetic Tests should be accredited by an accreditation body designated by the relevant authority, based on standards it considers appropriate.
+<br>All laboratories conducting Clinical Genetic Tests should be accredited by an accreditation body designated by the relevant authority, based on standards it considers appropriate.
 
 Recommendation 21
-Interpretation of genetic test results should only be performed by healthcare professionals who are appropriately qualified or have sufficient experience. Genetic counselling should immediately follow the disclosure of the test result, particularly if the test result is not favourable.
+<br>Interpretation of genetic test results should only be performed by healthcare professionals who are appropriately qualified or have sufficient experience. Genetic counselling should immediately follow the disclosure of the test result, particularly if the test result is not favourable.
 
 **Genetic Counselling**
 
 Recommendation 22
-Genetic counselling should be offered to all individuals prior to and after they undergo Genetic Testing.
+<br>Genetic counselling should be offered to all individuals prior to and after they undergo Genetic Testing.
 
 Recommendation 23
-Genetic counselling should generally be conducted in a non-directive manner, and should provide sufficient information and appropriate support to the individual and his or her family members.
+<br>Genetic counselling should generally be conducted in a non-directive manner, and should provide sufficient information and appropriate support to the individual and his or her family members.
 
 **Professional Development**
 
 Recommendation 24
-Individuals involved in genetic counselling should possess up-to-date knowledge of medical genetics and should be appropriately trained in both medical genetics and counselling.
+<br>Individuals involved in genetic counselling should possess up-to-date knowledge of medical genetics and should be appropriately trained in both medical genetics and counselling.
 
 ---
 
