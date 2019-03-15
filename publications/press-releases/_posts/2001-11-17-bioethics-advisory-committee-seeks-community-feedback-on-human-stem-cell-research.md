@@ -29,9 +29,7 @@ The Bioethics Advisory Committee (BAC) was appointed by the Government in Decemb
 For media queries, please contact:
 
 Ms Trina Liew
-<br>Senior Officer
-
+Senior Officer
 Corporate Communications, NSTB
-
 DID: 770 5897
-<br>Email: Trina_Liew@nstb.gov.sg 
+Email: <Trina_Liew@nstb.gov.sg>
