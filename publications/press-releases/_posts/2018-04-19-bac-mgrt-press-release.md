@@ -42,17 +42,13 @@ characteristics of mitochondria, there are possible safeguards that could be put
 9\. The public consultation paper can be found on the BAC’s website at [www.bioethicssingapore.org](www.bioethicssingapore.org) and REACH at [www.reach.gov.sg](www.reach.gov.sg).
 
 10\. To facilitate discussions, BAC will be organising the following dialogue sessions:
-
-  <br>(i) Public dialogue session on 28 April 2018 (Saturday), 2:00pm to 4:00pm,at The Pod, National Library, Level 16 (100 Victoria Street, Singapore 188064).
-  
-  <br>(ii) Dialogue session with researchers, clinicians and members of institutional ethics review boards, on 10 May 2018 (Thursday), 12:00pm to 2:00pm, at HarbourFront Centre, #09-66 (1 Maritime Square,Singapore 099253). Those interested to attend can contact the BAC Secretariat at bioethics_singapore@moh.gov.sg. 
+(i) Public dialogue session on 28 April 2018 (Saturday), 2:00pm to 4:00pm,at The Pod, National Library, Level 16 (100 Victoria Street, Singapore 188064)
+(ii) Dialogue session with researchers, clinicians and members of institutional ethics review boards, on 10 May 2018 (Thursday), 12:00pm to 2:00pm, at HarbourFront Centre, #09-66 (1 Maritime Square,Singapore 099253). Those interested to attend can contact the BAC Secretariat at bioethics_singapore@moh.gov.sg. 
 
 11\. The BAC welcomes feedback on the issues discussed in the consultation paper, or any
 other aspects of MGRT. All comments should be sent by 15 June 2018:
-
-  <br>- by email to: <bioethics_singapore@moh.gov.sg>
-  
-  <br>- by post to:<br>
+- by email to: <bioethics_singapore@moh.gov.sg>
+- by post to:<br>
   Bioethics Advisory Committee Secretariat<br>
   1 Maritime Square<br>
   #09-66 HarbourFront Centre<br>
