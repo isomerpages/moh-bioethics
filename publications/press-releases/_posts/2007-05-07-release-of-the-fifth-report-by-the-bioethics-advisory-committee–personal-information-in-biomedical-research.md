@@ -79,19 +79,18 @@ We recommend that the government consider implementing a moratorium on the use o
 
 ---
 
-### **About the BAC**
-
-www.bioethics-singapore.org
+### **About the BAC** ###
 
 The BAC was established by the Government in December 2000 to address the ethical, legal and social issues arising from research on human biology and behaviour, and its applications. It is chaired by Prof Lim Pin, University Professor at the National University of Singapore. The BAC is charged to develop and recommend policies to the Steering Committee on Life Sciences on these issues, with the aim of protecting the rights and welfare of individuals, while allowing the biomedical sciences to develop and realise its full potential for the benefit of mankind.
+
 ---
 
 ### **For media enquiries, please contact the BAC Secretariat:**
 
 <br>Dr Sylvia Lim
 <br>DID: (65) 6826 6258
-<br>sylvia_lim@bioethics-singapore.org
+<br><sylvia_lim@bioethics-singapore.org>
 <br>
 <br>Ms Vivien Goh
 <br>DID: (65) 6826 6292
-<br>Vivien_Goh@bioethics-singapore.org
+<br><Vivien_Goh@bioethics-singapore.org>
