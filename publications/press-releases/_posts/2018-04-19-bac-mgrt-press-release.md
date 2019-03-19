@@ -5,6 +5,8 @@ permalink: "/publications/press-releases/bac-mgrt-press-release"
 date:   2018-04-19
 ---
 
+**PUBLIC CONSULTATION ON ETHICAL, LEGAL AND SOCIAL ISSUES  ARISING FROM MITOCHONDRIAL GENOME REPLACEMENT TECHNOLOGY**
+
 The Bioethics Advisory Committee (BAC) has issued a public consultation paper on the ethical, legal and social issues arising from Mitochondrial Genome Replacement Technology (MGRT), and invites public feedback on the potential issues related to the clinical
 application of this emerging technology in humans. The views of the public and interested organisations will assist the BAC in formulating its recommendation on whether the clinical application of MGRT should, or should not, be permitted in Singapore. The public consultation will take place for eight weeks from 20 April 2018 to 15 June 2018.
 
