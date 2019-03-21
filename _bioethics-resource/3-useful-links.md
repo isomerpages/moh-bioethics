@@ -66,7 +66,7 @@ The BAC is not responsible and does not endorse the contents found on these exte
 
 [Det Etiske Råd (The Danish Council of Ethics)]({{"http://www.etiskraad.dk/english"}}){:target="_blank"}
 
-[Den Nationale Videnskabsetiske Komité (The National Committee on Health Research Ethics))]({{"http://www.nvk.dk/english"}}){:target="_blank"}
+[Den Nationale Videnskabsetiske Komité (The National Committee on Health Research Ethics)]({{"http://www.nvk.dk/english"}}){:target="_blank"}
 
 ### **Finland**
 

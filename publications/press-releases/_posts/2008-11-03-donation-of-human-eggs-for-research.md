@@ -16,9 +16,9 @@ date: 2008-11-03
 4. The Report follows a public consultation conducted by the BAC from 7 November 2007 to 7 January 2008. To facilitate public deliberation and discussion, a consultation paper was sent to 94 research, governmental and healthcare institutions (including 21 fertility clinics), and professional and religious organisations for comment. In addition, members of the public were encouraged to share their views through various means including email, and an online discussion forum and e-consultation managed by REACH. A public talk on the subject was held on 22 November 2007. 
 
 5. Written responses from 23 organisations, institutions and individuals were received, and a total of 47 entries were received on the online discussion forum, as well as 10 responses through e-consultation. The 57 responses that were received through REACH were from at least 44 individuals. Views received can be summarised as follows:
-  (a) Many respondents indicated that healthy women should be allowed to donate eggs for research because women should be able to decide on how their eggs are to be used so long as such decision is made voluntarily and on a fully informed basis;
-  (b) Almost all respondents were opposed to commercialisation of eggs; and
-  (c) The voluntary nature of the donation, the provision of proper and comprehensible information to donors, and the need to safeguard the privacy interest of donors were emphasised.
+<br>(a) Many respondents indicated that healthy women should be allowed to donate eggs for research because women should be able to decide on how their eggs are to be used so long as such decision is made voluntarily and on a fully informed basis;
+<br>(b) Almost all respondents were opposed to commercialisation of eggs; and
+<br>(c) The voluntary nature of the donation, the provision of proper and comprehensible information to donors, and the need to safeguard the privacy interest of donors were emphasised.
 
 6. The Report states the need for fair treatment of women who donate their eggs solely for research. It emphasises the overriding concern that human eggs must not be treated as a saleable commodity, although reasonable payment appears to be justified so that a donor is not made worse off by her altruistic giving. It is necessary to consider how the provision of reasonable payment to donors could be distinguished from inducing women to provide eggs for monetary gain. This distinction should be socially acceptable and not exploitative or divisive.
 
@@ -27,10 +27,10 @@ date: 2008-11-03
 8. In addition, the BAC continues to emphasise the importance of effective consent procedures, which entails avoiding conflicts of interest and ensuring that donors are aware of the risks in making a donation. Professor Lee Eng Hin, Chairman of the Human Embryo and Chimera Working Group, adds: “In view of the high level of dependence that a woman undergoing fertility treatment tends to feel towards her attending physician, she should not be approached by her physician concerning the possibility of donating eggs for research. In cases where a woman, on her own initiative, expresses her wish to donate eggs for research, consent should be taken by an independent third party.”
 
 9. The BAC has considered international practices and guidelines on the donation of human eggs for research purposes, together with expert views on the subject. It has also carefully considered the feedback received from the public and the written responses from various organisations. It has reached the following conclusions, which form the basis of seven recommendations:
-  (a) The general ethical principles of research involving human participants should apply to the procurement and use of human eggs for research;
-  (b) It is ethically acceptable for fully informed and freely consenting healthy women, not undergoing any medical treatment, to donate eggs for research;
-  (c) Women who are not undergoing fertility treatment and who donate eggs specifically for research should be compensated for loss of time and earnings as a result of the procedures required to obtain the eggs. In addition, they should receive reimbursement of expenses incurred, and should also receive prompt and full medical care if complications arise as a direct and proximate result of the procedures; and
-  (d) Women donating surplus eggs from fertility treatment should not be compensated, as they do not incur additional loss of time and earnings to donate their eggs for research.
+<br>(a) The general ethical principles of research involving human participants should apply to the procurement and use of human eggs for research;
+<br>(b) It is ethically acceptable for fully informed and freely consenting healthy women, not undergoing any medical treatment, to donate eggs for research;
+<br>(c) Women who are not undergoing fertility treatment and who donate eggs specifically for research should be compensated for loss of time and earnings as a result of the procedures required to obtain the eggs. In addition, they should receive reimbursement of expenses incurred, and should also receive prompt and full medical care if complications arise as a direct and proximate result of the procedures; and
+<br>(d) Women donating surplus eggs from fertility treatment should not be compensated, as they do not incur additional loss of time and earnings to donate their eggs for research.
 
 **LIST OF RECOMMENDATIONS**
 
@@ -73,5 +73,4 @@ The BAC was established by the Government in December 2000 to address the ethica
 
 <br>Ms Charmaine Chan
 <br>DID: (65) 6773 1726
-<br>charmaine@bioethics-singapore.org
-<br>
+<br><charmaine@bioethics-singapore.org>

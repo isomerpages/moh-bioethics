@@ -60,4 +60,4 @@ The BAC was established by the Government in December 2000 to address the ethica
 
 <br>Mr Calvin Ho
 <br>DID:  (65) 6773 6719
-<br>calvin_ho@bioethics-singapore.org 
+<br><calvin_ho@bioethics-singapore.org>

@@ -5,8 +5,6 @@ permalink: "/publications/press-releases/release-of-third-report-by-the-bioethic
 date: 2004-11-23
 ---
 
-**Summary:**
-
 This Report of the Bioethics Advisory Committee (BAC) sets out guidelines for ethics governance of research involving human subjects.
 
 The guidelines require all human biomedical research in Singapore, including research involving human tissue or medical information, to be subject to ethics governance.
@@ -105,12 +103,12 @@ Institutions should also ensure that there are adequate resources to enable thei
 
 <br>Dr Sylvia Lim
 <br>DID: (65) 6826 6258
-<br>Sylvia_Lim@bioethics-singapore.org 
+<br><Sylvia_Lim@bioethics-singapore.org>
 <br>
 <br>Ms Linda Tan
 <br>DID: (65) 6826 6263
-<br>Linda_Tan@bioethics-singapore.org 
+<br><Linda_Tan@bioethics-singapore.org>
 <br>
 <br>Ms Jessy Chen
 <br>DID: (65) 6826 6264
-<br>Jessy_Chen@bioethics-singapore.org
+<br><Jessy_Chen@bioethics-singapore.org>

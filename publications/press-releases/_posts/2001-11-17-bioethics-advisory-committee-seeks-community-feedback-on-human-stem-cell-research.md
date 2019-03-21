@@ -30,8 +30,6 @@ For media queries, please contact:
 
 Ms Trina Liew
 <br>Senior Officer
-
-Corporate Communications, NSTB
-
-DID: 770 5897
-<br>Email: Trina_Liew@nstb.gov.sg 
+<br>Corporate Communications, NSTB
+<br>DID: 770 5897
+<br>Email: <Trina_Liew@nstb.gov.sg>

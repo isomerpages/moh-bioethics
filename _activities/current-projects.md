@@ -114,6 +114,6 @@ The Law Society of Singapore<br>
 Equity Partner<br>
 Rajah & Tann LLP
  	 
-Ms Chang Ai-Lien**<br>
+**Ms Chang Ai-Lien**<br>
 Assistant News Editor<br>
 The Straits Times

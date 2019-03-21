@@ -6,6 +6,15 @@ breadcrumb: Events
 collection_name: activities
 ---
 
+### **2019**
+
+<table class="table-v">
+  <tr>
+    <td>26 January</td>
+    <td>Public Lecture: "The Science and Ethics of Genome Editing" by Dr Andy Greenfield, Member of the Nuffield Council of Bioethics</td>
+  </tr>
+</table>
+
 ### **2018**
 
 <table class="table-v">
@@ -59,7 +68,7 @@ collection_name: activities
   </tr>
   <tr>
     <td>12 January</td>
-    <td>Public Forum:Brain, Mind & Technologies - What's New & What's Next?</td>
+    <td>Public Forum: Brain, Mind & Technologies - What's New & What's Next?</td>
   </tr>
   <tr>
     <td>11 January</td>
