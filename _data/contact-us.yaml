@@ -14,9 +14,16 @@ locations:
 
 # Contact Us
 column:
+  - title: BAC Secretariat
+    content:
+    - line: Mr Kelvin Tan
+    - line: Ms Charmaine Chan
+    - line: Mr Nicholas Wong
+    - line: Mr Loke Hsi Yen
+
   - title: General Enquiries & Feedback
     content:
-    - line: +65 6710 5278 / 6710 5277
+    - line: +65 6710 5278 / +65 6710 5277
     - line: bioethics_Singapore@moh.gov.sg (email)
     # If you have an email, put (email) after the actual email
 
