@@ -2,7 +2,7 @@ title: Bioethics Advisory Committee
 title-abbreviated: BAC
 description: >- # this means to ignore newlines until "baseurl:"
   Description
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.bioethics-singapore.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
