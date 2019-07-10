@@ -10,7 +10,7 @@ collection_name: who-we-are
 
 **Chair**<br>
 **Mr Richard Magnus**<br>
-Judge (Ret.)
+Judge (ret.)
 
 **Deputy Chair**<br>
 **Professor Kon Oi Lian**<br>
