@@ -72,11 +72,14 @@ ANNEX
 <br>Mitochondria (singular: mitochondrion) are tiny organelles found within the cytoplasm of the cell, and are mainly responsible for energy production through a process known as aerobic respiration. Mitochondrial disorders can arise from DNA abnormalities in the mitochondrial genome. Owing to its central role in cellular energy production, mitochondrial disorders often cause debilitating effects on highly energy-dependent organs and tissues including the brain (encephalopathy), the heart (cardiomyopathy), and other muscles (myopathy). Symptoms and severity vary widely amongst patients, depending on the ratio of dysfunctional to normal mitochondria in the cell, and the energy demands of the affected organ(s). There is currently no cure for mitochondrial disorders, though many of the symptoms are treatable.
 
 **What are the three MGRT techniques that the BAC is examining?**
-<br>(1) Maternal Spindle Transfer (MST) In MST, the chromosomal spindle-complex containing the nuclear DNA is removed from the prospective mother’s egg, and transplanted into a donor’s healthy egg from which the donor’s chromosomal spindle-complex had been removed. The reconstructed egg is then fertilised and implanted into the prospective mother’s womb.
+<br>_(1) Maternal Spindle Transfer (MST)_ 
+In MST, the chromosomal spindle-complex containing the nuclear DNA is removed from the prospective mother’s egg, and transplanted into a donor’s healthy egg from which the donor’s chromosomal spindle-complex had been removed. The reconstructed egg is then fertilised and implanted into the prospective mother’s womb.
 
-(2) Pronuclear Transfer (PNT) In PNT, the prospective mother’s egg is first fertilised with the father’s sperm. After fertilisation, the pronuclei are isolated and inserted into a donor’s fertilised egg from which the pronuclei had been removed. The resulting zygote is then implanted into the prospective mother’s womb.
+_(2) Pronuclear Transfer (PNT)_ 
+In PNT, the prospective mother’s egg is first fertilised with the father’s sperm. After fertilisation, the pronuclei are isolated and inserted into a donor’s fertilised egg from which the pronuclei had been removed. The resulting zygote is then implanted into the prospective mother’s womb.
 
-(3) Polar Body Transfer (PBT) PBT involves the manipulation of polar bodies – small cells that are produced during the formation of egg cells, and which each contains the same number of chromosomes as the nucleus of the egg cell. In PBT, which can be performed before or after fertilisation, the nuclear DNA of the donor’s healthy egg or zygote is replaced by a polar body transplanted from the prospective mother’s egg or zygote. The reconstructed zygote or egg (subsequently fertilised) is then implanted into the prospective mother’s womb. 
+_(3) Polar Body Transfer (PBT)_
+PBT involves the manipulation of polar bodies – small cells that are produced during the formation of egg cells, and which each contains the same number of chromosomes as the nucleus of the egg cell. In PBT, which can be performed before or after fertilisation, the nuclear DNA of the donor’s healthy egg or zygote is replaced by a polar body transplanted from the prospective mother’s egg or zygote. The reconstructed zygote or egg (subsequently fertilised) is then implanted into the prospective mother’s womb. 
 
 ---
 
