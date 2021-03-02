@@ -89,7 +89,7 @@ PBT involves the manipulation of polar bodies – small cells that are produced 
 <br>DID: (65) 6773 1726
 <br><charmaine_chan@moh.gov.sg>
 <br>
-<br>Ms Nicholas Wong
+<br>Mr Nicholas Wong
 <br>DID: (65) 6710 5277 
 <br><nicholas_wong@moh.gov.sg>
 

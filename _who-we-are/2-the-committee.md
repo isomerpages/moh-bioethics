@@ -8,78 +8,89 @@ collection_name: who-we-are
 
 ### **Bioethics Advisory Committee**
 
+**BAC Patron**<br>
+**Dr Tony Tan Keng Yam**<br>
+Honorary Patron and Distinguished Senior Fellow<br>
+Singapore Management University<br>
+Former President of the Republic of Singapore
+
+**Emeritus Advisor**<br>
+**Emeritus Professor Lim Pin**<br>
+Emeritus Consultant, Division of Endocrinology<br>
+National University Hospital; and<br>
+Professor of Medicine<br>
+National University of Singapore
+
 **Chair**<br>
 **Mr Richard Magnus**<br>
-Judge (ret.)
+Chief District Judge (ret.)
 
 **Deputy Chair**<br>
 **Professor Kon Oi Lian**<br>
-Principal Investigator and Senior Consultant<br>
-Division of Medical Sciences<br>
-National Cancer Centre Singapore
+Adjunct Professor<br>
+Duke-NUS Medical School 
+
+**Ms Chang Ai-Lien**<br>
+Health & Science Editor<br>
+The Straits Times
 
 **Associate Professor Chin Jing Jih**<br>
-Deputy Chairman, Medical Board<br>
-Chairman, Division of Integrated & Community Care<br>
+Chairman, Medical Board,<br>
+Senior Consultant, Department of Geriatric Medicine<br> 
 Tan Tock Seng Hospital
 
 **Associate Professor Roy Joseph**<br>
-Acting Director<br>
-Centre for Biomedical Ethics, Yong Loo Lin School of Medicine<br>
-National University of Singapore<br>
-Emeritus Consultant, Department of Neonatology and Paediatrics<br>
+Emeritus Consultant, Department of Neonatology<br> 
+Khoo Teck Puat - National University Children's Medical Institute,<br> 
 National University Hospital
-
-**Mr Charles Lim Aeng Cheng**<br>
-Parliamentary Counsel (Special Projects) and Chief Knowledge Officer<br>
-Attorney-General's Chambers
-
-**Associate Professor Lim Tit Meng**<br>
-Chief Executive<br>
-Science Centre Singapore
-
-**Mr Gregory Vijayendran**<br>
-President<br>
-The Law Society of Singapore; and<br>
-Equity Partner<br>
-Rajah & Tann LLP
-
-**Professor Patrick Tan Boon Ooi**<br>
-Duke-NUS Medical School Singapore<br>
-Deputy Executive Director, Biomedical Research Council, A*STAR<br>
-Director, Singhealth Duke-NUS Institute of Precision Medicine (PRISM)
-
-**Dr Nazirudin Bin Mohd Nasir**<br>
-Senior Director<br>
-Religious Policy & Development<br>
-Islamic Religious Council of Singapore<br>
-(MUIS)
 
 **Professor Lee Eng Hin**<br>
 Emeritus Consultant<br>
-Division of Paediatric Orthopaedics<br>
-National University Hospital
+Division of Paediatric Orthopaedic Surgery<br>
+Department of Orthopaedic Surgery<br> 
+National University Hospital  
+
+**Mr Charles Lim Aeng Cheng**<br>
+Principal Senior State Counsel<br>
+Legislation Division<br>
+Attorney-General’s Chambers
+
+**Associate Professor Lim Tit Meng**<br>
+Chief Executive<br>
+Science Centre Board
+
+**Dr Nazirudin Bin Mohd Nasir**<br>
+Mufti<br>
+Office of the Mufti<br>
+Islamic Religious Council of Singapore (MUIS)
+
+**Professor Vineeta Sinha**<br>
+Head, Department of Sociology<br>
+Faculty of Arts and Social Sciences<br>
+National University of Singapore
+
+**Professor Patrick Tan Boon Ooi**<br>
+Professor, Cancer and Stem Cell Biology Programme, Duke-NUS Medical School;<br>
+Executive Director, Genome Institute of Singapore; and<br>
+Director, SingHealth Duke-NUS Institute of Precision Medicine (PRISM)
 
 **Professor Tan Sor Hoon**<br>
 Professor of Philosophy<br>
 School of Social Sciences<br>
 Singapore Management University
 
-**Ms Chang Ai-Lien**<br>
-Assistant News Editor<br>
-The Straits Times
-
-**Professor Vineeta Sinha**<br>
-Head of Department of Sociology,<br>
-Head of South Asian Studies Programme<br>
-National University of Singapore
+**Mr Gregory Vijayendran**<br>
+Equity Partner, Rajah & Tann Singapore LLP; and<br>
+President, The Law Society of Singapore
 
 ### **Advisors**
 
 ##### **Emeritus Advisor**
 
-**Professor Lim Pin**<br>
-University Professor,<br>
+**Emeritus Professor Lim Pin**<br>
+Emeritus Consultant, Division of Endocrinology<br>
+National University Hospital; and<br>
+Professor of Medicine<br>
 National University of Singapore
 
 As its first Chairman, Professor Lim led the BAC through a decade of great developments from its inception in 2000 up until December 2010. Given his valuable experience and outstanding contributions, Professor Lim has been recognised as Emeritus Advisor to the Committee.
