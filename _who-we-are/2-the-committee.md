@@ -75,8 +75,8 @@ Executive Director, Genome Institute of Singapore; and<br>
 Director, SingHealth Duke-NUS Institute of Precision Medicine (PRISM)
 
 **Professor Tan Sor Hoon**<br>
-Professor of Philosophy<br>
-School of Social Sciences<br>
+Professor of Philosophy, Lee Kong Chian Research Fellow<br>
+Academic Director (Politics-Law-Economics major), School of Social Sciences<br>
 Singapore Management University
 
 **Mr Gregory Vijayendran**<br>
