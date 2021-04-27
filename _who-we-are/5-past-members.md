@@ -44,10 +44,6 @@ Member of Parliament, Hong Kah Group Representation Constituency<br>
 Professorial Fellow, Division of Communication Research, Wee Kim Wee School of Communication & Information, National Technological University<br>
 (2007 to 2011)
 
-**Professor Lee Eng Hin**<br>
-Director, Division of Graduate Medical Studies, Yong Loo Lin School of Medicine, National University of Singapore<br>
-(2005 to 2008)
-
 **Professor Lee Hin Peng**<br>
 Department of Epidemiology and Public Health, Yong Loo Lin School of Medicine, National University of Singapore<br>
 (Deputy Chairman from 2007 to 2011)
@@ -63,10 +59,6 @@ Permanent Secretary, Ministry of Community Development and Sports<br>
 **Professor Edison Liu**<br>
 Executive Director, Genome Institute of Singapore<br>
 (2003 to 2006)
-
-**Mr Nazirudin Mohd Nasir**<br>
-Assistant Director, Office of the Mufti, Majlis Ugama Islam Singapura<br>
-(2007 to 2011)
 
 **Mr Niam Chiang Meng**<br>
 Permanent Secretary, Ministry of Community Development, Youth and Sports<br>
