@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  Ethical, Legal and Social Issues in Human Stem Cell Research, Reproductive and Therapeutic Cloning
-date:   2002-06-21
+title: 'Ethical, Legal and Social Issues in Human Stem Cell Research, Reproductive and Therapeutic Cloning'
+date: 2002-06-21T00:00:00.000Z
 permalink: /publications/reports/ethical-legal-and-social-issues-in-human-stem-cell-research-reproductive-and-therapeutic-cloning
+
 ---
+
 
 **Downloads:**
 
