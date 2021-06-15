@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Human-animal combinations for biomedical research"
-permalink: "/publications/press-releases/human-animal-combinations-for-biomedical-research"
-date: 2008-01-08
+title: 'Human-animal combinations for biomedical research'
+permalink: /publications/press-releases/human-animal-combinations-for-biomedical-research
+date: 2008-01-08T00:00:00.000Z
+
 ---
+
 
 **Release of a public Consultation Paper by the BAC**
 
