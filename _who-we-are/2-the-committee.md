@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: The Committee
+title: 'The Committee'
 permalink: /who-we-are/the-committee/
-breadcrumb: The Committee
-collection_name: who-we-are
+breadcrumb: 'The Committee'
+
 ---
+
 
 ### **Bioethics Advisory Committee**
 
