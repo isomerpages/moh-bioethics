@@ -1,0 +1,9 @@
+collections:
+  who-we-are:
+    output: true
+    order:
+      - overview.md
+      - the-committee.md
+      - what-we-do.md
+      - ethical-principles.md
+      - past-members.md

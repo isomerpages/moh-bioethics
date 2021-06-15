@@ -4,43 +4,39 @@ description: Description
 url: 'https://www.bioethics-singapore.org'
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-plugins:
-    - jekyll-feed
-    - jekyll-assets
-    - jekyll-paginate
-    - jekyll-sitemap
 is_government: false
 paginate: 12
 custom_css_path: /misc/custom.css
 custom_print_css_path: /assets/css/print.css
-collections:
-    who-we-are:
-        output: true
-    bioethics-resource:
-        output: true
-    activities:
-        output: true
 resources_name: publications
 favicon: /images/Bioeth-4-1.ico
 google_analytics: null
 permalink: none
 baseurl: ""
 defaults:
-    - scope:
-          path: ""
-      values:
-          layout: page
+  - scope:
+      path: ""
+    values:
+      layout: page
 colors:
-    primary-color: '#132445'
-    secondary-color: '#15307D'
-    media-colors:
-        - title: media-color-one
-          color: '#49759a'
-        - title: media-color-two
-          color: '#744d9f'
-        - title: media-color-three
-          color: '#00838f'
-        - title: media-color-four
-          color: '#00838f'
-        - title: media-color-five
-          color: '#00838f'
+  primary-color: '#132445'
+  secondary-color: '#15307D'
+  media-colors:
+    - title: media-color-one
+      color: '#49759a'
+    - title: media-color-two
+      color: '#744d9f'
+    - title: media-color-three
+      color: '#00838f'
+    - title: media-color-four
+      color: '#00838f'
+    - title: media-color-five
+      color: '#00838f'
+staging: https://isomer-bioethics-staging.netlify.app
+prod: https://isomer-bioethics-prod.netlify.app
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme

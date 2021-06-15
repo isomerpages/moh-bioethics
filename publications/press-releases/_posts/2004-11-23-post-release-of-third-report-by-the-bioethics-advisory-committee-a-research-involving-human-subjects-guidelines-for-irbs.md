@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Release of third report by the Bioethics Advisory Committee – Research Involving Human Subjects: Guidelines for IRBs'
-permalink: /publications/press-releases/release-of-third-report-by-the-bioethics-advisory-committee–research-involving-human-subjects-guidelines-for-ibrs
+permalink: /publications/press-releases/release-of-third-report-by-the-bioethics-advisory-committee-research-involving-human-subjects-guidelines-for-ibrs
 date: 2004-11-23T00:00:00.000Z
 
 ---
