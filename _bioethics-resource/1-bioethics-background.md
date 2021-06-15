@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Bioethics Background
+title: 'Bioethics Background'
 permalink: /bioethics-resource/bioethics-background/
-breadcrumb: Bioethics Background
-collection_name: bioethics-resource
+breadcrumb: 'Bioethics Background'
+
 ---
+
 
 ### **What is Bioethics?**
 
