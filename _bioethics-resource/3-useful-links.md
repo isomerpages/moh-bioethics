@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Useful Links
+title: 'Useful Links'
 permalink: /bioethics-resource/useful-links/
-breadcrumb: Useful Links
-collection_name: bioethics-resource
+breadcrumb: 'Useful Links'
+
 ---
+
 
 Below are some useful resources.
 
