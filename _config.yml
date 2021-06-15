@@ -33,7 +33,7 @@ colors:
     - title: media-color-five
       color: '#00838f'
 staging: https://isomer-bioethics-staging.netlify.app
-production: https://isomer-bioethics-prod.netlify.app
+prod: https://isomer-bioethics-prod.netlify.app
 plugins:
   - jekyll-feed
   - jekyll-assets
