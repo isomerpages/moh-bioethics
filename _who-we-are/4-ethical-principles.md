@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Ethical Principles
+title: 'Ethical Principles'
 permalink: /who-we-are/ethical-principles/
-breadcrumb: Ethical Principles
-collection_name: who-we-are
+breadcrumb: 'Ethical Principles'
+
 ---
+
 
 Based on a review of [key internationally accepted bioethics documents]({{"/bioethics-resource/bioethics-background" | absolute_url}}), the BAC formulated five guiding principles, reflecting their local application. The five principles endorsed by the BAC are as follows:
 
