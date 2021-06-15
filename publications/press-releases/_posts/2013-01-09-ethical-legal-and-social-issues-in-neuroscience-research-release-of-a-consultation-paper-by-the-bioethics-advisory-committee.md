@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Ethical, Legal and Social Issues in Neuroscience Research - Release of a Consultation Paper by the Bioethics Advisory Committee"
-permalink: "/publications/press-releases/ethical-legal-and-social-issues-in-neuroscience-research-release-of-a-consultation-paper-by-the-bioethics-advisory-committee"
-date: 2013-01-09
+title: 'Ethical, Legal and Social Issues in Neuroscience Research - Release of a Consultation Paper by the Bioethics Advisory Committee'
+permalink: /publications/press-releases/ethical-legal-and-social-issues-in-neuroscience-research-release-of-a-consultation-paper-by-the-bioethics-advisory-committee
+date: 2013-01-09T00:00:00.000Z
+
 ---
+
 
 **ETHICAL, LEGAL AND SOCIAL ISSUES IN NEUROSCIENCE RESEARCH**
 
