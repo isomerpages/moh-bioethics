@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Release of the Fifth Report by the Bioethics Advisory Committee – Personal Information in Biomedical Research"
-permalink: "/publications/press-releases/release-of-the-fifth-report-by-the-bioethics-advisory-committee–personal-information-in-biomedical-research"
-date: 2007-05-07
+title: 'Release of the Fifth Report by the Bioethics Advisory Committee – Personal Information in Biomedical Research'
+permalink: /publications/press-releases/release-of-the-fifth-report-by-the-bioethics-advisory-committee–personal-information-in-biomedical-research
+date: 2007-05-07T00:00:00.000Z
+
 ---
+
 
 **RELEASE OF A REPORT BY THE BIOETHICS ADVISORY COMMITTEE**
 
