@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Bioethics Advisory Committee seeks public feedback on the use of personal information in biomedical research"
-permalink: "/publications/press-releases/bioethics-advisory-committee-seeks-public-feedback-on-the-use-of-personal-information-in-biomedical-research"
-date: 2006-06-14
+title: 'Bioethics Advisory Committee seeks public feedback on the use of personal information in biomedical research'
+permalink: /publications/press-releases/bioethics-advisory-committee-seeks-public-feedback-on-the-use-of-personal-information-in-biomedical-research
+date: 2006-06-14T00:00:00.000Z
+
 ---
+
 
 **Consultation Paper distributed to 70 religious, professional and scientific organisations, and healthcare and research institutions in Singapore to seek their views**
 
