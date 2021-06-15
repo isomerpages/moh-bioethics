@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Bioethics Advisory Committee recommends tightly regulated human stem cell research and complete ban on reproductive cloning in Singapore"
-permalink: "/publications/press-releases/bioethics-advisory-committee-recommends-tightly-regulated-human-stem-cell-research-and-complete-ban-on-reproductive-cloning-in-singapore"
-date: 2001-09-12
+title: 'Bioethics Advisory Committee recommends tightly regulated human stem cell research and complete ban on reproductive cloning in Singapore'
+permalink: /publications/press-releases/bioethics-advisory-committee-recommends-tightly-regulated-human-stem-cell-research-and-complete-ban-on-reproductive-cloning-in-singapore
+date: 2001-09-12T00:00:00.000Z
+
 ---
+
 
 Singapore, 21 June 2002 Singapore's Bioethics Advisory Committee recommends a complete ban on human reproductive cloning and recommends that human stem cell research and therapeutic cloning be permitted under strict regulation. The regulatory framework should require the informed voluntary consent of donors, prohibit the commerce and sale of donated materials, especially surplus embryos and stipulate that no one shall be under a duty to participate in any manner of research on human stem cells to which he has a conscientious objection.
 
