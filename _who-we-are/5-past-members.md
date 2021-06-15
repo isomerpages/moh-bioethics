@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Past Members
+title: 'Past Members'
 permalink: /who-we-are/past-members/
-breadcrumb: Past Members
-collection_name: who-we-are
+breadcrumb: 'Past Members'
+
 ---
+
 
 ### **Past Members of the Bioethics Advisory Committee**
 

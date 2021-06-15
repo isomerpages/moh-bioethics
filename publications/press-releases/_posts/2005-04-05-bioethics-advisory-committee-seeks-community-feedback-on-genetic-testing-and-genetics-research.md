@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Bioethics Advisory Committee seeks community feedback on genetic testing and genetics research"
-permalink: "/publications/press-releases/bioethics-advisory-committee-seeks-community-feedback-on-genetic-testing-and-genetics-research"
-date: 2005-04-05
+title: 'Bioethics Advisory Committee seeks community feedback on genetic testing and genetics research'
+permalink: /publications/press-releases/bioethics-advisory-committee-seeks-community-feedback-on-genetic-testing-and-genetics-research
+date: 2005-04-05T00:00:00.000Z
+
 ---
+
 
 **Consultation Paper distributed to 114 community groups in Singapore , including religious, medical and patient interest groups, to seek their views**
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Useful Publications
+title: 'Useful Publications'
 permalink: /bioethics-resource/useful-publications/
-breadcrumb: Useful Links
-collection_name: bioethics-resource
+breadcrumb: 'Useful Links'
+
 ---
+
 
 # **Monographs** 
 

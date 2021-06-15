@@ -1,9 +1,10 @@
 ---
-layout: simple-page
 permalink: /faq/
 breadcrumb: FAQ
 title: FAQ
+
 ---
+
 
 **1. What does the BAC do?**
 

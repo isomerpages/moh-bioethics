@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Bioethics Advisory Committee seeks community feedback on human tissue research"
-permalink: "/publications/press-releases/bioethics-advisory-committee-seeks-community-feedback-on-human-tissue-research"
-date: 2002-03-04
+title: 'Bioethics Advisory Committee seeks community feedback on human tissue research'
+permalink: /publications/press-releases/bioethics-advisory-committee-seeks-community-feedback-on-human-tissue-research
+date: 2002-03-04T00:00:00.000Z
+
 ---
+
 
 **Consultation paper distributed to 66 community groups in Singapore, including religious, medical and public interest groups to obtain their views**
 

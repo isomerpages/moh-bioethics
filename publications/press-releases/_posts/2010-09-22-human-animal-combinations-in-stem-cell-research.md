@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Human-Animal Combinations in Stem Cell Research"
-permalink: "/publications/press-releases/human-animal-combinations-in-stem-cell-research"
-date: 2010-09-22
+title: 'Human-Animal Combinations in Stem Cell Research'
+permalink: /publications/press-releases/human-animal-combinations-in-stem-cell-research
+date: 2010-09-22T00:00:00.000Z
+
 ---
+
 
 **Release of a report by the Bioethics Advisory Committee**
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: What We Do
+title: 'What We Do'
 permalink: /who-we-are/what-we-do/
-breadcrumb: What We Do
-collection_name: who-we-are
+breadcrumb: 'What We Do'
+
 ---
+
 
 **The terms of reference** of the Bioethics Advisory Committee are:
 

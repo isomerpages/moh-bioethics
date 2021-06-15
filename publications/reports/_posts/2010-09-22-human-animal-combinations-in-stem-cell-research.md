@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  Human-Animal Combinations in Stem Cell Research
-date:   2010-09-22
+title: 'Human-Animal Combinations in Stem Cell Research'
+date: 2010-09-22T00:00:00.000Z
 permalink: /publications/reports/human-animal-combinations-in-stem-cell-research
+
 ---
+
 
 **Downloads:**
 

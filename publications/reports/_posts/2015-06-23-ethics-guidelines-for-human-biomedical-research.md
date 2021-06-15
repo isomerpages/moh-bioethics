@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  Ethics Guidelines for Human Biomedical Research
-date:   2015-06-23
+title: 'Ethics Guidelines for Human Biomedical Research'
+date: 2015-06-23T00:00:00.000Z
 permalink: /publications/reports/ethics-guidelines-for-human-biomedical-research
+
 ---
+
 
 **Download:**
 

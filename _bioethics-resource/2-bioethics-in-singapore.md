@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Bioethics In Singapore
+title: 'Bioethics In Singapore'
 permalink: /bioethics-resource/bioethics-in-singapore/
-breadcrumb: Bioethics In Singapore
-collection_name: bioethics-resource
+breadcrumb: 'Bioethics In Singapore'
+
 ---
+
 
 ### **2018**
 

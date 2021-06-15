@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Overview
 permalink: /who-we-are/overview/
 breadcrumb: Overview
-collection_name: who-we-are
+
 ---
+
 
 > The Bioethics Advisory Committee was established by the Singapore Cabinet in December 2000. It has been tasked to address the ethical, legal and social issues arising from biomedical sciences research in Singapore.
 

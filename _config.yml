@@ -1,52 +1,46 @@
-title: Bioethics Advisory Committee
+title: 'Bioethics Advisory Committee'
 title-abbreviated: BAC
-description: >- # this means to ignore newlines until "baseurl:"
-  Description
-url: "https://www.bioethics-singapore.org" # the base hostname & protocol for your site, e.g. http://example.com
-
-# Build settings
-markdown: kramdown
-remote_theme: isomerpages/isomerpages-template
+description: Description
+url: 'https://www.bioethics-singapore.org'
+remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-
 plugins:
-  - jekyll-feed
-  - jekyll-assets
-  - jekyll-sitemap
-  
+    - jekyll-feed
+    - jekyll-assets
+    - jekyll-paginate
+    - jekyll-sitemap
 is_government: false
-
-# Breadcrumbs
-breadcrumbs:
-  root:
-    hide: false  # show breadcrumbs on root/home page
-    image: false # Show image or title text
-
-# Resource Room and Pagination
 paginate: 12
-
-# Homepage sections
-homepage_hero_i_want_to: false
-homepage_resources: true
-
-# Feedback Form URL
-feedback_form_url: "https://form.gov.sg/forms/moh/5c6276339d7a3e00178b58f8"
-
-# FAQ URL
-faq_url: "/faq/"
-faq_url_external: false
-
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
-
-
-baseurl: ""
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
 collections:
-  who-we-are:
-    output: true
-  bioethics-resource:
-    output: true
-  activities:
-    output: true
+    who-we-are:
+        output: true
+    bioethics-resource:
+        output: true
+    activities:
+        output: true
 resources_name: publications
+favicon: /images/Bioeth-4-1.ico
+google_analytics: null
+permalink: none
+baseurl: ""
+defaults:
+    - scope:
+          path: ""
+      values:
+          layout: page
+colors:
+    primary-color: '#132445'
+    secondary-color: '#15307D'
+    media-colors:
+        - title: media-color-one
+          color: '#49759a'
+        - title: media-color-two
+          color: '#744d9f'
+        - title: media-color-three
+          color: '#00838f'
+        - title: media-color-four
+          color: '#00838f'
+        - title: media-color-five
+          color: '#00838f'

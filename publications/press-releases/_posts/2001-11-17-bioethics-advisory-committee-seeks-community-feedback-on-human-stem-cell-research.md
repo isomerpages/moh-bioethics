@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Bioethics Advisory committee seeks community feedback on human stem cell research"
-permalink: "/publications/press-releases/bioethics-advisory-committee-seeks-community-feedback-on-human-stem-cell-research"
-date: 2001-11-17
+title: 'Bioethics Advisory committee seeks community feedback on human stem cell research'
+permalink: /publications/press-releases/bioethics-advisory-committee-seeks-community-feedback-on-human-stem-cell-research
+date: 2001-11-17T00:00:00.000Z
+
 ---
+
 
 **Consultation paper distributed to over 30 community groups in Singapore, including religious, patient, medical and scientific to obtain their views**
 

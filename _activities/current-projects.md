@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Current Projects
+title: 'Current Projects'
 permalink: /activities/current-projects/
-breadcrumb: Current Projects
-collection_name: activities
+breadcrumb: 'Current Projects'
+
 ---
+
 ### BAC's Current Projects 
 
 **Ethical, Legal and Social Issues in Neuroscience Research**
