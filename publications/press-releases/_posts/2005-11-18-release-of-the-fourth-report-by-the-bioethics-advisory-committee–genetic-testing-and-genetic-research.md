@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Release of the Fourth Report by the Bioethics Advisory Committee – Genetic Testing and Genetic Research"
-permalink: "/publications/press-releases/release-of-the-fourth-report-by-the-bioethics-advisory-committee–genetic-testing-and-genetic-research"
-date: 2005-11-18
+title: 'Release of the Fourth Report by the Bioethics Advisory Committee – Genetic Testing and Genetic Research'
+permalink: /publications/press-releases/release-of-the-fourth-report-by-the-bioethics-advisory-committee–genetic-testing-and-genetic-research
+date: 2005-11-18T00:00:00.000Z
+
 ---
+
 
 This Report of the Bioethics Advisory Committee (BAC) sets out ethical considerations for the conduct of genetic testing and human genetic research. 
 
