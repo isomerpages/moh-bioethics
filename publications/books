@@ -1,1 +1,4 @@
-
+- resources:
+    title: Books
+    subtitle: 
+    button: View More
