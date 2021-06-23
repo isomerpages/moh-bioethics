@@ -3,7 +3,7 @@ layout: homepage
 title: Bioethics Advisory Committee Singapore
 permalink: /
 notification: <b>New Announcement:</b><br>To mark the 20th Anniversary of its
-  establishment, the BAC is releasing a 20th Anniversary publication titled 'The
+  establishment, the BAC released a 20th Anniversary publication titled 'The
   Future of Bioethics in Singapore'. An electronic copy is available for free on
   the BAC website <a href="https://www.bacvirtualconference.com">here</a>.
 sections:
