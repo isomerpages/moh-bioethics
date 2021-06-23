@@ -1,14 +1,14 @@
 logo: /images/logo4.jpg
 links:
-    - title: 'Who We Are'
-      collection: who-we-are
-    - title: 'Bioethics Resource'
-      collection: bioethics-resource
-    - title: Activities
-      collection: activities
-    - title: Publications
-      resource_room: true
-    - title: FAQ
-      url: /faq/
-    - title: 'Contact Us'
-      url: /contact-us/
+  - title: Who We Are
+    collection: who-we-are
+  - title: Bioethics Resource
+    collection: bioethics-resource
+  - title: Activities
+    collection: activities
+  - title: Publications
+    resource_room: true
+  - title: FAQ
+    url: /faq/
+  - title: Contact Us
+    url: /contact-us/
