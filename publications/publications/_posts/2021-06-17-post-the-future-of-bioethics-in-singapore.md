@@ -4,5 +4,4 @@ date: 2021-06-17
 permalink: /publications/permalink
 layout: post
 ---
-
-
+**Download:** [Full Publication](go.gov.sg)
