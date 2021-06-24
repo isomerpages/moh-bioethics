@@ -15,4 +15,4 @@ Featuring contributions from past and present BAC members, international bioethi
 
 This publication is intended as a reference for academics, professionals from healthcare and research institutions, Institutional Review Board members, students, and members of the public who are keen to findout more about the BAC and the field of bioethics.
 
-The publication is available for free on the BAC website.
+An electronic copy of the publication can be downloaded for free on the BAC website.
