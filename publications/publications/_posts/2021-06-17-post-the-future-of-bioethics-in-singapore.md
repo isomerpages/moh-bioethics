@@ -4,7 +4,7 @@ date: 2021-06-17
 permalink: /publications/bac20thanniversarypublication
 layout: post
 ---
-**BAC 20th Anniversary Publication: The Future of Bioethics in Singapore** </br>
+**BAC 20th Anniversary Publication: The Future of Bioethics in Singapore** <br>
 *17 June 2021*
 
 **Download Link:** [Full Publication](go.gov.sg)
