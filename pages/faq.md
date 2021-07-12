@@ -7,7 +7,7 @@ title: FAQ
 
 The BAC is an advisory body that makes policy recommendations to the Singapore government regarding the conduct of human biomedical research in Singapore.
 
-The BAC has issued numerous recommendations addressing specific issues in human biomedical research in the following reports, which can be downloaded [here:](/publications/reports/){:target="_blank"}
+The BAC has issued numerous recommendations addressing specific issues in human biomedical research in the following reports, which can be downloaded [here](/publications/reports/){:target="_blank"}: 
 - Ethical, Legal and Social Issues in Human Stem Cell Research, Reproductive and Therapeutic Cloning (2002) 
 - Human Tissue Research (2002)
 - Research Involving Human Subjects: Guidelines for IRBs (2004)
