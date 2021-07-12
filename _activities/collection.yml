@@ -1,0 +1,6 @@
+collections:
+  activities:
+    output: true
+    order:
+      - current-projects.md
+      - events.md

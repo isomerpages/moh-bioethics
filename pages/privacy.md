@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Privacy Statement
+title: 'Privacy Statement'
 permalink: /privacy/
 breadcrumb: Privacy
+
 ---
+
 
 The specific practices outlined in this Privacy Policy apply only to the BAC's website. This website may contain links to other websites, but the BAC is not responsible for the privacy practices of these other websites. You should consult their respective privacy policies.  
 
