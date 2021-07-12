@@ -21,7 +21,7 @@ The BAC has issued numerous recommendations addressing specific issues in human 
 
 **2. Who are the members of the BAC?**
 
-The BAC is currently chaired by Judge (ret.) Richard Magnus, and comprises 14 other members, who are well-respected experts from fields including medicine, life sciences, law, public policy, and philosophy. The current list of members can be found [here](who-we-are/the-committee/){:target="_blank"}.
+The BAC is currently chaired by Judge (ret.) Richard Magnus, and comprises 14 other members, who are well-respected experts from fields including medicine, life sciences, law, public policy, and philosophy. The current list of members can be found [here](/who-we-are/the-committee/){:target="_blank"}.
 
 ---
 
