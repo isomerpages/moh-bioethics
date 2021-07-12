@@ -15,4 +15,4 @@ This publication is intended as a reference for academics, professionals from he
 
 An electronic copy of the publication is available here for download. 
 
-**Download Link:** [Full Publication](go.gov.sg)
+**Download Link:** [Full Publication](https://go.gov.sg/bac20thanniversarypublication)
