@@ -16,4 +16,4 @@ Since then, the biomedical sciences and research in Singapore has advanced rapid
 An electronic copy of the publication is available here for download.
 
 **Download Link:** [Full Publication A4](https://go.gov.sg/bacethicsguidelines2021-a4)
-**Download Link:** [Full Publication A4](https://go.gov.sg/bacethicsguidelines2021-a5)
+**Download Link:** [Full Publication A5](https://go.gov.sg/bacethicsguidelines2021-a5)
