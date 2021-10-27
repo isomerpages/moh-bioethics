@@ -7,7 +7,7 @@ layout: post
 **Ethics Guidelines for Human Biomedical Research 2021 Revised** <br>
 *27 October 2021*
 
-BAC's first edition of *Ethics Guidelines for Human Biomedical Research* was published in 2015. The objective of this publication was to be a one-stop resource for researchers and members of ethics committees, or any interested individual seeking guidance on best practices for the ethical conduct of human biomedical research in Singapore.
+The Bioethics Advisory Committee's (BAC) first edition of *Ethics Guidelines for Human Biomedical Research* was published in 2015. The objective of this publication was to be a one-stop resource for researchers and members of ethics committees, or any interested individual seeking guidance on best practices for the ethical conduct of human biomedical research in Singapore.
 
 Since then, the biomedical sciences and research in Singapore has advanced rapidly, with legislation, guidelines and directives being modified to account for and regulate these new research endeavors.
 
