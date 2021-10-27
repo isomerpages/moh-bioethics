@@ -14,5 +14,7 @@ Since then, the biomedical sciences in Singapore have advanced rapidly, with leg
 The BAC’s 20th Anniversary Event held in June 2021 provided an opportunity for the BAC to review its past work and recommendations since its establishment in 2000.  The updated 2021 *Guidelines* aims to remain a current, relevant and reliable one-stop resource for researchers and research institutions seeking to conduct human biomedical research in Singapore, or for individuals interested in the topic of bioethics.
 
 An electronic copy of the publication is available here for download.
+
 **Download Link:** [Full Publication A4](https://go.gov.sg/bacethicsguidelines2021-a4)
+
 **Download Link:** [Full Publication A5](https://go.gov.sg/bacethicsguidelines2021-a5)
