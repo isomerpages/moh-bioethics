@@ -13,6 +13,7 @@ Since then, the biomedical sciences and research in Singapore has advanced rapid
 
 2021 was thus a suitable year for BAC to conduct a timely review of the 2015 *Guidelines*. The updated 2021 *Guidelines* aims to remain a relevant and reliable one-stop resource for researchers and research institutions seeking to conduct human biomedical research in Singapore, or for individuals interested in the topic of bioethics.
 
-An electronic copy of the publication is available here for download in A4 and A5. 
+An electronic copy of the publication is available here for download.
 
-**Download Link:** [Full Publication](https://go.gov.sg/bacethicsguidelines2021-a4)(https://go.gov.sg/bacethicsguidelines2021-a5)
+**Download Link:** [Full Publication A4](https://go.gov.sg/bacethicsguidelines2021-a4)
+**Download Link:** [Full Publication A4](https://go.gov.sg/bacethicsguidelines2021-a5)
