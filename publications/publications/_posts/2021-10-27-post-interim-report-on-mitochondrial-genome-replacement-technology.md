@@ -17,3 +17,4 @@ This interim report presents the BAC’s position on whether clinical applicatio
 An electronic copy of the publication is available here for download.
 
 **Download Link:** [Full Publication]
+https://go.gov.sg/bacmgrt2021
