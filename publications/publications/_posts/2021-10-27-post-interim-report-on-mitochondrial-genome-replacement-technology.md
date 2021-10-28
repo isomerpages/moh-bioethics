@@ -6,7 +6,7 @@ layout: post
 ---
 **Interim Report on Mitochondrial Genome Replacement Technology**
 
-*27 October 2021*
+*28 October 2021*
 
 Mitochondrial diseases are rare diseases that interfere with a person’s mitochondrial functions which are frequently debilitating. Mitochondrial Genome Replacement Technology (MGRT) offers the possibility of carrier mothers to have genetically related children without the transmission of mitochondrial diseases.
 
