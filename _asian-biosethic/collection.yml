@@ -1,5 +1,5 @@
 collections:
-  asian-biosethic-network:
+  asian-biosethic:
     output: true
     order:
       - ABN Introduction/Its Members.md
