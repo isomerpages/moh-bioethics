@@ -2,5 +2,4 @@ collections:
   asian-biosethic-network:
     output: true
     order:
-      - What are the next steps/.keep
       - 1)	Introduction to the ABN/.keep
