@@ -2,5 +2,5 @@ collections:
   asian-biosethic-network:
     output: true
     order:
-      - Summary of first ABN meeting/.keep
       - 1)	Introduction to the ABN/.keep
+      - Summary of first ABN meeting/.keep
