@@ -2,7 +2,6 @@ collections:
   asian-biosethic:
     output: true
     order:
-      - Summary of first ABN meeting/Test.md
       - Introduction/.keep
       - Introduction/Its Members.md
       - Introduction/Objectives of the ABN.md
