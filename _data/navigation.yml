@@ -8,9 +8,9 @@ links:
     collection: activities
   - title: Publications
     resource_room: true
+  - title: Asian Biosethic
+    collection: asian-biosethic
   - title: FAQ
     url: /faq/
   - title: Contact Us
     url: /contact-us/
-  - title: Asian Biosethic
-    collection: asian-biosethic
