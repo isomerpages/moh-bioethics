@@ -2,7 +2,6 @@ collections:
   asian-biosethic:
     output: true
     order:
-      - Summary of first ABN meeting/Example Title.md
       - ABN Introduction/Its Members.md
       - ABN Introduction/Objectives of the ABN.md
       - ABN Introduction/Why BAC established the ABN.md
