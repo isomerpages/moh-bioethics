@@ -2,6 +2,7 @@ collections:
   asian-biosethic-network:
     output: true
     order:
+      - ABN Introduction/Its Members.md
       - ABN Introduction/Objectives of the ABN.md
       - ABN Introduction/Why BAC established the ABN.md
       - ABN Introduction/.keep
