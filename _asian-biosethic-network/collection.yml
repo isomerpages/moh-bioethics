@@ -1,5 +1,4 @@
 collections:
   asian-biosethic-network:
     output: true
-    order:
-      - Summary of first ABN meeting/.keep
+    order: []
