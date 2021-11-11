@@ -12,12 +12,5 @@ links:
     url: /faq/
   - title: Contact Us
     url: /contact-us/
-  - title: Asian Biosethic Network
-    url: /permalink
-    sublinks:
-      - title: Introduction to ABN
-        url: /permalink
-      - title: Summary of first ABN meeting
-        url: /permalink
-      - title: What are the next steps
-        url: /permalink
+  - title: Asian Biosethics Network
+    collection: activities
