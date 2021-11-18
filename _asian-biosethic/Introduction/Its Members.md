@@ -4,22 +4,22 @@ permalink: /Introduction/Its-Members
 description: ""
 third_nav_title: Introduction
 ---
-Composition of the Bioethics Advisory Committee (1 Jan 2020 to 31 Dec)
+## Composition of the Bioethics Advisory Committee (1 Jan 2020 to 31 Dec)
 Patron
-Dr Tony Tan Keng Yam     
-Emeritus Advisor Emeritus Professor Lim Pin
-Chair Mr Richard Magnus
+**Dr Tony Tan Keng Yam <br>
+Emeritus Advisor Emeritus Professor Lim pin<br>
+Chair Mr Richard Magnus<br>
 Deputy Chair Professor Kon Oi Lian
-
-Members
-Members Professor Lee Eng Hin
-Professor Patrick Tan Boon Ooi
-Professor Tan Sor Hoon
-Professor Vineeta Sinha
-Associate Professor Chin Jing Jih
-Associate Professor Lim Tit Meng
-Associate Professor Roy Joseph
-Dr Nazirudin Bin Mohd Nasir
-Ms Chang Ai Lien
-Mr Charles Lim Aeng Cheng
-Mr Gregory Vijayendran
+<br>
+Members<Br>
+Members Professor Lee Eng Hin<Br>
+Professor Patrick Tan Boon Ooi<Br>
+Professor Tan Sor Hoon<Br>
+Professor Vineeta Sinha<Br>
+Associate Professor Chin Jing Jih<Br>
+Associate Professor Lim Tit Meng<Br>
+Associate Professor Roy Joseph<br>
+Dr Nazirudin Bin Mohd Nasir<br>
+Ms Chang Ai Lien<br>
+Mr Charles Lim Aeng Cheng<br>
+Mr Gregory Vijayendran <br>
