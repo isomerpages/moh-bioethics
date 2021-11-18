@@ -7,7 +7,7 @@ third_nav_title: Introduction
 ## Composition of the Bioethics Advisory Committee <br>
 **(1 Jan 2020 to 31 Dec)**<Br>
 <br>
-****Patron****<br>
+**Patron**<br>
 **Dr Tony Tan Keng Yam** <br>
 Chair Mr Richard Magnus<br>
 Deputy Chair Professor Kon Oi Lian<br>
