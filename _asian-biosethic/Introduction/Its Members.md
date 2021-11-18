@@ -14,7 +14,6 @@ Chair Mr Richard Magnus<br>
 Deputy Chair Professor Kon Oi Lian
 <br>
 <br>
-
 **Members**<Br>
 Members Professor Lee Eng Hin<Br>
 Professor Patrick Tan Boon Ooi<Br>
