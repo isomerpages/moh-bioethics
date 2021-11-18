@@ -4,7 +4,6 @@ permalink: /Summary/Meeting-agenda-decisions
 description: ""
 third_nav_title: Summary
 ---
-
 **Topics Discussed**<br>
 * 
 Current and future work of BAC’s regional counterparts<br>
