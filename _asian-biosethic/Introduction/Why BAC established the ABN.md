@@ -4,7 +4,7 @@ permalink: /Introduction/Why-BAC-established-the-ABN
 description: ""
 third_nav_title: Introduction
 ---
-* BAC proposed the establishment of an Asian Bioethics Network to facilitate the sharing o
+* BAC proposed the establishment of an Asian Bioethics Network to facilitate the sharing of
 resources, enable knowledge exchange and help foster regional networks <br>
 
 * Such a network would mutually benefit all participants by allowing the various committees to be kept abreast of the latest international developments in bioethics, and ensure that their
