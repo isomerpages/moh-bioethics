@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Introduction
 ---
 ## Composition of the Bioethics Advisory Committee <br>
-(1 Jan 2020 to 31 Dec)<Br>
+(1 Jan 2020 to 31 Dec 2020)<Br>
 
 **Patron**<br>
 **Dr Tony Tan Keng Yam** <br>
