@@ -4,8 +4,7 @@ permalink: /Introduction/Its-Members
 description: ""
 third_nav_title: Introduction
 ---
-Composition of the Bioethics Advisory Committee
-(1 Jan 2020 to 31 Dec)
+Composition of the Bioethics Advisory Committee (1 Jan 2020 to 31 Dec)
 Patron
 Dr Tony Tan Keng Yam     
 Emeritus Advisor Emeritus Professor Lim Pin
