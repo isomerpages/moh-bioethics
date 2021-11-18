@@ -9,9 +9,9 @@ third_nav_title: Introduction
 <br>
 **Patron**<br>
 **Dr Tony Tan Keng Yam** <br>
-Emeritus Advisor Emeritus Professor Lim pin<br>
 Chair Mr Richard Magnus<br>
-Deputy Chair Professor Kon Oi Lian
+Deputy Chair Professor Kon Oi Lian<br>
+Emeritus Advisor Emeritus Professor Lim Pin<br>
 <br>
 <br>
 **Members**<Br>
