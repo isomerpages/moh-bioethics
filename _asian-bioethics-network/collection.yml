@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Introduction/.keep
-      - Introduction/What is the Asian Bioethics Network?.md
+      - Introduction/Introduction to the Asian Bioethics Network (ABN).md
       - Introduction/Objectives of the ABN.md
       - Introduction/Members of the ABN.md
       - Summary/.keep
