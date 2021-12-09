@@ -2,10 +2,10 @@ collections:
   asian-bioethics-network:
     output: true
     order:
-      - Member States.md
       - Introduction.md
+      - Member States.md
       - Summary/.keep
       - Summary/Meeting agenda decisions.md
       - Summary/Attendees.md
-      - Summary of first ABN meeting /Example.md
       - Summary of first ABN meeting /.keep
+      - Summary of first ABN meeting /Example.md
