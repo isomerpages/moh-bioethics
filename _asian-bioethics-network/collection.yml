@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Introduction/.keep
-      - Introduction/Members of the ABN.md
-      - Introduction/Objectives of the ABN.md
       - Introduction/Why BAC established the ABN.md
+      - Introduction/Objectives of the ABN.md
+      - Introduction/Members of the ABN.md
       - Summary/.keep
       - Summary/Meeting agenda decisions.md
       - Summary/Attendees.md
