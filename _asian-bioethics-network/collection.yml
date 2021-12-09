@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Introduction.md
-      - Introduction/.keep
       - Summary/.keep
       - Summary/Meeting agenda decisions.md
       - Summary/Attendees.md
