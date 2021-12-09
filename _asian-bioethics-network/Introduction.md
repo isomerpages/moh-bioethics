@@ -3,7 +3,11 @@ title: Introduction
 permalink: /asian-bioethics-network/ABN-Introduction
 description: ""
 ---
-* BAC proposed the establishment of an Asian Bioethics Network to facilitate the sharing of
+### **Introduction**
+
+In 2021, the BAC established the Asian Bioethics Network (ABN). The Asian Bioethics Network is a 
+
+to facilitate the sharing of
 resources, enable knowledge exchange and help foster regional networks <br>
 
 * Such a network would mutually benefit all participants by allowing the various committees to be kept abreast of the latest international developments in bioethics, and ensure that their
@@ -21,3 +25,7 @@ establish an Asian Bioethics Network<br>
 * Establish a website for the Asian Bioethics Network to facilitate sharing of resources
 and knowledge exchange to enable each country to share their publications, reports
 and public education programmes with all other members of the network<br>
+
+### **Objectives**
+
+### **Plans for 2021**
