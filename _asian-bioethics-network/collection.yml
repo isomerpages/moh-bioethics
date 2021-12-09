@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Introduction/.keep
-      - Introduction/Why BAC established the ABN.md
+      - Introduction/What is the Asian Bioethics Network?.md
       - Introduction/Objectives of the ABN.md
       - Introduction/Members of the ABN.md
       - Summary/.keep
