@@ -2,6 +2,7 @@ collections:
   asian-bioethics-network:
     output: true
     order:
+      - Introduction.md
       - Introduction/.keep
       - Introduction/Introduction.md
       - Introduction/Members of the ABN.md
