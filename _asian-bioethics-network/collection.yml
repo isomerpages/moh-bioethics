@@ -2,10 +2,10 @@ collections:
   asian-bioethics-network:
     output: true
     order:
-      - Past Meetings/10 June 2021.md
-      - Past Meetings/.keep
       - Introduction.md
       - Member States.md
+      - Past Meetings/.keep
+      - Past Meetings/10 June 2021.md
       - Summary/.keep
       - Summary/Meeting agenda decisions.md
       - Summary/Attendees.md
