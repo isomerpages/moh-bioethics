@@ -13,7 +13,7 @@ Recognising the value of establishing an informal network amongst such countries
 2. To facilitate sharing of bioethics resources and programmes and to exchange information and knowledge among the countries; and 
 3. To ensure that the value and importance of bioethics are carried into future generations
 
-The ABN aims to be collaborative and complement the WHO's Asia-Pacific National Ethics Committee (APNEC) network as well as UNESCO's Bioethics Programme in providing a platform for Asian countries to share ethical views from their unique cultural perspectives and discuss collaborations with one another.
+The ABN aims to be collaborative and complements the WHO's Asia-Pacific National Ethics Committee (APNEC) network as well as UNESCO's Bioethics Programme in providing a platform for Asian countries to share ethical views from their unique cultural perspectives and discuss collaborations with one another.
 
 ### **Plans for 2022**
 
