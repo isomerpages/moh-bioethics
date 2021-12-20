@@ -2,10 +2,10 @@ collections:
   asian-bioethics-network:
     output: true
     order:
-      - Future Plans.md
       - Introduction.md
       - Member States.md
       - Past Meetings/.keep
       - Past Meetings/10 June 2021.md
+      - Future Plans.md
       - Summary of first ABN meeting /.keep
       - Summary of first ABN meeting /Example.md
