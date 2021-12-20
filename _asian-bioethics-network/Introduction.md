@@ -7,13 +7,13 @@ description: ""
 
 Asian countries, together with Australia and New Zealand, though unique in many ways, share similar cultural contexts, and can benefit from one another's experiences in tackling bioethical issues.  
 
-Therefore, in 2021, the BAC recognised the value of establishing an informal network amongst such countries and led the formation of an Asian Bioethics Network (ABN) to:  
+Recognising the value of establishing an informal network amongst such countries, the BAC initiated the formation of the Asian Bioethics Network (ABN) in 2021 to:  
 
 1. To foster regional networks and achieve a more consolidated front at international bioethics events that better represent the perspectives of shared Asian values and needs; 
 2. To facilitate sharing of bioethics resources and programmes and to exchange information and knowledge among the countries; and 
 3. To ensure that the value and importance of bioethics are carried into future generations
 
-The ABN is meant to be collaborative and complement the WHO's Asia-Pacific National Ethics Committee (APNEC) network as well as UNESCO's Bioethics Programme in providing a platform for Asian countries to share ethical views from their unique cultural perspectives and discuss collaborations with one another.
+The ABN aims to be collaborative and complement the WHO's Asia-Pacific National Ethics Committee (APNEC) network as well as UNESCO's Bioethics Programme in providing a platform for Asian countries to share ethical views from their unique cultural perspectives and discuss collaborations with one another.
 
 ### **Plans for 2022**
 
