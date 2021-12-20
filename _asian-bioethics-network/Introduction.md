@@ -5,27 +5,16 @@ description: ""
 ---
 ### **Introduction**
 
-In 2021, the BAC established the Asian Bioethics Network (ABN). The Asian Bioethics Network is a 
+Asian countries, together with Australia and New Zealand, though unique in many ways, share similar cultural contexts, and can benefit from one another's experiences in tackling bioethical issues.  
 
-to facilitate the sharing of
-resources, enable knowledge exchange and help foster regional networks <br>
+Therefore, in 2021, the BAC recognised the value of establishing an informal network amongst such countries and led the formation of an Asian Bioethics Network (ABN) to:  
 
-* Such a network would mutually benefit all participants by allowing the various committees to be kept abreast of the latest international developments in bioethics, and ensure that their
-recommendations were developed in tandem with international best practices <br>
+1. To foster regional networks and achieve a more consolidated front at international bioethics events that better represent the perspectives of shared Asian values and needs
+2. To facilitate sharing of bioethics resources and programmes and to exchange information and knowledge among the countries; and 
+3. To ensure that the value and importance of bioethics are carried into future generations
 
-* With continued relationship building, the network participants would also be better able to
-converge on ethical positions and represent the Asian perspective at international platforms<br>
+The ABN is meant to be collaborative and complement the WHO's Asia-Pacific National Ethics Committee (APNEC) network as well as UNESCO's Bioethics Programme in providing a platform for Asian countries to share ethical views from their unique cultural perspectives and discuss collaborations with one another.
 
-* Participants at the inaugural Asian Bioethics Meeting on 10 Jun 2021 held as part
-of the BAC’s 20 th Anniversary event were supportive of BAC’s proposal to
-establish an Asian Bioethics Network<br>
+### **Plans for 2022**
 
-* Meeting agreed to have regular annual or biennial meetings between members in the network<br>
-
-* Establish a website for the Asian Bioethics Network to facilitate sharing of resources
-and knowledge exchange to enable each country to share their publications, reports
-and public education programmes with all other members of the network<br>
-
-### **Objectives**
-
-### **Plans for 2021**
+As discussed at the 10 June 2021 meeting, the BAC is currently working on developing an ABN webpage which will function as a digital repository for countries to share their programmes, work, and publications with one another. This digital repository is currently in development and will be completed in 2022. 
