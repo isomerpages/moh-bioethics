@@ -1,9 +1,12 @@
 ---
 title: Ethics Guidelines for Human Biomedical Research (2021 Revised)
 date: 2021-10-27
-permalink: /publications/publications/bacethicsguidelines2021
+permalink: /publications/reports/bac-ethics-guidelines-2021
 layout: post
+description: ""
 ---
+
+
 **Ethics Guidelines for Human Biomedical Research 2021 Revised** <br>
 *27 October 2021*
 

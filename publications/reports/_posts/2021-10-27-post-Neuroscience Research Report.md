@@ -1,9 +1,12 @@
 ---
 title: Neuroscience Research Report
 date: 2021-10-27
-permalink: /publications/bacneurosciencereport
+permalink: /publications/reports/bac-neuroscience-report
 layout: post
+description: ""
 ---
+
+
 **Neuroscience Research Report** <br>
 *27 October 2021*
 

@@ -3,11 +3,13 @@ links:
   - title: Who We Are
     collection: who-we-are
   - title: Bioethics Resource
-    collection: bioethics-resource
+    collection: activities
   - title: Activities
     collection: activities
   - title: Publications
     resource_room: true
+  - title: Asian Bioethics Network
+    collection: asian-bioethics-network
   - title: FAQ
     url: /faq/
   - title: Contact Us
