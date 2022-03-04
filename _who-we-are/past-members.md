@@ -20,6 +20,10 @@ Department of Philosophy, National University of Singapore<br>
 Head, Civil Division, Attorney-General’s Chambers<br>
 (2001 to 2004)
 
+**Ms Chang Ai-Lien**<br>
+Health & Science Editor, The Straits Times<br>
+(2016 to 2021)
+
 **Mr Cheong Yip Seng**<br>
 Editor-in-Chief, Singapore Press Holdings<br>
 (2001 to 2004)
@@ -118,6 +122,10 @@ National University of Singapore<br>
 (2007 - 2017) 
 
 ### **Past Advisors on the BAC's International Panel of Experts**
+
+**Professor Peter Braude**<br>
+Emeritus Professor of Obstetrics and Gynaecology, School of Medicine, King’s College London, UK<br>
+(2014-2022)
 
 **Professor Steven Hyman**<br>
 Director, Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, USA<br>
