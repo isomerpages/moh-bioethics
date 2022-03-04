@@ -125,7 +125,7 @@ National University of Singapore<br>
 
 **Professor Peter Braude**<br>
 Emeritus Professor of Obstetrics and Gynaecology, School of Medicine, King’s College London, UK<br>
-(2014-2022)
+(2014-2021)
 
 **Professor Steven Hyman**<br>
 Director, Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, USA<br>
