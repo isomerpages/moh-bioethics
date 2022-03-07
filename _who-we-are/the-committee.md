@@ -30,12 +30,20 @@ Chief District Judge (ret.)
 Adjunct Professor<br>
 Duke-NUS Medical School 
 
-**Ms Chang Ai-Lien**<br>
-Health & Science Editor<br>
-The Straits Times
+**Deputy Chair**<br>
+**Professor Lee Eng Hin**<br>
+Emeritus Consultant<br>
+Division of Paediatrics Orthopaedic Surgery<br>
+Department of Orthopaedic Surgery<br> 
+National University Hospital  
 
-**Associate Professor Chin Jing Jih**<br>
-Chairman, Medical Board,<br>
+**Dr Chew Wei Leong**<br>
+Associate Director (Genome Design) and Senior Research Scientist<br> 
+Genome Institute of Singapore<br>
+Adjunct Assistant Professor, National University of Singapore 
+
+**Professor Chin Jing Jih**<br>
+Chairman, Medical Board<br>
 Senior Consultant, Department of Geriatric Medicine<br> 
 Tan Tock Seng Hospital
 
@@ -44,11 +52,9 @@ Emeritus Consultant, Department of Neonatology<br>
 Khoo Teck Puat - National University Children's Medical Institute,<br> 
 National University Hospital
 
-**Professor Lee Eng Hin**<br>
-Emeritus Consultant<br>
-Division of Paediatric Orthopaedic Surgery<br>
-Department of Orthopaedic Surgery<br> 
-National University Hospital  
+**Associate Professor Lai Poh San**<br>
+Associate Professor, Department of Paediatrics<br>
+Deputy Chairman, NUS Institutional Biosafety Committee, National University of Singapore<br>
 
 **Mr Charles Lim Aeng Cheng**<br>
 Principal Senior State Counsel<br>
@@ -64,8 +70,13 @@ Mufti<br>
 Office of the Mufti<br>
 Islamic Religious Council of Singapore (MUIS)
 
+**Associate Professor Professor Ngiam Kee Yuan**<br>
+Group Chief Technology Officer, National University Health System<br>
+Senior Consultant, Division of Thyroid and Endocrine Surgery<br> 
+National University Hospital and Alexandra Hospital<br>       
+
 **Professor Vineeta Sinha**<br>
-Head, Department of Sociology<br>
+Department of Sociology<br>
 Faculty of Arts and Social Sciences<br>
 National University of Singapore
 
@@ -79,9 +90,20 @@ Professor of Philosophy, Lee Kong Chian Research Fellow<br>
 Academic Director (Politics-Law-Economics major), School of Social Sciences<br>
 Singapore Management University
 
+**Mr Tan Sze Yao**<br>
+Director, Legal Office<br>
+Ministry of Health, Singapore<br>
+
+**Ms Joyce Teo**<br>
+Senior Health Correspondent<br>
+The Straits Times<br>
+
 **Mr Gregory Vijayendran**<br>
-Equity Partner, Rajah & Tann Singapore LLP; and<br>
-President, The Law Society of Singapore
+Equity Partner, Rajah & Tann Singapore LLP<br>
+
+**Dr Voo Teck Chuan**<br>
+Assistant Professor, Centre for Biomedical Ethics<br>
+Yong Loo Lin School of Medicine, National university of Singapore<br>
 
 ### **Advisors**
 
