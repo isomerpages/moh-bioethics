@@ -6,9 +6,6 @@ description: In Fond Memory of Late Chief District Judge (Retired) Richard
   Magnus (January 2011 to March 2022)
 image: /images/Mr Richard Magnus_ebooklet1.png
 ---
-
-
-
 ![](/images/Mr%20Richard%20Magnus_upright1.jpg)
 
 The Bioethics Advisory Committee (BAC) is saddened at the passing away of late Chief District Judge (Ret.) Richard Magnus on 14 March 2022 and would like to express its deepest condolences to Mr Magnus’s family, friends and colleagues through this note:
