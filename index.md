@@ -2,7 +2,7 @@
 layout: homepage
 title: Bioethics Advisory Committee Singapore
 permalink: /
-notification: In fond memory of Late Chief District Judge (Ret.) Mr Richard Magnus
+notification: (Testing) In fond memory of Late Chief District Judge (Ret.) Mr Richard Magnus
 sections:
   - hero:
       title: Bioethics Advisory Committee Singapore
