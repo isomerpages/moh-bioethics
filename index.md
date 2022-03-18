@@ -24,7 +24,7 @@ sections:
           description: More information here
           url: /activities/current-projects
   - infopic:
-      title: "the late Chief District Judge (Ret.) Mr Richard Magnus "
+      title: "The late Chief District Judge (Ret.) Mr Richard Magnus "
       subtitle: In fond memory of
       description: Chair, Bioethics Advisory Committee (Jan 2011 - Mar 2022)
       button: Condolence note from the BAC
