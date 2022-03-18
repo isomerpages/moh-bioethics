@@ -1,11 +1,8 @@
 ---
-title: 'The Committee'
+title: The Committee
 permalink: /who-we-are/the-committee/
-breadcrumb: 'The Committee'
-
+breadcrumb: The Committee
 ---
-
-
 ### **Bioethics Advisory Committee**
 
 **BAC Patron**<br>
@@ -23,7 +20,7 @@ National University of Singapore
 
 **Chair**<br>
 **Mr Richard Magnus**<br>
-Chief District Judge (ret.)
+Late Chief District Judge (Ret.)
 
 **Deputy Chair**<br>
 **Professor Kon Oi Lian**<br>
@@ -70,7 +67,7 @@ Mufti<br>
 Office of the Mufti<br>
 Islamic Religious Council of Singapore (MUIS)
 
-**Associate Professor Professor Ngiam Kee Yuan**<br>
+**Associate Professor Ngiam Kee Yuan**<br>
 Group Chief Technology Officer, National University Health System<br>
 Senior Consultant, Division of Thyroid and Endocrine Surgery<br> 
 National University Hospital and Alexandra Hospital<br>       
