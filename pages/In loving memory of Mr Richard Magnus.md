@@ -4,7 +4,6 @@ permalink: /inlovingmemory/RichardMagnus
 description: In Loving Memory of the Late Chief District Judge (Ret.) Richard Magnus
 image: /images/Mr Richard Magnus_ebooklet1.png
 ---
-
 ![](/images/Mr%20Richard%20Magnus_upright1.jpg)
 
 The Bioethics Advisory Committee (BAC) is saddened at the passing away of the late Chief District Judge (Ret.) Richard Magnus on 14 March 2022 and would like to express its deepest condolences to Mr Magnus’s family, friends and colleagues through this note:
@@ -28,4 +27,10 @@ Mr Magnus was an honourable leader and a great man. He lived his life with integ
 The demise of the late Mr Magnus is an immense loss to the BAC and Singapore. He will be missed but the legacy which he built will live on.
 
 *In loving memory of the late Chief District Judge (Ret.) Richard Magnus, with sincerest condolences from all past and current members of the Bioethics Advisory Committee and the Biomedical Ethics Coordinating Office (BAC Secretariat), Ministry of Health (MOH).*
-	
+
+**Past members of the BAC: Associate Professor David Chan Kum Wah, Mr Jeffrey Chan Wah Teck, Ms Chang Ai-Lien, Mr Cheong Yip Seng, Mr Han Fook Kwang, Associate Professor Terry Kaan Sheung-Hung, 
+Mr Ahmad Khalis Bin Abdul Ghani, Professor Eddie Kuo Chen-Yu, Professor Lee Hin Peng, Ms Lim Soo Hoon, 
+Professor Edison Liu, Mr Niam Chiang Meng, Associate Professor Nuyen Anh Tuan, Prof Ong Yong Yau, Professor Tan Chorh Chuan, Professor Yap Hui Kim, Mr Zainul Abidin Rasheed, Associate Professor Ngiam Tee Liang, Dr Mary Ann Tsao, Mr Alfian Yasrif Bin Kuchit, Professor Ng Soon Chye, Professor K Satkunanantham, Professor Alastair V. Campbell**
+
+**Current members of the BAC: Dr Tony Tan, Professor Lim Pin, Professor Kon Oi Lian, Professor Lee Eng Hin, Dr Chew Wei Leong, Professor Chin Jing Jih, Associate Professor Roy Joseph, Associate Professor Lai Poh San, Mr Charles Lim Aeng Cheng, Associate Professor Lim Tit Meng, Dr Nazirudin Bin Mohd Nasir, Associate Professor Professor Ngiam Kee Yuan, 
+Professor Vineeta Sinha, Professor Patrick Tan Boon Ooi, Professor Tan Sor Hoon, Mr Tan Sze Yao, Ms Joyce Teo, Mr Gregory Vijayendran, Dr Voo Teck Chuan**
