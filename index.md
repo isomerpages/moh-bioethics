@@ -23,6 +23,14 @@ sections:
         - title: Current Projects
           description: More information here
           url: /activities/current-projects
+  - infopic:
+      title: "Mr Richard Magnus "
+      subtitle: "In loving memory of "
+      description: Chair, Bioethics Advisory Committee (Jan 2011 - Mar 2022)
+      button: Condolences from the BAC
+      url: https://www.bioethics-singapore.gov.sg/inlovingmemory/richardmagnus
+      image: /images/Mr Richard Magnus_ebooklet1.png
+      alt: Image alt text
   - resources:
       title: Be in the know
       subtitle: Publications
