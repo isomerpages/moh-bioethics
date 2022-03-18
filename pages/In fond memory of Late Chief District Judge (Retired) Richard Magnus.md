@@ -24,9 +24,9 @@ Mr Magnus actively participated in various international bioethics platforms, in
 
 Mr Magnus was an honourable leader and a great man. He lived his life with integrity, purpose, dignity, service, honour and the highest set of moral values. The BAC was privileged to have been led under Mr Magnus’s wise leadership. He was instrumental not only in the works of the BAC, but contributed immensely to the Judiciary and Public Service agencies that benefited the public at large. He was conferred the Public Administration Medal (Gold) (Bar) in 2003, the Meritorious Service Medal in 2009, the Public Service Star Medal in 2015 and the Distinguished Service Order for the 2021 National Day Awards for his contributions to Public Service.
 
-The demise of the late Mr Magnus is an immense loss to the BAC and Singapore. He will be missed but the legacy which he built will live on.
+The demise of late Mr Magnus is an immense loss to the BAC and Singapore. He will be missed but the legacy which he built will live on.
 
-*This note is written in fond memory of the late Chief District Judge (Ret.) Richard Magnus and dedicated to his family, friends and colleagues, with sincerest condolences from all past and current members of the Bioethics Advisory Committee and the Biomedical Ethics Coordinating Office (BAC Secretariat), Ministry of Health (MOH).*
+*This note is written in fond memory of late Chief District Judge (Ret.) Richard Magnus and dedicated to his family, friends and colleagues, with sincerest condolences from all past and current members of the Bioethics Advisory Committee and the Biomedical Ethics Coordinating Office (BAC Secretariat), Ministry of Health (MOH).*
 
 *Past members of the BAC: Associate Professor David Chan Kum Wah, Mr Jeffrey Chan Wah Teck, Ms Chang Ai-Lien, Mr Cheong Yip Seng, Mr Han Fook Kwang, Associate Professor Terry Kaan Sheung-Hung, 
 Mr Ahmad Khalis Bin Abdul Ghani, Professor Eddie Kuo Chen-Yu, Professor Lee Hin Peng, Ms Lim Soo Hoon, 
