@@ -18,9 +18,9 @@ National University Hospital; and<br>
 Professor of Medicine<br>
 National University of Singapore
 
-**Chair**<br>
+**(Late) Chair (Jan 2011-Mar 2022)**<br>
 **Mr Richard Magnus**<br>
-Late Chief District Judge (Ret.)
+Chief District Judge (Ret.)
 
 **Deputy Chair**<br>
 **Professor Kon Oi Lian**<br>
