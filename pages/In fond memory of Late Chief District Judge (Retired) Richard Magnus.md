@@ -4,13 +4,9 @@ permalink: /infondmemory/RichardMagnus
 description: In Fond Memory of Late Chief District Judge (Retired) Richard Magnus
 image: /images/Mr Richard Magnus_ebooklet1.png
 ---
-
-
-
-
 ![](/images/Mr%20Richard%20Magnus_upright1.jpg)
 
-The Bioethics Advisory Committee (BAC) is saddened at the passing away of the late Chief District Judge (Ret.) Richard Magnus on 14 March 2022 and would like to express its deepest condolences to Mr Magnus’s family, friends and colleagues through this note:
+The Bioethics Advisory Committee (BAC) is saddened at the passing away of late Chief District Judge (Ret.) Richard Magnus on 14 March 2022 and would like to express its deepest condolences to Mr Magnus’s family, friends and colleagues through this note:
 
 **Major Accomplishments**
 
