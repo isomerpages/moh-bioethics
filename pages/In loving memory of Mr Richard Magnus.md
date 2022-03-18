@@ -5,8 +5,10 @@ description: In Loving Memory of the Late Chief District Judge (Ret.) Richard
   Magnus [Bioethics Advisory Committee, Singapore, Chair from 2011 to 2022]
 image: /images/Mr Richard Magnus_ebooklet1.png
 ---
-
 ![](/images/Mr%20Richard%20Magnus_upright1.jpg)
+
+<p align="justify/left/right/center">
+
 
 The Bioethics Advisory Committee (BAC) is saddened at the passing away of the late Chief District Judge (Ret.) Richard Magnus on 14 March 2022 and would like to express its deepest condolences to Mr Magnus’s family, friends and colleagues through this note:
 
@@ -29,3 +31,5 @@ Mr Magnus was an honourable leader and a great man. He lived his life with integ
 The demise of the late Mr Magnus is an immense loss to the BAC and Singapore. He will be missed but the legacy which he built will live on.
 
 *In loving memory of the late Chief District Judge (Ret.) Richard Magnus, with sincerest condolences from all past and current members of the Bioethics Advisory Committee and the Biomedical Ethics Coordinating Office (BAC Secretariat), Ministry of Health (MOH).*
+	
+	</p>
