@@ -31,12 +31,6 @@ sections:
       url: /inlovingmemory/richardmagnus
       image: /images/Mr Richard Magnus_ebooklet1.png
       alt: Image alt text
-  - infobar:
-      title: "Mr Richard Magnus "
-      subtitle: "In loving memory of "
-      description: Chair, Bioethics Advisory Committee (Jan 2011 - Mar 2022)
-      button: Condolences from the BAC
-      url: /inlovingmemory/richardmagnus
   - resources:
       title: Be in the know
       subtitle: Publications
