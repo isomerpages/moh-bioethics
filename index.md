@@ -24,11 +24,11 @@ sections:
           description: More information here
           url: /activities/current-projects
   - infopic:
-      title: "Mr Richard Magnus "
-      subtitle: "In loving memory of "
+      title: "the late Chief District Judge (Ret.) Mr Richard Magnus "
+      subtitle: In fond memory of
       description: Chair, Bioethics Advisory Committee (Jan 2011 - Mar 2022)
-      button: Condolences from the BAC
-      url: /inlovingmemory/richardmagnus
+      button: Condolence note from the BAC
+      url: /infondmemory/richardmagnus
       image: /images/Mr Richard Magnus_ebooklet1.png
       alt: Image alt text
   - resources:
