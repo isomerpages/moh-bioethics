@@ -2,8 +2,10 @@
 layout: homepage
 title: Bioethics Advisory Committee Singapore
 permalink: /
-notification: "'(Testing) In fond memory of Late Chief District Judge (Ret.) Mr
-  Richard Magnus <a href=\"/infondmemory/richardmagnus\">condolence note </a>'"
+notification: (Testing) In fond memory of Late Chief District Judge (Ret.) Mr
+  Richard Magnus '<a
+  href="https://isomer-bioethics-staging.netlify.app/infondmemory/richardmagnus">condolence
+  note</a>'
 sections:
   - hero:
       title: Bioethics Advisory Committee Singapore
