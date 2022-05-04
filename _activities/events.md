@@ -2,9 +2,15 @@
 title: Events
 permalink: /activities/events/
 breadcrumb: Events
-
 ---
+### **2021**
 
+<table class="table-v">
+	<tr>
+		<td>17-18 June</td>
+		<td>Bioethics Advisory Committee's 20th Anniversary Virtual Public Conference</td>
+	</tr>
+	</table>
 
 ### **2019**
 
