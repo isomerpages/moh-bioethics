@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - overview.md
-      - the-committee.md
+      - The Committee.md
       - what-we-do.md
       - ethical-principles.md
       - past-members.md
