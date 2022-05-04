@@ -1,12 +1,13 @@
 ---
-title: 'Past Members'
+title: Past Members
 permalink: /who-we-are/past-members/
-breadcrumb: 'Past Members'
-
+breadcrumb: Past Members
 ---
-
-
 ### **Past Members of the Bioethics Advisory Committee**
+
+**Mr Richard Magnus**<br>
+Chief District Judge (Ret.)<br>
+((Late) Chairman from January 2011 to March 2022)
 
 **Professor Lim Pin**<br>
 University Professor, National University of Singapore<br>
@@ -153,4 +154,4 @@ Director, Centre of Genomics and Policy, Faculty of Medicine, Department of Huma
 
 **Dr Thomas H. Murray**<br>
 President and CEO, The Hastings Center, USA<br>
-(2005 to 2012)	
+(2005 to 2012)
