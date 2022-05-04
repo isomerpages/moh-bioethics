@@ -4,7 +4,6 @@ permalink: /who-we-are/the-committee/
 breadcrumb: The Committee
 description: ""
 ---
-
 ### **Bioethics Advisory Committee**
 
 **BAC Patron**<br>
@@ -24,17 +23,19 @@ National University of Singapore
 **Mr Richard Magnus**<br>
 Chief District Judge (Ret.)
 
+**Chair**<br>
+**Professor Lee Eng Hin**<br>
+Department of Orthopaedic Surgery<br>
+Yong Loo Lin School of Medicine<br>
+National University of Singapore<br>
+Emeritus Consultant<br>
+Division of Paediatrics Orthopaedics<br>
+National University Hospital  
+
 **Deputy Chair**<br>
 **Professor Kon Oi Lian**<br>
 Adjunct Professor<br>
-Duke-NUS Medical School 
-
-**Deputy Chair**<br>
-**Professor Lee Eng Hin**<br>
-Emeritus Consultant<br>
-Division of Paediatrics Orthopaedic Surgery<br>
-Department of Orthopaedic Surgery<br> 
-National University Hospital  
+Duke-NUS Medical School
 
 **Dr Chew Wei Leong**<br>
 Associate Director (Genome Design) and Senior Research Scientist<br> 
