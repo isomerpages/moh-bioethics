@@ -19,10 +19,6 @@ National University Hospital; and<br>
 Professor of Medicine<br>
 National University of Singapore
 
-**(Late) Chair (Jan 2011-Mar 2022)**<br>
-**Mr Richard Magnus**<br>
-Chief District Judge (Ret.)
-
 **Chair**<br>
 **Professor Lee Eng Hin**<br>
 Department of Orthopaedic Surgery<br>
