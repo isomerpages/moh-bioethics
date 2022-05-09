@@ -16,7 +16,7 @@ breadcrumb: Events
 	</tr>
 	<tr>
 		<td>10 June</td>
-		<td>Bioethics Advisory Committee's (BAC) 20th Anniversary Pre-Conference: Asian Bioethics Meeting</td>
+		<td>Bioethics Advisory Committee's (BAC) 20th Anniversary Pre-Conference: Asian Bioethics Network Meeting</td>
 	</tr>
 	</table>
 	
