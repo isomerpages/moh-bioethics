@@ -21,7 +21,7 @@ National University of Singapore
 
 **Chair**<br>
 **Professor Lee Eng Hin**<br>
-Department of Orthopaedic Surgery<br>
+Professor, Department of Orthopaedic Surgery<br>
 Yong Loo Lin School of Medicine<br>
 National University of Singapore<br>
 Emeritus Consultant<br>
