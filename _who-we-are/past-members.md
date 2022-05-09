@@ -5,7 +5,7 @@ breadcrumb: Past Members
 ---
 ### **Past Members of the Bioethics Advisory Committee**
 
-**Mr Richard Magnus**<br>
+**Late Mr Richard Magnus**<br>
 Chief District Judge (Ret.)<br>
 ((Late) Chairman from January 2011 to March 2022)
 
