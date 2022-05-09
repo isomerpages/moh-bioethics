@@ -24,7 +24,7 @@ The BAC has issued numerous recommendations addressing specific issues in human 
 
 **2. Who are the members of the BAC?**
 
-The BAC is currently chaired by Professor Lee Eng Hin, and comprises 18 other members, who are well-respected experts from fields including medicine, life sciences, law, public policy, and philosophy. The current list of members can be found [here](/who-we-are/the-committee/){:target="_blank"}.
+The BAC is currently chaired by Professor Lee Eng Hin, Department of Orthopaedic Surgery, National University of Singapore; and Emeritus Consultant, National University Hospital and comprises 18 other members, who are well-respected experts from fields including medicine, life sciences, law, public policy, and philosophy. The current list of members can be found [here](/who-we-are/the-committee/){:target="_blank"}.
 
 ---
 
