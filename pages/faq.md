@@ -16,12 +16,15 @@ The BAC has issued numerous recommendations addressing specific issues in human 
 - Donation of Human Eggs for Research (2008)
 - Human-Animal Combinations in Stem Cell Research (2010)
 - Ethics Guidelines for Human Biomedical Research (2015)
+- Neuroscience Research Report (2021)
+- Interim Report on Mitochondrial Genome Replacement Technology (2021)
+- Ethics Guidelines for Human Biomedical Research (2021 Revised)
 
 ---
 
 **2. Who are the members of the BAC?**
 
-The BAC is currently chaired by Judge (ret.) Richard Magnus, and comprises 14 other members, who are well-respected experts from fields including medicine, life sciences, law, public policy, and philosophy. The current list of members can be found [here](/who-we-are/the-committee/){:target="_blank"}.
+The BAC is currently chaired by Professor Lee Eng Hin, and comprises 18 other members, who are well-respected experts from fields including medicine, life sciences, law, public policy, and philosophy. The current list of members can be found [here](/who-we-are/the-committee/){:target="_blank"}.
 
 ---
 
