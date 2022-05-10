@@ -117,8 +117,11 @@ Professor Lim was the longest serving appointee with 19 years of service as Vice
 
 ##### **International Panel of Experts**
 
-**Professor Peter Braude, FMedSci**<br>
-Emeritus Professor of Obstetrics and Gynaecology,<br>
-School of Medicine, King’s College London, UK
+**Professor Kazuto Kato, PhD**<br>
+Department of Biomedical Ethics and Public Policy,<br>
+Graduate School of Medicine, Osaka University, Japan
 
-Professor Peter Braude was Head of the Department of Women's Health at King’s College London (UK) until his retirement in 2011. He directed the Centre for Pre-implantation Genetic Diagnosis at Guy’s and St Thomas Hospital, which is the most active and successful of the HFEA licensed programmes in the UK. Previously in Cambridge, he led one of the first groups to be funded by the UK Medical Research Council to carry out research using human embryos fertilised in vitro. He was a former member of the Human Fertilisation and Embryology Authority from 1999 to 2004, and chair of the Scientific Advisory Committee for the Royal College of Obstetricians and Gynaecologists from 2004 to 2007. He currently sits on the committee for the Safety of Blood, Tissues and Organs.
+Professor Kazuto Kato has served as a member of various international projects such as Ethics Committee of Human Genome Organization (HUGO), ELSI group of International HapMap Project, Ethics and Policy Committee of the ICGC (International Cancer Genome Consortium) and the World Health Organization (WHO) Expert Advisory Committee whose role is to develop global standards for governance and oversight of human genome editing. Since 2010, Professor Kato has been directing a new research group, the Research Unit for the ELSI of Genomics to carry out analysis of ethical, legal and social implications of human genome research, particularly focusing on the whole genome and exome analysis.<br>sorial 
+
+**Professor Graeme Laurie**<br>
+Profes
