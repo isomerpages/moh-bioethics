@@ -124,4 +124,7 @@ Graduate School of Medicine, Osaka University, Japan
 Professor Kazuto Kato has served as a member of various international projects such as Ethics Committee of Human Genome Organization (HUGO), ELSI group of International HapMap Project, Ethics and Policy Committee of the ICGC (International Cancer Genome Consortium) and the World Health Organization (WHO) Expert Advisory Committee whose role is to develop global standards for governance and oversight of human genome editing. Since 2010, Professor Kato has been directing a new research group, the Research Unit for the ELSI of Genomics to carry out analysis of ethical, legal and social implications of human genome research, particularly focusing on the whole genome and exome analysis.<br>sorial 
 
 **Professor Graeme Laurie**<br>
-Profes
+Professorial Fellow<br>
+School of Law, University of Edinburgh, Scotland
+
+Professor Graeme Laurie is the Founding Director of the J Kenyon Mason Institute for Medicine, Life Sciences and the Law and was the Chair of Medical Jurisprudence in the School of Law at the University of Edinburgh from 2005 to 2019. He is also the current editor-in-chief of the Asian Bioethics Review. He has held numerous appointments including Chair of the UK Biobank Ethics and Governance Council (2006-2010), and Chair of the Privacy Advisory Committee in Scotland (2005-2013). From 2009 to 2015, he was also an active member of the British Medical Association Medical Ethics Committee and the Nuffield Council for Bioethics. In 2019, he assumed membership of the International Council of Reference for Health Data Research in UK.
