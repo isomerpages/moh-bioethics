@@ -123,7 +123,7 @@ Graduate School of Medicine, Osaka University, Japan
 
 Professor Kazuto Kato has served as a member of various international projects such as the Ethics Committee of Human Genome Organization (HUGO), ELSI group of International HapMap Project, Ethics and Policy Committee of the ICGC (International Cancer Genome Consortium) and the World Health Organization (WHO) Expert Advisory Committee whose role is to develop global standards for governance and oversight of human genome editing. Since 2010, Professor Kato has been directing a new research group, the Research Unit for the ELSI of Genomics to carry out analysis of ethical, legal and social implications of human genome research, particularly focusing on the whole genome and exome analysis.<br>sorial 
 
-**Professor Graeme Laurie**<br>
+**Professor Graeme Laurie, LLB, PhD, FRSE, FRCPE, FMedSci**<br>
 Professorial Fellow<br>
 School of Law, University of Edinburgh, Scotland
 
