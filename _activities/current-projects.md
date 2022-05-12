@@ -11,3 +11,7 @@ breadcrumb: Current Projects
 **Ethical, Legal and Social Issues Arising from Human Nuclear Genome Editing**
 
 **Casebook of Medico-Legal Cases in Singapore**
+
+**Establishment of a 'Bioethics Corner' at the Lee Kong Chian Reference Library**
+
+**Revamp of the Bioethics Exhibition at the Science Centre Singapore**
