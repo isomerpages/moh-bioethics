@@ -35,7 +35,7 @@ Duke-NUS Medical School
 
 **Dr Chew Wei Leong**<br>
 Associate Director (Genome Design) and Senior Research Scientist<br> 
-Genome Institute of Singapore<br>
+Genome Institute of Singapore; and<br>
 Adjunct Assistant Professor, National University of Singapore 
 
 **Professor Chin Jing Jih**<br>
@@ -49,7 +49,7 @@ Khoo Teck Puat - National University Children's Medical Institute,<br>
 National University Hospital
 
 **Associate Professor Lai Poh San**<br>
-Associate Professor, Department of Paediatrics<br>
+Associate Professor, Department of Paediatrics; and<br>
 Deputy Chairman, NUS Institutional Biosafety Committee, National University of Singapore<br>
 
 **Mr Charles Lim Aeng Cheng**<br>
@@ -67,7 +67,7 @@ Office of the Mufti<br>
 Islamic Religious Council of Singapore (MUIS)
 
 **Associate Professor Ngiam Kee Yuan**<br>
-Group Chief Technology Officer, National University Health System<br>
+Group Chief Technology Officer, National University Health System; and<br>
 Senior Consultant, Division of Thyroid and Endocrine Surgery<br> 
 National University Hospital and Alexandra Hospital<br>       
 
@@ -82,7 +82,7 @@ Executive Director, Genome Institute of Singapore; and<br>
 Director, SingHealth Duke-NUS Institute of Precision Medicine (PRISM)
 
 **Professor Tan Sor Hoon**<br>
-Professor of Philosophy, Lee Kong Chian Research Fellow<br>
+Professor of Philosophy, Lee Kong Chian Research Fellow; and<br>
 Academic Director (Politics-Law-Economics major), School of Social Sciences<br>
 Singapore Management University
 
