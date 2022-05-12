@@ -23,7 +23,7 @@ National University of Singapore
 **Professor Lee Eng Hin**<br>
 Professor, Department of Orthopaedic Surgery<br>
 Yong Loo Lin School of Medicine<br>
-National University of Singapore<br>
+National University of Singapore; and<br>
 Emeritus Consultant<br>
 Division of Paediatrics Orthopaedics<br>
 National University Hospital  
