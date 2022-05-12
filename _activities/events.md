@@ -8,15 +8,15 @@ breadcrumb: Events
 <table class="table-v">
 	<tr>
 		<td>17-18 June</td>
-		<td>BAC 20th Anniversary Virtual Public Conference</td>
+		<td>BAC's 20th Anniversary Virtual Public Conference</td>
 	</tr>
 	<tr>
 		<td>10 June</td>
-		<td>BAC 20th Anniversary Pre-Conference: Satellite Meeting with International Experts</td>
+		<td>BAC's 20th Anniversary Pre-Conference: Satellite Meeting with International Experts</td>
 	</tr>
 	<tr>
 		<td>10 June</td>
-		<td>BAC 20th Anniversary Pre-Conference: Asian Bioethics Network Meeting</td>
+		<td>BAC's 20th Anniversary Pre-Conference: Asian Bioethics Network Meeting</td>
 	</tr>
 	</table>
 	
