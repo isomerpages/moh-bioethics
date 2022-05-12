@@ -38,7 +38,8 @@ contacts:
       - email: ""
       - other: "Bioethics Advisory Committee<br>1 Maritime Square,
           #09-66<br>Harbourfront Centre<br>Singapore: 099253<br>Attn: Regulatory
-          Policy and Legislation Division (BAC Secretariat)"
+          Policy and Legislation Division (Biomedical Ethics Coordinating
+          Office)"
     title: Mailing Address
   - content:
       - phone: +65 6325 7486
