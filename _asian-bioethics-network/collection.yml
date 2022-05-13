@@ -2,7 +2,7 @@ collections:
   asian-bioethics-network:
     output: true
     order:
-      - Example Title.md
+      - Introduction.md
       - Member States.md
       - Past Meetings/.keep
       - Past Meetings/10 June 2021.md
