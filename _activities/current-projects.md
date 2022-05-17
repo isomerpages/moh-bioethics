@@ -12,6 +12,6 @@ breadcrumb: Current Projects
 
 **Casebook of Medico-Legal Cases in Singapore**
 
-**Establishment of a 'Bioethics Corner' at the Lee Kong Chian Reference Library**
+**Establishment of a 'Bioethics Corner' with the National Library Board**
 
 **Revamp of the Bioethics Exhibition at the Science Centre Singapore**
