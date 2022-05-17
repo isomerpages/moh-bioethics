@@ -8,7 +8,7 @@ breadcrumb: Current Projects
 
 **Big Data and Artificial Intelligence in Human Biomedical Research**
 
-**Ethical, Legal and Social Issues Arising from Human Nuclear Genome Editing**
+**Human Nuclear Genome Editing**
 
 **Casebook of Medico-Legal Cases in Singapore**
 
