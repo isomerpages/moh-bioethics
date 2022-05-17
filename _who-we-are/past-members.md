@@ -8,7 +8,7 @@ breadcrumb: Past Members
 **Late Mr Richard Magnus**<br>
 Chief District Judge (Ret.)<br>
 ((Late) Chairman from January 2011 to March 2022)<br>
-Chairman, Public Transport Council<br>
+(Late) Chairman, Public Transport Council<br>
 (2014 to 2022)
 
 **Professor Lim Pin**<br>
@@ -82,6 +82,7 @@ Chairman, National Medical Ethics Committee<br>
 **Professor Tan Chorh Chuan**<br>
 Director of Medical Services, Ministry of Health (2001 – 2004)<br>
 Provost, National University of Singapore (2005 – 2006)<br>
+Chief Health Scientist, Ministry of Health (2018 to Present)<br>
 (2001 to 2006)
 
 **Professor Yap Hui Kim**<br>
