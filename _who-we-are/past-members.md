@@ -79,9 +79,7 @@ Chairman, National Medical Ethics Committee<br>
 (2001 to 2004)
 
 **Professor Tan Chorh Chuan**<br>
-Director of Medical Services, Ministry of Health (2001 – 2004)<br>
-Provost, National University of Singapore (2005 – 2006)<br>
-Chief Health Scientist, Ministry of Health (2018 to Present)<br>
+Chief Health Scientist, Ministry of Health<br>
 (2001 to 2006)
 
 **Professor Yap Hui Kim**<br>
