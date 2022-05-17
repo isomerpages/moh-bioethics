@@ -42,7 +42,7 @@ contacts:
           Office)"
     title: Mailing Address
   - content:
-      - phone: +65 6325 7486
+      - phone: +65 6710 5244
       - email: bioethics_Singapore@moh.gov.sg
       - other: ""
     title: General Enquiries & Feedback
