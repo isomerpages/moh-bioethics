@@ -124,7 +124,7 @@ Graduate School of Medicine, Osaka University, Japan
 Professor Kazuto Kato is the IPE member for the BAC's Human Nuclear Genome Editing (HNGE) project. He has served as a member of various international projects such as the Ethics Committee of Human Genome Organization (HUGO), Ethical, Legal, and Social Implications (ELSI) group of International HapMap Project, Ethics and Policy Committee of the International Cancer Genome Consortium (ICGC) and the World Health Organization (WHO) Expert Advisory Committee which develops global standards for governance and oversight of human genome editing. Since 2010, Professor Kato has been directing the Research Unit for the ELSI of Genomics in Japan to analyse ethical, legal and social implications of human genome research, particularly focusing on the whole genome and exome analysis.<br><br>
 
 
-**Professor Graeme Laurie, LLB, PhD, FRSE, FRCPE, FMedSci**<br>
+**Professor Graeme Laurie**<br>
 Professorial Fellow<br>
 School of Law, University of Edinburgh, Scotland
 
