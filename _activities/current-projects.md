@@ -6,7 +6,7 @@ breadcrumb: Current Projects
 ### BAC's Current Projects 
 
 
-**Big Data and Artificial Intelligence**
+**Big Data and Artificial Intelligence in Human Biomedical Research**
 
 **Ethical, Legal and Social Issues Arising from Human Nuclear Genome Editing**
 
