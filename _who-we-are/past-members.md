@@ -53,7 +53,7 @@ Professorial Fellow, Division of Communication Research, Wee Kim Wee School of C
 Department of Epidemiology and Public Health, Yong Loo Lin School of Medicine, National University of Singapore<br>
 (Deputy Chairman from 2007 to 2011)
 
-**Professor Louis Lim**<br>
+**Late Professor Louis Lim**<br>
 Executive Director, Biomedical Research Council, Agency for Science, Technology and Research<br>
 (2001 to 2002)
 
@@ -132,7 +132,7 @@ Emeritus Professor of Obstetrics and Gynaecology, School of Medicine, King’s C
 Director, Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, USA<br>
 (2012-2017) 
 
-**Dr. Christine Grady**<br>
+**Dr Christine Grady**<br>
 Chief, National Institute of Health Clinical Center’s Department of Bioethics, USA<br>
 (2014-2016) 
 
