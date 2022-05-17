@@ -7,7 +7,9 @@ breadcrumb: Past Members
 
 **Late Mr Richard Magnus**<br>
 Chief District Judge (Ret.)<br>
-((Late) Chairman from January 2011 to March 2022)
+((Late) Chairman from January 2011 to March 2022)<br>
+Chairman, Public Transport Council<br>
+(2014 to 2022)
 
 **Professor Lim Pin**<br>
 University Professor, National University of Singapore<br>
