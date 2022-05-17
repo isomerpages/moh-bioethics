@@ -44,7 +44,7 @@ No. The BAC does not adjudicate individual research proposals, nor does it have 
 
 **5. Does the BAC make any recommendations regarding clinical medical ethics?**
 
-No. The remit of the BAC only covers human biomedical research. Such matters fall into authority of the Ministry of Health, the National Medical Ethics Committee, and the Singapore Medical Council.
+No. The remit of the BAC only covers human biomedical research. Such matters fall under the authority of the Ministry of Health, the National Medical Ethics Committee, and the Singapore Medical Council.
 
 ---
 
