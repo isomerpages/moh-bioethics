@@ -68,7 +68,7 @@ An important part of the BAC’s deliberative process is public consultation. A 
 
 As part of their deliberations, the BAC would then study the comments received before making its recommendations, which would be published in a report.
 
-The past BAC reports can be downloaded here.
+The past BAC reports can be downloaded [here](https://www.bioethics-singapore.gov.sg/publications/reports/).
 
 ---
 
