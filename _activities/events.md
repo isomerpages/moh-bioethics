@@ -6,7 +6,7 @@ breadcrumb: Events
 ### **2022**
 <table class="table-v">
 	<tr>
-		<td>June/July</td>
+		<td>June / July</td>
 		<td>Launch of 'Bioethics Corner' at Lee Kong Chian Reference Library</td>
 	</tr>
 	</table>
