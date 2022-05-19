@@ -2,6 +2,7 @@ collections:
   bac-20th-anniversary:
     output: true
     order:
+      - 20th Video/Video 2.md
       - 20th Video/BAC 20th Anniversary Videos and Filmlets.md
       - 20th Video/.keep
       - BAC 20th Anniversary.md
