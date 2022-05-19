@@ -13,4 +13,17 @@ A fire-side chat on the topic of 'BAC - Past, Present and Future' was moderated 
 
 **Panel Discussion with Religious Leaders**
 
-The 
+The BAC has actively consulted various religious organisations for their perspectives on ethical issues pertaining to human biomedical research over the past 20 years. For this session, the late Chief District Judge (Ret.) Richard Magnus, then BAC Chair, met with various representatives from religious organisations in Singapore to discuss the importance of interfaith dialogue in bioethical deliberations.
+
+Moderator: 
+Late Chief District Judge (Ret.) Richard Magnus
+
+Panellists:
+Buddhist Fellowship
+Catholic Archdiocese of Singapore
+Hindu Advisory Board
+Majlis Ugama Islam Singapura Council
+National Council of Churches Singapore (NCCS)
+Sikh Advisory Board
+Singapore Buddhist Federation
+Taoist Mission (Singapore)
