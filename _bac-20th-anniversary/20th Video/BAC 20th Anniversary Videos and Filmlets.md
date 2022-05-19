@@ -4,7 +4,6 @@ permalink: /bac-20th-anniversary/permalink
 description: ""
 third_nav_title: 20th Video
 ---
-
 <iframe src="https://player.vimeo.com/video/558376960?h=c79d3d46a0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/558376960">Bioethics and BAC in the Global Arena</a></p>
 <p>The Bioethics Advisory Committee has been involved on the international front, such as the its participation in global ethics forums including the UNESCO International Bioethics Committee (IBC), Intergovernmental Bioethics Committee (IGBC), WHO&#039;s Global Summit of National Bioethics Advisory Bodies (NBAB) and Asia Pacific National Ethics Committee (AP-NEC).<br />
