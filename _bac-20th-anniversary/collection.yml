@@ -2,5 +2,5 @@ collections:
   bac-20th-anniversary:
     output: true
     order:
-      - BAC 20th Anniversary Virtual Conference Resources.md
       - BAC 20th Anniversary.md
+      - BAC 20th Anniversary Virtual Conference Resources.md
