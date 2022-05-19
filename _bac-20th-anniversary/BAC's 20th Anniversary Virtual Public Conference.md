@@ -9,4 +9,3 @@ Themed 'Bioethics Future - Empowering Our Next Generation', the objectives of th
 
 * Showcase BAC's achievements and work in the past 20 years and reinforce that Singapore conducts human biomedical research with high ethical standards; and
 * Raise public awareness on the importance of bioethics in Singapore to the next generation of Singapore researchers, students and members of the public.
-
