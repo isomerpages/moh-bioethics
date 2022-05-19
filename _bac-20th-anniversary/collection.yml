@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Introduction.md
-      - BAC's 20th Anniversary Virtual Public Conference.md
+      - Virtual Public Conference.md
       - 20th Video/.keep
       - 20th Video/BAC 20th Anniversary Videos and Filmlets.md
       - 20th Video/Video 2.md
