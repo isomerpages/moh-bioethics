@@ -7,7 +7,7 @@ breadcrumb: Events
 <table class="table-v">
 	<tr>
 		<td>June / July</td>
-		<td>Launch of 'Bioethics Corner' at Lee Kong Chian Reference Library</td>
+		<td>Upcoming: Launch of 'Bioethics Corner' at Lee Kong Chian Reference Library</td>
 	</tr>
 	</table>
 
