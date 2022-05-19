@@ -1,4 +1,5 @@
 collections:
   bac-20th-anniversary:
     output: true
-    order: []
+    order:
+      - BAC 20th Anniversary.md
