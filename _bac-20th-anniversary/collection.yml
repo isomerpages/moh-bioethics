@@ -2,6 +2,7 @@ collections:
   bac-20th-anniversary:
     output: true
     order:
+      - The Future of Bioethics in Singapore.md
       - Introduction.md
       - Virtual Public Conference.md
       - 20th Video/.keep
