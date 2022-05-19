@@ -2,9 +2,9 @@ collections:
   bac-20th-anniversary:
     output: true
     order:
-      - The Future of Bioethics in Singapore.md
       - Introduction.md
       - Virtual Public Conference.md
+      - The Future of Bioethics in Singapore.md
       - 20th Video/.keep
       - 20th Video/BAC 20th Anniversary Videos and Filmlets.md
       - 20th Video/Video 2.md
