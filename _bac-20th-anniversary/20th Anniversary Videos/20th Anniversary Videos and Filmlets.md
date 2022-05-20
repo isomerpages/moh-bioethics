@@ -27,3 +27,9 @@ third_nav_title: 20th Anniversary Videos
 <p>The Bioethics Advisory Committee has been involved on the international front, such as the its participation in global ethics forums including the UNESCO International Bioethics Committee (IBC), Intergovernmental Bioethics Committee (IGBC), WHO&#039;s Global Summit of National Bioethics Advisory Bodies (NBAB) and Asia Pacific National Ethics Committee (AP-NEC).<br />
 <br />
 Hear from BAC members who were involved, what they experienced as they reflect on Singapore&#039;s commitment to upholding high ethical standards for biomedical research.</p>
+
+<br><br>
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/553227039?h=b1df6e7524&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+<p><a href="https://vimeo.com/553227039">Exploring Bioethics Today</a></p>
+<p>In this video, we will be exploring Gene Editing, Artificial Intelligence and Assisted Reproduction Technology (ART). Find out more about these topics surrounding bioethics at the BAC 20th Anniversary Virtual Conference on 17 - 18 Jun 2021.</p>
