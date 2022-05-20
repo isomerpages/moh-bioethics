@@ -16,12 +16,6 @@ third_nav_title: 20th Anniversary Videos
 
 <br><br>
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/553227039?h=b1df6e7524&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
-<p><a href="https://vimeo.com/553227039">Exploring Bioethics Today</a>.</p>
-<p>In this video, we will be exploring Gene Editing, Artificial Intelligence and Assisted Reproduction Technology (ART). Find out more about these topics surrounding bioethics at the BAC 20th Anniversary Virtual Conference on 17 - 18 Jun 2021.</p>
-
-<br><br>
-
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/562332907?h=95ac85b678" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
 <p><a href="https://vimeo.com/562332907">Yesterday, Today, Tomorrow</a></p>
 <p>Walk down memory lane with Associate Professor Roy Joseph, Mr Gregory Vijayendran SC and Dr Nazirudin Bin Mohd Nasir as they share on the work of the Bioethics Advisory Committee (BAC) in the last 20 years. Through testimonies and anecdotes, learn more about the history and contributions of the BAC; the reports and recommendations that were passed into law; and what the public can anticipate for the future of bioethics in Singapore.</p>
