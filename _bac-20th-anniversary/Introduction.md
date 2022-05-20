@@ -15,6 +15,8 @@ Themed 'Bioethics Future - Empowering Our Next Generation', the objectives of th
 ![](/images/20th%20Anniversary%20Images/17th%20jun-6362(cropped)_DPM%20Heng_opening%20address.jpg)
 
 ![](/images/20th%20Anniversary%20Images/DPM%20Heng%20Swee%20Keat_BAC%2020th%20anniversary%20opening%20address.jpg)
+
+![](/images/20th%20Anniversary%20Images/DPM%20Heng.png)
 DPM Heng Swee Keat delivering the opening address at the conference
 
 ![](/images/20th%20Anniversary%20Images/17th%20jun-6314(cropped)_Mr%20Magnus_welcome%20address.jpg)
