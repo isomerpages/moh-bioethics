@@ -14,7 +14,7 @@ A fire-side chat on the topic of 'BAC - Past, Present and Future' was moderated 
 ![](/images/20th%20Anniversary%20Images/17th%20jun-6683(cropped)_Fire-side%20chat.jpg)
 Fire-side Chat with panellists
 
-*Click here for the Virtual Public Conference E-booklet for panellist biographies.*
+*Click [here](/files/20th%20Anniversary%20Resources/BAC-Virtual-Conference-E-Book%20(DL%20from%20website).pdf) for the Virtual Public Conference E-booklet for panellist biographies.*
 
 **Panel Discussion with Religious Leaders**
 
