@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Speakers' presentation slides.md
-      - Presentation slides/Presentation slides.md
-      - Presentation slides/.keep
+      - Conference presentation slides/Presentation slides.md
+      - Conference presentation slides/.keep
       - Introduction.md
       - Virtual Public Conference.md
       - 20th Anniversary Publication.md
