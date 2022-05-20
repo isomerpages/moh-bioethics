@@ -2,7 +2,6 @@ collections:
   bac-20th-anniversary:
     output: true
     order:
-      - Speakers' presentation slides.md
       - Conference presentation slides/Presentation slides.md
       - Conference presentation slides/.keep
       - Introduction.md
