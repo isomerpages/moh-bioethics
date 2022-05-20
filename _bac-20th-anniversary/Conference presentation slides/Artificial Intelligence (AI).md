@@ -4,6 +4,8 @@ permalink: /bac-20th-anniversary/Conference-presentation-slides/Artificial-Intel
 description: ""
 third_nav_title: Conference presentation slides
 ---
+### **Speakers' Presentation Slides on Artificial Intelligence (AI)**
+
 **Introductory Presentation: ‘AI and Bioethics’ by Professor Simon Chesterman** [](/files/20th%20Anniversary%20Resources/AI%20and%20Bioethics%20by%20Professor%20Simon%20Chesterman.pdf)
 
 **Presentation on Research Ethics: ‘Research Ethics for AI in Health Applications’ by Dr Pavitra Krishnaswamy**[](/files/20th%20Anniversary%20Resources/Research%20Ethics%20-%20Research%20Ethics%20for%20AI%20in%20Health%20Applications%20by%20Dr%20Pavitra%20Krishnaswamy.pdf)
