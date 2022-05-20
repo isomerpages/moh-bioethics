@@ -19,7 +19,12 @@ Hear from BAC members who were involved, what they experienced as they reflect o
 
 <br><br>
 
-
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/542601671?h=1404521d33&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
 <p><a href="https://vimeo.com/542601671">Bioethics and Us</a>.</p>
 <p>Hear from Professor Lee Eng Hin, Professor Patrick Tan and Professor Vineeta Sinha as they share stories from BAC&rsquo;s past and present work to inspire and empower the future generation of Singaporeans on the importance of bioethics.</p>
+
+<br><br>
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/553227039?h=b1df6e7524&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+<p><a href="https://vimeo.com/553227039">Exploring Bioethics Today</a> from <a href="https://vimeo.com/user136842868">BAC Secretariat</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p>In this video, we will be exploring Gene Editing, Artificial Intelligence and Assisted Reproduction Technology (ART). Find out more about these topics surrounding bioethics at the BAC 20th Anniversary Virtual Conference on 17 - 18 Jun 2021.</p>
