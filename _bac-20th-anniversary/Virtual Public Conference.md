@@ -13,7 +13,7 @@ Panel discussion with keynote speaker
 ![](/images/20th%20Anniversary%20Images/17th%20jun-7006(cropped)_AI%20panel%20discussion.jpg)
 Artificial Intelligence (AI) panel discussion and Q&A
 
-*Click [here](/files/20th%20Anniversary%20Resources/BAC-Virtual-Conference-E-Book%20(DL%20from%20website).pdf) for the Virtual Public Conference E-Booklet for conference programme, speaker biographies and their presentation abstracts and slides.*
+*Click [here](/files/20th%20Anniversary%20Resources/BAC-Virtual-Conference-E-Book%20(DL%20from%20website).pdf) for the Virtual Public Conference Book for conference programme, speaker biographies and their presentation abstracts and slides.*
 
 **Fire-side Chat with invited Panellists**
 
@@ -22,7 +22,7 @@ A fire-side chat on the topic of 'BAC - Past, Present and Future' was moderated 
 ![](/images/20th%20Anniversary%20Images/17th%20jun-6683(cropped)_Fire-side%20chat.jpg)
 Fire-side Chat with panellists
 
-*Click [here](/files/20th%20Anniversary%20Resources/BAC-Virtual-Conference-E-Book%20(DL%20from%20website).pdf) for the Virtual Public Conference E-booklet for panellist biographies.*
+*Click [here](/files/20th%20Anniversary%20Resources/BAC-Virtual-Conference-E-Book%20(DL%20from%20website).pdf) for the Virtual Public Conference Book for panellist biographies.*
 
 **Panel Discussion with Religious Leaders**
 
