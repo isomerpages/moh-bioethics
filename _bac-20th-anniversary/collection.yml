@@ -4,6 +4,7 @@ collections:
     order:
       - Introduction.md
       - Virtual Public Conference.md
+      - Conference presentation slides/Keynote Lecture.md
       - Conference presentation slides/Artificial Intelligence (AI).md
       - Conference presentation slides/Assisted Reproduction Technology (ART).md
       - Conference presentation slides/Gene Editing.md
