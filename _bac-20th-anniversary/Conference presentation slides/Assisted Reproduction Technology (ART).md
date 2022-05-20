@@ -4,7 +4,7 @@ permalink: /bac-20th-anniversary/Conference-presentation-slides/Assisted-Reprodu
 description: ""
 third_nav_title: Conference presentation slides
 ---
-### **Speakers' Presentation Slides for Assisted Reproduction Technology (ART)**
+### **Speakers' Presentation Slides on Assisted Reproduction Technology (ART)**
 
 **Introductory Presentation: ‘Ethical Issues in ART: The Importance of Transgenerational Genomics’ by Professor Peter Braude**[](/files/20th%20Anniversary%20Resources/Ethical%20issues%20in%20ART%20-%20The%20Importance%20of%20Transgenerational%20Genomics%20by%20Professor%20Peter%20Braude.pdf)
 
