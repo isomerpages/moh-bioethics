@@ -14,6 +14,8 @@ A fire-side chat on the topic of 'BAC - Past, Present and Future' was moderated 
 ![](/images/20th%20Anniversary%20Images/17th%20jun-6683(cropped)_Fire-side%20chat.jpg)
 Fire-side Chat with panellists
 
+**Click here for the Virtual Public Conference E-booklet for panellist biographies.
+
 **Panel Discussion with Religious Leaders**
 
 The BAC has actively consulted various religious organisations for their perspectives on ethical issues pertaining to human biomedical research over the past 20 years. For this session, the late Chief District Judge (Ret.) Richard Magnus, then BAC Chair, met with various representatives from religious organisations in Singapore to discuss the importance of interfaith dialogue in bioethical deliberations.
