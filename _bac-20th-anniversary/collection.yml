@@ -2,6 +2,7 @@ collections:
   bac-20th-anniversary:
     output: true
     order:
+      - Speakers' presentation slides.md
       - Introduction.md
       - Virtual Public Conference.md
       - 20th Anniversary Publication.md
