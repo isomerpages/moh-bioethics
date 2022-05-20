@@ -40,16 +40,16 @@ contacts:
     title: Ms Toh Si Min
   - content:
       - phone: ""
+      - email: Bioethics_Singapore@moh.gov.sg
+      - other: ""
+    title: General Enquiries & Feedback
+  - content:
+      - phone: ""
       - email: ""
       - other: "Bioethics Advisory Committee<br>1 Maritime Square,
           #09-66<br>Harbourfront Centre<br>Singapore: 099253<br>Attn: Regulatory
           Policy and Legislation Division (Biomedical Ethics Coordinating
           Office)"
     title: Mailing Address
-  - content:
-      - phone: ""
-      - email: Bioethics_Singapore@moh.gov.sg
-      - other: ""
-    title: General Enquiries & Feedback
 agency_name: Bioethics Advisory Committee
 ---
