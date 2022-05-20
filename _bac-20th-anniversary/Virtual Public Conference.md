@@ -15,7 +15,7 @@ Artificial Intelligence (AI) panel discussion and Q&A
 
 *Click [here](/files/20th%20Anniversary%20Resources/Virtual%20Public%20Conference%20Book.pdf) for the Virtual Public Conference Book for conference programme, speaker biographies and their presentation abstracts.*
 
-*Click here for the conference presentation slides.*
+*Click [here](https://isomer-bioethics-staging.netlify.app/bac-20th-anniversary/20th-anniversary-videos-and-filmlets) for the conference presentation slides.*
 
 **Fire-side Chat with invited Panellists**
 
