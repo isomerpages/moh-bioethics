@@ -19,8 +19,15 @@ Hear from BAC members who were involved, what they experienced as they reflect o
 
 <br><br>
 
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/531112881?h=121800375c&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+<p><a href="https://vimeo.com/531112881">Bioethics Today</a>.</p>
+<p>In this video, we explore how bioethics impacts our daily lives and BAC&rsquo;s role in protecting people&rsquo;s rights as individuals, while allowing the biomedical sciences to develop and realise their full potential for the benefit of humankind.</p>
+
+<br><br>
+
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/542601671?h=1404521d33&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
-<p><a href="https://vimeo.com/542601671">Bioethics and Us</a>.</p>
+<p><a href="https://vimeo.com/542601671">Bioethics and Us</a></p>
 <p>Hear from Professor Lee Eng Hin, Professor Patrick Tan and Professor Vineeta Sinha as they share stories from BAC&rsquo;s past and present work to inspire and empower the future generation of Singaporeans on the importance of bioethics.</p>
 
 <br><br>
