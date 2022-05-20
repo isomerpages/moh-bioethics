@@ -17,7 +17,7 @@ breadcrumb: Events
 <table class="table-v">
 	<tr>
 		<td>17-18 June</td>
-		<td>BAC's 20th Anniversary Virtual Public Conference</td>
+		<td>[BAC's 20th Anniversary Virtual Public Conference](https://isomer-bioethics-staging.netlify.app/bac-20th-anniversary/virtual-public-conference)</td>
 	</tr>
 	<tr>
 		<td>10 June</td>
