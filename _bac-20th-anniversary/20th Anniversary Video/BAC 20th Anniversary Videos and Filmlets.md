@@ -11,8 +11,6 @@ third_nav_title: 20th Anniversary Video
 Hear from BAC members who were involved, what they experienced as they reflect on Singapore&#039;s commitment to upholding high ethical standards for biomedical research.</p>
 
 <br>
-<br>
-<br>
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/562332907?h=95ac85b678" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
 
