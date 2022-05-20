@@ -29,3 +29,4 @@ Singapore Buddhist Federation<br>
 Taoist Mission (Singapore)<br>
 
 ![](/images/20th%20Anniversary%20Images/17th%20jun-6823(cropped)_Religious%20leaders.jpg)
+Panel Discussion with Religious Leaders
