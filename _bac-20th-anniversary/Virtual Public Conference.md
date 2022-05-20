@@ -13,7 +13,7 @@ Panel discussion with keynote speaker
 ![](/images/20th%20Anniversary%20Images/17th%20jun-7006(cropped)_AI%20panel%20discussion.jpg)
 Artificial Intelligence (AI) panel discussion and Q&A
 
-*Click [here](/files/20th%20Anniversary%20Resources/Virtual%20Public%20Conference%20Book.pdf)for the Virtual Public Conference Book for conference programme, speaker biographies and their presentation abstracts and slides.*
+*Click [here](/files/20th%20Anniversary%20Resources/Virtual%20Public%20Conference%20Book.pdf) for the Virtual Public Conference Book for conference programme, speaker biographies and their presentation abstracts and slides.*
 
 **Fire-side Chat with invited Panellists**
 
