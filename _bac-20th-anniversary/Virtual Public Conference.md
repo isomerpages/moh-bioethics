@@ -11,6 +11,9 @@ DPM Heng Swee Keat was the Guest-of-Honour (GOH) and delivered the opening addre
 
 A fire-side chat on the topic of 'BAC - Past, Present and Future' was moderated by Associate Professor Roy Joseph, Chairman of National Medical Ethics Committee (NMEC) and BAC member. The panellists comprised Associate Professor Kenneth Mak, Director of Medical Services, MOH; Professor Tan Chorh Chuan, Chief Health Scientist, MOH; late Chief District Judge (Ret.) Richard Magnus, then BAC Chair and Prof Lee Eng Hin, current BAC Chair. The fire-side chat discussed the BAC's history, progress and future and highlighted precision health, development of new biotherapeutics, and genome editing as key areas for the BAC to consider reviewing in future.
 
+![](/images/20th%20Anniversary%20Images/17th%20jun-6683(cropped)_Fire-side%20chat.jpg)
+Fire-side Chat with panellists
+
 **Panel Discussion with Religious Leaders**
 
 The BAC has actively consulted various religious organisations for their perspectives on ethical issues pertaining to human biomedical research over the past 20 years. For this session, the late Chief District Judge (Ret.) Richard Magnus, then BAC Chair, met with various representatives from religious organisations in Singapore to discuss the importance of interfaith dialogue in bioethical deliberations.
