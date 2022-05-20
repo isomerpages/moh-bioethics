@@ -7,8 +7,6 @@ description: ""
 
 To commemorate the 20th Anniversary of the Bioethics Advisory Committee (BAC), the BAC released a 20th Anniversary publication titled ‘The Future of Bioethics in Singapore’.
 
-![](/images/20th%20Anniversary%20Images/20th%20Anniversary%20Publication.png)
-
 ![](/images/20th%20Anniversary%20Images/Publication.png)
 
 *Click [here](https://www.bioethics-singapore.gov.sg/publications/bac20thanniversarypublication) to access the publication*
