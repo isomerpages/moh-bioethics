@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Speakers' presentation slides.md
+      - Presentation slides/Speaker presentation slides.md
       - Presentation slides/.keep
       - Introduction.md
       - Virtual Public Conference.md
