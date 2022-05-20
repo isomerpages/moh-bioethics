@@ -9,4 +9,4 @@ To commemorate the 20th Anniversary of the Bioethics Advisory Committee (BAC), t
 
 ![](/images/20th%20Anniversary%20Images/Publication.png)
 
-*Click here to access the publication*
+*Click [here](https://www.bioethics-singapore.gov.sg/publications/bac20thanniversarypublication) to access the publication*
