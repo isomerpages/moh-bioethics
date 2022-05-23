@@ -17,6 +17,12 @@ breadcrumb: Events
 
 <table class="table-v">
 	<tr>
+		<td>27 October</td>
+		<td>(i) A report on Neuroscience Research;<br>
+			(ii) An Interim Report on Mitochondrial Genome Replacement Technology; and<br>
+			(iii) Ethics Guideline for Human Biomedical Research (2021 Revised)</td>
+	</tr>
+	<tr>
 		<td>17-18 June</td>
 		<td>BAC's 20th Anniversary Virtual Public Conference</td>
 	</tr>
