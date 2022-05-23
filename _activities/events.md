@@ -69,6 +69,10 @@ breadcrumb: Events
 
 <table class="table-v">
   <tr>
+		<td>13 September</td>
+		<td>Singapore Medical Council published its revised Ethical Code and Ethical Guidelines</td>
+	</tr>
+	<tr>
     <td>4-22 July</td>
     <td>Bioethics Festival</td>
   </tr>
