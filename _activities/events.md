@@ -189,10 +189,21 @@ breadcrumb: Events
 
 <table class="table-v">
   <tr>
+		<td>12 December</td>
+		<td>Singapore enacted the National Registry of Diseases Act</td>
+	</tr>
+	<tr><td>December</td>
+		<td>The Ministry of Health published its Operational Guidelines for IRBs</td>
+	</tr>
+	<tr>
       <td>22 November</td>
     <td>Public Lecture: "Donation of Human Eggs for Research"</td>
   </tr>
   <tr>
+		<td>7 November 2007 - 7 January 2008</td>
+		<td>BAC conducted a public consultation on the donation of human eggs for research</td>
+	</tr>
+	<tr>
     <td>01 February</td>
     <td>Singapore Stem Cell Consortium Ethics Symposium (Part of the International Stem Cell Conference)</td>
   </tr>
