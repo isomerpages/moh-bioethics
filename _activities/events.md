@@ -204,6 +204,26 @@ breadcrumb: Events
 		<td>BAC conducted a public consultation on the donation of human eggs for research</td>
 	</tr>
 	<tr>
+		<td>June</td>
+		<td>	Ministry of Health published Governance Framework for Human Biomedical Research</td>
+	</tr>
+	<tr>
+		<td>20 May</td>
+		<td>National Medical Ethics Committee published Recommendations on Clinical Trials: Update Focusing on Phase 1 Trials</td>
+	</tr>
+	<tr>
+		<td>7 May</td>
+		<td>BAC published a report on Personal Information in Biomedical Research</td>
+	</tr>
+	<tr>
+		<td>20 April</td>
+		<td>Official opening of the Singapore Institute for Clinical Sciences, with research programmes in Genetic Medicine, Hepatic Diseases and Metabolic Diseases<td>
+		</tr>
+		<tr>
+			<td>March</td>
+			<td>Singapore Stem Cell Bank, an initiative of A*STAR and hosted by the Singapore Stem Cell Consortium, was opened</td>
+	</tr>
+	<tr>				
     <td>01 February</td>
     <td>Singapore Stem Cell Consortium Ethics Symposium (Part of the International Stem Cell Conference)</td>
   </tr>
