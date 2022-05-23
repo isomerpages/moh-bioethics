@@ -4,6 +4,7 @@ permalink: /activities/events/
 breadcrumb: Events
 ---
 ### **2022**
+
 <table class="table-v">
 	<tr>
 		<td>June / July</td>
@@ -137,7 +138,6 @@ breadcrumb: Events
 		<td>23 June</td>
 		<td>BAC published a report on Ethical Guidelines for Human Biomedical Research</td>
 	</tr>
-	<tr>
 </table>
 
 ###  **2014**
