@@ -102,6 +102,10 @@ breadcrumb: Events
     <td>10 January</td>
     <td>Challenges in Neuroscience Research - Lecture and Dialogue Session for those involved in Neuroscience Research</td>
   </tr>
+	<tr>
+		<td>2 January</td>
+		<td>Singapore enacted the Personal Data Protection Act</td>
+	</tr>
 </table>
 
 ### **2012**
