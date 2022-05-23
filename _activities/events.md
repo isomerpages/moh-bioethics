@@ -252,7 +252,7 @@ breadcrumb: Events
 	</tr>
 	<tr>
 		<td>5 April - 17 May</td>
-		<td>NUH-NUS Tissue Repository (formerly known as NUH Tissue Bank) officially launched</td>
+		<td>BAC conducted a public consultation on genetic testing and genetic research</td>
 	</tr>		
 </table>
 
