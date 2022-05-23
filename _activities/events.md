@@ -568,6 +568,7 @@ breadcrumb: Events
 	<tr>
 		<td></td>
 		<td>The Ministry of Health (MOH) set up the National Disease Registries Office (renamed National Registry of Diseases Office in 2008)</td>
+	</tr>
 	</table>
 	
 ### 	**2000**
