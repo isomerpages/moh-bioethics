@@ -274,21 +274,21 @@ breadcrumb: Events
 
 <table class="table-v">
 	<tr>
-		<td>12 Nov</td>
+		<td>12 November</td>
 		<td>BAC published a report on Human Tissue Research</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td>29 Oct</td>
+		<td>29 October</td>
 		<td>Biopolis (the centre of biomedical research in Singapore) officially opened</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td>27 to 29 Oct</td>
+		<td>27 to 29 October</td>
 		<td>International Stem Cell Conference was organised by BMRC, A*STAR in Singapore</td>
 	</tr>
 	<tr>
-		<td>27 Oct</td>
+		<td>27 October</td>
 		<td>A*STAR's BMRC and the Juvenile Diabetes Research Foundation International (JDRF) signed an agreement to jointly establish a new S$5.2m (US$3m) funding programme to support stem cell research in Singapore (first research funding collaboration for BMRC with a philanthropic organisation and the first for JDRF in Singapore)</td>
 	</tr>
 	<tr>
@@ -301,15 +301,15 @@ breadcrumb: Events
 
 <table class="table-v">
 	<tr>
-		<td>9 to 30 Nov</td>
+		<td>9 to 30 November</td>
 		<td>BAC conducted a public consultation on human stem cell research</td>
 	</tr>
 	<tr>
-		<td>22 Aug</td>
+		<td>22 August</td>
 		<td>BAC launched its website</td>
 	</tr>
 	<tr>
-		<td>Feb</td>
+		<td>February</td>
 		<td>National Medical Ethics Committee published its Ethical Guidelines for Gene Technology</td>
 	</tr>
 	<tr>
@@ -321,19 +321,19 @@ breadcrumb: Events
 
 <table class="table-v">
 	<tr>
-		<td>Dec</td>
+		<td>December</td>
 		<td>Bioethics Advisory Committee (BAC) established to address the ethical, legal and social issues arising from biomedical sciences research</td>
 	</tr>
 	<tr>
-		<td>Oct</td>
+		<td>October</td>
 		<td>Biomedical Research Council (BMRC) set up under the National Science and Technology Board (established in 1991 and later renamed the Agency for Science, Technology and Research (A*STAR) in 2002)</td>
 	</tr>
 	<tr>
-		<td>Jun</td>
+		<td>June</td>
 		<td>Singapore Genomics Program launched (renamed Genome Institute of Singapore in June 2001)</td>
 	</tr>
 	<tr>
-		<td>Jun</td>
+		<td>June</td>
 		<td>Singapore launched the Biomedical Sciences Initiative to develop the Biomedical Sciences cluster as one of the key pillars of the country's economy, alongside Electronics, Engineering and Chemicals. Phase 1 of the Initiative (2000 – 2005) focused on building a strong foundation in basic biomedical research)</td>
 	</tr>
 	</table>
