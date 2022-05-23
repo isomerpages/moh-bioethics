@@ -308,5 +308,7 @@ breadcrumb: Events
 		<td>Feb</td>
 		<td>National Medical Ethics Committee published its Ethical Guidelines for Gene Technology</td>
 	</tr>
-	<tr>
-		<td>
+	</table>
+	
+### 	**2000**
+
