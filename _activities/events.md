@@ -78,13 +78,26 @@ breadcrumb: Events
 
 <table class="table-v">
   <tr>
+		<td>18 August</td>
+		<td>Singapore passed the Human Biomedical Research Act</td>
+	</tr>
+	<tr>
 		<td>2 August - 28 September</td>
 		<td>BAC Chair, Judge (Ret.) Richard Magnus, re-appointed as member and elected as Vice-Chair of UNESCO's International Bioethics Committee (IBC) at the 22nd Session of the IBC</td>
+	</tr>
+	<tr>
+		<td>2 - 3 July</td>
+		<td>International Germline Modification Meeting hosted in Singapore (jointly organised by BAC, the Nuffield Council of Bioethics and the German Ethics Council)</td>
 	</tr>
 	<tr>
     <td>29 June - 4 July</td>
     <td>Bioethics Week</td>
   </tr>
+	<tr>
+		<td>23 June</td>
+		<td>BAC published a report on Ethical Guidelines for Human Biomedical Research</td>
+	</tr>
+	<tr>
 </table>
 
 ### **2014**
