@@ -3,14 +3,6 @@ layout: contact_us
 permalink: /contact-us/
 breadcrumb: Contact Us
 title: Contact Us
-locations:
-  - address:
-      - "Harbourfront Centre, #11-23"
-      - 1 Maritime Square (Lobby A)
-      - Singapore 099253
-    operating_hours: []
-    maps_link: ""
-    title: BAC Secretariat
 image-url: null
 contacts:
   - content:
