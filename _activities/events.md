@@ -218,6 +218,14 @@ breadcrumb: Events
     <td>Workshop for Researchers and IRB Members: Implementing Ethical Requirements in Biomedical Research</td>
   </tr>
   <tr>
+		<td>October</td>
+		<td>Biopolis Phase II (NeurosImmunos) completed</td>
+	</tr>
+	<tr>
+		<td>September</td>
+		<td>Centre for Biomedical Ethics established at the Yong Loo Lin School of Medicine, National University of Singapore</td>
+	</tr>
+	<tr>
     <td>15 July</td>
     <td>Public Forum: "Use of Personal Information in Biomedical Research"</td>
   </tr>
