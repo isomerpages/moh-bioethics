@@ -264,6 +264,10 @@ breadcrumb: Events
     <td>13 September</td>
     <td>Life Sciences and The Law in Singapore</td>
   </tr>
+	<tr>
+		<td>September</td>
+		<td>National University of Singapore (NUS) established its Institutional Review Board (IRB) to review, approve and monitor the ethical aspects of all NUS research projects that involve human participants and human tissues, cells and data</td>
+	</tr>
 </table>
 
 ### **2002**
