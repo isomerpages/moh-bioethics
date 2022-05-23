@@ -329,8 +329,4 @@ breadcrumb: Events
 		<td>Jun</td>
 		<td>Singapore launched the Biomedical Sciences Initiative to develop the Biomedical Sciences cluster as one of the key pillars of the country's economy, alongside Electronics, Engineering and Chemicals. Phase 1 of the Initiative (2000 – 2005) focused on building a strong foundation in basic biomedical research)</td>
 	</tr>
-	<tr>
-		<td>
-	
-	
-		
+	</table>
