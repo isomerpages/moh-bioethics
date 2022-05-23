@@ -3,7 +3,7 @@ title: Events
 permalink: /activities/events/
 breadcrumb: Events
 ---
-<### **2022**
+### **2022**
 <table class="table-v">
 	<tr>
 		<td>June / July</td>
