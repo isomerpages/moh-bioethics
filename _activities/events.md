@@ -225,6 +225,18 @@ breadcrumb: Events
     <td>11 January</td>
     <td>"Genetics Prediction of Common Diseases - Medical and Social Aspects" - A public lecture by Professor Martin Bobrow</td>
   </tr>
+	<tr>
+		<td>1 January</td>
+		<td>The National Research Foundation (NRF) was set up to coordinate and fund research activities of different agencies, with an initial government funding of S$5 billion</td>
+		</tr>
+	<tr>			
+		<td>January</td>
+		<td>Start of the Singapore Consortium of Cohort Studies, which is a long-term health study to discover how genetic, lifestyle, diet and other environmental factors interact to impact our health</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>Start of Phase 2 of Singapore's Biomedical Sciences Initiative (2006 – 2010), which focuses on building up the nation's Translational and Clinical Research capabilities, while continuing to strengthen the foundation in basic sciences</td>
+	</tr>
 </table>
 
 ### **2005**
