@@ -147,7 +147,7 @@ breadcrumb: Events
   </tr>
   <tr>
     <td>28 - 31 July</td>
-    <td>10th World Congress of Bioethics</td>
+    <td>10th World Congress of Bioethics (organised by BAC, MOH, NUS Centre for Biomedical Ethics and the Singapore Medical Association)</td>
   </tr>
   <tr>
     <td>26-27 July</td>
