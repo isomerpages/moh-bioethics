@@ -78,6 +78,10 @@ breadcrumb: Events
 
 <table class="table-v">
   <tr>
+		<td>2 August - 28 September</td>
+		<td>BAC Chair, Judge (Ret.) Richard Magnus, re-appointed as member and elected as Vice-Chair of UNESCO's International Bioethics Committee (IBC) at the 22nd Session of the IBC</td>
+	</tr>
+	<tr>
     <td>29 June - 4 July</td>
     <td>Bioethics Week</td>
   </tr>
