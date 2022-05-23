@@ -73,6 +73,10 @@ breadcrumb: Events
     <td>Bioethics Festival</td>
   </tr>
 	<tr>
+		<td>14 - 17 June</td>
+		<td>	BAC participated in the 13th World Congress of Bioethics in Edinburgh</td>
+	</tr>
+	<tr>
 		<td></td>
 		<td>	BAC participated in the 11th Global Summit of National Bioethics Advisory Bodies in Berlin</td>
 	</tr>
