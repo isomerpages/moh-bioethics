@@ -222,6 +222,10 @@ breadcrumb: Events
     <td>Public Forum: "Use of Personal Information in Biomedical Research"</td>
   </tr>
    <tr>
+		 <td>31 March</td>
+		 <td>The Ministry of Health updated its Directives for Private Healthcare Institutions providing Assisted Reproduction Services to include a section on research involving oocytes and embryos</td>
+		</tr>
+		<tr>
     <td>11 January</td>
     <td>"Genetics Prediction of Common Diseases - Medical and Social Aspects" - A public lecture by Professor Martin Bobrow</td>
   </tr>
