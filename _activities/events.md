@@ -566,6 +566,10 @@ breadcrumb: Events
 		<td>A*STAR's BMRC and the Juvenile Diabetes Research Foundation International (JDRF) signed an agreement to jointly establish a new S$5.2m (US$3m) funding programme to support stem cell research in Singapore (first research funding collaboration for BMRC with a philanthropic organisation and the first for JDRF in Singapore)</td>
 	</tr>
 	<tr>
+		<td>21 June</td>
+		<td>BAC published a report on Ethical, Legal and Social Issues in Human Stem Cell Research, Reproductive and Therapeutic Cloning</td>
+	</tr>
+	<tr>
 		<td></td>
 		<td>Biomedical Sciences Core Group of the Legal Service established</td>
 	</tr>
