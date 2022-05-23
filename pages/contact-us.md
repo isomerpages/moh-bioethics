@@ -38,10 +38,10 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: "Bioethics Advisory Commitee<br>1 Maritime Square, #11-23<br>Harbourfront
-          Centre<br>Singapore: 099253<br>Attn: Regulatory Policy and Legislation
-          Division (Biomedical Ethics Coordinating Office)"
-    title: Mailing Address
+      - other: "Biomedical Ethics Coordinating Office (Bioethics Advisory Commitee
+          Secretariat)<br>1 Maritime Square, #11-23<br>Harbourfront
+          Centre<br>Singapore: 099253<br>"
+    title: Address
   - content:
       - phone: ""
       - email: Bioethics_Singapore@moh.gov.sg
