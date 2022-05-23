@@ -228,7 +228,7 @@ breadcrumb: Events
 		<td>International Stem Cell Conference organised by the Singapore Stem Cell Consortium in conjunction with the International Stem Cell Forum Annual Meeting</i></td>
 		</tr>
 		<tr>
-    <td>01 February</td>
+    <td>1 February</td>
     <td>Singapore Stem Cell Consortium Ethics Symposium (Part of the International Stem Cell Conference)</td>
   </tr>
 	<tr>
