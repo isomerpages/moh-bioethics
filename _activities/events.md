@@ -337,11 +337,12 @@ breadcrumb: Events
 		<td>12 December</td>
 		<td>Singapore enacted the National Registry of Diseases Act</td>
 	</tr>
-	<tr><td>December</td>
+	<tr>
+		<td>December</td>
 		<td>The Ministry of Health published its Operational Guidelines for IRBs</td>
 	</tr>
 	<tr>
-      <td>22 November</td>
+    <td>22 November</td>
     <td>Public Lecture: "Donation of Human Eggs for Research"</td>
   </tr>
   <tr>
@@ -370,7 +371,7 @@ breadcrumb: Events
 	</tr>
 	<tr>
 		<td>1 - 3 February</td>
-		<td>International Stem Cell Conference organised by the Singapore Stem Cell Consortium in conjunction with the International Stem Cell Forum Annual Meeting</i></td>
+		<td>International Stem Cell Conference organised by the Singapore Stem Cell Consortium in conjunction with the International Stem Cell Forum Annual Meeting</td>
 		</tr>
 		<tr>
     <td>1 February</td>
