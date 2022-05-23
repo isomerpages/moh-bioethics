@@ -132,6 +132,10 @@ breadcrumb: Events
     <td>13 August</td>
     <td>Science Public Forum 2011:"Stem Cell-Hope or Hype?"</td>
   </tr>
+	<tr>
+		<td></td>
+		<td>	Start of Phase 3 of Singapore's Biomedical Sciences Initiative (2011 – 2015), focused on the integration of knowledge and capabilities across disciplines and agencies to enable more multi-disciplinary, multi-agency research collaborations.</td>
+	</tr>
 </table>
 
 ### **2010**
