@@ -293,4 +293,20 @@ breadcrumb: Events
 
 <table class="table-v">
 	<tr>
+		<td></td>
+		<td>The Ministry of Health (MOH) set up the National Disease Registries Office (renamed National Registry of Diseases Office in 2008)</td>
+	</tr>
+	<tr>
+		<td>Nov 9 to 30</td>
+		<td>BAC conducted a public consultation on human stem cell research</td>
+	</tr>
+	<tr>
+		<td>Aug 22</td>
+		<td>BAC launched its website</td>
+	</tr>
+	<tr>
+		<td>Feb</td>
+		<td>National Medical Ethics Committee published its Ethical Guidelines for Gene Technology</td>
+	</tr>
+	<tr>
 		<td>
