@@ -52,6 +52,22 @@ breadcrumb: Events
 
 <table class="table-v">
   <tr>
+		<td>1 November</td>
+		<td>	Human Biomedical Research Act, Human Biomedical Research Act Regulations, and Human Biomedical Research (Restricted Research) Regulations came into force</td>
+	</tr>
+	<tr>
+		<td>30 October - 14 November</td>
+		<td>Singapore re-elected as Member State & Rapporteur of the Inter-Governmental Bioethics Committee at the 39th Session of the UNESCO General Conference</td>
+	</tr>
+	<tr>
+		<td>24 - 25 October</td>
+		<td>	BAC participated in the Asia-Pacific Regional Meeting for National Ethics/Bioethics Committees in Seoul</td>
+		</tr>
+		<tr>
+			<td>11 - 15 September</td>
+			<td>BAC Chair, Judge (Ret.) Richard Magnus, re-elected as Vice-Chairperson of UNESCO's International Bioethics Committee at the 24th Session of the IBC</td>
+	</tr>
+	<tr>
     <td>27 July</td>
     <td>Science in the Cafe on "The Ethics of Mitochondrial Replacement</td>
   </tr>
@@ -63,6 +79,10 @@ breadcrumb: Events
     <td>27 May</td>
     <td>Public Forum on "Mitochondrial Replacement: "Three-parent" babies to avoid diseases?"</td>
   </tr>
+	<tr>
+		<td>23 - 24 May</td>
+		<td>BAC hosted meeting in Singapore for the international panel of authors of the UNESCO-BAC Bioethics Casebook</td>
+	</tr>
 </table>
 
 ### **2016**
