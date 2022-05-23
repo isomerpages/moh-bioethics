@@ -240,6 +240,10 @@ breadcrumb: Events
 
 <table class="table-v">
   <tr>
+		<td>23 November</td>
+		<td>BAC published a report on Research involving Human Subjects: Guidelines for IRBs</td>
+	</tr>
+	<tr>
     <td>18 November</td>
     <td>5th HUGO Pacific Meeting & 6th Asia-Pacific Conference on Human Genetics: Ethics, Legal and Social Issues Forum (Public Session)</td>
   </tr>
