@@ -244,6 +244,10 @@ breadcrumb: Events
     <td>5th HUGO Pacific Meeting & 6th Asia-Pacific Conference on Human Genetics: Ethics, Legal and Social Issues Forum (Public Session)</td>
   </tr>
    <tr>
+		 <td>April</td>
+		 <td>National Healthcare Group (NHG)'s Domain Specific Review Boards became operational</td>
+	</tr>
+	<tr>
     <td>19 February</td>
     <td>"Informed Consent - What Does It Mean?" A lecture by Professor Martin Bobrow</td>
   </tr>
@@ -251,6 +255,10 @@ breadcrumb: Events
     <td>17 February</td>
     <td>"Your Body, Your Genes" - Confidentiality in Medicine and Research - A public lecture by Professor Martin Bobrow</td>
   </tr>
+	<tr>
+		<td>6 January</td>
+		<td>Human Organ Transplant Act revised</td>
+	</tr>
 </table>
 
 ### **2003**
