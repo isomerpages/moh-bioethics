@@ -72,6 +72,10 @@ breadcrumb: Events
     <td>4-22 July</td>
     <td>Bioethics Festival</td>
   </tr>
+	<tr>
+		<td></td>
+		<td>	BAC participated in the 11th Global Summit of National Bioethics Advisory Bodies in Berlin</td>
+	</tr>
 </table>
 
 ### **2015**
