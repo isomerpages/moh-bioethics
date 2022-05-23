@@ -34,7 +34,6 @@ Adjunct Professor<br>
 Duke-NUS Medical School
 
 **Members**<br>
-
 **Dr Chew Wei Leong**<br>
 Associate Director (Genome Design) and Senior Research Scientist<br> 
 Genome Institute of Singapore; and<br>
