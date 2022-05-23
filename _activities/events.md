@@ -83,6 +83,19 @@ breadcrumb: Events
   </tr>
 </table>
 
+### **2014**
+
+<table class="table-v">
+	<tr>
+		<td>2 April</td>
+		<td>Centre for Biomedical Ethics at the National University of Singapore joined the World Health Organisation's global network of collaborating centres</td>
+	</tr>
+	<tr>
+		<td>22 - 28 June</td>
+		<td>BAC participated in the 10th Global Summit of National Bioethics Advisory Bodies and 12th World Congress of Bioethics in Mexico City</td>
+	</tr>
+	</table>
+
 ### **2013**
 
 <table class="table-v">
