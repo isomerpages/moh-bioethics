@@ -270,21 +270,21 @@ breadcrumb: Events
 
 <table class="table-v">
 	<tr>
-		<td>Nov 12</td>
+		<td>12 Nov</td>
 		<td>BAC published a report on Human Tissue Research</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td>Oct 29</td>
+		<td>29 Oct</td>
 		<td>Biopolis (the centre of biomedical research in Singapore) officially opened</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td>Oct 27 to 29</td>
+		<td>27 to 29 Oct</td>
 		<td>International Stem Cell Conference was organised by BMRC, A*STAR in Singapore</td>
 	</tr>
 	<tr>
-		<td>Oct 27</td>
+		<td>27 Oct</td>
 		<td>A*STAR's BMRC and the Juvenile Diabetes Research Foundation International (JDRF) signed an agreement to jointly establish a new S$5.2m (US$3m) funding programme to support stem cell research in Singapore (first research funding collaboration for BMRC with a philanthropic organisation and the first for JDRF in Singapore)</td>
 	</tr>
 	</table>
