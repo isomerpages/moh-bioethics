@@ -87,6 +87,14 @@ breadcrumb: Events
 
 <table class="table-v">
   <tr>
+		<td>5 - 20 November</td>
+		<td>Singapore elected as a Member State of the Inter-Governmental Bioethics Committee at the 37th Session of the UNESCO General Conference</td>
+	</tr>
+	<tr>
+		<td>2 May</td>
+		<td>National Medical Ethics Committee published Ethical guidelines for healthcare professionals on clinical decision-making in collaboration with patients</td>
+	</tr>
+	<tr>
     <td>14 March</td>
     <td>Public Dialogue Session on "Ethical, Legal and Social Issues in Neuroscience Research"</td>
   </tr>
@@ -102,6 +110,10 @@ breadcrumb: Events
     <td>10 January</td>
     <td>Challenges in Neuroscience Research - Lecture and Dialogue Session for those involved in Neuroscience Research</td>
   </tr>
+	<tr>
+		<td>9 January - 31 March</td>
+		<td>BAC conducted a public consultation on neuroscience research</td>
+	</tr>
 	<tr>
 		<td>2 January</td>
 		<td>Singapore enacted the Personal Data Protection Act</td>
