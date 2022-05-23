@@ -108,10 +108,22 @@ breadcrumb: Events
 
 <table class="table-v">
   <tr>
+		<td>15 October</td>
+		<td>Singapore passed the Personal Data Protection Act</td>
+	</tr>
+	<tr>
       <td>26 July</td>
     <td>Public Dialogue Session on "Ethics Guidelines for Human Biomedical Research"</td>
   </tr>
   <tr>
+		<td>12 July - 15 August</td>
+		<td>BAC conducted a public consultation on its draft Ethics Guidelines for Human Biomedical Research</td>
+	</tr>
+	<tr>
+		<td>24 April</td>
+		<td>	BAC Chair, Judge (ret.) Richard Magnus, appointed as a member of UNESCO's International Bioethics Committee</td>
+	</tr>
+	<tr>
     <td>25 February</td>
     <td>Public Forum: Involving Patients and the Public in Biomedical Research</td>
   </tr>
