@@ -242,6 +242,18 @@ breadcrumb: Events
     <td>02 October</td>
     <td>Joint Ethics Symposium with the Singapore Medical Association</td>
   </tr>
+	<tr>
+		<td>September</td>
+		<td>Opening of the Singapore Cord Blood Bank, Singapore's first and only public cord blood bank</td>
+	</tr>
+	<tr>
+		<td>6 April</td>
+		<td>NUH-NUS Tissue Repository (formerly known as NUH Tissue Bank) officially launched</td>
+	</tr>
+	<tr>
+		<td>5 April - 17 May</td>
+		<td>NUH-NUS Tissue Repository (formerly known as NUH Tissue Bank) officially launched</td>
+	</tr>		
 </table>
 
 ### **2004**
