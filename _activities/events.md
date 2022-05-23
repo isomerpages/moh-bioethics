@@ -251,14 +251,14 @@ breadcrumb: Events
     <td>Public Forum: "Is Transcending Natural Boundaries Ethical?"</td>
   </tr>
   <tr>
-    <td>28 July</td>
-    <td>Launch of a permanent Bioethics Exhibition at Science Centre Singapore - collaborative project of Science Centre Singapore, BAC and NUS Centre for Biomedical Ethics</td>
-  </tr>
-  <tr>
     <td>28 - 31 July</td>
     <td>10th World Congress of Bioethics (organised by BAC, MOH, NUS Centre for Biomedical Ethics and the Singapore Medical Association)</td>
   </tr>
   <tr>
+		<td>28 July</td>
+		<td>Launch of a permanent Bioethics Exhibition at Science Centre Singapore - collaborative project of Science Centre Singapore, BAC and NUS Centre for Biomedical Ethics</td>
+	</tr>
+	<tr>
     <td>26 - 27 July</td>
     <td>8th Global Summit of National Bioethics Advisory Bodies was hosted in Singapore (organised by BAC and MOH, and supported by the WHO and European Union)</td>
   </tr>
