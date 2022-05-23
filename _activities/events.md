@@ -51,6 +51,9 @@ breadcrumb: Events
 		<td>BAC conducted a public consultation on Mitochondrial Genome Replacement Technology</td>
 	</tr>
 	<tr>
+		<td>22 - 24 March</td>
+		<td>BAC participated in the 12th Global Summit of National Bioethics Committee in Senegal as a Steering Committee member</td>
+	</tr>
 </table>
 
 ### **2017**
