@@ -151,8 +151,12 @@ breadcrumb: Events
   </tr>
   <tr>
     <td>26-27 July</td>
-    <td>8th Global Summit of National Bioethics Advisory Bodies</td>
+    <td>8th Global Summit of National Bioethics Advisory Bodies was hosted in Singapore (organised by BAC and MOH, and supported by the WHO and European Union)</td>
   </tr>
+	<tr>
+		<td>July</td>
+		<td>BAC published a monograph in celebration of its 10th anniversary entitled: Bioethics in Singapore: The Ethical Microcosm</td>
+	</tr>
 	<tr>
 		<td>March</td>
 		<td>Singapore enacted the Mental Capacity Act</td>
