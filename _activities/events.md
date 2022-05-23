@@ -168,6 +168,14 @@ breadcrumb: Events
 
 <table class="table-v">
   <tr>
+		<td>3 November</td>
+		<td>BAC published a report on Donation of Human Eggs for Research</td>
+	</tr>
+	<tr>
+		<td>15 September</td>
+		<td>Singapore passed the Mental Capacity Act</td>
+	</tr>
+	<tr>
       <td>16 August</td>
     <td>Public Forum: "Mixing Human and Animal Tissues: Is such research ethical?"</td>
   </tr>
@@ -176,6 +184,14 @@ breadcrumb: Events
     <td>Conference on Emerging Ethical and Regulatory Issues in Human Embryonic Stem Cell Research</td>
   </tr>
   <tr>
+		<td>6 June</td>
+		<td>Singapore enacted the Health Products Act</td>
+	</tr>
+	<tr>
+		<td>21 January</td>
+		<td>Singapore amended the Human Organ Transplant Act</td>
+	</tr>
+	<tr>
     <td>19 January</td>
     <td>Public Forum: "Human-Animal Combinations for Research"</td>
   </tr>
@@ -183,6 +199,10 @@ breadcrumb: Events
     <td>17 January</td>
     <td>Workshop on Recent Ethical and Regulatory Developments in Biomedical Research</td>
   </tr>
+	<tr>
+		<td>8 January - 10 March</td>
+		<td>BAC conducted a public consultation on human-animal combinations for biomedical research</td>
+	</tr>
 	<tr>
 		<td>January</td>
 		<td>Stem Cell Society, Singapore registered</td>
