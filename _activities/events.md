@@ -231,6 +231,14 @@ breadcrumb: Events
 
 <table class="table-v">
   <tr>
+		<td>18 November</td>
+		<td>BAC published a report on Genetic Testing and Genetic Research</td>
+	</tr>
+	<tr>
+		<td>October</td>
+		<td>Singapore Stem Cell Consortium set up by A*STAR</td>
+	</tr>
+	<tr>
     <td>02 October</td>
     <td>Joint Ethics Symposium with the Singapore Medical Association</td>
   </tr>
