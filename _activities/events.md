@@ -514,6 +514,13 @@ breadcrumb: Events
     <td>"Of Biotechnology and 'Man'" - A public lecture by Professor Bartha Knoppers</td>
   </tr>
    <tr>
+		 <td>12 November</td>
+		 <td>BAC published a report on Human Tissue Research</td>
+		 </tr>
+		 <tr>
+		 <td>29 October</td>
+		 <td>Biopolis (the centre of biomedical research in Singapore) officially opened</td>
+	</tr><tr>
 		 <td>27 - 29 October</td>
 		 <td>International Stem Cell Conference was organised by BMRC, A*STAR in Singapore</td>
 	</tr>
