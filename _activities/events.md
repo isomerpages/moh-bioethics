@@ -153,6 +153,10 @@ breadcrumb: Events
     <td>26-27 July</td>
     <td>8th Global Summit of National Bioethics Advisory Bodies</td>
   </tr>
+	<tr>
+		<td>March</td>
+		<td>Singapore enacted the Mental Capacity Act</td>
+		</tr>
 </table>
 
 ### **2009**
