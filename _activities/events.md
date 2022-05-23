@@ -3,7 +3,7 @@ title: Events
 permalink: /activities/events/
 breadcrumb: Events
 ---
-### **2022**
+<### **2022**
 <table class="table-v">
 	<tr>
 		<td>June / July</td>
@@ -312,3 +312,25 @@ breadcrumb: Events
 	
 ### 	**2000**
 
+<table class="table-v">
+	<tr>
+		<td>Dec</td>
+		<td>Bioethics Advisory Committee (BAC) established to address the ethical, legal and social issues arising from biomedical sciences research</td>
+	</tr>
+	<tr>
+		<td>Oct</td>
+		<td>Biomedical Research Council (BMRC) set up under the National Science and Technology Board (established in 1991 and later renamed the Agency for Science, Technology and Research (A*STAR) in 2002)</td>
+	</tr>
+	<tr>
+		<td>Jun</td>
+		<td>Singapore Genomics Program launched (renamed Genome Institute of Singapore in June 2001)</td>
+	</tr>
+	<tr>
+		<td>Jun</td>
+		<td>Singapore launched the Biomedical Sciences Initiative to develop the Biomedical Sciences cluster as one of the key pillars of the country's economy, alongside Electronics, Engineering and Chemicals. Phase 1 of the Initiative (2000 – 2005) focused on building a strong foundation in basic biomedical research)</td>
+	</tr>
+	<tr>
+		<td>
+	
+	
+		
