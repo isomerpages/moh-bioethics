@@ -259,7 +259,7 @@ breadcrumb: Events
     <td>10th World Congress of Bioethics (organised by BAC, MOH, NUS Centre for Biomedical Ethics and the Singapore Medical Association)</td>
   </tr>
   <tr>
-    <td>26-27 July</td>
+    <td>26 - 27 July</td>
     <td>8th Global Summit of National Bioethics Advisory Bodies was hosted in Singapore (organised by BAC and MOH, and supported by the WHO and European Union)</td>
   </tr>
 	<tr>
