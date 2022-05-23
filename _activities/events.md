@@ -388,7 +388,7 @@ breadcrumb: Events
 <table class="table-v">
   <tr>
 		<td>November</td>
-		<td>BAC and the Singapore Academy of Law published a monograph entitled: *Life Sciences: Law and Ethics*</td>
+		<td>BAC and the Singapore Academy of Law published a monograph entitled: Life Sciences: Law and Ethics</td>
 	</tr>
 	<tr>
     <td>15 October</td>
