@@ -239,7 +239,7 @@ breadcrumb: Events
 		<td>Singapore Stem Cell Consortium set up by A*STAR</td>
 	</tr>
 	<tr>
-    <td>02 October</td>
+    <td>2 October</td>
     <td>Joint Ethics Symposium with the Singapore Medical Association</td>
   </tr>
 	<tr>
