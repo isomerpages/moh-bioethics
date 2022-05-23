@@ -183,6 +183,10 @@ breadcrumb: Events
     <td>17 January</td>
     <td>Workshop on Recent Ethical and Regulatory Developments in Biomedical Research</td>
   </tr>
+	<tr>
+		<td>January</td>
+		<td>Stem Cell Society, Singapore registered</td>
+	</tr>
 </table>
 
 ### **2007**
