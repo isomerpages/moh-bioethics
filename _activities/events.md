@@ -138,7 +138,14 @@ breadcrumb: Events
 
 <table class="table-v">
   <tr>
-      <td>31 July</td>
+		<td>4 November</td>
+		<td>Ministry of Health issued the Licensing Terms and Conditions on Assisted Reproduction</td>
+	</tr>
+	<tr><td>22 September</td>
+		<td>BAC published a report on Human-Animal Combinations in Stem Cell Research</td>
+	</tr>
+	<tr>
+		<td>31 July</td>
     <td>Public Forum: "Is Transcending Natural Boundaries Ethical?"</td>
   </tr>
   <tr>
