@@ -297,11 +297,11 @@ breadcrumb: Events
 		<td>The Ministry of Health (MOH) set up the National Disease Registries Office (renamed National Registry of Diseases Office in 2008)</td>
 	</tr>
 	<tr>
-		<td>Nov 9 to 30</td>
+		<td>9 to 30 Nov</td>
 		<td>BAC conducted a public consultation on human stem cell research</td>
 	</tr>
 	<tr>
-		<td>Aug 22</td>
+		<td>22 Aug</td>
 		<td>BAC launched its website</td>
 	</tr>
 	<tr>
