@@ -363,7 +363,7 @@ breadcrumb: Events
 	</tr>
 	<tr>
 		<td>20 April</td>
-		<td>Official opening of the Singapore Institute for Clinical Sciences, with research programmes in Genetic Medicine, Hepatic Diseases and Metabolic Diseases<td>
+		<td>Official opening of the Singapore Institute for Clinical Sciences, with research programmes in Genetic Medicine, Hepatic Diseases and Metabolic Diseases</td>
 		</tr>
 		<tr>
 			<td>March</td>
