@@ -46,6 +46,11 @@ breadcrumb: Events
     <td>28 April</td>
     <td>Public Dialogue Session on "Ethical, Legal, and Social Issues Arising From Mitochondrial Genome Replacement Technology"</td>
   </tr>
+	<tr>
+		<td>20 April - 15 June</td>
+		<td>BAC conducted a public consultation on Mitochondrial Genome Replacement Technology</td>
+	</tr>
+	<tr>
 </table>
 
 ### **2017**
