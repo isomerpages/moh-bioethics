@@ -162,6 +162,10 @@ breadcrumb: Events
     <td>23 September</td>
     <td>"Resettling the Parameters: Public Health as the Foundation for Public Health Ethics" - Science in the Cafe with Dr Angus Dawson</td>
   </tr>
+	<tr>
+		<td>April</td>
+		<td>Ministry of Health published the Code of Ethical Practice in Human Biomedical Research</td>
+	</tr>
 </table>
 
 ### **2008**
