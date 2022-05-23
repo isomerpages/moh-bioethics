@@ -244,7 +244,15 @@ breadcrumb: Events
     <td>5th HUGO Pacific Meeting & 6th Asia-Pacific Conference on Human Genetics: Ethics, Legal and Social Issues Forum (Public Session)</td>
   </tr>
    <tr>
-		 <td>April</td>
+		 <td>29 October</td>
+		 <td>The National Advisory Committee for Laboratory Animal Research (NACLAR) issued Guidelines on the Care and Use of Animals for Scientific Purposes</td>
+	</tr>
+	<tr>
+		 <td>10 September</td>
+		 <td>Singapore enacted the Human Cloning and Other Prohibited Practices Act</td>
+	</tr>
+	<tr>
+		<td>April</td>
 		 <td>National Healthcare Group (NHG)'s Domain Specific Review Boards became operational</td>
 	</tr>
 	<tr>
