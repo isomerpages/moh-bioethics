@@ -18,7 +18,8 @@ breadcrumb: Events
 <table class="table-v">
 	<tr>
 		<td>27 October</td>
-		<td>(i) A report on Neuroscience Research;<br>
+		<td>BAC published the following reports:<br>
+			(i) A report on Neuroscience Research;<br>
 			(ii) An Interim Report on Mitochondrial Genome Replacement Technology; and<br>
 			(iii) Ethics Guideline for Human Biomedical Research (2021 Revised)</td>
 	</tr>
