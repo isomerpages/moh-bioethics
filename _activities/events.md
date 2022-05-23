@@ -287,4 +287,6 @@ breadcrumb: Events
 		<td>Oct 27</td>
 		<td>A*STAR's BMRC and the Juvenile Diabetes Research Foundation International (JDRF) signed an agreement to jointly establish a new S$5.2m (US$3m) funding programme to support stem cell research in Singapore (first research funding collaboration for BMRC with a philanthropic organisation and the first for JDRF in Singapore)</td>
 	</tr>
-	<tr>
+	</table>
+	
+	
