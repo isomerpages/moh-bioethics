@@ -202,7 +202,11 @@ breadcrumb: Events
 
 <table class="table-v">
   <tr>
-      <td>15 October</td>
+		<td>November</td>
+		<td>BAC and the Singapore Academy of Law published a monograph entitled: *Life Sciences: Law and Ethics*</td>
+	</tr>
+	<tr>
+    <td>15 October</td>
     <td>Ethics Symposium for Healthcare Professionals (Part of SMA Ethics Convention): "Challenges of Consent and Confidentiality Requirements in a Globalised and Digitised Healthcare Environment"</td>
   </tr>
   <tr>
