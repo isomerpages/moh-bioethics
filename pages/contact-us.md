@@ -54,6 +54,6 @@ locations:
       - Harbourfront Centre
       - Singapore 099253
     operating_hours: []
-    maps_link: ""
+    maps_link: "![](/images/BECO%20map.png)"
     title: BECO
 ---
