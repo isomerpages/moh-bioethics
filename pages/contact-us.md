@@ -50,10 +50,10 @@ contacts:
 agency_name: Bioethics Advisory Committee
 locations:
   - address:
-      - 1 Maritime Square
+      - "1 Maritime Square #11-23"
       - Harbourfront Centre
       - Singapore 099253
-    title: BECO
     operating_hours: []
     maps_link: ""
+    title: BECO
 ---
