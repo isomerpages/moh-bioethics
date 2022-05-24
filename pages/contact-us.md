@@ -40,7 +40,7 @@ contacts:
       - email: ""
       - other: "Biomedical Ethics Coordinating Office (Bioethics Advisory Commitee
           Secretariat)<br>1 Maritime Square, #11-23<br>Harbourfront
-          Centre<br>Singapore: 099253<br>![](/images/BECO%20map.png)"
+          Centre<br>Singapore: 099253<br>"
     title: Address
   - content:
       - phone: ""
@@ -48,12 +48,4 @@ contacts:
       - other: ""
     title: General Enquiries & Feedback
 agency_name: Bioethics Advisory Committee
-locations:
-  - address:
-      - 1 Maritime Square
-      - Harbourfront Centre
-      - Singapore 099253
-    operating_hours: []
-    maps_link: "![](/images/BECO%20map.png)"
-    title: BECO
 ---
