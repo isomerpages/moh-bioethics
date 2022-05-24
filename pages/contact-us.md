@@ -50,7 +50,7 @@ contacts:
 agency_name: Bioethics Advisory Committee
 locations:
   - address:
-      - "1 Maritime Square #11-23"
+      - 1 Maritime Square
       - Harbourfront Centre
       - Singapore 099253
     operating_hours: []
