@@ -13,7 +13,7 @@ Themed 'Bioethics Future - Empowering Our Next Generation', the objectives of th
 *  Raise public awareness on the importance of bioethics in Singapore to the next generation of Singapore researchers, students and members of the public.
 
 ![](/images/20th%20Anniversary%20Images/DPM%20Heng.png)
-DPM Heng Swee Keat delivering the opening address at the conference
+Guest-of-Honour DPM Heng Swee Keat delivering the opening address at the conference
 
 ![](/images/20th%20Anniversary%20Images/17th%20jun-6314(cropped)_Mr%20Magnus_welcome%20address.jpg)
 Late Chief District Judge (Ret.) Richard Magnus, then BAC Chair, delivering the welcome address at the conference
