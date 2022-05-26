@@ -550,11 +550,6 @@ breadcrumb: Events
 		<td></td>
 	</tr>
 	<tr>
-		<td>29 October</td>
-		<td>Biopolis (the centre of biomedical research in Singapore) officially opened</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>27 to 29 October</td>
 		<td>International Stem Cell Conference was organised by BMRC, A*STAR in Singapore</td>
 	</tr>
