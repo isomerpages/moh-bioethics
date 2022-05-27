@@ -550,14 +550,6 @@ breadcrumb: Events
 		<td></td>
 	</tr>
 	<tr>
-		<td>27 to 29 October</td>
-		<td>International Stem Cell Conference was organised by BMRC, A*STAR in Singapore</td>
-	</tr>
-	<tr>
-		<td>27 October</td>
-		<td>A*STAR's BMRC and the Juvenile Diabetes Research Foundation International (JDRF) signed an agreement to jointly establish a new S$5.2m (US$3m) funding programme to support stem cell research in Singapore (first research funding collaboration for BMRC with a philanthropic organisation and the first for JDRF in Singapore)</td>
-	</tr>
-	<tr>
 		<td>21 June</td>
 		<td>BAC published a report on Ethical, Legal and Social Issues in Human Stem Cell Research, Reproductive and Therapeutic Cloning</td>
 	</tr>
