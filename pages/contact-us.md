@@ -9,22 +9,12 @@ contacts:
       - phone: ""
       - email: ""
       - other: ""
-    title: Dr Tiong Wei Wei
-  - content:
-      - phone: ""
-      - email: ""
-      - other: ""
     title: Dr Durkeshwari Anbalagan-Raj
   - content:
       - phone: ""
       - email: ""
       - other: ""
     title: Mr Louis Peter Hor
-  - content:
-      - phone: ""
-      - email: ""
-      - other: ""
-    title: Ms Nathira Shafeen
   - content:
       - phone: ""
       - email: ""
