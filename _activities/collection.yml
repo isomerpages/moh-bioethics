@@ -2,5 +2,6 @@ collections:
   activities:
     output: true
     order:
+      - Events/.keep
       - current-projects.md
       - events.md
