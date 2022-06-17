@@ -4,4 +4,3 @@ collections:
     order:
       - Events/.keep
       - current-projects.md
-      - events.md
