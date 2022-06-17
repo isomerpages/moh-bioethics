@@ -4,5 +4,5 @@ collections:
     order:
       - Events/.keep
       - Events/2011 to Present.md
-      - Events/2000 to 2010.md
+      - Events/2000 to 2009.md
       - current-projects.md
