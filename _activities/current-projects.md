@@ -16,6 +16,6 @@ The advisory report aims to review the bioethical issues in the application/use 
 The Casebook serves as a single resource of medical law cases in Singapore for legal professionals, students, or anyone seeking to understand the medico-legal landscape in Singapore.
 
 **Establishment of a Bioethics Corner with the National Library Board**<br>
-The Bioethics Corner is a dedicated resource on bioethics and related materials for the public to access to promote greater awareness and understanding of bioethics in Singapore.
+The Bioethics Corner is a dedicated resource with physical and digital collections on bioethics and related topics for the public to access to promote greater awareness and understanding of bioethics in Singapore.
 
 **Revamp of the Bioethics Exhibition at the Science Centre Singapore**
