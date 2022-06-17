@@ -2,7 +2,7 @@ collections:
   activities:
     output: true
     order:
-      - Events/2000 to 2010.md
-      - Events/2011 to Present.md
       - Events/.keep
+      - Events/2011 to Present.md
+      - Events/2000 to 2010.md
       - current-projects.md
