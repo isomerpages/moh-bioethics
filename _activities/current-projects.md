@@ -13,7 +13,7 @@ The advisory report aims to review the bioethical issues in the application/use 
 The advisory report aims to review the bioethical issues in the application/use of human nuclear genome editing (HNGE) and make recommendations on the topic to support the development of an ethical framework of HNGE in human biomedical research.
 
 **Casebook of Medico-Legal Cases in Singapore**<br>
-
+The Casebook serves as a single resource of medical law cases in Singapore for legal professionals, students, or anyone seeking to understand the medico-legal landscape in Singapore.
 
 **Establishment of a Bioethics Corner with the National Library Board**
 
