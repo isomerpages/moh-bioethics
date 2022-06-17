@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Events/2000 to 2010.md
-      - Events/events.md
+      - Events/2011 to Present.md
       - Events/.keep
       - current-projects.md
