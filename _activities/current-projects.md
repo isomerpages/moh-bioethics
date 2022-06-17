@@ -6,9 +6,10 @@ breadcrumb: Current Projects
 ### BAC's Current Projects 
 
 
-**Big Data and Artificial Intelligence in Human Biomedical Research**
+**Advisory report: Big Data and Artificial Intelligence in Human Biomedical Research**
 
-**Human Nuclear Genome Editing**
+
+**Advisory report: Human Nuclear Genome Editing**
 
 **Casebook of Medico-Legal Cases in Singapore**
 
