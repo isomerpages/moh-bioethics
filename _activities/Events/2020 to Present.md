@@ -27,5 +27,13 @@ third_nav_title: Events
 	<tr>
 		<td>17-18 June</td>
 		<td>BAC's 20th Anniversary Virtual Public Conference</td>
-		
-	
+	</tr>
+	<tr>
+		<td>10 June</td>
+		<td>BAC's 20th Anniversary Pre-Conference: Satellite Meeting with International Experts</td>
+	</tr>
+	<tr>
+		<td>10 June</td>
+		<td>BAC's 20th Anniversary Pre-Conference: Asian Bioethics Network Meeting</td>
+	</tr>
+	</table>
