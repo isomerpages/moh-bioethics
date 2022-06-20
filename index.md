@@ -8,7 +8,11 @@ sections:
       background: /images/BAC 20th Anniversary banner blue1.png
       dropdown:
         title: Learn More
-        options: []
+        options:
+          - title: Who We Are
+            url: ""
+          - title: The Committee
+            url: ""
   - infopic:
       title: "Late Chief District Judge (Ret.) Mr Richard Magnus "
       subtitle: In fond memory of
