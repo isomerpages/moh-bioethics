@@ -25,7 +25,7 @@ third_nav_title: Events
 			(iii) Ethics Guidelines for Human Biomedical Research (2021 Revised)</td>
 	</tr>
 	<tr>
-		<td>17-18 June</td>
+		<td>17 - 18 June</td>
 		<td>BAC's 20th Anniversary Virtual Public Conference</td>
 	</tr>
 	<tr>
