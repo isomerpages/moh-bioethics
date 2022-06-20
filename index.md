@@ -5,7 +5,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/BAC 20th Anniversary banner blue1.png
+      background: /images/BAC 20th Anniversary Logo White(b).png
       url: /who-we-are/overview/
       key_highlights:
         - title: What We Do
