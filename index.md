@@ -6,13 +6,6 @@ notification: ""
 sections:
   - hero:
       background: /images/BAC 20th Anniversary banner blue1.png
-      dropdown:
-        title: Learn More
-        options:
-          - title: Who We Are
-            url: https://www.bioethics-singapore.gov.sg/who-we-are/overview/
-          - title: Bioethics Resource
-            url: https://www.bioethics-singapore.gov.sg/bioethics-resource/bioethics-background/
   - infopic:
       title: "Late Chief District Judge (Ret.) Mr Richard Magnus "
       subtitle: In fond memory of
