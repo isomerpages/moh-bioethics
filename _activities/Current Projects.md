@@ -4,7 +4,6 @@ permalink: /activities/current-projects/
 breadcrumb: Current Projects
 description: ""
 ---
-
 ### BAC's Current Projects 
 
 
@@ -21,4 +20,4 @@ The Casebook serves as a single resource of medical law cases in Singapore for l
 The Bioethics Corner is a dedicated resource with physical and digital collections on bioethics and related topics for the public to access to promote greater awareness and understanding of bioethics in Singapore.
 
 **Revamp of the Bioethics Exhibition at the Science Centre Singapore**<br>
-The Bioethics Exhibition will explain basic concepts of human biomedical research and bioethics, and examine bioethical issues arising from current biomedical research topics (such as neuroethics and gene editing) and future biomedical research (such as big data and artificial intelligence) and the impact to individuals and society.
+The Bioethics Exhibition will explain basic concepts of human biomedical research and bioethics and examine bioethical issues arising from current biomedical research topics (such as neuroethics and gene editing) and future biomedical research (such as big data and artificial intelligence) and the impact to individuals and society.
