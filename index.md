@@ -21,6 +21,8 @@ sections:
         - title: Current Projects
           description: More information here
           url: /activities/current-projects
+      subtitle: Examining ethical, legal, and social issues in human biomedical research
+      title: Bioethics Advisory Committee Singapore
   - infopic:
       title: "Late Chief District Judge (Ret.) Mr Richard Magnus "
       subtitle: In fond memory of
