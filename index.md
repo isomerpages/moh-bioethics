@@ -5,21 +5,10 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/BAC 20th Anniversary Logo White(b).png
-      url: /who-we-are/overview/
-      key_highlights:
-        - title: What We Do
-          description: More information here
-          url: /who-we-are/what-we-do/
-        - title: Reports
-          description: More information here
-          url: /publications/reports/
-        - title: Consultation Papers
-          description: More information here
-          url: /publications/consultation-papers/
-        - title: Current Projects
-          description: More information here
-          url: /activities/current-projects
+      background: /images/BAC 20th Anniversary banner blue1.png
+      dropdown:
+        title: Learn More
+        options: []
   - infopic:
       title: "Late Chief District Judge (Ret.) Mr Richard Magnus "
       subtitle: In fond memory of
