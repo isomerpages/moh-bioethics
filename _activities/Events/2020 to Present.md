@@ -4,9 +4,6 @@ permalink: /activities/events/2020-to-Present
 description: ""
 third_nav_title: Events
 ---
-
-
-
 ### **2022**
 
 <table class="table-v">
