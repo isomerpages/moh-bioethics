@@ -10,9 +10,9 @@ sections:
         title: Learn More
         options:
           - title: Who We Are
-            url: ""
-          - title: The Committee
-            url: ""
+            url: https://www.bioethics-singapore.gov.sg/who-we-are/overview/
+          - title: Bioethics Resource
+            url: https://www.bioethics-singapore.gov.sg/bioethics-resource/bioethics-background/
   - infopic:
       title: "Late Chief District Judge (Ret.) Mr Richard Magnus "
       subtitle: In fond memory of
