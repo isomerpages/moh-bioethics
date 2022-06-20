@@ -5,7 +5,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      subtitle: Examining ethical, legal, and social issues in human biomedical research
       background: /images/BAC 20th Anniversary banner blue1.png
       button: Learn More
       url: /who-we-are/overview/
