@@ -6,6 +6,21 @@ notification: ""
 sections:
   - hero:
       background: /images/BAC 20th Anniversary banner blue1.png
+      button: Learn More
+      url: https://www.bioethics-singapore.gov.sg/who-we-are/overview/
+      key_highlights:
+        - title: What We Do
+          description: More information here
+          url: https://www.bioethics-singapore.gov.sg/who-we-are/what-we-do/
+        - title: Reports
+          description: More information here
+          url: https://www.bioethics-singapore.gov.sg/publications/reports/
+        - title: Consultation Papers
+          description: More information here
+          url: https://www.bioethics-singapore.gov.sg/publications/consultation-papers/
+        - title: Current Projects
+          description: More information here
+          url: https://www.bioethics-singapore.gov.sg/activities/current-projects/
   - infopic:
       title: "Late Chief District Judge (Ret.) Mr Richard Magnus "
       subtitle: In fond memory of
