@@ -16,5 +16,5 @@ contacts:
       - email: Bioethics_Singapore@moh.gov.sg
       - other: ""
     title: General Enquiries & Feedback
-agency_name: the Committee
+agency_name: Us
 ---
