@@ -5,7 +5,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/BAC 20th Anniversary Logo White1.png
+      background: /images/BAC 20th Anniversary banner blue1.png
       url: https://www.bioethics-singapore.gov.sg/who-we-are/overview/
       key_highlights:
         - title: What We Do
