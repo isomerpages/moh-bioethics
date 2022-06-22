@@ -20,4 +20,4 @@ The Casebook serves as a single resource of medical law cases in Singapore for l
 This collaboration with the National Library Board aims to enable members of the public to access physical and digital collections on bioethics and promote greater awareness and understanding of bioethics in Singapore.
 
 **Revamp of the Bioethics Exhibition at the Science Centre Singapore**<br>
-This collaboration with the Science Centre Singapore aims to promoate greater awareness and understanding of the bioethical issues arising from current biomedical research such as neuroethics and gene editing and future biomedical science developments including big data and artificial intelligence and their impact to individuals and society.
+This collaboration with the Science Centre Singapore aims to promote greater awareness and understanding of the bioethical issues arising from current biomedical research such as neuroethics and gene editing and future biomedical science developments including big data and artificial intelligence and their impact to individuals and society.
