@@ -21,7 +21,7 @@ sections:
           description: More information here
           url: https://www.bioethics-singapore.gov.sg/activities/current-projects/
       button: Learn More
-      title: "                                               "
+      title: "                                                            "
       subtitle: "                                                                            \
         "
   - infopic:
