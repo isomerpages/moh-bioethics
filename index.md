@@ -20,7 +20,7 @@ sections:
         - title: Current Projects
           description: More information here
           url: https://www.bioethics-singapore.gov.sg/activities/current-projects/
-      button: Learn More
+      button: Enter
       title: "                                                            "
       subtitle: "                                                                            \
         "
