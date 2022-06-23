@@ -11,5 +11,4 @@ Harbourfront Centre<br>
 Singapore 099253<br>
 
 **General Enquiries or Feedback**<br>
-Bioethics_Singapore@moh.gov.sg<br>
-
+Email to Bioethics_Singapore@moh.gov.sg or fill in the online form [here](https://form.gov.sg/forms/moh/5c6276339d7a3e00178b58f8)
