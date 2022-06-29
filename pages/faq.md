@@ -16,12 +16,15 @@ The BAC has issued numerous recommendations addressing specific issues in human 
 - Donation of Human Eggs for Research (2008)
 - Human-Animal Combinations in Stem Cell Research (2010)
 - Ethics Guidelines for Human Biomedical Research (2015)
+- Neuroscience Research Report (2021)
+- Interim Report on Mitochondrial Genome Replacement Technology (2021)
+- Ethics Guidelines for Human Biomedical Research (2021 Revised)
 
 ---
 
 **2. Who are the members of the BAC?**
 
-The BAC is currently chaired by Judge (ret.) Richard Magnus, and comprises 14 other members, who are well-respected experts from fields including medicine, life sciences, law, public policy, and philosophy. The current list of members can be found [here](/who-we-are/the-committee/){:target="_blank"}.
+The BAC is currently chaired by Professor Lee Eng Hin, Department of Orthopaedic Surgery, National University of Singapore; and Emeritus Consultant, National University Hospital and comprises 18 other members, who are well-respected experts from fields including medicine, life sciences, law, public policy, and philosophy. The current list of members can be found [here](/who-we-are/the-committee/){:target="_blank"}.
 
 ---
 
@@ -41,7 +44,7 @@ No. The BAC does not adjudicate individual research proposals, nor does it have 
 
 **5. Does the BAC make any recommendations regarding clinical medical ethics?**
 
-No. The remit of the BAC only covers human biomedical research. Such matters fall into authority of the Ministry of Health, the National Medical Ethics Committee, and the Singapore Medical Council.
+No. The remit of the BAC only covers human biomedical research. Such matters fall under the authority of the Ministry of Health, the National Medical Ethics Committee, and the Singapore Medical Council.
 
 ---
 
@@ -65,7 +68,7 @@ An important part of the BAC’s deliberative process is public consultation. A 
 
 As part of their deliberations, the BAC would then study the comments received before making its recommendations, which would be published in a report.
 
-The past BAC reports can be downloaded here.
+The past BAC reports can be downloaded [here](/publications/reports/){:target="_blank"}.
 
 ---
 
@@ -75,4 +78,4 @@ The BAC periodically conducts public consultations in order to invite views from
 
 The BAC also holds public forums frequently, during which ethical issues related to BAC’s on-going projects would be raised for discussion with members of the public.
 
-Information about BAC’s public consultations, as well as activities, can be found [here:](/activities/events/){:target="_blank"}.
+Information about BAC’s public consultations, as well as activities, can be found [here](/activities/events/){:target="_blank"}.

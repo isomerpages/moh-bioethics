@@ -5,24 +5,25 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Bioethics Advisory Committee Singapore
-      subtitle: Examining ethical, legal, and social issues in human biomedical research
-      background: /images/testtube-edited.jpg
-      button: Learn More
-      url: /who-we-are/overview/
+      background: /images/BAC 20th Anniversary banner blue1.png
+      url: https://www.bioethics-singapore.gov.sg/who-we-are/overview/
       key_highlights:
         - title: What We Do
           description: More information here
-          url: /who-we-are/what-we-do/
+          url: https://www.bioethics-singapore.gov.sg/who-we-are/what-we-do/
         - title: Reports
           description: More information here
-          url: /publications/reports/
+          url: https://www.bioethics-singapore.gov.sg/publications/reports/
         - title: Consultation Papers
           description: More information here
-          url: /publications/consultation-papers/
+          url: https://www.bioethics-singapore.gov.sg/publications/consultation-papers/
         - title: Current Projects
           description: More information here
-          url: /activities/current-projects
+          url: https://www.bioethics-singapore.gov.sg/activities/current-projects/
+      button: Enter
+      title: "                                                            "
+      subtitle: "                                                                            \
+        "
   - infopic:
       title: "Late Chief District Judge (Ret.) Mr Richard Magnus "
       subtitle: In fond memory of

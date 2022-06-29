@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - bioethics-background.md
-      - bioethics-in-singapore.md
       - useful-links.md
       - useful-publications.md

@@ -1,12 +1,14 @@
 ---
-title: 'Past Members'
+title: Past Members
 permalink: /who-we-are/past-members/
-breadcrumb: 'Past Members'
-
+breadcrumb: Past Members
 ---
-
-
 ### **Past Members of the Bioethics Advisory Committee**
+
+**Late Mr Richard Magnus**<br>
+Chief District Judge (Ret.)<br>
+Chairman from January 2011 to March 2022<br>
+Chairman, Public Transport Council from 2014 to 2022
 
 **Professor Lim Pin**<br>
 University Professor, National University of Singapore<br>
@@ -52,7 +54,7 @@ Professorial Fellow, Division of Communication Research, Wee Kim Wee School of C
 Department of Epidemiology and Public Health, Yong Loo Lin School of Medicine, National University of Singapore<br>
 (Deputy Chairman from 2007 to 2011)
 
-**Professor Louis Lim**<br>
+**Late Professor Louis Lim**<br>
 Executive Director, Biomedical Research Council, Agency for Science, Technology and Research<br>
 (2001 to 2002)
 
@@ -77,8 +79,7 @@ Chairman, National Medical Ethics Committee<br>
 (2001 to 2004)
 
 **Professor Tan Chorh Chuan**<br>
-Director of Medical Services, Ministry of Health (2001 – 2004)<br>
-Provost, National University of Singapore (2005 – 2006)<br>
+Chief Health Scientist, Ministry of Health<br>
 (2001 to 2006)
 
 **Professor Yap Hui Kim**<br>
@@ -131,7 +132,7 @@ Emeritus Professor of Obstetrics and Gynaecology, School of Medicine, King’s C
 Director, Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, USA<br>
 (2012-2017) 
 
-**Dr. Christine Grady**<br>
+**Dr Christine Grady**<br>
 Chief, National Institute of Health Clinical Center’s Department of Bioethics, USA<br>
 (2014-2016) 
 
@@ -153,4 +154,4 @@ Director, Centre of Genomics and Policy, Faculty of Medicine, Department of Huma
 
 **Dr Thomas H. Murray**<br>
 President and CEO, The Hastings Center, USA<br>
-(2005 to 2012)	
+(2005 to 2012)
