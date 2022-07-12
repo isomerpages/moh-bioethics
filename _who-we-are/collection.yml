@@ -2,9 +2,9 @@ collections:
   who-we-are:
     output: true
     order:
-      - In Memory Of.md
       - overview.md
       - The Committee.md
       - what-we-do.md
       - ethical-principles.md
       - past-members.md
+      - In Memory Of.md
