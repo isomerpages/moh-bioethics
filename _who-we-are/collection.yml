@@ -2,6 +2,8 @@ collections:
   who-we-are:
     output: true
     order:
+      - In Fond Memory of Late Chief District Judge (Retired) Richard Magnus
+        (January 2011 to March 2022).md
       - overview.md
       - The Committee.md
       - what-we-do.md
