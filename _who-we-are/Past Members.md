@@ -4,10 +4,6 @@ permalink: /who-we-are/Past-Members
 breadcrumb: Past Members
 description: ""
 ---
-
-
-
-
 ### **Past Members of the Bioethics Advisory Committee**
 
 **Late Mr Richard Magnus**<br>
