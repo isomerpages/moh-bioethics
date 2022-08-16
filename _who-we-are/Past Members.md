@@ -1,7 +1,8 @@
 ---
 title: Past Members
-permalink: /who-we-are/past-members/
+permalink: /who-we-are/Past-Members
 breadcrumb: Past Members
+description: ""
 ---
 ### **Past Members of the Bioethics Advisory Committee**
 
