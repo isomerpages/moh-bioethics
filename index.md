@@ -2,7 +2,8 @@
 layout: homepage
 title: Bioethics Advisory Committee Singapore
 permalink: /
-notification: Registration is now open for the launch of the Bioethics Corner
+notification: Registration is now open for the launch of the Bioethics Corner.
+  Join us at the talks.
 sections:
   - hero:
       background: /images/Bioethics corner poster.png
