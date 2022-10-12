@@ -7,7 +7,7 @@ notification: Registration is now open for the launch of the Bioethics Corner on
 sections:
   - hero:
       background: /images/Bioethics corner poster.png
-      url: https://www.bioethics-singapore.gov.sg/who-we-are/overview/
+      url: https://www.eventbrite.sg/e/pushing-the-frontiers-of-big-data-ai-with-biomedical-ethics-tickets-429558760817
       key_highlights:
         - title: What We Do
           description: More information here
@@ -21,7 +21,7 @@ sections:
         - title: Current Projects
           description: More information here
           url: https://www.bioethics-singapore.gov.sg/activities/current-projects/
-      button: Enter
+      button: Register here
       title: "                                                            "
       subtitle: "                                                                           \
         "
