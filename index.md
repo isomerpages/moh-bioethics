@@ -22,9 +22,9 @@ sections:
           description: More information here
           url: https://www.bioethics-singapore.gov.sg/activities/current-projects/
       button: Register
-      title: "                                                            "
-      subtitle: "                                                                           \
-        "
+      title: "Bioethics Corner     "
+      subtitle: "29 October 2022, at National
+        Library                                    "
   - resources:
       title: Be in the know
       subtitle: Publications
