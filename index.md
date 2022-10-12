@@ -2,8 +2,7 @@
 layout: homepage
 title: Bioethics Advisory Committee Singapore
 permalink: /
-notification: Registration is now open for the launch of the Bioethics Corner on
-  29 October 2022
+notification: Registration is now open for the launch of the Bioethics Corner
 sections:
   - hero:
       background: /images/Bioethics corner poster.png
