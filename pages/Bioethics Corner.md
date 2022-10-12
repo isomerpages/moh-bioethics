@@ -3,7 +3,7 @@ title: Bioethics Corner
 permalink: /bioethicscorner/
 description: ""
 ---
-Collaboration between BAC and NLB
+
 ![](/images/Bioethics%20Corner%20poster.png)
 
 ![](/images/Bioethics%20Corner%20programme.png)
