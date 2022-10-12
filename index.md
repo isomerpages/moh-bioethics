@@ -21,7 +21,7 @@ sections:
         - title: Current Projects
           description: More information here
           url: https://www.bioethics-singapore.gov.sg/activities/current-projects/
-      button: Register here
+      button: Register
       title: "                                                            "
       subtitle: "                                                                           \
         "
