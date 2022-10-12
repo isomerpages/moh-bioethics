@@ -1,6 +1,6 @@
 ---
 title: 2020 to Present
-permalink: /activities/events/2020-to-Present
+permalink: /activities/events/2020-to-Present/
 description: ""
 third_nav_title: Events
 ---
@@ -8,8 +8,8 @@ third_nav_title: Events
 
 <table class="table-v">
 	<tr>
-		<td>June / July</td>
-		<td>Upcoming: Launch of Bioethics Corner at Lee Kong Chian Reference Library</td>
+		<td>29 October</td>
+		<td>Launch of Bioethics Corner at Lee Kong Chian Reference Library in collaboration with NLB</td>
 	</tr>
 	</table>
 	
