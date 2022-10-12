@@ -2,7 +2,8 @@
 layout: homepage
 title: Bioethics Advisory Committee Singapore
 permalink: /
-notification: ""
+notification: Registration is now open for the launch of the Bioethics Corner at
+  National Library on 29 October 2022
 sections:
   - hero:
       background: /images/BAC 20th Anniversary banner blue1.png
