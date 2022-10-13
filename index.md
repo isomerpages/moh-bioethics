@@ -23,15 +23,9 @@ sections:
           url: https://www.bioethics-singapore.gov.sg/activities/current-projects/
       button: enter
       subtitle: "                                "
-  - resources:
-      title: Be in the know
-      subtitle: Publications
-      button: More Publications
-      url: publications/
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
+      title: Bioethics Corner
+      description: 29 Oct 2022, National Library
       button: learn more
       url: /bioethicscorner/
       image: /images/Bioethics Corner poster.png
@@ -41,4 +35,9 @@ sections:
       subtitle: Infobar Subtitle
       description: Infobar description
       button: Button Text
+  - resources:
+      title: Be in the know
+      subtitle: Publications
+      button: More Publications
+      url: publications/
 ---
