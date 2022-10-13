@@ -9,7 +9,7 @@ third_nav_title: Events
 <table class="table-v">
 	<tr>
 		<td>29 October</td>
-		<td>Launch of Bioethics Corner at Lee Kong Chian Reference Library in collaboration with National Library Board</td>
+		<td>Launch of [Bioethics Corner](/bioethicscorner/)at Lee Kong Chian Reference Library in collaboration with National Library Board</td>
 	</tr>
 	</table>
 	
