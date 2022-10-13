@@ -21,10 +21,9 @@ Please see the posters appended below for more information on the programme.
 Interested to attend the talks?<br> 
 Do register [now](https://www.eventbrite.sg/e/pushing-the-frontiers-of-big-data-ai-with-biomedical-ethics-tickets-429558760817) as seats are limited. 
 
-If the link does not work, use the url below.<br>
+If the link does not work, please use the url below.<br>
 https://www.eventbrite.sg/e/pushing-the-frontiers-of-big-data-ai-with-biomedical-ethics-tickets-429558760817.  
 
 ![](/images/Bioethics%20Corner%20poster.png)
 
 ![](/images/Bioethics%20Corner%20programme.png)
-
