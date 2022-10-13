@@ -28,4 +28,4 @@ Interested to attend the talks?<br>
 Do register [now](https://www.eventbrite.sg/e/pushing-the-frontiers-of-big-data-ai-with-biomedical-ethics-tickets-429558760817) as seats are limited. 
 
 *(If link does not work, please use this url: <br>
-https://www.eventbrite.sg/e/pushing-the-frontiers-of-big-data-ai-with-biomedical-ethics-tickets-429558760817.  )*
+https://www.eventbrite.sg/e/pushing-the-frontiers-of-big-data-ai-with-biomedical-ethics-tickets-429558760817  )*
