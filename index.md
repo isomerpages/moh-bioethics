@@ -6,7 +6,7 @@ notification: Registration is now open for the launch of the Bioethics Corner.
   Join us at the talks.
 sections:
   - hero:
-      background: /images/Bioethics corner poster.png
+      background: /images/BAC 20th Anniversary Logo White(b).png
       url: https://www.bioethics-singapore.gov.sg/who-we-are/overview/
       key_highlights:
         - title: What We Do
