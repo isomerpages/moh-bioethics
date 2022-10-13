@@ -7,7 +7,7 @@ notification: Registration is now open for the launch of the Bioethics Corner.
 sections:
   - hero:
       background: /images/Bioethics corner poster.png
-      url: https://www.bioethics-singapore.org/bioethicscorner/
+      url: https://www.bioethics-singapore.gov.sg/who-we-are/overview/
       key_highlights:
         - title: What We Do
           description: More information here
@@ -21,9 +21,8 @@ sections:
         - title: Current Projects
           description: More information here
           url: https://www.bioethics-singapore.gov.sg/activities/current-projects/
-      button: Read More
-      title: "Bioethics Corner     "
-      subtitle: "29 October 2022, National Library                                    "
+      button: enter
+      subtitle: "                                "
   - resources:
       title: Be in the know
       subtitle: Publications
