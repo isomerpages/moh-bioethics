@@ -3,7 +3,8 @@ layout: homepage
 title: Bioethics Advisory Committee Singapore
 permalink: /
 notification: Registration is now open for the launch of the Bioethics Corner.
-  Join us at the talks. <a href="/bioethicscorner">talks</a>
+  Join us at the <a
+  href="www.https://www.bioethics-singapore.gov.sg/bioethicscorner/">talks</a> .
 sections:
   - hero:
       background: /images/BAC 20th Anniversary banner blue1.png
