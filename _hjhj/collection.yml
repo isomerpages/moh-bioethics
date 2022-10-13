@@ -1,4 +1,5 @@
 collections:
   hjhj:
     output: true
-    order: []
+    order:
+      - Dfd/.keep
