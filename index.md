@@ -28,4 +28,17 @@ sections:
       subtitle: Publications
       button: More Publications
       url: publications/
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: learn more
+      url: /bioethicscorner/
+      image: /images/Bioethics Corner poster.png
+      alt: Bioethics Corner poster
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
 ---
