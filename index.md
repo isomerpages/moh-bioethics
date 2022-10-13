@@ -31,10 +31,10 @@ sections:
       image: /images/Bioethics Corner poster.png
       alt: Bioethics Corner poster
   - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
+      title: Bioethics Corner
+      description: 29 October 2022, National Library
+      button: learn more
+      url: /bioethicscorner/
   - resources:
       title: Be in the know
       subtitle: Publications
