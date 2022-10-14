@@ -9,11 +9,11 @@ third_nav_title: Events
 <table class="table-v">
 	<tr>
 		<td>29 October</td>
-		<td>Media event on launch of the [Bioethics Corner](/bioethicscorner/) at Lee Kong Chian Reference Library; [Public Engagement Programme on Bioethics in Big Data and Artificial Intelligence - Public talks and panel discussion](/publicengagementprogrammeonbigdataandartificialintelligence/) </td>
+		<td>Media event on launch of the <a href="https://www.bioethics-singapore.org/bioethicscorner/">Bioethics Corner</a> at Lee Kong Chian Reference Library; [Public Engagement Programme on Bioethics in Big Data and Artificial Intelligence - Public talks and panel discussion](/publicengagementprogrammeonbigdataandartificialintelligence/) </td>
 	</tr>
 	<tr>
 		<td>30 June</td>
-		<td>Launch of [Bioethics Corner](/bioethicscorner/) at Lee Kong Chian Reference Library (in collaboration with National Library Board)</td>
+		<td>Launch of <a href="https://www.bioethics-singapore.org/bioethicscorner/">Bioethics Corner</a> at Lee Kong Chian Reference Library (in collaboration with National Library Board)</td>
 	</tr>
 	</table>
 
