@@ -25,7 +25,7 @@ sections:
       button: enter
       subtitle: "                                "
   - infopic:
-      title: Bioethics Corner
+      title: Public talks on Bioethics in Big Data and AI
       description: 29 Oct 2022, National Library Building
       button: learn more
       url: /publicengagementprogrammeonbigdataandartificialintelligence/
