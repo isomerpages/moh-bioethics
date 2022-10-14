@@ -2,6 +2,7 @@ collections:
   activities:
     output: true
     order:
+      - What's New/Current Projects.md
       - What's New/Public Engagement Programme on 'Big Data and Artificial
         Intelligence'.md
       - What's New/.keep
