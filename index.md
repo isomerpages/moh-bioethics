@@ -26,7 +26,7 @@ sections:
       subtitle: "                                "
   - infopic:
       title: Bioethics Corner
-      description: 29 Oct 2022, National Library
+      description: 29 Oct 2022, National Library Building
       button: learn more
       url: /bioethicscorner/
       image: /images/Bioethics Corner poster.png
