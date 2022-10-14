@@ -2,6 +2,7 @@ collections:
   activities:
     output: true
     order:
+      - Current projects/.keep
       - Current Projects.md
       - Events/.keep
       - Events/2020 to Present.md
