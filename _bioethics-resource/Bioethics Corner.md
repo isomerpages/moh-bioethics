@@ -11,6 +11,9 @@ The BAC, in conjunction with the National Library Board (NLB), had established a
 ![](/images/bioethics%20corner%20nlb.jpg)
 *Figure 2: Proposed space for the ‘Bioethics Corner’ outlined in green. Seating areas will be similar to photograph.*
 
+![]()
+*Figure 3: Example of bookshelf to be used *
+
 
 
 
@@ -26,6 +29,3 @@ for the public talks and panel discussion<br>
 
 *(if the link does not work, please use this url: <br>
 https://www.eventbrite.sg/e/pushing-the-frontiers-of-big-data-ai-with-biomedical-ethics-tickets-429558760817  )*
-
-
-
