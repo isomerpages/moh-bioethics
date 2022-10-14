@@ -7,9 +7,9 @@ The BAC, in conjunction with the National Library Board (NLB), had established a
 
 The Bioethics Corner will feature a collection of about 150 physical titles related to bioethics that have been published within the last 10 years. The subjects range from topics such as Big Data and AI in healthcare, assisted suicide, organ trade, CRISPR technology, and gene modification, and is inclusive of non-fiction and fiction titles. 
 
-In addition, we also have a list of 50 digital eBook and eAudiobook titles available in Libby, one of NLB’s main databases for eBooks/eAudiobooks. The titles here feature more fiction titles and the list will be refreshed quarterly to feature new titles. 
+In addition, there is also a list of 50 digital eBook and eAudiobook bioethics-related titles available in Libby, one of NLB’s main databases for eBooks/eAudiobooks. The titles here feature more fiction titles and the list will be refreshed quarterly to feature new titles. 
 
-Lastly, we have two multimedia stations to encourage further exploration of the issues in bioethics using NLB’s eResources, such as databases and journals.
+Two multimedia stations are provided near the Bioethics Corner, to encourage further exploration of the issues in bioethics using NLB’s eResources, such as databases and journals.
 
 
 ![](/images/Bioethics%20Corner/Figure%201%20Entrance%20to%20level%207%20of%20LKCRL.jpg)
