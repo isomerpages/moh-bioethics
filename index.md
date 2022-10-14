@@ -29,7 +29,7 @@ sections:
       description: 29 Oct 2022, National Library Building
       button: learn more
       url: /publicengagementprogrammeonbigdataandartificialintelligence/
-      image: /images/Bioethics Corner poster.png
+      image: /images/Bioethics Corner/Bioethics Corner poster.png
       alt: Bioethics Corner poster
       subtitle: Join us at the
   - resources:
