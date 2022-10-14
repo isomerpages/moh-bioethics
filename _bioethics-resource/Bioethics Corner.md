@@ -17,7 +17,8 @@ The BAC, in conjunction with the National Library Board (NLB), had established a
 ![]()
 *Figure 4: Example of digital touch screen to be used*
 
-
+![]()
+*Figure 5: Computer for browsing book titles in LKCRL (there will be two computers placed at the Bioethics Corner).*
 
 ##### Lee Kong Chian Reference Library
 
