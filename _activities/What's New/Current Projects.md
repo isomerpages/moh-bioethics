@@ -5,7 +5,6 @@ breadcrumb: Current Projects
 description: ""
 third_nav_title: What's New
 ---
-
 ### BAC's Current Projects 
 
 
@@ -18,7 +17,7 @@ The advisory report aims to review the bioethical issues in the application/use 
 **Casebook of Medico-Legal Cases in Singapore**<br>
 The Casebook serves as a single resource of medical law cases in Singapore for legal and medical professionals, students, or anyone seeking to understand the medico-legal landscape in Singapore.
 
-**Establishment of a Bioethics Corner with the National Library Board**<br>
+**Establishment of a <a href="https://www.bioethics-singapore.org/bioethicscorner/">Bioethics Corner</a> with the National Library Board**<br>
 This collaboration with the National Library Board aims to enable members of the public to access physical and digital collections on bioethics and promote greater awareness and understanding of bioethics in Singapore.
 
 **Revamp of the Bioethics Exhibition at the Science Centre Singapore**<br>
