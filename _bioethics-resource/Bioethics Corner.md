@@ -15,11 +15,8 @@ Lastly, we have two multimedia stations to encourage further exploration of the 
 ![](/images/Bioethics%20Corner/Figure%201%20Entrance%20to%20level%207%20of%20LKCRL.jpg)
 *Figure 1: Entrance to level 7 of LKCRL. ‘Bioethics Corner’ is near to the entrance.*
 
-![](/images/Bioethics%20Corner/Figure%202%20Proposed%20space%20for%20the%20‘Bioethics%20Corner’%20outlined%20in%20green.jpg)
-*Figure 2: Proposed space for the ‘Bioethics Corner’ outlined in green. Seating areas will be similar to photograph.*
 
-![](/images/Bioethics%20Corner/Figure%203%20Example%20of%20bookshelf%20to%20be%20used.jpg)
-*Figure 3: Example of bookshelf to be used*
+
 
 ![](/images/Bioethics%20Corner/Figure%204%20Example%20of%20digital%20touch%20screen%20to%20be%20used.jpg)
 *Figure 4: Example of digital touch screen to be used*
