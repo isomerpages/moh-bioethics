@@ -2,6 +2,8 @@ collections:
   activities:
     output: true
     order:
+      - Current projects/Public Engagement Programme on 'Big Data and Artificial
+        Intelligence'.md
       - Current projects/.keep
       - Current Projects.md
       - Events/.keep
