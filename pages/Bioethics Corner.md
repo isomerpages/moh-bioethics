@@ -3,29 +3,27 @@ title: Bioethics Corner
 permalink: /bioethicscorner/
 description: ""
 ---
-![](/images/Bioethics%20Corner%20poster.png)
+The BAC, in conjunction with the National Library Board (NLB), had established a ‘Bioethics Corner’ at the Lee Kong Chian Reference Library on 30 June 2022 to promote greater awareness and understanding of bioethics in Singapore.  The ‘Bioethics Corner’, located at level 7 of the National Library Building is open to the public for access to bioethics publications. Digital collections are also available on NLB’s Overdrive platform to enhance public access to bioethics resources.
 
-![](/images/Bioethics%20Corner%20programme.png)
+As part of the launch, the BAC and NLB will be organising a public education programme on 29 October 2022, with Emeritus Professor Lee Eng Hin, BAC Chair and Emeritus Professor, Department of Orthopaedic Surgery, National University of Singapore (NUS) and Emeritus Consultant, Division of Paediatric Orthopaedics, National University Hospital (NUH), invited as the event’s Guest-of-Honour. The programme will feature:
 
-To promote greater awareness and understanding of bioethics in Singapore, the Bioethics Advisory Committee (BAC) is pleased to announce the launch of the ‘Bioethics Corner’ at Lee Kong Chian Reference Library (L7, National Library), which will feature bioethics publications that are open to public access.
+* Introductory talk on bioethics (by Dr Voo Teck Chuan, BAC member and Assistant Professor, NUS Centre for Biomedical Ethics)
 
-As part of the launch, the BAC, in collaboration with the National Library Board (NLB), will be organising a programme ‘Bioethics in Big Data and Artificial Intelligence (AI)', featuring: 
+* Ethical dilemma of Big Data and AI use in Human Biomedical Research (by Professor Julian Savulescu, Director, NUS Centre for Biomedical Ethics)
 
-* 'Introductory talk on bioethics' (by Dr Voo Teck Chuan, BAC member and Assistant Professor, NUS Centre for Biomedical Ethics)
-
-* 'Ethical dilemma of Big Data and AI use in Human Biomedical Research' (by Professor Julian Savulescu, Director, NUS Centre for Biomedical Ethics)
-* Panel discussion on Big Data and AI 
+* Panel discussion on emerging ethical issues arising from the use of Big Data and AI in biomedical research
 
 
 Date: 29 October 2022 (Saturday)<br> 
 Time: 2:30pm to 4:30pm<br>
 Location: Possibility Room, level 5, National Library Building
 
+![](/images/Bioethics%20Corner%20poster.png)
 
-
+![](/images/Bioethics%20Corner%20programme.png)
 
 Interested to attend the talks?<br> 
-Do register [now](https://www.eventbrite.sg/e/pushing-the-frontiers-of-big-data-ai-with-biomedical-ethics-tickets-429558760817) as seats are limited. 
+Register [now](https://www.eventbrite.sg/e/pushing-the-frontiers-of-big-data-ai-with-biomedical-ethics-tickets-429558760817) as seats are limited. 
 
-*(If link does not work, please use this url: <br>
+*(if the link does not work, please use this url: <br>
 https://www.eventbrite.sg/e/pushing-the-frontiers-of-big-data-ai-with-biomedical-ethics-tickets-429558760817  )*
