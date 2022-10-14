@@ -13,7 +13,7 @@ third_nav_title: Events
 	</tr>
 	<tr>
 		<td>30 June</td>
-		<td>Launch of Bioethics Corner at Lee Kong Chian Reference Library (in collaboration with National Library Board)</td>
+		<td>Launch of [Bioethics Corner](/bioethicscorner/) at Lee Kong Chian Reference Library (in collaboration with National Library Board)</td>
 	</tr>
 	</table>
 
