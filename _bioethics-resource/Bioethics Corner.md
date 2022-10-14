@@ -20,7 +20,7 @@ The BAC, in conjunction with the National Library Board (NLB), had established a
 ![](/images/Bioethics%20Corner/Figure%205%20Computer%20for%20browsing%20book%20titles%20in%20LKCRL%20.jpg)
 *Figure 5: Computer for browsing book titles in LKCRL (there will be two computers placed at the Bioethics Corner).*
 
-##### Lee Kong Chian Reference Library
+##### Bioethics Corner<br>Lee Kong Chian Reference Library
 
 **Opening hours<br>**
 Mon - Sun: 10:00 AM - 09:00 PM<br>
@@ -28,7 +28,7 @@ Closed at 5.00pm on eves of Christmas, New Year and Chinese New Year
 
 
 Click [here](https://www.eventbrite.sg/e/pushing-the-frontiers-of-big-data-ai-with-biomedical-ethics-tickets-429558760817) to register
-for the public talks and panel discussion<br>
+for the public talks and panel discussion happening on 29 October 2022<br>
 
 *(if the link does not work, please use this url: <br>
 https://www.eventbrite.sg/e/pushing-the-frontiers-of-big-data-ai-with-biomedical-ethics-tickets-429558760817  )*
