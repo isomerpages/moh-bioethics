@@ -14,6 +14,8 @@ The BAC, in conjunction with the National Library Board (NLB), had established a
 ![]()
 *Figure 3: Example of bookshelf to be used *
 
+![]()
+*Figure 4: Example of digital touch screen to be used*
 
 
 
