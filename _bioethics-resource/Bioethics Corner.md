@@ -5,7 +5,7 @@ description: ""
 ---
 The BAC, in conjunction with the National Library Board (NLB), had established a ‘Bioethics Corner’ at the Lee Kong Chian Reference Library on 30 June 2022 to promote greater awareness and understanding of bioethics in Singapore.  The ‘Bioethics Corner’, located at level 7 of the National Library Building is open to the public for access to bioethics publications. Digital collections are also available on NLB’s Overdrive platform to enhance public access to bioethics resources.
 
-Enjoy a collection of about 150 physical titles related to bioethics that have been published within the last 10 years. The subjects range from topics such as data and AI in healthcare, assisted suicide, organ trade, and CRISPR technology, and gene modification, to name a few, and include fiction as well as non-fiction.  
+The Bioethics Corner will feature a collection of about 150 physical titles related to bioethics that have been published within the last 10 years. The subjects range from topics such as data and AI in healthcare, assisted suicide, organ trade, and CRISPR technology, and gene modification, to name a few, and include fiction as well as non-fiction.  
 
 In addition, we also have a list of 50 digital eBook and eAudiobook titles available in Libby, one of NLB’s main databases for eBooks/eAudiobooks. The titles here feature more fiction titles and the list will be refreshed quarterly to feature new titles. 
 
