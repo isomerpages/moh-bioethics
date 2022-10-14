@@ -2,7 +2,6 @@ collections:
   bioethics-resource:
     output: true
     order:
-      - Public Engagement Programme on 'Big Data and Artificial Intelligence'.md
       - Bioethics Corner.md
       - bioethics-background.md
       - useful-links.md
