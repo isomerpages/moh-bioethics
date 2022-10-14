@@ -19,10 +19,10 @@ Lastly, we have two multimedia stations to encourage further exploration of the 
 *Figure 2: Bioethics Corner at LKCRL* 
 
 ![](/images/Bioethics%20Corner/Figure%204%20Example%20of%20digital%20touch%20screen%20to%20be%20used.jpg)
-*Figure 4: Example of digital touch screen to be used*
+*Figure 3: Digital touch screen for browsing at Bioethics Corner*
 
 ![](/images/Bioethics%20Corner/Figure%205%20Computer%20for%20browsing%20book%20titles%20in%20LKCRL%20.jpg)
-*Figure 5: Computer for browsing book titles in LKCRL (there will be two computers placed at the Bioethics Corner)*
+*Figure 4: Computers near bioethics corner for searching of book titles near the Bioethics Corner*
 
 ##### Bioethics Corner<br>Lee Kong Chian Reference Library
 
