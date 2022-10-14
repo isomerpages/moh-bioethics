@@ -8,6 +8,6 @@ The BAC, in conjunction with the National Library Board (NLB), had established a
 
 ##### Lee Kong Chian Reference Library
 
-Opening hours<br>
+**Opening hours<br>**
 Mon - Sun: 10:00 AM - 09:00 PM<br>
 Closed at 5.00pm on eves of Christmas, New Year and Chinese New Year
