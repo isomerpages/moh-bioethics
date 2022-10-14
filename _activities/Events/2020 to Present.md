@@ -9,7 +9,7 @@ third_nav_title: Events
 <table class="table-v">
 	<tr>
 		<td>29 October</td>
-		<td>Media launch on the Bioethics Corner and  public engagement programme on Big Data and Artificial Intelligence</td>
+		<td>Media launch on the Bioethics Corner; Public talks and panel discussion on Big Data and Artificial Intelligence </td>
 	</tr>
 	<tr>
 		<td>30 June</td>
