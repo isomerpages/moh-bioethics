@@ -13,8 +13,7 @@ As part of the launch, the BAC and NLB will be organising a public engagement pr
 *  Panel discussion on emerging ethical issues arising from the use of Big Data and AI in biomedical research
 
 *  Moderator: 
-	*  Professor Patrick Tan Boon Oi, Cancer and Stem Cell Biology Programme, Duke-NUS Medical School<br>
-	
+	*  Professor Patrick Tan Boon Oi, Cancer and Stem Cell Biology Programme, Duke-NUS Medical School<br>	
 * Panellists:<br> 
 	* Professor Chin Jing Jih, Chairman, Medical Board; Senior Consultant, Department of Geriatric Medicine, Tan Tock Seng Hospital;<br>
 	* Professor Julian Savulescu, Director, Centre for Biomedical Ethics, Yong Loo Lin School of Medicine, NUS;<br>
