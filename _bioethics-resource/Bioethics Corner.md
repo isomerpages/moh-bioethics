@@ -15,7 +15,7 @@ Two multimedia stations are provided near the Bioethics Corner, to encourage fur
 ![](/images/Bioethics%20Corner/Figure%201%20Entrance%20to%20level%207%20of%20LKCRL.jpg)
 *Figure 1: Entrance to level 7 of LKCRL. ‘Bioethics Corner’ is near to the entrance.*
 
-![](/images/Bioethics%20Corner/Figure%202%20Bioethics%20Corner%20at%20LKCRL.jpg)
+![](/images/Bioethics%20Corner/Figure%202%20Bioethics%20Corner%20at%20LKCRL%20(with%20decal).png)
 *Figure 2: Bioethics Corner at LKCRL* 
 
 ![](/images/Bioethics%20Corner/Figure%204%20Example%20of%20digital%20touch%20screen%20to%20be%20used.jpg)
