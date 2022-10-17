@@ -14,7 +14,7 @@ As part of the launch, the BAC and NLB will be organising a public engagement pr
 
 	* Moderator is Professor Patrick Tan Boon Oi, Cancer and Stem Cell Biology Programme, Duke-NUS Medical School<br>
 	
-	  The panellists are<br> 
+	  Panellists are<br> 
 	* Professor Chin Jing Jih, Chairman, Medical Board; Senior Consultant, Department of Geriatric Medicine, Tan Tock Seng Hospital;<br>
 	* Professor Julian Savulescu, Director, Centre for Biomedical Ethics, Yong Loo Lin School of Medicine, NUS;<br>
 	* Professor Robert Morris, Chief Technology Strategist, Ministry of Health Transformation; and<br>
