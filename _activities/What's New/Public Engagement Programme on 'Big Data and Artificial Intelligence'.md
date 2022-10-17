@@ -11,6 +11,7 @@ As part of the launch, the BAC and NLB will be organising a public engagement pr
 * Ethical dilemma of Big Data and AI use in Human Biomedical Research (by Professor Julian Savulescu, Director, NUS Centre for Biomedical Ethics)
 
 *  Panel discussion on emerging ethical issues arising from the use of Big Data and AI in biomedical research
+
 *  Moderator: 
 	*  Professor Patrick Tan Boon Oi, Cancer and Stem Cell Biology Programme, Duke-NUS Medical School<br>
 	
