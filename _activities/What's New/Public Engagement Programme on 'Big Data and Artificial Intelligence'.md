@@ -4,9 +4,7 @@ permalink: /publicengagementprogrammeonbigdataandartificialintelligence/
 description: ""
 third_nav_title: What's New
 ---
-
-
-As part of the launch, the BAC and NLB will be organising a public education programme on 29 October 2022, with Emeritus Professor Lee Eng Hin, BAC Chair and Emeritus Professor, Department of Orthopaedic Surgery, National University of Singapore (NUS) and Emeritus Consultant, Division of Paediatric Orthopaedics, National University Hospital (NUH), invited as the event’s Guest-of-Honour. The programme will feature:
+As part of the launch, the BAC and NLB will be organising a public engagement programme on 29 October 2022, with Emeritus Professor Lee Eng Hin, BAC Chair and Emeritus Professor, Department of Orthopaedic Surgery, National University of Singapore (NUS) and Emeritus Consultant, Division of Paediatric Orthopaedics, National University Hospital (NUH), invited as the event’s Guest-of-Honour. The programme will feature:
 
 * Introductory talk on bioethics (by Dr Voo Teck Chuan, BAC member and Assistant Professor, NUS Centre for Biomedical Ethics)
 
