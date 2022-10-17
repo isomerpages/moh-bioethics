@@ -1,6 +1,6 @@
 ---
 title: 2020 to Present
-permalink: /activities/events/2020-to-Present
+permalink: /activities/events/2020-to-Present/
 description: ""
 third_nav_title: Events
 ---
@@ -8,11 +8,15 @@ third_nav_title: Events
 
 <table class="table-v">
 	<tr>
-		<td>June / July</td>
-		<td>Upcoming: Launch of Bioethics Corner at Lee Kong Chian Reference Library</td>
+		<td>29 October</td>
+		<td>Media event on launch of the <a href="https://www.bioethics-singapore.org/bioethicscorner/">Bioethics Corner</a> at Lee Kong Chian Reference Library; <a href="https://www.bioethics-singapore.org/publicengagementprogrammeonbigdataandartificialintelligence/">Public Engagement Programme on Bioethics in Big Data and Artificial Intelligence - Public talks and panel discussion</a> </td>
+	</tr>
+	<tr>
+		<td>30 June</td>
+		<td>Launch of <a href="https://www.bioethics-singapore.org/bioethicscorner/">Bioethics Corner</a> at Lee Kong Chian Reference Library (in collaboration with National Library Board)</td>
 	</tr>
 	</table>
-	
+
 	
 ### 	**2021**
 

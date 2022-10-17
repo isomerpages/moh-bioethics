@@ -2,7 +2,9 @@
 layout: homepage
 title: Bioethics Advisory Committee Singapore
 permalink: /
-notification: ""
+notification: Registration is now open for the BAC’s public engagement programme
+  on ‘Bioethics in Big Data and Artificial Intelligence’. Join us <a
+  href="/publicengagementprogrammeonbigdataandartificialintelligence/">here</a>.
 sections:
   - hero:
       background: /images/BAC 20th Anniversary banner blue1.png
@@ -20,10 +22,16 @@ sections:
         - title: Current Projects
           description: More information here
           url: https://www.bioethics-singapore.gov.sg/activities/current-projects/
-      button: Enter
-      title: "                                                            "
-      subtitle: "                                                                            \
-        "
+      button: enter
+      subtitle: "                                "
+  - infopic:
+      title: Panel discussion on Bioethics in Big Data and AI
+      description: 29 Oct 2022, National Library Building
+      button: learn more
+      url: /publicengagementprogrammeonbigdataandartificialintelligence/
+      image: /images/Bioethics Corner/Bioethics Corner poster.png
+      alt: Bioethics Corner poster
+      subtitle: Join us at the
   - resources:
       title: Be in the know
       subtitle: Publications
