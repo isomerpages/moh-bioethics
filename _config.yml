@@ -1,7 +1,7 @@
-title: 'Bioethics Advisory Committee'
+title: Bioethics Advisory Committee
 title-abbreviated: BAC
 description: Description
-url: 'https://www.bioethics-singapore.org'
+url: https://www.bioethics-singapore.org
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 is_government: false
@@ -10,7 +10,7 @@ custom_css_path: /misc/custom.css
 custom_print_css_path: /assets/css/print.css
 resources_name: publications
 favicon: /images/Bioeth-4-1.ico
-google_analytics: null
+google_analytics: ""
 permalink: none
 baseurl: ""
 defaults:
@@ -19,19 +19,19 @@ defaults:
     values:
       layout: page
 colors:
-  primary-color: '#132445'
-  secondary-color: '#15307D'
+  primary-color: "#132445"
+  secondary-color: "#15307D"
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: "#49759a"
     - title: media-color-two
-      color: '#744d9f'
+      color: "#744d9f"
     - title: media-color-three
-      color: '#00838f'
+      color: "#00838f"
     - title: media-color-four
-      color: '#00838f'
+      color: "#00838f"
     - title: media-color-five
-      color: '#00838f'
+      color: "#00838f"
 staging: https://isomer-bioethics-staging.netlify.app
 prod: https://isomer-bioethics-prod.netlify.app
 plugins:
@@ -40,3 +40,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
+shareicon: /images/isomer-logo.svg
+facebook-pixel: ""
+linkedin-insights: ""
