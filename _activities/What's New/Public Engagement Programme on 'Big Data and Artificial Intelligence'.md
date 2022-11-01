@@ -11,15 +11,6 @@ As part of the launch, the BAC and NLB held a public engagement programme on 29 
 
 The programme featured 
 
-![](/images/Bioethics%20Corner/NLB%20Bioethics%20Corner/Dr%20Voo%20giving%20his%20talk.jpg)
-*Figure 2: Dr Voo giving his introductory talk on bioethics* 
-
-![](/images/Bioethics%20Corner/NLB%20Bioethics%20Corner/Prof%20Savulescu%20giving%20his%20talk%20(1).jpg)
-*Figure 3: Prof Savulescu giving his talk on Ethical Dilemma of Big Data and AI use in Human Biomedical Research*
-
-![](/images/Bioethics%20Corner/NLB%20Bioethics%20Corner/_P8A1100.jpg)
-*Figure 4: Panel discussion on emerging ethical issues arising from the use of Big Data and AI in biomedical research [Photo Credit: The National Library Board]*
-
 
 * Introductory talk on bioethics (by Dr Voo Teck Chuan, BAC member and Assistant Professor, NUS Centre for Biomedical Ethics)
 
@@ -35,14 +26,13 @@ The programme featured
 	* Professor Robert Morris, Chief Technology Strategist, Ministry of Health Transformation; and<br>
 	* Dr Voo Teck Chuan, Assistant Professor, Centre for Biomedical Ethics, Yong Loo Lin School of Medicine, NUS
  
+![](/images/Bioethics%20Corner/NLB%20Bioethics%20Corner/Dr%20Voo%20giving%20his%20talk.jpg)
+*Figure 2: Dr Voo giving his introductory talk on bioethics* 
+
+![](/images/Bioethics%20Corner/NLB%20Bioethics%20Corner/Prof%20Savulescu%20giving%20his%20talk%20(1).jpg)
+*Figure 3: Prof Savulescu giving his talk on Ethical Dilemma of Big Data and AI use in Human Biomedical Research*
+
+![](/images/Bioethics%20Corner/NLB%20Bioethics%20Corner/_P8A1100.jpg)
+*Figure 4: Panel discussion on emerging ethical issues arising from the use of Big Data and AI in biomedical research [Photo Credit: The National Library Board]*
 
 
-
-
-Date: 29 October 2022 (Saturday)<br> 
-Time: 2:30pm to 4:30pm<br>
-Location: Possibility Room, level 5, National Library Building
-
-![](/images/Bioethics%20Corner/Bioethics%20Corner%20poster.png)
-
-![](/images/Bioethics%20Corner/Bioethics%20Corner%20programme.png)
