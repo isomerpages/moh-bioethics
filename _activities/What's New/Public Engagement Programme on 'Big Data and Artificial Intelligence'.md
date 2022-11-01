@@ -31,4 +31,3 @@ Location: Possibility Room, level 5, National Library Building
 ![](/images/Bioethics%20Corner/Bioethics%20Corner%20poster.png)
 
 ![](/images/Bioethics%20Corner/Bioethics%20Corner%20programme.png)
-
