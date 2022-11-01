@@ -32,8 +32,3 @@ Location: Possibility Room, level 5, National Library Building
 
 ![](/images/Bioethics%20Corner/Bioethics%20Corner%20programme.png)
 
-Interested to attend the talks?<br> 
-Register [now](https://www.eventbrite.sg/e/pushing-the-frontiers-of-big-data-ai-with-biomedical-ethics-tickets-429558760817) as seats are limited. 
-
-*(if the link does not work, please use this url: <br>
-https://www.eventbrite.sg/e/pushing-the-frontiers-of-big-data-ai-with-biomedical-ethics-tickets-429558760817  )*
