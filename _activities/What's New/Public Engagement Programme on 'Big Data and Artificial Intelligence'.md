@@ -9,9 +9,9 @@ As part of the launch, the BAC and NLB will be organising a public engagement pr
 ![](/images/Bioethics%20Corner/NLB%20Bioethics%20Corner/1P2A7169.jpg)
 *Figure 1: Emeritus Prof Lee Eng Hin giving his welcome address*
 
-Figure 2: Dr Voo 
+*Figure 2: Dr Voo giving his introductory talk on bioethics* 
 
-Figure 3: Prof Savulescu
+*Figure 3: Prof Savulescu giving his talk on Ethical Dilemma of Big Data and AI use in Human Biomedical Research*
 
 ![](/images/Bioethics%20Corner/NLB%20Bioethics%20Corner/_P8A1100.jpg)
 *Figure 4: Panel discussion on emerging ethical issues arising from the use of Big Data and AI in biomedical research*
