@@ -21,10 +21,9 @@ The programme featured:
 	*  Professor Patrick Tan Boon Oi, Cancer and Stem Cell Biology Programme, Duke-NUS Medical School<br>
 * Panellists:<br> 
 	* Professor Julian Savulescu, Director, Centre for Biomedical Ethics, Yong Loo Lin School of Medicine, NUS;<br>
-	* Dr Creighton Heaukulani, Senior Data Scientist at the Ministry of Health (MOH) Office for Healthcare Transformation;<br>
-	* Dr Pavitra Krishnaswamy, Senior Scientist and Principal Investigator at the Machine Intellection Department and Deputy Head at Healthcare and MedTech Division at the Institute for Infocomm Research (I2R) at the Agency for Science, Technology and Research (A*STAR); and<br>
-	* Dr Voo Teck Chuan, Assistant Professor, Centre for Biomedical Ethics, Yong Loo Lin School of Medicine, NUS
-(MOHT), 
+	* Dr Creighton Heaukulani, Senior Data Scientist, Ministry of Health (MOH) Office for Healthcare Transformation;<br>
+	* Dr Pavitra Krishnaswamy, Senior Scientist and Principal Investigator, Machine Intellection Department and Deputy Head, Healthcare and MedTech Division, Institute for Infocomm Research (I2R) at Agency for Science, Technology and Research (A*STAR); and<br>
+	* Dr Voo Teck Chuan, Assistant Professor, Centre for Biomedical Ethics, Yong Loo Lin School of Medicine, NUS 
 
 
 ![](/images/Bioethics%20Corner/NLB%20Bioethics%20Corner/Dr%20Voo%20giving%20his%20talk.jpg)
