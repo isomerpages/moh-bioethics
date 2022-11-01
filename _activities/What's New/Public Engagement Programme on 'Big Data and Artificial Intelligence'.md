@@ -9,8 +9,7 @@ As part of the launch, the BAC and NLB held a public engagement programme on 29 
 ![](/images/Bioethics%20Corner/NLB%20Bioethics%20Corner/1P2A7169.jpg)
 *Figure 1: Emeritus Prof Lee Eng Hin giving his welcome address [Photo Credit: The National Library Board]*
 
-The programme featured 
-
+The programme featured: 
 
 * Introductory talk on bioethics (by Dr Voo Teck Chuan, BAC member and Assistant Professor, NUS Centre for Biomedical Ethics)
 
@@ -21,11 +20,13 @@ The programme featured
 *  Moderator: 
 	*  Professor Patrick Tan Boon Oi, Cancer and Stem Cell Biology Programme, Duke-NUS Medical School<br>
 * Panellists:<br> 
-	* Professor Chin Jing Jih, Chairman, Medical Board; Senior Consultant, Department of Geriatric Medicine, Tan Tock Seng Hospital;<br>
 	* Professor Julian Savulescu, Director, Centre for Biomedical Ethics, Yong Loo Lin School of Medicine, NUS;<br>
-	* Professor Robert Morris, Chief Technology Strategist, Ministry of Health Transformation; and<br>
+	* Dr Creighton Heaukulani, Senior Data Scientist at the Ministry of Health (MOH) Office for Healthcare Transformation;<br>
+	* Dr Pavitra Krishnaswamy, Senior Scientist and Principal Investigator at the Machine Intellection Department and Deputy Head at Healthcare and MedTech Division at the Institute for Infocomm Research (I2R) at the Agency for Science, Technology and Research (A*STAR); and<br>
 	* Dr Voo Teck Chuan, Assistant Professor, Centre for Biomedical Ethics, Yong Loo Lin School of Medicine, NUS
- 
+(MOHT), 
+
+
 ![](/images/Bioethics%20Corner/NLB%20Bioethics%20Corner/Dr%20Voo%20giving%20his%20talk.jpg)
 *Figure 2: Dr Voo giving his introductory talk on bioethics* 
 
@@ -34,5 +35,3 @@ The programme featured
 
 ![](/images/Bioethics%20Corner/NLB%20Bioethics%20Corner/_P8A1100.jpg)
 *Figure 4: Panel discussion on emerging ethical issues arising from the use of Big Data and AI in biomedical research [Photo Credit: The National Library Board]*
-
-
