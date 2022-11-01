@@ -6,6 +6,17 @@ third_nav_title: What's New
 ---
 As part of the launch, the BAC and NLB will be organising a public engagement programme on 29 October 2022, with Emeritus Professor Lee Eng Hin, BAC Chair and Emeritus Professor, Department of Orthopaedic Surgery, National University of Singapore (NUS) and Emeritus Consultant, Division of Paediatric Orthopaedics, National University Hospital (NUH), invited as the event’s Guest-of-Honour. The programme will feature:
 
+![](/images/Bioethics%20Corner/NLB%20Bioethics%20Corner/1P2A7169.jpg)
+*Figure 1: Emeritus Prof Lee Eng Hin giving his welcome address*
+
+Figure 2: Dr Voo 
+
+Figure 3: Prof Savulescu
+
+![](/images/Bioethics%20Corner/NLB%20Bioethics%20Corner/_P8A1100.jpg)
+*Figure 4: Panel discussion on emerging ethical issues arising from the use of Big Data and AI in biomedical research*
+
+
 * Introductory talk on bioethics (by Dr Voo Teck Chuan, BAC member and Assistant Professor, NUS Centre for Biomedical Ethics)
 
 * Ethical dilemma of Big Data and AI use in Human Biomedical Research (by Professor Julian Savulescu, Director, NUS Centre for Biomedical Ethics)
