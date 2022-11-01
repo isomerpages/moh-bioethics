@@ -36,5 +36,3 @@ Two multimedia stations are provided near the Bioethics Corner, to encourage fur
 **Opening hours<br>**
 Mon - Sun: 10:00 AM - 09:00 PM<br>
 Closed at 5.00pm on eves of Christmas, New Year and Chinese New Year
-
-
