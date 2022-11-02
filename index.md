@@ -24,11 +24,10 @@ sections:
       subtitle: "                                "
   - infopic:
       title: Bioethics Corner
-      description: 29 Oct 2022, National Library Building
+      description: Level 7, National Library Building
       button: learn more
       url: /publicengagementprogrammeonbigdataandartificialintelligence/
-      image: /images/Bioethics Corner/Bioethics Corner poster.png
-      alt: Bioethics Corner poster
+      image: /images/Bioethics Corner/NLB Bioethics Corner/_P8A1008.jpg
       subtitle: Check out the
   - resources:
       title: Be in the know
