@@ -29,6 +29,7 @@ sections:
       url: /publicengagementprogrammeonbigdataandartificialintelligence/
       image: /images/Bioethics Corner/NLB Bioethics Corner/_P8A1008.jpg
       subtitle: Check out the
+      alt: Bioethics Corner
   - resources:
       title: Be in the know
       subtitle: Publications
