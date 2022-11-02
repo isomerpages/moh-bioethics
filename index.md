@@ -23,13 +23,13 @@ sections:
       button: enter
       subtitle: "                                "
   - infopic:
-      title: Panel discussion on Bioethics in Big Data and AI
+      title: Bioethics Corner
       description: 29 Oct 2022, National Library Building
       button: learn more
       url: /publicengagementprogrammeonbigdataandartificialintelligence/
       image: /images/Bioethics Corner/Bioethics Corner poster.png
       alt: Bioethics Corner poster
-      subtitle: Join us at the
+      subtitle: Check out the
   - resources:
       title: Be in the know
       subtitle: Publications
