@@ -30,6 +30,10 @@ Two multimedia stations are provided near the Bioethics Corner, to encourage fur
 *Figure 4: NLB’s Librarian (Arts & Gen Ref), Ms Rosxalynd Liu demonstrating use of the multimedia stations
 [Photo Credit: The National Library Board]*
 
+For further coverage on the Bioethics Corner, check out the following links:<br>
+1. [国家图书馆设立生物伦理学专题馆藏](https://www.8world.com/singapore/nlb-partnering-with-bioethics-advisory-committee-bring-resources-on-bioethics-1958496)<br>
+2. [Youthopia](https://youthopia.sg/read/nlb-launches-bioethics-corner-at-lee-kong-chian-reference-library-with-over-160-books/)
+
 
 ##### Bioethics Corner<br>Lee Kong Chian Reference Library
 
