@@ -13,8 +13,8 @@ at the official launch of the Bioethics Corner [Photo Credit: The National Libra
 
 The ‘Bioethics Corner’, located at level 7 of the National Library Building, is open to the public for access to bioethics publications. Digital collections are also available on NLB’s Overdrive platform to enhance public access to bioethics resources.
 
-![](/images/NLB%20Bioethics%20Corner/_P8A1008.jpg)
-*Figure 2: Bioethics Corner at LKCRL [Photo Credit: The National Library Board]* 
+![](/images/NLB%20Bioethics%20Corner/_P8A1015.jpg)
+*Figure 2: Bioethics Corner at NLB [Photo Credit: The National Library Board]* 
 
 The Bioethics Corner features a collection of about 150 physical titles related to bioethics that have been published within the last 10 years. The subjects range from topics such as Big Data and AI in healthcare, assisted suicide, organ trade, CRISPR technology, and gene modification, and is inclusive of non-fiction and fiction titles. 
 
