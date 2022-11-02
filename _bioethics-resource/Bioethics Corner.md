@@ -11,12 +11,12 @@ The Bioethics Corner was officially launched on 29 Oct 2022 by NLB’s Chief Exe
 *Figure 1: NLB’s Chief Executive Officer, Mr Ng Cher Pong (left), and BAC’s Chair, Emeritus Prof Lee Eng Hin (right), 
 at the official launch of the Bioethics Corner [Photo Credit: The National Library Board]*
 
-The ‘Bioethics Corner’, located at level 7 of the National Library Building is open to the public for access to bioethics publications. Digital collections are also available on NLB’s Overdrive platform to enhance public access to bioethics resources.
+The ‘Bioethics Corner’, located at level 7 of the National Library Building, is open to the public for access to bioethics publications. Digital collections are also available on NLB’s Overdrive platform to enhance public access to bioethics resources.
 
 ![](/images/Bioethics%20Corner/NLB%20Bioethics%20Corner/_P8A1015.jpg)
 *Figure 2: Bioethics Corner at LKCRL [Photo Credit: The National Library Board]* 
 
-The Bioethics Corner will feature a collection of about 150 physical titles related to bioethics that have been published within the last 10 years. The subjects range from topics such as Big Data and AI in healthcare, assisted suicide, organ trade, CRISPR technology, and gene modification, and is inclusive of non-fiction and fiction titles. 
+The Bioethics Corner features a collection of about 150 physical titles related to bioethics that have been published within the last 10 years. The subjects range from topics such as Big Data and AI in healthcare, assisted suicide, organ trade, CRISPR technology, and gene modification, and is inclusive of non-fiction and fiction titles. 
 
 In addition, there is also a list of 50 digital eBook and eAudiobook bioethics-related titles available in Libby, one of NLB’s main databases for eBooks/eAudiobooks. The titles here feature more fiction titles and the list will be refreshed quarterly to feature new titles. 
 
