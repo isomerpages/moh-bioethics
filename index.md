@@ -26,7 +26,7 @@ sections:
       title: Bioethics Corner
       description: Level 7, National Library Building
       button: learn more
-      url: /publicengagementprogrammeonbigdataandartificialintelligence/
+      url: /bioethicscorner/
       image: /images/Bioethics Corner/NLB Bioethics Corner/_P8A1008.jpg
       subtitle: Check out the
       alt: Bioethics Corner
