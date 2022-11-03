@@ -27,7 +27,7 @@ sections:
       description: Level 7, National Library Building
       button: learn more
       url: /bioethicscorner/
-      image: /images/NLB Bioethics Corner/_P8A1015 (png).png
+      image: /images/NLB Bioethics Corner/_P8A1015 (tif).tif
       subtitle: Check out the
       alt: Bioethics Corner
   - resources:
