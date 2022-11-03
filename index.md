@@ -24,11 +24,11 @@ sections:
       subtitle: "                                "
   - infopic:
       title: Bioethics Corner
-      description: Level 7, National Library Building
+      subtitle: check out the
+      description: Level 7, National Library
       button: learn more
       url: /bioethicscorner/
-      image: /images/NLB Bioethics Corner/_P8A1015 (tif).tif
-      subtitle: Check out the
+      image: /images/NLB Bioethics Corner/_P8A1015.jpg
       alt: Bioethics Corner
   - resources:
       title: Be in the know
