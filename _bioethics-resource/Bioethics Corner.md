@@ -26,7 +26,7 @@ In addition, there is also a list of 50 digital eBook and eAudiobook bioethics-r
 Two multimedia stations are provided near the Bioethics Corner, to encourage further exploration of the issues in bioethics using NLB’s eResources, such as databases and journals.
 
 ![](/images/NLB%20Bioethics%20Corner/_P8A1062.jpg)
-*Figure 4: NLB’s Librarian (Arts & Gen Ref), Ms Rosxalynd Liu demonstrating use of the multimedia stations
+*Figure 4: Ms Rosxalynd Liu, NLB’s Librarian (Arts & Gen Ref), demonstrating use of the multimedia stations
 [Photo Credit: The National Library Board]*
 
 For more information on the Bioethics Corner, check out the following links:<br>
