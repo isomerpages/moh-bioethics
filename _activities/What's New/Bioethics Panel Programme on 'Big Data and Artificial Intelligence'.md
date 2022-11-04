@@ -4,7 +4,6 @@ permalink: /bioethicspanelprogrammeonbigdataandartificialintelligence/
 description: ""
 third_nav_title: What's New
 ---
-
 As part of the launch, the BAC and NLB held a Bioethics Panel Programme on 29 October 2022 at Possibility Room, level 5, National Library Building, with Emeritus Professor Lee Eng Hin, BAC Chair and Emeritus Professor, Department of Orthopaedic Surgery, National University of Singapore (NUS) and Emeritus Consultant, Division of Paediatric Orthopaedics, National University Hospital (NUH), invited as the event’s Guest-of-Honour. 
 
 ![](/images/NLB%20Bioethics%20Corner/1P2A7169.jpg)
