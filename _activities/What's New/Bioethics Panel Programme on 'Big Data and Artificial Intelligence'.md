@@ -13,7 +13,7 @@ The programme featured:
 
 * Introductory talk on bioethics (by Dr Voo Teck Chuan, BAC member and Assistant Professor, NUS Centre for Biomedical Ethics)
 
-* Ethical dilemma of Big Data and AI use in Human Biomedical Research (by Professor Julian Savulescu, Director, NUS Centre for Biomedical Ethics)
+* Talk on the ethical dilemma of Big Data and AI use in Human Biomedical Research (by Professor Julian Savulescu, Director, NUS Centre for Biomedical Ethics)
 
 *  Panel discussion on emerging ethical issues arising from the use of Big Data and AI in biomedical research
 
