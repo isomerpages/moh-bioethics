@@ -19,7 +19,7 @@ The programme featured:
 
 *  Moderator: 
 	*  Professor Patrick Tan Boon Oi, BAC member and Cancer and Stem Cell Biology Programme, Duke-NUS Medical School<br>
-* Panellists:<br> 
+* Panelists:<br> 
 	* Professor Julian Savulescu, Director, Centre for Biomedical Ethics, Yong Loo Lin School of Medicine, NUS;<br>
 	* Dr Creighton Heaukulani, Senior Data Scientist, Ministry of Health (MOH) Office for Healthcare Transformation;<br>
 	* Dr Pavitra Krishnaswamy, Senior Scientist and Principal Investigator, Machine Intellection Department and Deputy Head, Healthcare and MedTech Division, Institute for Infocomm Research (I2R) at Agency for Science, Technology and Research (A*STAR); and<br>
