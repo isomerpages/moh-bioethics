@@ -5,7 +5,7 @@ description: ""
 ---
 The BAC, in collaboration with the National Library Board (NLB), established a ‘Bioethics Corner’ at the Lee Kong Chian Reference Library on 30 June 2022 to promote greater awareness and understanding of bioethics in Singapore.
 
-The Bioethics Corner was officially launched on 29 Oct 2022 by Mr Ng Cher Pong, NLB’s Chief Executive Officer, and Emeritus Prof Lee Eng Hin, BAC Chair. 
+The Bioethics Corner was officially launched on 29 Oct 2022 by Mr Ng Cher Pong, NLB’s Chief Executive Officer, and BAC Chair Emeritus Prof Lee Eng Hin. 
 
 ![](/images/NLB%20Bioethics%20Corner/_P8A1067.jpg)
 *Figure 1: Mr Ng Cher Pong, NLB’s Chief Executive Officer (left), and Emeritus Prof Lee Eng Hin (right), BAC Chair, at the launch of the Bioethics Corner [Photo Credit: The National Library Board]*
