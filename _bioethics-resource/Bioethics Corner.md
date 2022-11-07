@@ -10,7 +10,7 @@ The Bioethics Corner was officially launched on 29 Oct 2022 by Mr Ng Cher Pong, 
 ![](/images/NLB%20Bioethics%20Corner/_P8A1067.jpg)
 *Figure 1: Mr Ng Cher Pong, NLB’s Chief Executive Officer (left), and Emeritus Prof Lee Eng Hin (right), BAC Chair, at the launch of the Bioethics Corner [Photo Credit: The National Library Board]*
 
-The Bioethics Corner, located at level 7 of the National Library Building, is open to the public for access to bioethics publications. Digital collections are also available on NLB’s Overdrive platform to enhance public access to bioethics resources.
+The Bioethics Corner, located at level 7 of the National Library Building, is open to the public to access bioethics publications. Digital collections are also available on NLB’s Overdrive platform to enhance public access to bioethics resources.
 
 ![](/images/NLB%20Bioethics%20Corner/_P8A1015.jpg)
 *Figure 2: Bioethics Corner at Level 7, Lee Kong Chian Reference Library, National Library Building [Photo Credit: The National Library Board]* 
