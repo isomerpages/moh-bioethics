@@ -18,7 +18,7 @@ The programme featured:
 *  Panel discussion on emerging ethical issues arising from the use of Big Data and AI in biomedical research
 
 *  Moderator: 
-	*  Professor Patrick Tan Boon Oi, Cancer and Stem Cell Biology Programme, Duke-NUS Medical School<br>
+	*  Professor Patrick Tan Boon Oi, BAC member and Cancer and Stem Cell Biology Programme, Duke-NUS Medical School<br>
 * Panellists:<br> 
 	* Professor Julian Savulescu, Director, Centre for Biomedical Ethics, Yong Loo Lin School of Medicine, NUS;<br>
 	* Dr Creighton Heaukulani, Senior Data Scientist, Ministry of Health (MOH) Office for Healthcare Transformation;<br>
