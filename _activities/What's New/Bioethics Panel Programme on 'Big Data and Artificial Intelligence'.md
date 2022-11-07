@@ -32,4 +32,4 @@ The programme featured:
 *Figure 3: Prof Savulescu giving his talk on Ethical Dilemma of Big Data and AI use in biomedical research*
 
 ![](/images/NLB%20Bioethics%20Corner/_P8A1100.jpg)
-*Figure 4: Panel discussion featuring from left to right: Dr Pavitra Krishnaswamy, Dr Creighton Heaukulani, Professor Patrick Tan Boon Oi, Professor Julian Savulescu, and Dr Voo Teck Chuan [Photo Credit: The National Library Board]*
+*Figure 4: Panel discussion featuring from left to right: Dr Pavitra Krishnaswamy, Dr Creighton Heaukulani, Professor Patrick Tan Boon Oi, Professor Julian Savulescu, and Dr Voo Teck Chuan*
