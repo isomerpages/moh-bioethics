@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 国家图书馆设立生物伦理学专题馆藏
 ----------------
 
@@ -21,3 +20,5 @@ image: ""
 国家图书馆管理局也会逐步丰富馆藏的资料，并探索如何在公共图书馆或手机应用程序，为公众提供更多的馆藏资源。
 
 [PDF Version of Press Release](/files/publications/press-releases/8world%20article%20on%20Bioethics%20Corner.pdf)
+
+[Link to Press Release](https://www.8world.com/singapore/nlb-partnering-with-bioethics-advisory-committee-bring-resources-on-bioethics-1958496)
