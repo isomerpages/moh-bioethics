@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-
+# **NLB launches Bioethics Corner at Lee Kong Chian Reference Library with over 160 books
 
 _NLB partnered the Bioethics Advisory Committee to bring in books on areas like Big Data and Artificial Intelligence in healthcare, organ transplants and genetic manipulation._
 
