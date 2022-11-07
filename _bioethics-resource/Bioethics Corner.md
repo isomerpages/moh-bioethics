@@ -20,7 +20,7 @@ The Bioethics Corner features a collection of about 150 physical titles related 
 In addition, there is also a list of 50 digital eBook and eAudiobook bioethics-related titles available in Libby, one of NLB’s main databases for eBooks/eAudiobooks.
 
 ![](/images/NLB%20Bioethics%20Corner/_P8A1050.jpg)
-*Figure 3: Ms Rosxalynd Liu, NLB’s Librarian (Arts & Gen Ref), leading the tour of the Bioethics Corner, demonstrating use of the digital touch screen
+*Figure 3: Ms Rosxalynd Liu, NLB’s Librarian (Arts & Gen Ref), leading the tour of the Bioethics Corner, demonstrating the use of the digital touch screen
 [Photo Credit: The National Library Board]*
 
 Two multimedia stations are provided near the Bioethics Corner, to encourage further exploration of the issues in bioethics using NLB’s eResources, such as databases and journals.
