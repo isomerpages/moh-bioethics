@@ -23,4 +23,4 @@ More than 13,600 books and 5,500 e-books on bioethics are also available on [NL
 
 [PDF Version of Press Release](/files/publications/press-releases/Youthopia%20article%20on%20Bioethics%20Corner.pdf)
 
-[Link to press release](https://youthopia.sg/read/nlb-launches-bioethics-corner-at-lee-kong-chian-reference-library-with-over-160-books/)
+[Link to Press Release](https://youthopia.sg/read/nlb-launches-bioethics-corner-at-lee-kong-chian-reference-library-with-over-160-books/)
