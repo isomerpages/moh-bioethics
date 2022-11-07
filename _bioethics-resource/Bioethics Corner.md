@@ -17,7 +17,7 @@ The Bioethics Corner, located at level 7 of the National Library Building, is op
 
 The Bioethics Corner features a collection of about 150 physical titles related to bioethics that have been published within the last 10 years. The subjects range from topics such as big data and artificial intelligence in healthcare, assisted suicide, organ trade, CRISPR technology, and gene modification, and is inclusive of non-fiction and fiction titles. 
 
-In addition, there is also a list of 50 digital eBook and eAudiobook bioethics-related titles available in Libby, one of NLB’s main databases for eBooks/eAudiobooks.
+In addition, there is a list of 50 digital eBook and eAudiobook bioethics-related titles available in Libby, one of NLB’s main databases for eBooks/eAudiobooks.
 
 ![](/images/NLB%20Bioethics%20Corner/_P8A1050.jpg)
 *Figure 3: Ms Rosxalynd Liu, NLB’s Librarian (Arts & Gen Ref), leading the tour of the Bioethics Corner, demonstrating the use of the digital touch screen
