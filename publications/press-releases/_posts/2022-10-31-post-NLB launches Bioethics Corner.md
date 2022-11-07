@@ -6,6 +6,12 @@ layout: post
 description: ""
 image: ""
 ---
+
+
+
+_NLB partnered the Bioethics Advisory Committee to bring in books on areas like Big Data and Artificial Intelligence in healthcare, organ transplants and genetic manipulation._
+
+
 The National Library Board (NLB) launched the new Bioethics Corner at the Lee Kong Chian Reference Library on Saturday (Oct 29).
 
 Created in partnership with the Bioethics Advisory Committee (BAC), the Bioethics Corner offers over 160 titles on ethical issues in areas such as Big Data and Artificial Intelligence in healthcare, surrogacy, organ transplants and genetic manipulation.
