@@ -23,13 +23,13 @@ sections:
       button: enter
       subtitle: "                                "
   - infopic:
-      title: Panel discussion on Bioethics in Big Data and AI
-      description: 29 Oct 2022, National Library Building
+      title: Bioethics Corner
+      subtitle: check out the
+      description: Level 7, Lee Kong Chian Reference Library, National Library Building
       button: learn more
-      url: /publicengagementprogrammeonbigdataandartificialintelligence/
-      image: /images/Bioethics Corner/Bioethics Corner poster.png
-      alt: Bioethics Corner poster
-      subtitle: Join us at the
+      url: /bioethicscorner/
+      image: /images/NLB Bioethics Corner/_P8A1015.jpg
+      alt: Bioethics Corner
   - resources:
       title: Be in the know
       subtitle: Publications
