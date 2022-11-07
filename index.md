@@ -25,7 +25,7 @@ sections:
   - infopic:
       title: Bioethics Corner
       subtitle: check out the
-      description: Level 7, National Library
+      description: Level 7, Lee Kong Chian Reference Library, National Library Building
       button: learn more
       url: /bioethicscorner/
       image: /images/NLB Bioethics Corner/_P8A1015.jpg
