@@ -37,7 +37,8 @@ The Bioethics Advisory Committee (BAC) has issued a public consultation paper on
 * (ii) Dialogue session with researchers, clinicians and members of institutional ethics review boards, on 10 May 2018 (Thursday), 12:00pm to 2:00pm, at HarbourFront Centre, #09-66 (1 Maritime Square,Singapore 099253). Those interested to attend can contact the BAC Secretariat at bioethics_singapore@moh.gov.sg. 
 
 11\. The BAC welcomes feedback on the issues discussed in the consultation paper, or any other aspects of big data and AI. All comments should be sent by 27 June 2023:
-- by  <a href="https://form.gov.sg/641cfda6e9ca7c0012eae318">FormSG link</a>
+- by  <a href="https://form.gov.sg/641cfda6e9ca7c0012eae318">FormSG link</a> or scan QR code below:
+![](/images/BDAI%20Respondent’s%20Form%20QR%20code.png)
 - by post to:<br>
   Bioethics Advisory Committee Secretariat<br>
   1 Maritime Square<br>
