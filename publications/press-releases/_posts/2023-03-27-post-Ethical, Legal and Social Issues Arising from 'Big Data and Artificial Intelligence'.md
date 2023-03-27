@@ -24,8 +24,8 @@ The Bioethics Advisory Committee (BAC) has issued a public consultation paper on
 **Issues and Questions for Consideration**
 
 6\. The BAC would like to invite the public to contribute their views and feedback on a range of ethical, social and legal issues that could arise from the use of big data and AI applications in biomedical research, including :
- - What are the possible benefits of MGRT?
- - What are the psychological or social impact on children born using such techniques?
+ - w
+ - 
  -  
  
 7\. Senior (Chief) District Judge (ret.) Richard Magnus, BAC Chair, said, “MGRT may help enable women who suffer from mitochondrial disorders to have healthy genetically related children of their own. However, there is a need to closely evaluate the safety of MGRT
