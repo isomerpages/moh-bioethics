@@ -30,7 +30,7 @@ The Bioethics Advisory Committee (BAC) has issued a public consultation paper on
  
 **How to participate**
 
-9\. The public consultation paper can be found on the BAC’s website at [www.bioethicssingapore.org](www.bioethicssingapore.org) and REACH at [www.reach.gov.sg](www.reach.gov.sg).
+9\. The public consultation paper can be found on <a href="https://www.bioethics-singapore.gov.sg/">BAC’s website</a> and <a href="https://www.reach.gov.sg/">REACH</a>.
 
 10\. To facilitate discussions, BAC will be organising the following dialogue sessions:
 * (i) Public dialogue session on 28 April 2018 (Saturday), 2:00pm to 4:00pm,at The Pod, National Library, Level 16 (100 Victoria Street, Singapore 188064)
