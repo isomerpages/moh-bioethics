@@ -54,9 +54,7 @@ image: ""
 ---
 
 ### **Footnotes**
-<br><sup>[1]</sup> Mitochondria are tiny organelles that are responsible for energy production in the cell. Faulty mitochondria can have serious debilitating effects. Please see the Annex for more information on mitochondrial disorders.
-<br><sup>[2]</sup> Most of the cell’s DNA is located in its nucleus. However, a small amount of DNA is found in the mitochondria. The former is known as nuclear DNA, and the latter mitochondrial DNA.
-<br><sup>[3]</sup> The three MGRT techniques are described in greater detail in the Annex. 
+<br><sup>[1]</sup> 
 
 ---
 
@@ -64,10 +62,6 @@ ANNEX
 
 **About the Bioethics Advisory Committee (BAC)**
 <br>The BAC is an independent advisory committee that was established by the Government in December 2000 to address the ethical, legal and social issues arising from human biomedical research and its applications. BAC studies emerging areas in human biomedical research, and develops and recommends policies to the government as appropriate, with the aim of protecting the rights and welfare of individuals, while allowing the biomedical sciences to develop and realise its full potential for the benefit of mankind.
-
-**What are Mitochondrial Disorders?**
-<br>Mitochondria (singular: mitochondrion) are tiny organelles found within the cytoplasm of the cell, and are mainly responsible for energy production through a process known as aerobic respiration. Mitochondrial disorders can arise from DNA abnormalities in the mitochondrial genome. Owing to its central role in cellular energy production, mitochondrial disorders often cause debilitating effects on highly energy-dependent organs and tissues including the brain (encephalopathy), the heart (cardiomyopathy), and other muscles (myopathy). Symptoms and severity vary widely amongst patients, depending on the ratio of dysfunctional to normal mitochondria in the cell, and the energy demands of the affected organ(s). There is currently no cure for mitochondrial disorders, though many of the symptoms are treatable.
-
 
 
 ---
