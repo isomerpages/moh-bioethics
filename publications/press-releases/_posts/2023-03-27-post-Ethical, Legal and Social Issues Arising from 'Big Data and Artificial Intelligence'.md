@@ -19,7 +19,7 @@ The Bioethics Advisory Committee (BAC) has issued a public consultation paper on
 
 4\. 
 
-5\. The BAC’s public consultation paper examines three MGRT techniques : (i) Maternal Spindle Transfer (MST), (ii) Pronuclear Transfer (PNT), and (iii) Polar Body Transfer (PBT). All three techniques involve replacing the abnormal mitochondria in the egg / early embryo with healthy mitochondria from the egg / early embryo of a healthy donor<sup>[3]</sup>.
+5\. 
 
 **Issues and Questions for Consideration**
 
