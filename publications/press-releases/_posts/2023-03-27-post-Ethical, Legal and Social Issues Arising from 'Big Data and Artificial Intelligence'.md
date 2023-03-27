@@ -11,13 +11,13 @@ image: ""
 
 The Bioethics Advisory Committee (BAC) has issued a public consultation paper on the ethical, legal and social issues arising from 'Big Data and AI' in human biomedical research, and invites public feedback on the potential issues related to the use of big data and AI applications in biomedical research. The views of the public and interested organisations will assist the BAC in formulating its recommendations which will provide ethical guidance to policy and decision-makers, as well as support the safe growth of AI in biomedical and healthcare research.  The public consultation will take place for about 9 weeks from 26 Apr 2023 to 27 Jun 2023.
 
-**MGRT – Previous Recommendations and Recent Developments**
+**Big Data and AI – Previous Recommendations and Recent Developments**
 
-2\. MGRT aims to prevent the transmission of mitochondrial disorders<sup>[1]</sup> from a mother to er child, by replacing abnormal mitochondria with normal mitochondria from a healthy donor,at either the egg or early embryo (zygote) stage. As mitochondria contain genetic material<sup>[2]</sup> and are passed on by a mother to her child, MGRT may result in germline modification as an inheritable genetic change would be introduced if the resulting child is also female. 
+2\.  
 
-3\. In 2005, the BAC had recommended in its report on *Genetic Testing and Genetic Research* that the clinical practice of germline genetic modification should not be allowed for the time being, pending further evidence on the feasibility and safety of its clinical application in humans. 
+3\.  
 
-4\. There have been significant scientific and policy developments in the field of MGRT internationally in recent years. Notably, the United Kingdom became the first country to legalise the clinical application of MGRT in 2015 and allow clinical trials for two MGRT techniques. With these developments, the BAC considers it timely and important to study the current research involving MGRT, and to review its recommendations on germline genetic modification, particularly in the context of preventing the transmission of serious mitochondrial disorders.
+4\. 
 
 5\. The BAC’s public consultation paper examines three MGRT techniques : (i) Maternal Spindle Transfer (MST), (ii) Pronuclear Transfer (PNT), and (iii) Polar Body Transfer (PBT). All three techniques involve replacing the abnormal mitochondria in the egg / early embryo with healthy mitochondria from the egg / early embryo of a healthy donor<sup>[3]</sup>.
 
