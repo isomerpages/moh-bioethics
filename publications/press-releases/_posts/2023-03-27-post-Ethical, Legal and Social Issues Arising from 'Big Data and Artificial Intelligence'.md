@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-**Ethical, Legal and Social Issues Arising from 'Big Data and Artificial Intelligence' (AI) in Human Biomedical Research**
+**Ethical, Legal and Social Issues Arising from 'Big Data and Artificial Intelligence' in Human Biomedical Research**
 
 1\. The Bioethics Advisory Committee (BAC) has issued a public consultation paper on the ethical, legal and social issues arising from 'Big Data and AI' in human biomedical research, and invites public feedback on the potential issues related to the use of big data and AI applications in biomedical research. 
 
@@ -64,13 +64,11 @@ ANNEX
 
 ### **For media enquiries, please contact:**
 
-<br>Ms Charmaine Chan
-<br>DID: (65) 6773 1726
-<br><charmaine_chan@moh.gov.sg>
+<br>The BAC Secretariat, 
+<br>Biomedical Ethics Coordinating Office (BECO)
+<br><[bioethics\_singapore@moh.gov.sg](mailto:bioethics_singapore@moh.gov.sg)>
 <br>
-<br>Mr Nicholas Wong
-<br>DID: (65) 6710 5277 
-<br><nicholas_wong@moh.gov.sg>
+
 
 ---
 
