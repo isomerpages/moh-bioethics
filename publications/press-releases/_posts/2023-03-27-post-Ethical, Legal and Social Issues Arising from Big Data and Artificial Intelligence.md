@@ -7,7 +7,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 **Ethical, Legal and Social Issues Arising from Big Data and Artificial Intelligence (AI) in Human Biomedical Research**
 
 1\. The Bioethics Advisory Committee (BAC) has issued a public consultation paper on the ethical, legal and social issues arising from Big Data and AI in human biomedical research, and invites public feedback on the potential issues related to the use of big data and AI applications in biomedical research. 
@@ -16,7 +15,7 @@ image: ""
 
 3\. The report complements other big data and AI reports and ethical guidelines such as the ‘Ethics Framework for Big Data in Health and Research’ by the Science, Health, and Policy-relevant Ethics in Singapore (SHAPES) working group and the AI in Healthcare Guidelines (AIHGle) co-developed by the Ministry of Health (MOH), Health Sciences Authority (HSA) and Integrated Health Information Systems (IHiS).
 
-4\. The public consultation will take place for about 9 weeks from 26 Apr 2023 to 27 Jun 2023.
+4\. The public consultation takes place for about 9 weeks from 26 Apr 2023 to 27 Jun 2023.
 
 **Big Data and AI – Previous Recommendations and Recent Developments**
 
@@ -48,6 +47,7 @@ image: ""
   #11-23 HarbourFront Centre<br>
   Singapore 099253<br>
   
+	11\. The BAC will also be organsing public consultation discussions sessions over Zoom with stakeholders and industry partners such as IRBs, and research and healthcare institutions.
 ---
 
 ### **Footnotes**
