@@ -19,7 +19,7 @@ image: ""
 
 **Big Data and AI – Recent Developments**
 
-5\.  
+5\.  The use of big data and AI technologies has enabled researchers to extract features and valuable insights from large datasets. With the continual development of new algorithms to improve accuracy in pattern recognition such as diagnosis and prediction of disease outcomes, big data and AI will play increasingly larger roles in the future of biomedical research, clinical research and healthcare.
 
 6\.  
 
