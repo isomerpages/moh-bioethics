@@ -27,7 +27,7 @@ image: ""
 
 **Issues and Questions for Consideration**
 
-6\. The BAC would like to invite the public to contribute their views and feedback on a range of ethical, social and legal issues that could arise from the use of big data and AI applications in biomedical research, including :
+8\. The BAC would like to invite the public to contribute their views and feedback on a range of ethical, social and legal issues that could arise from the use of big data and AI applications in biomedical research, including :
  - w
  - 
  -  
@@ -44,8 +44,11 @@ image: ""
   1 Maritime Square<br>
   #11-23 HarbourFront Centre<br>
   Singapore 099253<br>
+	
+11\. The BAC will also be organsing public consultation discussions sessions over Zoom with stakeholders and industry partners such as IRBs, and research and healthcare institutions.
+
   
-	11\. The BAC will also be organsing public consultation discussions sessions over Zoom with stakeholders and industry partners such as IRBs, and research and healthcare institutions.
+
 ---
 
 ### **Footnotes**
