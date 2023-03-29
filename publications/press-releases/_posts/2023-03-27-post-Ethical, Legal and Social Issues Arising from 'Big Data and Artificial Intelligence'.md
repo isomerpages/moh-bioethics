@@ -7,9 +7,9 @@ layout: post
 description: ""
 image: ""
 ---
-**Ethical, Legal and Social Issues Arising from 'Big Data and Artificial Intelligence' in Human Biomedical Research**
+**Ethical, Legal and Social Issues Arising from Big Data and Artificial Intelligence (AI) in Human Biomedical Research**
 
-1\. The Bioethics Advisory Committee (BAC) has issued a public consultation paper on the ethical, legal and social issues arising from 'Big Data and AI' in human biomedical research, and invites public feedback on the potential issues related to the use of big data and AI applications in biomedical research. 
+1\. The Bioethics Advisory Committee (BAC) has issued a public consultation paper on the ethical, legal and social issues arising from Big Data and AI in human biomedical research, and invites public feedback on the potential issues related to the use of big data and AI applications in biomedical research. 
 
 2\. The views of the public and interested organisations will assist the BAC in formulating its recommendations for its advisory report which will guide academics, researchers, healthcare professionals, and Institutional Review Boards (IRBs) in the ethical use of big data and AI applications in biomedical research. It will also provide ethical guidance to policy and decision-makers, as well as support the safe growth of AI in biomedical and healthcare research.  
 
