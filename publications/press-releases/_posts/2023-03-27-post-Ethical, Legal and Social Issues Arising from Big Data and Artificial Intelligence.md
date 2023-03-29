@@ -23,7 +23,7 @@ image: ""
 
 6\.  Today, big data comprises massive amounts of data generated in the private and public sectors, and includes data from individual medical records, patient health records, results of medical examinations, data collected by using diagnostic and health management devices or applications as part of internet of things (IoTs), and data from electronic data sources such as web searches, forum posts and images.
 
-7\. 
+7\. A common application (and a subset) of AI is machine learning where algorithms are trained to identify and resolve patterns like the human brain. A recent development of deep neural networks (a subset of machine learning) further imitates the human brain's ability to identify images, objects, improve drug discovery, upgrade precision medicines, improve diagnosis and assist humans to make decisions.  
 
 8\. 
 
