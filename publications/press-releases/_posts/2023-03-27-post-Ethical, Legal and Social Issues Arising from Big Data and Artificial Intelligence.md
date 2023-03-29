@@ -17,7 +17,7 @@ image: ""
 
 4\. The public consultation takes place for about 9 weeks from 26 Apr 2023 to 27 Jun 2023.
 
-**Big Data and AI – Previous Recommendations and Recent Developments**
+**Big Data and AI – Recent Developments**
 
 5\.  
 
