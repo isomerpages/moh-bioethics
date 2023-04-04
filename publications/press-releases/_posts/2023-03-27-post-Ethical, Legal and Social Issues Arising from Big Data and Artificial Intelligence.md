@@ -49,9 +49,9 @@ With increasing use of big data and AI in biomedical research, data owners need 
 
 **Ethical Considerations:**
 
-i.	How should human biomedical research data be managed and used responsibly to avoid the risk of discrimination arising from participation or biases in biomedical research? 
+i.	Should a person who had provided biological materials or data but did not participate in the subsequent processing or analysis have intellectual property rights in the data?
 
-ii. 	How should researchers or developers ensure that data fed into the algorithm is not biased or result in bias-driven outcomes when developing AI algorithms? 
+ii.	How should large volumes of biomedical data shared across countries in international research collaborations be managed?
 
  **c.	Data Privacy, Accessibility and Security**
  
