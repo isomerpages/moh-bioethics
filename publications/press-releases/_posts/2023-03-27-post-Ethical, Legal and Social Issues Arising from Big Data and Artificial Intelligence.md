@@ -64,6 +64,15 @@ ii.	How can institutions or organisations managing data stored in multiple on-si
 
 **d.	Data Anonymisation, De- and Re-identification of Data**
 
+Anonymisation, de- and re-identification of data are tools used in biomedical research to enable data to be analysed while protecting the data contributors’ privacy. As analyses involving big data and AI algorithms in biomedical research rely increasingly on large volumes of personal, health and medical data, conventional methods of de-identification and anonymisation may no longer be adequate in protecting privacy. 
+
+**Ethical Considerations:**
+
+i.	Are the current methods of anonymisation and de-identification still applicable when large volumes of personal, health and medical data are used in big data and AI research?
+
+ii.	Should genetic data should be treated differently from other types of personal and health data?
+
+
 **e. Revising Consent in the Arena of Big Data and AI**
 
 **How to participate**
