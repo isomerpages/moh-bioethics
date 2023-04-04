@@ -15,7 +15,7 @@ image: ""
 
 3\. The report complements other big data and AI reports and ethical guidelines such as the ‘Ethics Framework for Big Data in Health and Research’ by the Science, Health, and Policy-relevant Ethics in Singapore (SHAPES) working group and the AI in Healthcare Guidelines (AIHGle) co-developed by the Ministry of Health (MOH), Health Sciences Authority (HSA) and Integrated Health Information Systems (IHiS).
 
-4\. The public consultation takes place for about 9 weeks from 26 Apr 2023 to 27 Jun 2023.
+4\. The public consultation will last for a period of 9 weeks from 26 April 2023 to 27 June 2023.
 
 **Big Data and AI – Recent Developments**
 
