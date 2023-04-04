@@ -78,7 +78,7 @@ Consent could be classified as broad, specific, implied, explicit and dynamic. I
 
 **f.	Responsibility to the Public in Data-Sharing for Research**
 
-**e. Revising Consent in the Arena of Big Data and AI**
+**g.	Ethical Considerations and Issues Specific to AI**
 
 **How to participate**
 
