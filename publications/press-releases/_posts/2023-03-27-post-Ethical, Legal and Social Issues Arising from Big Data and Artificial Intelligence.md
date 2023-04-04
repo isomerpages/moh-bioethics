@@ -91,16 +91,19 @@ Ethical issues include the ethical responsibility of biomedical researchers and 
 
 9\. The public consultation paper can be found on <a href="https://www.bioethics-singapore.gov.sg/">BAC’s website</a> and <a href="https://www.reach.gov.sg/">REACH</a>.
 
-10\. The BAC welcomes feedback on the issues discussed in the consultation paper, or any other aspects on the ethical use of Big Data and AI applications in human biomedical research in Singapore. All comments should be sent by 27 June 2023:
-- via  <a href="https://form.gov.sg/641cfda6e9ca7c0012eae318">Respondent's Form</a> or scan QR code below:
-![](/images/BDAI%20Respondent’s%20Form%20QR%20code.png)
+10\. The BAC welcomes feedback on the issues discussed in the consultation paper, or any other aspects on the ethical use of Big Data and AI applications in human biomedical research in Singapore. <br>
+
+All comments should be sent by 27 June 2023:
+- via  <a href="https://form.gov.sg/641cfda6e9ca7c0012eae318">Respondent's Form</a>; or  <br>
+- scan QR code below: or <br> ![](/images/bdai%20respondent’s%20form%20qr%20code.png)
+
 - by post to:<br>
   Biomedical Ethics Coordinating Office<br>
   1 Maritime Square<br>
   #11-23 HarbourFront Centre<br>
   Singapore 099253<br>
 	
-11\. The BAC will also be organsing public consultation discussions sessions over Zoom with stakeholders and industry partners such as IRBs, and research and healthcare institutions.
+11\. The BAC will also be organising public consultation discussions sessions over Zoom with stakeholders and industry partners such as IRBs, and research and healthcare institutions.
 
   
 
