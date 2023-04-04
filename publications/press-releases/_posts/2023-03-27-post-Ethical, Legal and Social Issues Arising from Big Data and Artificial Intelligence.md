@@ -103,18 +103,9 @@ All comments should be sent by 27 June 2023:
   #11-23 HarbourFront Centre<br>
   Singapore 099253<br>
 	
-11\. The BAC will also be organising public consultation discussions sessions over Zoom with stakeholders and industry partners such as IRBs, and research and healthcare institutions.
+11\. The BAC will also be organising public consultation Focus Group Discussions with stakeholders, counterparts such as IRBs, research and healthcare institutions and industry partners.
 
-  
-
----
-
-### **Footnotes**
-<br><sup>[1]</sup> 
-
----
-
-ANNEX
+**ANNEX**
 
 **About the Bioethics Advisory Committee (BAC)**
 <br>The BAC is an independent advisory committee that was established by the Government in December 2000 to address the ethical, legal and social issues arising from human biomedical research and its applications. BAC studies emerging areas in human biomedical research, and develops and recommends policies to the government as appropriate, with the aim of protecting the rights and welfare of individuals, while allowing the biomedical sciences to develop and realise its full potential for the benefit of mankind.
