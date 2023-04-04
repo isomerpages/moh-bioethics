@@ -108,7 +108,7 @@ All comments should be sent by 27 June 2023:
 **ANNEX**
 
 **About the Bioethics Advisory Committee (BAC)**
-<br>The BAC is an independent advisory committee that was established by the Government in December 2000 to address the ethical, legal and social issues arising from human biomedical research and its applications. BAC studies emerging areas in human biomedical research, and develops and recommends policies to the government as appropriate, with the aim of protecting the rights and welfare of individuals, while allowing the biomedical sciences to develop and realise its full potential for the benefit of mankind.
+<br>The Bioethics Advisory Committee (BAC) is an independent national advisory body established by the Cabinet in December 2000 to review ethical, legal and social issues arising from biomedical research and its applications in Singapore. It develops and recommends policies on these issues, with the aim of protecting the rights and welfare of individuals, while allowing the biomedical sciences to develop and realise its full potential for the benefit of humankind. For more details on the BAC, please visit https://www.bioethics-singapore.gov.sg/
 
 
 ---
