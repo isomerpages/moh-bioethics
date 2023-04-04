@@ -115,7 +115,6 @@ All comments should be sent by 27 June 2023:
 
 ### **For media enquiries, please contact:**
 
-<br>The BAC Secretariat, 
 <br>Biomedical Ethics Coordinating Office (BECO)
 <br>&lt;[bioethics\_singapore@moh.gov.sg](mailto:bioethics_singapore@moh.gov.sg)&gt;
 <br>
