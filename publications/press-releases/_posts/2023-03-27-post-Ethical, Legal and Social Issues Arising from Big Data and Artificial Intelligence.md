@@ -82,6 +82,11 @@ Responsible data sharing can lead to research that benefits individuals, communi
 
 **g.	Ethical Considerations and Issues Specific to AI**
 
+Ethical principles that may apply to AI in biomedical research include transparency, explainability, and justifiability. Other key considerations include reliability and safety, accountability, human agency, equitable access and model security to minimise potential harm to individuals and parties involved in research projects. 
+
+
+Ethical issues include the ethical responsibility of biomedical researchers and AI developers to comply with best standards to ensure clinical safety of AI modes, enabling equitable access to AI technologies in research and how to ensure ‘AI model security’ to prevent attacks on AI models and protect data confidentiality.
+
 **How to participate**
 
 9\. The public consultation paper can be found on <a href="https://www.bioethics-singapore.gov.sg/">BAC’s website</a> and <a href="https://www.reach.gov.sg/">REACH</a>.
