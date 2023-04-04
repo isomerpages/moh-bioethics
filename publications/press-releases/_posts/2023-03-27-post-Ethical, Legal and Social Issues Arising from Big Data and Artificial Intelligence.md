@@ -35,6 +35,13 @@ Responsible data usage ensures that data is used in a fair and transparent manne
 
 **Ethical Considerations:**
 
+i.	How should human biomedical research data be managed and used responsibly to avoid the risk of discrimination arising from participation or biases in biomedical research? 
+
+ii. 	How should researchers or developers ensure that data fed into the algorithm is not biased or result in bias-driven outcomes when developing AI algorithms? 
+
+iii. What is the ethical significance of ‘social licence’ in ensuring responsible big data and AI use in biomedical research? 
+
+
 **b. Data Ownership, Custodianship, and Stewardship**
  
  **c.	Data Privacy, Accessibility and Security**
