@@ -72,8 +72,9 @@ i.	Are the current methods of anonymisation and de-identification still applicab
 
 ii.	Should genetic data should be treated differently from other types of personal and health data?
 
-
 **e. Revising Consent in the Arena of Big Data and AI**
+
+Consent could be classified as broad, specific, implied, explicit and dynamic. Issues pertaining to consent in the use of big data and AI in biomedical research include differences in consent taking for health and medical data collected via traditional versus non-traditional data collection methods, and differences between consent for usage of data from cohort studies and that from real-world data. 
 
 **How to participate**
 
