@@ -45,7 +45,14 @@ iii. What is the ethical significance of ‘social licence’ in ensuring respon
 **b. Data Ownership, Custodianship, and Stewardship**
 
 With increasing use of big data and AI in biomedical research, data owners need to ensure that the data is secured and appropriately accessed whereas data custodians ensure that mechanisms are in place to ensure the responsible and ethical use of data to protect the privacy of individual data, and data security. Data stewardship complements data custodianship by ensuring the safe management of the data resource as a whole and training and educating stakeholders about the importance of responsible data management. 
- 
+
+
+**Ethical Considerations:**
+
+i.	How should human biomedical research data be managed and used responsibly to avoid the risk of discrimination arising from participation or biases in biomedical research? 
+
+ii. 	How should researchers or developers ensure that data fed into the algorithm is not biased or result in bias-driven outcomes when developing AI algorithms? 
+
  **c.	Data Privacy, Accessibility and Security**
  
 **d.	Data Anonymisation, De- and Re-identification of Data**
