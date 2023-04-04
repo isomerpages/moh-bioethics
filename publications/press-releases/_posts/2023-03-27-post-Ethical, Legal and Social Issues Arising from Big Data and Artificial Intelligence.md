@@ -23,7 +23,7 @@ image: ""
 
 6\. A common application (and a subset) of AI is machine learning where algorithms are trained to identify and resolve patterns like the human brain. A recent development of deep neural networks (a subset of machine learning) further imitates the human brain's ability to identify images, objects, improve drug discovery, upgrade precision medicines, improve diagnosis and assist humans to make decisions.  
 
-7\. The most significant source of big data used in biomedical research in this decade would be electronic health-related data collected via health platforms such as electronic health records, personal health monitoring technologies, home sensors, social media applications, healthcare related forums, patient portals, biomedical search queries on search engines and generic databases.
+7\. The most significant source of big data use in biomedical research in this decade would be electronic health-related data collected via health platforms such as electronic health records, personal health monitoring technologies, home sensors, social media applications, healthcare related forums, patient portals, biomedical search queries on search engines and generic databases.
 
 **Issues and Questions for Consideration**
 
