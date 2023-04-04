@@ -31,6 +31,10 @@ image: ""
 
 **a. Responsible Data Usage**
 
+Responsible data usage ensures that data is used in a fair and transparent manner without compromising data integrity and seeks to protect individual privacy and control of personal data. It is also key to preventing risk of discrimination or injustice, or inaccurate research outcomes stemming from bias in AI algorithms and the data used to train the algorithms.
+
+**Ethical Considerations:**
+
 **b. Data Ownership, Custodianship, and Stewardship**
  
  **c.	Data Privacy, Accessibility and Security**
