@@ -78,6 +78,8 @@ Consent could be classified as broad, specific, implied, explicit and dynamic. I
 
 **f.	Responsibility to the Public in Data-Sharing for Research**
 
+Responsible data sharing can lead to research that benefits individuals, communities, and society. The challenge is in ensuring that data sharing for research is conducted ethically, equitably, and with proper respect for privacy. One important consideration is how benefits of biomedical research can be shared with participants whose data is used. 
+
 **g.	Ethical Considerations and Issues Specific to AI**
 
 **How to participate**
