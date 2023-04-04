@@ -55,6 +55,7 @@ ii.	How should large volumes of biomedical data shared across countries in inter
 
  **c.	Data Privacy, Accessibility and Security**
  
+Data privacy, accessibility and security would be necessary to ensure that individuals’ personal data rights and interests are protected through robust technical security systems while facilitating access to the protected data by legitimate third parties.  
 **d.	Data Anonymisation, De- and Re-identification of Data**
 
 **e. Revising Consent in the Arena of Big Data and AI**
