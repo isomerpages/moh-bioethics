@@ -28,10 +28,17 @@ image: ""
 **Issues and Questions for Consideration**
 
 8\. The BAC would like to invite the public to contribute their views and feedback on a range of ethical, social and legal issues that could arise from the use of big data and AI applications in biomedical research.
- - w
- - 
- -  
+
+**a. Responsible Data Usage**
+
+**b. Data Ownership, Custodianship, and Stewardship**
  
+ **c.	Data Privacy, Accessibility and Security**
+ 
+**d.	Data Anonymisation, De- and Re-identification of Data**
+
+**e. Revising Consent in the Arena of Big Data and AI**
+
 **How to participate**
 
 9\. The public consultation paper can be found on <a href="https://www.bioethics-singapore.gov.sg/">BAC’s website</a> and <a href="https://www.reach.gov.sg/">REACH</a>.
