@@ -9,7 +9,7 @@ image: ""
 ---
 **PUBLIC CONSULTATION ON ETHICAL, LEGAL AND SOCIAL ISSUES ARISING FROM BIG DATA AND ARTIFICIAL INTELLIGENCE USE IN HUMAN BIOMEDICAL RESEARCH**
 
-1\. The Bioethics Advisory Committee (BAC) has developed a public consultation paper on the ethical, legal and social issues arising from ‘Big Data and Artificial Intelligence (AI) Use in Human Biomedical Research’ and invites public feedback from 26 April 2023 to 27 June 2023.  
+1\. The Bioethics Advisory Committee (BAC) has developed a public consultation paper on the ethical, legal and social issues arising from ‘Big Data and Artificial Intelligence (AI) Use in Human Biomedical Research’ and invites public feedback from **26 April 2023 to 27 June 2023**.  
 
 **Ethical Challenges of Big Data and AI Use in Human Biomedical Research**
 
