@@ -28,7 +28,47 @@ image: ""
 6\. The scope of the public consultation paper will cover ethical issues arising from the use of big data and AI in human biomedical research, such as responsible data usage, data ownership, custodianship, and stewardship, data privacy, accessibility and security, data anonymisation and other ethical considerations and issues specific to AI. Please refer to Annex A for more details on the ethical questions and issues raised in the public consultation paper.
 
 
-7\. The BAC would like to invite the public to provide feedback on the following ethical issues and questions:
+
+
+**Period of Consultation**
+
+8\. The public consultation will last for a period of nine weeks from 26 April 2023 to 27 June 2023. All comments should be sent by 27 June 2023. Any comments received after 27 June 2023 will not be considered.
+
+**Feedback Channels** 
+
+9\. The public consultation paper can be accessed from the   <a href="https://www.bioethics-singapore.gov.sg/">BAC website</a> and <a href="https://www.reach.gov.sg/">REACH Portal</a>. Members of the public are invited to provide feedback on the issues discussed in the public consultation paper through the following channels:
+
+a. By email to:	<br> &lt;[bioethics\_singapore@moh.gov.sg](mailto:bioethics_singapore@moh.gov.sg)&gt;
+
+b. By post to:<br>
+  Biomedical Ethics Coordinating Office<br>
+  1 Maritime Square<br>
+  #09-66 HarbourFront Centre<br>
+  Singapore 099253<br>
+
+c. By online feedback form at:
+* <a href="https://form.gov.sg/641cfda6e9ca7c0012eae318">Respondent's Form</a> <br> 
+
+- scan QR code below: <br> ![](/images/Big%20Data%20and%20AI/qr%20code%20-%20bdai%20respondent%20form.png)
+
+d.	Focus group discussions: <br> Two sessions will be held and conducted virtually via Zoom on 19 May 2023 and 1 Jun 2023. BAC will invite representatives from various academic, research and healthcare institutions, professional bodies and societies, IRBs, Clinical Ethics Committees (CECs), as well as industry partners to participate in the focus group discussions. Each session will last for about three hours. 
+
+**Summary of Response**
+
+10\. The BAC will publish a summary of the main comments/feedback received, together with the final report and recommendations on its website in end 2023. 
+
+---
+
+### **Footnotes**
+<br><sup>[1]</sup> Big data comprises massive amounts of data generated in the private and public sectors, and includes data from individual medical records, patient health records, results of medical examinations, data collected by using diagnostic and health management devices or applications as part of internet of things (IoTs), and data from electronic data sources such as web searches, forum posts and images.
+<br><sup>[2]</sup>AI describes the use of computers and technology to simulate intelligent behaviour and critical thinking comparable to a human being.
+
+**ANNEX**
+
+**About the Bioethics Advisory Committee (BAC)**
+<br>The Bioethics Advisory Committee (BAC) is an independent national advisory body established by the Cabinet in December 2000 to review ethical, legal and social issues arising from biomedical research and its applications in Singapore. It develops and recommends policies on these issues, with the aim of protecting the rights and welfare of individuals, while allowing the biomedical sciences to develop and realise its full potential for the benefit of humankind. For more details on the BAC, please visit https://www.bioethics-singapore.gov.sg/
+
+The BAC would like to invite the public to provide feedback on the following ethical issues and questions:
 
 **a. Responsible Data Usage**
 
@@ -93,44 +133,6 @@ Ethical principles that may apply to AI in biomedical research include transpare
 Ethical issues include the ethical responsibility of biomedical researchers and AI developers to comply with best standards to ensure clinical safety of AI modes, enabling equitable access to AI technologies in research and how to ensure ‘AI model security’ to prevent attacks on AI models and protect data confidentiality.
 
 **Ethical Considerations:**
-
-**Period of Consultation**
-
-8\. The public consultation will last for a period of nine weeks from 26 April 2023 to 27 June 2023. All comments should be sent by 27 June 2023. Any comments received after 27 June 2023 will not be considered.
-
-**Feedback Channels** 
-
-9\. The public consultation paper can be accessed from the   <a href="https://www.bioethics-singapore.gov.sg/">BAC website</a> and <a href="https://www.reach.gov.sg/">REACH Portal</a>. Members of the public are invited to provide feedback on the issues discussed in the public consultation paper through the following channels:
-
-a. By email to:	<br> &lt;[bioethics\_singapore@moh.gov.sg](mailto:bioethics_singapore@moh.gov.sg)&gt;
-
-b. By post to:<br>
-  Biomedical Ethics Coordinating Office<br>
-  1 Maritime Square<br>
-  #09-66 HarbourFront Centre<br>
-  Singapore 099253<br>
-
-c. By online feedback form at:
-* <a href="https://form.gov.sg/641cfda6e9ca7c0012eae318">Respondent's Form</a> <br> 
-
-- scan QR code below: <br> ![](/images/Big%20Data%20and%20AI/qr%20code%20-%20bdai%20respondent%20form.png)
-
-d.	Focus group discussions: <br> Two sessions will be held and conducted virtually via Zoom on 19 May 2023 and 1 Jun 2023. BAC will invite representatives from various academic, research and healthcare institutions, professional bodies and societies, IRBs, Clinical Ethics Committees (CECs), as well as industry partners to participate in the focus group discussions. Each session will last for about three hours. 
-
-**Summary of Response**
-
-10\. The BAC will publish a summary of the main comments/feedback received, together with the final report and recommendations on its website in end 2023. 
-
----
-
-### **Footnotes**
-<br><sup>[1]</sup> Big data comprises massive amounts of data generated in the private and public sectors, and includes data from individual medical records, patient health records, results of medical examinations, data collected by using diagnostic and health management devices or applications as part of internet of things (IoTs), and data from electronic data sources such as web searches, forum posts and images.
-<br><sup>[2]</sup>AI describes the use of computers and technology to simulate intelligent behaviour and critical thinking comparable to a human being.
-
-**ANNEX**
-
-**About the Bioethics Advisory Committee (BAC)**
-<br>The Bioethics Advisory Committee (BAC) is an independent national advisory body established by the Cabinet in December 2000 to review ethical, legal and social issues arising from biomedical research and its applications in Singapore. It develops and recommends policies on these issues, with the aim of protecting the rights and welfare of individuals, while allowing the biomedical sciences to develop and realise its full potential for the benefit of humankind. For more details on the BAC, please visit https://www.bioethics-singapore.gov.sg/
 
 
 ---
