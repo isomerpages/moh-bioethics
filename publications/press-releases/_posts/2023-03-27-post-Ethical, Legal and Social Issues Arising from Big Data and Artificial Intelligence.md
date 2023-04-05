@@ -29,7 +29,7 @@ image: ""
 
 **Issues and Questions for Consideration**
 
-8\. The BAC would like to invite the public to contribute their views and feedback on a range of ethical, social and legal issues that could arise from the use of big data and AI applications in biomedical research.
+7\. The BAC would like to invite the public to provide feedback on the following ethical issues and questions:
 
 **a. Responsible Data Usage**
 
