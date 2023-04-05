@@ -103,15 +103,16 @@ Ethical issues include the ethical responsibility of biomedical researchers and 
 
 a. By email to:	&lt;[bioethics\_singapore@moh.gov.sg](mailto:bioethics_singapore@moh.gov.sg)&gt;
 
-
-- by <a href="https://form.gov.sg/641cfda6e9ca7c0012eae318">Respondent's Form</a> <br>
-- scan QR code below: <br> ![](/images/Big%20Data%20and%20AI/qr%20code%20-%20bdai%20respondent%20form.png)
-
-- by post to:<br>
+b. By post to:<br>
   Biomedical Ethics Coordinating Office<br>
   1 Maritime Square<br>
   #11-23 HarbourFront Centre<br>
   Singapore 099253<br>
+
+- by <a href="https://form.gov.sg/641cfda6e9ca7c0012eae318">Respondent's Form</a> <br>
+- scan QR code below: <br> ![](/images/Big%20Data%20and%20AI/qr%20code%20-%20bdai%20respondent%20form.png)
+
+
 	
 Any comments received after 27 June 2023 will not be considered.
 
