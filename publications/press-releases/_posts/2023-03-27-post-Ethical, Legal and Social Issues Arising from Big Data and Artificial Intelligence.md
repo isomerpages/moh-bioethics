@@ -27,8 +27,6 @@ image: ""
 
 6\. The scope of the public consultation paper will cover ethical issues arising from the use of big data and AI in human biomedical research, such as responsible data usage, data ownership, custodianship, and stewardship, data privacy, accessibility and security, data anonymisation and other ethical considerations and issues specific to AI. 
 
-**Issues and Questions for Consideration**
-
 7\. The BAC would like to invite the public to provide feedback on the following ethical issues and questions:
 
 **a. Responsible Data Usage**
@@ -95,9 +93,13 @@ Ethical issues include the ethical responsibility of biomedical researchers and 
 
 **Ethical Considerations:**
 
-**How to participate**
+**Period of Consultation**
 
-9\. The public consultation paper can be found on <a href="https://www.bioethics-singapore.gov.sg/">BAC’s website</a> and <a href="https://www.reach.gov.sg/">REACH</a>.
+8\. The public consultation will last for a period of nine weeks from 26 April 2023 to 27 June 2023. All comments should be sent by 27 June 2023. Any comments received after 27 June 2023 will not be considered.
+
+**Feedback Channels** 
+
+9\. The public consultation paper can be accessed from the   <a href="https://www.bioethics-singapore.gov.sg/">BAC’s website</a> and <a href="https://www.reach.gov.sg/">REACH</a>.
 
 10\. The BAC welcomes feedback on the issues discussed in the consultation paper, or any other aspects on the ethical use of Big Data and AI applications in human biomedical research in Singapore. <br>
 
