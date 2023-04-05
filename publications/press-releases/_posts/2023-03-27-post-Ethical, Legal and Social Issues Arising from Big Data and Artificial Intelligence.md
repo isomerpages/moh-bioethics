@@ -9,21 +9,13 @@ image: ""
 ---
 **Ethical, Legal and Social Issues Arising from Big Data and Artificial Intelligence (AI) in Human Biomedical Research**
 
-1\. The Bioethics Advisory Committee (BAC) has issued a public consultation paper on the ethical, legal and social issues arising from Big Data and AI use in human biomedical research, and invites public feedback on the potential issues related to the use of big data and AI applications in biomedical research. 
+1\. The Bioethics Advisory Committee (BAC) has developed a public consultation paper on the ethical, legal and social issues arising from ‘Big Data and Artificial Intelligence (AI) Use in Human Biomedical Research’ and invites public feedback from 26 April 2023 to 27 June 2023.  
 
-2\. The views of the public and interested organisations will assist the BAC in formulating its recommendations for its advisory report which will guide academics, researchers, healthcare professionals, and Institutional Review Boards (IRBs) in the ethical use of big data and AI applications in biomedical research. It will also provide ethical guidance to policy and decision-makers, as well as support the safe growth of AI in biomedical and healthcare research.  
+**Ethical Challenges of Big Data and AI Use in Human Biomedical Research**
 
-3\. The report complements other big data and AI reports and ethical guidelines such as the ‘Ethics Framework for Big Data in Health and Research’ by the Science, Health, and Policy-relevant Ethics in Singapore (SHAPES) working group and the AI in Healthcare Guidelines (AIHGle) co-developed by the Ministry of Health (MOH), Health Sciences Authority (HSA) and Integrated Health Information Systems (IHiS).
+2\. With advances in information technology, data and computational analytics in recent decades, the use of big data  and AI  in human biomedical research has become increasingly important and enabled researchers and healthcare professionals to analyse massive datasets, generate useful insights, and enhance data-driven decisions. Some of the healthcare applications include monitoring of diseases and outbreaks, predicting of health behaviours and disease outcomes, providing risk stratification for individual patients, and facilitating patient care management.  
 
-4\. The public consultation will last for about 9 weeks from 26 April 2023 to 27 June 2023.
-
-**Big Data and AI – Recent Developments**
-
-5\.  The use of big data and AI technologies has enabled researchers to extract features and valuable insights from large datasets. With the continual development of new algorithms to improve accuracy in pattern recognition such as diagnosis and prediction of disease outcomes, big data and AI will play increasingly larger roles in the future of biomedical research, clinical research and healthcare.
-
-6\. A common application (and a subset) of AI is machine learning where algorithms are trained to identify and resolve patterns like the human brain. A recent development of deep neural networks (a subset of machine learning) further imitates the human brain's ability to identify images, objects, improve drug discovery, upgrade precision medicines, improve diagnosis and assist humans to make decisions.  
-
-7\. The most significant source of big data use in biomedical research in this decade would be electronic health-related data collected via health platforms such as electronic health records, personal health monitoring technologies, home sensors, social media applications, healthcare related forums, patient portals, biomedical search queries on search engines and generic databases.
+3\. While the growing use of big data and AI in biomedical research promises numerous benefits, it also gives rise to emerging ethical issues such as the need for protecting data privacy versus ensuring societal benefit; importance of obtaining informed consent and respecting individual’s rights and autonomy; and extent of data security obligation with respect to value of data, which warrant further deliberation and review. 
 
 **Issues and Questions for Consideration**
 
