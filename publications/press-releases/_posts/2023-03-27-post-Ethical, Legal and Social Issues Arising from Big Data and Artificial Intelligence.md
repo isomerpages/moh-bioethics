@@ -63,7 +63,7 @@ d.	Focus group discussions: <br> Two sessions will be held and conducted virtual
 
 **ANNEX A**
 
-Recommendations by the BAC on the ethical questions and issues raised in the public consultation paper on the ethical, legal and social issues arising from ‘Big Data and AI Use in Human Biomedical Research’.
+**Recommendations by the BAC on the ethical questions and issues raised in the public consultation paper on the ethical, legal and social issues arising from ‘Big Data and Artificial Intelligence (AI) Use in Human Biomedical Research’.**
 
 **a. Responsible Data Usage**
 
