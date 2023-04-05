@@ -101,7 +101,7 @@ Ethical issues include the ethical responsibility of biomedical researchers and 
 
 9\. The public consultation paper can be accessed from the   <a href="https://www.bioethics-singapore.gov.sg/">BAC website</a> and <a href="https://www.reach.gov.sg/">REACH Portal</a>. Members of the public are invited to provide feedback on the issues discussed in the public consultation paper through the following channels:
 
-a. By email to:	&lt;[bioethics\_singapore@moh.gov.sg](mailto:bioethics_singapore@moh.gov.sg)&gt;
+a. By email to:	<br> &lt;[bioethics\_singapore@moh.gov.sg](mailto:bioethics_singapore@moh.gov.sg)&gt;
 
 b. By post to:<br>
   Biomedical Ethics Coordinating Office<br>
@@ -114,6 +114,7 @@ c. By online feedback form at:
 
 - scan QR code below: <br> ![](/images/Big%20Data%20and%20AI/qr%20code%20-%20bdai%20respondent%20form.png)
 
+d.	Focus group discussions: <br> Two sessions will be held and conducted virtually via Zoom on 19 May 2023 and 1 Jun 2023. BAC will invite representatives from various academic, research and healthcare institutions, professional bodies and societies, IRBs, Clinical Ethics Committees (CECs), as well as industry partners to participate in the focus group discussions. Each session will last for about three hours.  
 
 	
 Any comments received after 27 June 2023 will not be considered.
