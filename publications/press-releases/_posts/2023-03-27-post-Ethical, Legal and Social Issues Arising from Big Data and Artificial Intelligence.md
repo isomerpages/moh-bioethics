@@ -139,9 +139,16 @@ Ethical issues include the ethical responsibility of biomedical researchers and 
 
 ### **For media enquiries, please contact:**
 
-<br>Biomedical Ethics Coordinating Office (BECO)
-<br>&lt;[bioethics\_singapore@moh.gov.sg](mailto:bioethics_singapore@moh.gov.sg)&gt;
-<br>
+<br> Mr Louis Peter Hor
+<br>Senior Manager
+<br>Bioethics Advisory Committee Secretariat
+<br>louis_hor@moh.gov.sg
+
+<br>Ms Nathira Shafeen
+<br>Assistant Manager
+<br>Bioethics Advisory Committee Secretariat
+<br>nathira_shafeen@moh.gov.sg
+
 
 
 ---
