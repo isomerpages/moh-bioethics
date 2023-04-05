@@ -13,7 +13,7 @@ image: ""
 
 **Ethical Challenges of Big Data and AI Use in Human Biomedical Research**
 
-2\. With advances in information technology, data and computational analytics in recent decades, the use of big data[1]  and AI  in human biomedical research has become increasingly important and enabled researchers and healthcare professionals to analyse massive datasets, generate useful insights, and enhance data-driven decisions. Some of the healthcare applications include monitoring of diseases and outbreaks, predicting of health behaviours and disease outcomes, providing risk stratification for individual patients, and facilitating patient care management.  
+2\. With advances in information technology, data and computational analytics in recent decades, the use of big data<sup>[1]</sup>  and AI <sup>[2]</sup>  in human biomedical research has become increasingly important and enabled researchers and healthcare professionals to analyse massive datasets, generate useful insights, and enhance data-driven decisions. Some of the healthcare applications include monitoring of diseases and outbreaks, predicting of health behaviours and disease outcomes, providing risk stratification for individual patients, and facilitating patient care management.  
 
 3\. While the growing use of big data and AI in biomedical research promises numerous benefits, it also gives rise to emerging ethical issues such as the need for protecting data privacy versus ensuring societal benefit; importance of obtaining informed consent and respecting individual’s rights and autonomy; and extent of data security obligation with respect to value of data, which warrant further deliberation and review. 
 
