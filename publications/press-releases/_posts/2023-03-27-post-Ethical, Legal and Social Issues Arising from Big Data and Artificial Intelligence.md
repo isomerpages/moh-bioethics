@@ -23,6 +23,10 @@ image: ""
 
 5\. The report builds upon previous BAC reports and recommendations and references relevant legislations such as the Personal Data Protection Act (2012) and the Human Biomedical Research Act (2015) and is intended to complement other big data and AI reports and ethical guidelines in Singapore to provide ethical guidance to decision-makers who work with big data in health and research, and improve the understanding, codify good practice and support the safe growth of AI in biomedical and healthcare research. 
 
+**Scope of Consultation** 
+
+6\. The scope of the public consultation paper will cover ethical issues arising from the use of big data and AI in human biomedical research, such as responsible data usage, data ownership, custodianship, and stewardship, data privacy, accessibility and security, data anonymisation and other ethical considerations and issues specific to AI. 
+
 **Issues and Questions for Consideration**
 
 8\. The BAC would like to invite the public to contribute their views and feedback on a range of ethical, social and legal issues that could arise from the use of big data and AI applications in biomedical research.
