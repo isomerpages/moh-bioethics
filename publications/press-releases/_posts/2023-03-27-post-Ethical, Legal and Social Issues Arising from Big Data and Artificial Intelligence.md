@@ -114,12 +114,12 @@ c. By online feedback form at:
 
 - scan QR code below: <br> ![](/images/Big%20Data%20and%20AI/qr%20code%20-%20bdai%20respondent%20form.png)
 
-d.	Focus group discussions: <br> Two sessions will be held and conducted virtually via Zoom on 19 May 2023 and 1 Jun 2023. BAC will invite representatives from various academic, research and healthcare institutions, professional bodies and societies, IRBs, Clinical Ethics Committees (CECs), as well as industry partners to participate in the focus group discussions. Each session will last for about three hours.  
+d.	Focus group discussions: <br> Two sessions will be held and conducted virtually via Zoom on 19 May 2023 and 1 Jun 2023. BAC will invite representatives from various academic, research and healthcare institutions, professional bodies and societies, IRBs, Clinical Ethics Committees (CECs), as well as industry partners to participate in the focus group discussions. Each session will last for about three hours. 
 
-	
-Any comments received after 27 June 2023 will not be considered.
+**Summary of Response**
 
-11\. The BAC will also be organising public consultation Focus Group Discussions with stakeholders, counterparts such as IRBs, research and healthcare institutions and industry partners.
+10\. The BAC will publish a summary of the main comments/feedback received, together with the final report and recommendations on its website in end 2023. 
+
 
 **ANNEX**
 
