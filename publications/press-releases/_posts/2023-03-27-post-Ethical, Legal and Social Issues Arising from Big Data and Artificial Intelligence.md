@@ -25,7 +25,8 @@ image: ""
 
 **Scope of Consultation** 
 
-6\. The scope of the public consultation paper will cover ethical issues arising from the use of big data and AI in human biomedical research, such as responsible data usage, data ownership, custodianship, and stewardship, data privacy, accessibility and security, data anonymisation and other ethical considerations and issues specific to AI. 
+6\. The scope of the public consultation paper will cover ethical issues arising from the use of big data and AI in human biomedical research, such as responsible data usage, data ownership, custodianship, and stewardship, data privacy, accessibility and security, data anonymisation and other ethical considerations and issues specific to AI. Please refer to Annex A for more details on the ethical questions and issues raised in the public consultation paper.
+
 
 7\. The BAC would like to invite the public to provide feedback on the following ethical issues and questions:
 
