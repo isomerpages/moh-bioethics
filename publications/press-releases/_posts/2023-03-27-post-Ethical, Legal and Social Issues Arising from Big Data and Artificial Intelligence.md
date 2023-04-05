@@ -106,7 +106,7 @@ a. By email to:	<br> &lt;[bioethics\_singapore@moh.gov.sg](mailto:bioethics_sing
 b. By post to:<br>
   Biomedical Ethics Coordinating Office<br>
   1 Maritime Square<br>
-  #11-23 HarbourFront Centre<br>
+  #09-66 HarbourFront Centre<br>
   Singapore 099253<br>
 
 c. By online feedback form at:
