@@ -17,6 +17,12 @@ image: ""
 
 3\. While the growing use of big data and AI in biomedical research promises numerous benefits, it also gives rise to emerging ethical issues such as the need for protecting data privacy versus ensuring societal benefit; importance of obtaining informed consent and respecting individual’s rights and autonomy; and extent of data security obligation with respect to value of data, which warrant further deliberation and review. 
 
+**Aim of Consultation**
+
+4\. Recognising the emerging ethical challenges, the BAC has developed a public consultation paper to discuss the ethical principles to guide such use, namely, respect for persons, solidarity, justice, proportionality, sustainability, and other ethical considerations including integrity, transparency, accountability, consistency and stakeholder engagement. The views of the public, stakeholders, research institutions, and interested organisations will assist the BAC in developing recommendations to guide academics, healthcare professionals, researchers, and Institutional Review Boards (IRBs) on the ethical principles of big data and AI use in biomedical research. 
+
+5\. The report builds upon previous BAC reports and recommendations and references relevant legislations such as the Personal Data Protection Act (2012) and the Human Biomedical Research Act (2015) and is intended to complement other big data and AI reports and ethical guidelines in Singapore to provide ethical guidance to decision-makers who work with big data in health and research, and improve the understanding, codify good practice and support the safe growth of AI in biomedical and healthcare research. 
+
 **Issues and Questions for Consideration**
 
 8\. The BAC would like to invite the public to contribute their views and feedback on a range of ethical, social and legal issues that could arise from the use of big data and AI applications in biomedical research.
