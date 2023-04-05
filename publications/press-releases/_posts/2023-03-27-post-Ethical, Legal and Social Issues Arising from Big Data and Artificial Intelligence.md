@@ -68,9 +68,13 @@ ii.	Should genetic data should be treated differently from other types of person
 
 Consent could be classified as broad, specific, implied, explicit and dynamic. Issues pertaining to consent in the use of big data and AI in biomedical research include differences in consent taking for health and medical data collected via traditional versus non-traditional data collection methods, and differences between consent for usage of data from cohort studies and that from real-world data. 
 
+**Ethical Considerations:**
+
 **f.	Responsibility to the Public in Data-Sharing for Research**
 
 Responsible data sharing can lead to research that benefits individuals, communities, and society. The challenge is in ensuring that data sharing for research is conducted ethically, equitably, and with proper respect for privacy. One important consideration is how benefits of biomedical research can be shared with participants whose data is used. 
+
+**Ethical Considerations:**
 
 **g.	Ethical Considerations and Issues Specific to AI**
 
@@ -78,6 +82,8 @@ Ethical principles that may apply to AI in biomedical research include transpare
 
 
 Ethical issues include the ethical responsibility of biomedical researchers and AI developers to comply with best standards to ensure clinical safety of AI modes, enabling equitable access to AI technologies in research and how to ensure ‘AI model security’ to prevent attacks on AI models and protect data confidentiality.
+
+**Ethical Considerations:**
 
 **How to participate**
 
