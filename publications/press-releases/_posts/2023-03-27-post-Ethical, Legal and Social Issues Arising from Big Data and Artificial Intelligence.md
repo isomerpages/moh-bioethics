@@ -96,7 +96,7 @@ Ethical issues include the ethical responsibility of biomedical researchers and 
 All comments should be sent by 27 June 2023 through the following channels. <br> 
 
 - by <a href="https://form.gov.sg/641cfda6e9ca7c0012eae318">Respondent's Form</a> <br>
-- scan QR code below: <br> ![](/images/bdai%20respondent’s%20form%20qr%20code.png)
+- scan QR code below: <br> ![](/images/Big%20Data%20and%20AI/qr%20code%20-%20bdai%20respondent%20form.png)
 
 - by post to:<br>
   Biomedical Ethics Coordinating Office<br>
