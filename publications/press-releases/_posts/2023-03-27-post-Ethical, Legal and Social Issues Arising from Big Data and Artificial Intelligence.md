@@ -65,10 +65,6 @@ d.	Focus group discussions: <br> Two sessions will be held and conducted virtual
 
 **ANNEX A**
 
-**About the Bioethics Advisory Committee (BAC)**
-<br>The Bioethics Advisory Committee (BAC) is an independent national advisory body established by the Cabinet in December 2000 to review ethical, legal and social issues arising from biomedical research and its applications in Singapore. It develops and recommends policies on these issues, with the aim of protecting the rights and welfare of individuals, while allowing the biomedical sciences to develop and realise its full potential for the benefit of humankind. For more details on the BAC, please visit https://www.bioethics-singapore.gov.sg/
-
-The BAC would like to invite the public to provide feedback on the following ethical issues and questions:
 
 **a. Responsible Data Usage**
 
@@ -133,6 +129,11 @@ Ethical principles that may apply to AI in biomedical research include transpare
 Ethical issues include the ethical responsibility of biomedical researchers and AI developers to comply with best standards to ensure clinical safety of AI modes, enabling equitable access to AI technologies in research and how to ensure ‘AI model security’ to prevent attacks on AI models and protect data confidentiality.
 
 **Ethical Considerations:**
+
+**Annex B**
+
+**About the Bioethics Advisory Committee (BAC)**
+<br>The Bioethics Advisory Committee (BAC) is an independent national advisory body established by the Cabinet in December 2000 to review ethical, legal and social issues arising from biomedical research and its applications in Singapore. It develops and recommends policies on these issues, with the aim of protecting the rights and welfare of individuals, while allowing the biomedical sciences to develop and realise its full potential for the benefit of humankind. For more details on the BAC, please visit https://www.bioethics-singapore.gov.sg/
 
 
 ---
