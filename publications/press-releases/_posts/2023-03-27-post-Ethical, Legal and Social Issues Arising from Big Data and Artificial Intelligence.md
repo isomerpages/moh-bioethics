@@ -99,11 +99,10 @@ Ethical issues include the ethical responsibility of biomedical researchers and 
 
 **Feedback Channels** 
 
-9\. The public consultation paper can be accessed from the   <a href="https://www.bioethics-singapore.gov.sg/">BAC website</a> and <a href="https://www.reach.gov.sg/">REACH Portal</a>.
+9\. The public consultation paper can be accessed from the   <a href="https://www.bioethics-singapore.gov.sg/">BAC website</a> and <a href="https://www.reach.gov.sg/">REACH Portal</a>. Members of the public are invited to provide feedback on the issues discussed in the public consultation paper through the following channels:
 
-10\. The BAC welcomes feedback on the issues discussed in the consultation paper, or any other aspects on the ethical use of Big Data and AI applications in human biomedical research in Singapore. <br>
+a. By email to:	&lt;[bioethics\_singapore@moh.gov.sg](mailto:bioethics_singapore@moh.gov.sg)&gt;
 
-All comments should be sent by 27 June 2023 through the following channels. <br> 
 
 - by <a href="https://form.gov.sg/641cfda6e9ca7c0012eae318">Respondent's Form</a> <br>
 - scan QR code below: <br> ![](/images/Big%20Data%20and%20AI/qr%20code%20-%20bdai%20respondent%20form.png)
