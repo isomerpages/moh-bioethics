@@ -63,7 +63,7 @@ d.	Focus group discussions: <br> Two sessions will be held and conducted virtual
 <br><sup>[1]</sup> Big data comprises massive amounts of data generated in the private and public sectors, and includes data from individual medical records, patient health records, results of medical examinations, data collected by using diagnostic and health management devices or applications as part of internet of things (IoTs), and data from electronic data sources such as web searches, forum posts and images.
 <br><sup>[2]</sup>AI describes the use of computers and technology to simulate intelligent behaviour and critical thinking comparable to a human being.
 
-**ANNEX**
+**ANNEX A**
 
 **About the Bioethics Advisory Committee (BAC)**
 <br>The Bioethics Advisory Committee (BAC) is an independent national advisory body established by the Cabinet in December 2000 to review ethical, legal and social issues arising from biomedical research and its applications in Singapore. It develops and recommends policies on these issues, with the aim of protecting the rights and welfare of individuals, while allowing the biomedical sciences to develop and realise its full potential for the benefit of humankind. For more details on the BAC, please visit https://www.bioethics-singapore.gov.sg/
