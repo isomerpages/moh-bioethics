@@ -120,6 +120,11 @@ d.	Focus group discussions: <br> Two sessions will be held and conducted virtual
 
 10\. The BAC will publish a summary of the main comments/feedback received, together with the final report and recommendations on its website in end 2023. 
 
+---
+
+### **Footnotes**
+<br><sup>[1]</sup> Big data comprises massive amounts of data generated in the private and public sectors, and includes data from individual medical records, patient health records, results of medical examinations, data collected by using diagnostic and health management devices or applications as part of internet of things (IoTs), and data from electronic data sources such as web searches, forum posts and images.
+<br><sup>[2]</sup>AI describes the use of computers and technology to simulate intelligent behaviour and critical thinking comparable to a human being.
 
 **ANNEX**
 
