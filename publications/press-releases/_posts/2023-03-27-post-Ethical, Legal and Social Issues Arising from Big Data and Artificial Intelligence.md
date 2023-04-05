@@ -108,7 +108,7 @@ Anonymisation, de- and re-identification of data are tools used in biomedical re
 
 i.	Are the current methods of anonymisation and de-identification still applicable when large volumes of personal, health and medical data are used in big data and AI research?
 
-ii.	Should genetic data should be treated differently from other types of personal and health data?
+ii.	Should genetic data be considered exceptional and treated differently from other types of personal and health data?
 
 **e. Revising Consent in the Arena of Big Data and AI**
 
