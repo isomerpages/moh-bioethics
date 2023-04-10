@@ -13,28 +13,26 @@ image: ""
 
 **Ethical Challenges of Big Data and AI Use in Human Biomedical Research**
 
-2\. With advances in information technology, data and computational analytics in recent decades, the use of big data<sup>[1]</sup>  and AI <sup>[2]</sup>  in human biomedical research has become increasingly important and enabled researchers and healthcare professionals to analyse massive datasets, generate useful insights, and enhance data-driven decisions. Some of the healthcare applications include monitoring of diseases and outbreaks, predicting of health behaviours and disease outcomes, providing risk stratification for individual patients, and facilitating patient care management.  
-
-3\. While the growing use of big data and AI in biomedical research promises numerous benefits, it also gives rise to emerging ethical issues such as the need for protecting data privacy versus ensuring societal benefit; importance of obtaining informed consent and respecting individual’s rights and autonomy; and extent of data security obligation with respect to value of data, which warrant further deliberation and review. 
+2\. With advances in information technology, data and computational analytics in recent decades, the use of big data  and AI  in human biomedical research has become increasingly important and enabled researchers and healthcare professionals to analyse massive datasets, generate useful insights, and enhance data-driven decisions. While the growing use of big data and AI in biomedical research promises numerous benefits, it also gives rise to emerging ethical issues such as the need for protecting data privacy versus ensuring societal benefit; importance of obtaining informed consent and respecting individual’s rights and autonomy; and extent of data security obligation with respect to value of data, which warrant further deliberation and review by the BAC. 
 
 **Aim of Consultation**
 
-4\. Recognising the emerging ethical challenges, the BAC has developed a public consultation paper to discuss the ethical principles to guide such use, namely, respect for persons, solidarity, justice, proportionality, sustainability, and other ethical considerations including integrity, transparency, accountability, consistency and stakeholder engagement. The views of the public, stakeholders, research institutions, and interested organisations will assist the BAC in developing recommendations to guide academics, healthcare professionals, researchers, and Institutional Review Boards (IRBs) on the ethical principles of big data and AI use in biomedical research. 
+3\. Recognising the emerging ethical challenges, the BAC has developed a public consultation paper to discuss the ethical principles to guide such use, namely, respect for persons, solidarity, justice, proportionality, sustainability, and other ethical considerations including integrity, transparency, accountability, consistency and stakeholder engagement. The views of the public, stakeholders, research institutions, and interested organisations will assist the BAC in developing recommendations to guide academics, researchers, healthcare professionals, Clinical Ethics Committees (CECs) and Institutional Review Boards (IRBs) on the ethical use of big data and AI applications in human biomedical research. 
 
-5\. The report builds upon previous BAC reports and recommendations and references relevant legislations such as the Personal Data Protection Act (2012) and the Human Biomedical Research Act (2015) and is intended to complement other big data and AI reports and ethical guidelines in Singapore to provide ethical guidance to decision-makers who work with big data in health and research, and improve the understanding, codify good practice and support the safe growth of AI in biomedical and healthcare research. 
+4\. The report builds upon previous BAC reports and recommendations and references relevant legislations such as the Personal Data Protection Act (2012) and the Human Biomedical Research Act (2015) and is intended to complement other big data and AI reports and ethical guidelines in Singapore to provide ethical guidance to decision-makers who work with big data in health and research, codify good practice and support the safe growth of AI in biomedical and healthcare research. 
 
 **Scope of Consultation** 
 
-6\. The scope of the public consultation paper will cover ethical issues arising from the use of big data and AI in human biomedical research, such as responsible data usage, data ownership, custodianship, and stewardship, data privacy, accessibility and security, data anonymisation and other ethical considerations and issues specific to AI. Please refer to **Annex A** for more details on the ethical questions and issues raised in the public consultation paper.
+5\. The scope of the public consultation paper will cover ethical issues arising from the use of big data and AI in human biomedical research, such as responsible data usage, data ownership, custodianship, and stewardship, data privacy, accessibility and security, data anonymisation and other ethical considerations and issues specific to AI. Please refer to **Annex A** for more details on the ethical questions and issues raised in the public consultation paper.
 
 
 **Period of Consultation**
 
-7\. The public consultation will last for a period of nine weeks from **26 April 2023 to 27 June 2023.** All comments should be sent by **27 June 2023**. Any comments received after 27 June 2023 will not be considered.
+6\. The public consultation will last for a period of nine weeks from **26 April 2023 to 27 June 2023.** All comments should be sent in by **27 June 2023**. Any comments received after 27 June 2023 will not be considered.
 
 **Feedback Channels** 
 
-9\. The public consultation paper can be accessed from the   <a href="https://www.bioethics-singapore.gov.sg/">BAC website</a> and <a href="https://www.reach.gov.sg/">REACH Portal</a>. Members of the public are invited to provide feedback on the issues discussed in the public consultation paper through the following channels:
+7\. The public consultation paper can be accessed from the   <a href="https://www.bioethics-singapore.gov.sg/">BAC website</a> or <a href="https://www.reach.gov.sg/">REACH Portal</a>. Members of the public are invited to provide feedback on the issues discussed in the public consultation paper through the following channels:
 
 a. By email to:	<br> &lt;[bioethics\_singapore@moh.gov.sg](mailto:bioethics_singapore@moh.gov.sg)&gt;
 
@@ -49,11 +47,11 @@ c. By online feedback form at:
 
 - scan QR code below: <br> ![](/images/Big%20Data%20and%20AI/qr%20code%20-%20bdai%20respondent%20form.png)
 
-d.	Focus group discussions: <br> Two sessions will be held and conducted virtually via Zoom on 19 May 2023 and 1 Jun 2023. BAC will invite representatives from various academic, research and healthcare institutions, professional bodies and societies, IRBs, Clinical Ethics Committees (CECs), as well as industry partners to participate in the focus group discussions. Each session will last for about three hours. 
+d.	Focus group discussions: <br> Two sessions will be held and conducted virtually via Zoom on 19 May 2023 and 1 Jun 2023. BAC will invite representatives from various academic, research and healthcare institutions, professional bodies and societies, CECs, IRBs, as well as industry partners to participate in the focus group discussions. Each session will last for about three hours.  
 
 **Summary of Response**
 
-10\. The BAC will publish a summary of the main comments/feedback received, together with the final report and recommendations on its website in end 2023. 
+8\. The BAC will publish a summary of the main comments/feedback received, together with the final report and recommendations on its website in end 2023. 
 
 ---
 
@@ -63,11 +61,11 @@ d.	Focus group discussions: <br> Two sessions will be held and conducted virtual
 
 **ANNEX A**
 
-**Recommendations by the BAC on the ethical questions and issues raised in the public consultation paper on the ethical, legal and social issues arising from ‘Big Data and Artificial Intelligence (AI) Use in Human Biomedical Research’.**
+**[Invitation To Comment] Public Consultation Paper: Ethical, Legal and Social Issues Arising from Big Data and Artificial Intelligence (AI) Use in Human Biomedical Research.**
 
 **a. Responsible Data Usage**
 
-Responsible data usage ensures that data is used in a fair and transparent manner without compromising data integrity and seeks to protect individual privacy and control of personal data. It is also key to preventing risk of discrimination or injustice, or inaccurate research outcomes stemming from bias in AI algorithms and the data used to train the algorithms.
+1\. Responsible data usage ensures that data is used in a fair and transparent manner without compromising data integrity and seeks to protect individual privacy and control of personal data. It is also key to preventing risk of discrimination or injustice, or inaccurate research outcomes stemming from bias in AI algorithms and the data used to train the algorithms.
 
 **Ethical Considerations:**
 
@@ -80,17 +78,22 @@ iii. What is the ethical significance of ‘social licence’ in ensuring respon
 
 **b. Data Ownership, Custodianship, and Stewardship**
 
-With increasing use of big data and AI in biomedical research, data owners need to ensure that the data is secured and appropriately accessed whereas data custodians ensure that mechanisms are in place to ensure the responsible and ethical use of data to protect the privacy of individual data, and data security. Data stewardship complements data custodianship by ensuring the safe management of the data resource as a whole and training and educating stakeholders about the importance of responsible data management. 
+2\. Data ownership may be referred to as legal rights or the exclusive personal or proprietary rights conferred by law, to have complete control and autonomy over data elements.  While data owners have responsibilities to ensure data security and accessibility, data custodianship is an assignment of responsibility by the data owner to the custodian to manage the use and access to the data through safe keeping of data (i.e., safe custody and storage). Data stewardship complements data custodianship and is concerned with the safe management of the data resource as a whole and involves the coordination with multiple parties. It may also include the development and implementation of policies for managing and sharing data with responsible third parties for use in the interests of biomedical research, as well as the training and educating of stakeholders about the importance of responsible data management. 
 
 **Ethical Considerations:**
 
-i.	Should a person who had provided biological materials or data but did not participate in the subsequent processing or analysis have intellectual property rights in the data?
+i. 	How much control/rights/power do individuals have after contributing their data for biomedical research?
 
-ii.	How should large volumes of biomedical data shared across countries in international research collaborations be managed?
+ii.	What are the responsibilities of a data custodian?
+
+iii.	Should a person who had provided biological materials or data but did not participate in the subsequent processing or analysis have intellectual property rights in the data?
+
+iv.	How should large volumes of biomedical data shared across countries in international research collaborations be managed?
+
 
  **c.	Data Privacy, Accessibility and Security**
  
-Data privacy, accessibility and security would be necessary to ensure that individuals’ personal data rights and interests are protected through robust technical security systems while facilitating access to the protected data by legitimate third parties.  
+3\. Data privacy, accessibility and security would be necessary to ensure that individuals’ personal data rights and interests are protected through robust technical security systems while facilitating access to the protected data by legitimate third parties.  
 
 **Ethical Considerations:**
 
@@ -100,7 +103,7 @@ ii.	How can institutions or organisations managing data stored in multiple on-si
 
 **d.	Data Anonymisation, De- and Re-identification of Data**
 
-Anonymisation, de- and re-identification of data are tools used in biomedical research to enable data to be analysed while protecting the data contributors’ privacy. As analyses involving big data and AI algorithms in biomedical research rely increasingly on large volumes of personal, health and medical data, conventional methods of de-identification and anonymisation may no longer be adequate in protecting privacy. 
+4\. Anonymisation, de- and re-identification of data are tools used in biomedical research to enable data to be analysed while protecting the data contributors’ privacy. As analyses involving big data and AI algorithms in biomedical research rely increasingly on large volumes of personal, health and medical data, conventional methods of de-identification and anonymisation may no longer be adequate in protecting privacy. 
 
 **Ethical Considerations:**
 
@@ -110,24 +113,33 @@ ii.	Should genetic data be considered exceptional and treated differently from o
 
 **e. Revising Consent in the Arena of Big Data and AI**
 
-Consent could be classified as broad, specific, implied, explicit and dynamic. Issues pertaining to consent in the use of big data and AI in biomedical research include differences in consent taking for health and medical data collected via traditional versus non-traditional data collection methods, and differences between consent for usage of data from cohort studies and that from real-world data. 
+5\. Informed consent is a feasible governance tool in big data and AI use in biomedical research to ensure that a research participant has sufficient understanding in and has authorised the use of his or her data for biomedical research. 
+
+i.	What are the differences between consent taking for health and medical data that are collected via various sources and novel methods?
+
+ii.	What are the differences between consent for usage of data between cohort studies and that of real-world data? 
+
 
 **Ethical Considerations:**
 
 **f.	Responsibility to the Public in Data-Sharing for Research**
 
-Responsible data sharing can lead to research that benefits individuals, communities, and society. The challenge is in ensuring that data sharing for research is conducted ethically, equitably, and with proper respect for privacy. One important consideration is how benefits of biomedical research can be shared with participants whose data is used. 
+6\. Responsible data sharing can lead to research that benefits individuals, communities, and society. The challenge is in ensuring that data sharing for research is conducted ethically, equitably, and with proper respect for privacy. 
 
 **Ethical Considerations:**
+
+i.	How can the benefits of biomedical research be shared with participants whose data is used?
 
 **g.	Ethical Considerations and Issues Specific to AI**
 
-Ethical principles that may apply to AI in biomedical research include transparency, explainability, and justifiability. Other key considerations include reliability and safety, accountability, human agency, equitable access and model security to minimise potential harm to individuals and parties involved in research projects. 
-
-
-Ethical issues include the ethical responsibility of biomedical researchers and AI developers to comply with best standards to ensure clinical safety of AI modes, enabling equitable access to AI technologies in research and how to ensure ‘AI model security’ to prevent attacks on AI models and protect data confidentiality.
+7\. Ethical principles that may apply to AI in biomedical research include transparency, explainability, and justifiability. Other key considerations include reliability and safety, accountability, human agency, equitable access and model security to minimise potential harm to individuals and parties involved in research projects. 
 
 **Ethical Considerations:**
+
+i.	What are the ethical considerations and responsibilities of biomedical researchers and AI developers in complying with best standards to ensure clinical safety of AI models?
+
+ii.	What are the ethical considerations in ensuring equitable access to AI technologies in research?
+
 
 **Annex B**
 
@@ -142,12 +154,12 @@ Ethical issues include the ethical responsibility of biomedical researchers and 
 <br> Mr Louis Peter Hor
 <br>Senior Manager
 <br>Bioethics Advisory Committee Secretariat
-<br>louis_hor@moh.gov.sg
+<br>&lt;[louis\_hor@moh.gov.sg](mailto:louis_hor@moh.gov.sg)&gt;
 
 <br>Ms Nathira Shafeen
 <br>Assistant Manager
 <br>Bioethics Advisory Committee Secretariat
-<br>nathira_shafeen@moh.gov.sg
+<br>&lt;[nathira\_shafeen@moh.gov.sg](mailto:nathira_shafeen@moh.gov.sg)&gt;
 
 
 
