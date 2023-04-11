@@ -153,13 +153,13 @@ ii.	What are the ethical considerations in ensuring equitable access to AI techn
 ### **For media enquiries, please contact:**
 
 <br> Mr Louis Peter Hor
-<br>Senior Manager
-<br>Bioethics Advisory Committee Secretariat
+<br>Senior Manager (BAC Secretariat)
+<br>Biomedical Ethics Coordinating Office 
 <br>&lt;[louis\_hor@moh.gov.sg](mailto:louis_hor@moh.gov.sg)&gt;
 
 <br>Ms Nathira Shafeen
-<br>Assistant Manager
-<br>Bioethics Advisory Committee Secretariat
+<br>Assistant Manager (BAC Secretariat)
+<br>Biomedical Ethics Coordinating Office 
 <br>&lt;[nathira\_shafeen@moh.gov.sg](mailto:nathira_shafeen@moh.gov.sg)&gt;
 
 
