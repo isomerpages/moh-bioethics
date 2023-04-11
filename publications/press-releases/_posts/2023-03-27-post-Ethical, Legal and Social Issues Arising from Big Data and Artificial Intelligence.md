@@ -118,12 +118,12 @@ ii.	Should genetic data be considered exceptional and treated differently from o
 
 6\. In cohort studies which typically involve longitudinal studies on a group of individuals to study the development of certain health outcomes such as the incidence of a disease, ensuring that the rights, interests, and welfare of research participants are protected often entail obtaining valid consent explicitly from participants for usage of data in research prior to their participation in research. However, obtaining consent for the use of real-world data which is collected from a variety of sources, such as electronic health records, insurance claims data, and data from health-monitoring devices can be more challenging, because the data is often not collected primarily for research purposes. 
 
+**Ethical Considerations:**
+
 i.	What are the differences between consent taking for health and medical data that are collected via various sources and novel methods?
 
 ii.	What are the differences between consent for usage of data between cohort studies and that of real-world data? 
 
-
-**Ethical Considerations:**
 
 **f.	Responsibility to the Public in Data-Sharing for Research**
 
