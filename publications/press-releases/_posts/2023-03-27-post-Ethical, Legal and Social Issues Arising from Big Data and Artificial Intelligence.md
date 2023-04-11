@@ -37,7 +37,7 @@ image: ""
 a. By email to:	<br> &lt;[bioethics\_singapore@moh.gov.sg](mailto:bioethics_singapore@moh.gov.sg)&gt;
 
 b. By post to:<br>
-  Bioethics Advisory Committee Secretariat<br>
+  Biomedical Ethics Coordinating Office<br>
   1 Maritime Square<br>
   #09-66 HarbourFront Centre<br>
   Singapore 099253<br>
