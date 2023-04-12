@@ -72,7 +72,7 @@ Two sessions will be held and conducted virtually via Zoom on 19 May 2023 and 1 
 
 i.	How should human biomedical research data be managed and used responsibly to avoid the risk of discrimination arising from participation or biases in biomedical research? 
 
-ii. 	How should researchers or developers ensure that data fed into the algorithm is not biased and will not result in bias-driven outcomes when developing AI algorithms?
+ii. 	How should researchers or developers ensure that data fed into algorithms is not biased and will not result in bias-driven outcomes when developing AI algorithms?
 
 iii. What is the ethical significance of ‘social licence’ in ensuring responsible big data and AI use in biomedical research? 
 
