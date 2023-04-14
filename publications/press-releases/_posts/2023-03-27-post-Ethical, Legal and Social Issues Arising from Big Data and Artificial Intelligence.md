@@ -146,28 +146,6 @@ i.	What are the ethical considerations and responsibilities of biomedical resear
 ii.	What are the ethical considerations in ensuring equitable access to AI technologies in research?
 
 
-**Annex B**
-
-**About the Bioethics Advisory Committee (BAC)**
-<br>The Bioethics Advisory Committee (BAC) is an independent national advisory body established by the Cabinet in December 2000 to review ethical, legal and social issues arising from biomedical research and its applications in Singapore. It develops and recommends policies on these issues, with the aim of protecting the rights and welfare of individuals, while allowing the biomedical sciences to develop and realise its full potential for the benefit of humankind. For more details on the BAC, please visit https://www.bioethics-singapore.gov.sg/
-
-
----
-
-### **For media enquiries, please contact:**
-
-<br> Mr Louis Peter Hor
-<br>Senior Manager (BAC Secretariat)
-<br>Biomedical Ethics Coordinating Office 
-<br>&lt;[louis\_hor@moh.gov.sg](mailto:louis_hor@moh.gov.sg)&gt;
-
-<br>Ms Nathira Shafeen
-<br>Assistant Manager (BAC Secretariat)
-<br>Biomedical Ethics Coordinating Office 
-<br>&lt;[nathira\_shafeen@moh.gov.sg](mailto:nathira_shafeen@moh.gov.sg)&gt;
-
-
-
 ---
 
 [Press Release (PDF)](/files/publications/press-releases/bac-mgrt-press-release.pdf)
