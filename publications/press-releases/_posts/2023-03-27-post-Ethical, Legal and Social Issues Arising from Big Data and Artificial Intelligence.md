@@ -48,7 +48,7 @@ c. By online feedback form at:
 - scan QR code below: <br> ![](/images/Big%20Data%20and%20AI/qr%20code%20-%20bdai%20respondent%20form.png)
 
 d.	Focus group discussions: <br> 
-Two sessions will be held and conducted virtually via Zoom on 1 and 21 Jun 2023. The BAC will invite representatives from various academic, research and healthcare institutions, CECs, IRBs, professional bodies and societies, as well as industry partners to participate in the focus group discussions. Each session will last for about three hours.    
+Two sessions will be held and conducted virtually via Zoom on 1 and 21 June 2023. The BAC will invite representatives from various academic, research and healthcare institutions, CECs, IRBs, professional bodies and societies, as well as industry partners to participate in the focus group discussions. Each session will last for about three hours.    
 
 **Summary of Response**
 
