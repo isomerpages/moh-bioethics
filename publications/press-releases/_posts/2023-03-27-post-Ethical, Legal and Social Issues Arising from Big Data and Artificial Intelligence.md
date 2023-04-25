@@ -9,15 +9,15 @@ image: ""
 ---
 **PUBLIC CONSULTATION ON ETHICAL, LEGAL AND SOCIAL ISSUES ARISING FROM BIG DATA AND ARTIFICIAL INTELLIGENCE USE IN HUMAN BIOMEDICAL RESEARCH**
 
-1\. The Bioethics Advisory Committee (BAC) has developed a public consultation paper on ethical, legal and social issues arising from ‘Big Data and Artificial Intelligence (AI) Use in Human Biomedical Research’ and invites public feedback from **26 April 2023 to 27 June 2023**.  
+1\. The Bioethics Advisory Committee (BAC) has developed a public consultation paper on ethical, legal and social issues arising from ‘Big Data and Artificial Intelligence (AI) Use in Human Biomedical Research’ and invites public feedback from **2 May 2023 to 30 June 2023**.  
 
 **Ethical Challenges of Big Data and AI Use in Human Biomedical Research**
 
-2\. With advances in information technology, data and computational analytics in recent decades, the use of big data<sup>[1]</sup> and AI<sup>[2]</sup> in human biomedical research is becoming increasingly important, enabling researchers and healthcare professionals to analyse massive datasets, generate useful insights, and enhance data-driven decisions. While the growing use of big data and AI in biomedical research promises numerous benefits, it also raises ethical issues such as the need for protecting data privacy versus ensuring societal benefit; importance of obtaining informed consent and respecting individual’s rights and autonomy; and extent of data security obligation with respect to the value of data. These warrant further deliberation and review by the BAC. 
+2\. With advances in information technology, data and computational analytics in recent decades<sup>[1]</sup>, the use of big data<sup>[2]</sup> and AI<sup>[3]</sup> in human biomedical research is becoming increasingly important, enabling researchers and healthcare professionals to analyse massive datasets, generate useful insights, and enhance data-driven decisions. While the growing use of big data and AI in biomedical research promises benefits, it also raises ethical issues such as the need for protecting data privacy versus ensuring societal benefit; importance of obtaining informed consent and respecting individual’s rights and autonomy; and extent of data security obligation with respect to the value of data. These warrant further deliberation and review by the BAC. 
 
 **Aim of Consultation**
 
-3\. Recognising these ethical challenges, the BAC has developed a public consultation paper to discuss the ethical principles to guide the use of big data and AI applications in human biomedical research, such as respect for persons, solidarity, justice, proportionality, sustainability, and other ethical considerations including integrity, transparency, accountability, consistency and stakeholder engagement. The views of the public, stakeholders, and interested organisations will assist the BAC in developing recommendations to guide academics, researchers, healthcare professionals, Clinical Ethics Committees (CECs) and Institutional Review Boards (IRBs) on the ethical use of big data and AI applications in human biomedical research. 
+3\. Recognising these ethical challenges, the BAC has developed a public consultation paper to discuss the ethical principles to guide the use of big data and AI applications in human biomedical research, such as respect for persons, solidarity<sup>[4]</sup>, justice, proportionality<sup>[5]</sup>, sustainability, and other ethical considerations including integrity, transparency, accountability, consistency and stakeholder engagement. The views of the public, stakeholders, and interested organisations will assist the BAC in developing recommendations to guide academics, researchers, healthcare professionals, Clinical Ethics Committees (CECs) and Institutional Review Boards (IRBs) on the ethical use of big data and AI applications in human biomedical research. 
 
 4\. The report builds upon previous BAC reports and recommendations and references relevant legislations such as the Personal Data Protection Act (2012) and the Human Biomedical Research Act (2015) and is intended to complement other big data and AI reports and ethical guidelines in Singapore to provide ethical guidance to decision-makers who work with big data in health and research, codify good practice and support the safe growth of AI in biomedical and healthcare research. 
 
@@ -28,7 +28,7 @@ image: ""
 
 **Period of Consultation**
 
-6\. The public consultation will last for a period of nine weeks from **26 April 2023 to 27 June 2023.** All comments should be sent in by **27 June 2023**. Any comments received after 27 June 2023 will not be considered.
+6\. The public consultation will last for a period of nine weeks from **2 May 2023 to 30 June 2023.** All comments should be sent in by **30 June 2023**. Any comments received after 30 June 2023 will not be considered.
 
 **Feedback Channels** 
 
@@ -48,7 +48,7 @@ c. By online feedback form at:
 - scan QR code below: <br> ![](/images/Big%20Data%20and%20AI/qr%20code%20-%20bdai%20respondent%20form.png)
 
 d.	Focus group discussions: <br> 
-Two sessions will be held and conducted virtually via Zoom on 1 and 21 June 2023. The BAC will invite representatives from various academic, research and healthcare institutions, CECs, IRBs, professional bodies and societies, as well as industry partners to participate in the focus group discussions. Each session will last for about three hours.    
+Two sessions will be held and conducted virtually via Zoom on 1 and 21 June 2023. The BAC will invite representatives from various academic, research and healthcare institutions, CECs, IRBs, professional bodies and societies, as well as industry partners to participate in the focus group discussions. 
 
 **Summary of Response**
 
@@ -145,14 +145,18 @@ ii.	What are the ethical considerations in ensuring equitable access to AI techn
 ---
 
 ### **Footnotes**
-<br><sup>[1]</sup> Big data comprises massive amounts of data generated in the private and public sectors, and includes data from individual medical records, patient health records, results of medical examinations, data collected by using diagnostic and health management devices or applications as part of internet of things (IoTs), and data from electronic data sources such as web searches, forum posts and images.
-<br><sup>[2]</sup>AI describes the use of computers and technology to simulate intelligent behaviour and critical thinking comparable to a human being.
-<br><sup>[3]</sup>Genomic data is the DNA data of organisms that reveal how differences in DNA affect human health and disease. Whole genomic data i.e., Whole Genome Sequence refers to the entire DNA of the genome of an organism and Whole Exome Sequence refers to the protein coding sequences from the genome.
-<br><sup>[4]</sup>Examples of data treatment controls include removal of direct identifiers such as national identification numbers, names, and addresses, and generalisation of indirect identifiers such as age and demographic data.
-<br><sup>[5]</sup>Examples of managerial controls include applying access controls such as physical, technical and/or administrative measures to restrict access to only authorised parties, designing approval processes and process controls that minimise risks of collusion, and prohibiting unauthorised re-identification of individuals. 
-<br><sup>[6]</sup>Transparency refers to the need to openly inform and communicate with various stakeholders, at all stages of the AI system’s development and implementation, how the AI system is designed, developed, and applied. 
-<br><sup>[7]</sup>Explainability of AI systems refers to the interpretability of input, output, and behaviour of the AI model and how it contributes to the outcome of the prediction. 
-<br><sup>[8]</sup>An explainable AI model enables biomedical researchers, users, and patients to understand the AI models’ predictions and how the outcomes were derived.
+<br><sup>[1]</sup>Cremin, C. J., Dash, S., &amp; Huang, X. (2022). Big Data: Historic Advances and Emerging Trends in Biomedical Research. Current Research in Biotechnology, 4, 138–151. 
+<a href="https://doi.org/10.1016/j.crbiot.2022.02.004">Link to article</a>
+<br><sup>[2]</sup> Big data comprises massive amounts of data generated in the private and public sectors, and includes data from individual medical records, patient health records, results of medical examinations, data collected by using diagnostic and health management devices or applications as part of internet of things (IoTs), and data from electronic data sources such as web searches, forum posts and images.
+<br><sup>[3]</sup>AI describes the use of computers and technology to simulate intelligent behaviour and critical thinking comparable to a human being.
+<br><sup>[4]</sup>Solidarity reflects the willingness and moral obligations of individuals to share the costs associated with research participation, such as potential risks, in return for the common good.
+<br><sup>[5]</sup>Proportionality requires that the methods or processes used in biomedical research are necessary and appropriate in relation to the research intent and the range of public and private interests at stake.
+<br><sup>[6]</sup>Genomic data is the DNA data of organisms that reveal how differences in DNA affect human health and disease. Whole genomic data i.e., Whole Genome Sequence refers to the entire DNA of the genome of an organism and Whole Exome Sequence refers to the protein coding sequences from the genome.
+<br><sup>[7]</sup>Examples of data treatment controls include removal of direct identifiers such as national identification numbers, names, and addresses, and generalisation of indirect identifiers such as age and demographic data.
+<br><sup>[8]</sup>Examples of managerial controls include applying access controls such as physical, technical and/or administrative measures to restrict access to only authorised parties, designing approval processes and process controls that minimise risks of collusion, and prohibiting unauthorised re-identification of individuals. 
+<br><sup>[9]</sup>Transparency refers to the need to openly inform and communicate with various stakeholders, at all stages of the AI system’s development and implementation, how the AI system is designed, developed, and applied. 
+<br><sup>[10]</sup>Explainability of AI systems refers to the interpretability of input, output, and behaviour of the AI model and how it contributes to the outcome of the prediction. 
+<br><sup>[11]</sup>An explainable AI model enables biomedical researchers, users, and patients to understand the AI models’ predictions and how the outcomes were derived.
 
 ---
 
