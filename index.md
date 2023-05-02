@@ -10,7 +10,7 @@ notification: "The Bioethics Advisory Committee (BAC) will conduct a public
   Portal at https://go.gov.sg/feedback-bdai.  "
 sections:
   - hero:
-      background: /images/BAC 20th Anniversary banner blue1.png
+      background: /images/20th Anniversary Images/BAC 20th Anniversary banner blue1.png
       url: https://www.bioethics-singapore.gov.sg/who-we-are/overview/
       key_highlights:
         - title: What We Do
