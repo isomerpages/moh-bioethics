@@ -157,4 +157,4 @@ ii.	What are the ethical considerations in ensuring equitable access to AI techn
 
 ---
 
-[Press Release (PDF)](/files/publications/press-releases/bac-mgrt-press-release.pdf)
+[Press Release (PDF)](/files/publications/press-releases/bac-bdai-press-release.pdf)
