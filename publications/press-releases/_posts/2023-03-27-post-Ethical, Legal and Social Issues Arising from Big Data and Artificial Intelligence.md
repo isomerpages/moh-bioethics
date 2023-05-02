@@ -9,7 +9,7 @@ image: ""
 ---
 **PUBLIC CONSULTATION ON ETHICAL, LEGAL AND SOCIAL ISSUES ARISING FROM BIG DATA AND ARTIFICIAL INTELLIGENCE USE IN HUMAN BIOMEDICAL RESEARCH**
 
-1\. The Bioethics Advisory Committee (BAC) will conduct a public consultation to seek views and feedback on the ethical, legal and social issues arising from the use of big data and AI in human biomedical research. The online consultation will be conducted from **2 May 2023 to 1 July 2023** and can be accessed from the   <a href="https://www.bioethics-singapore.gov.sg/">BAC website</a> or <a href="https://www.reach.gov.sg/">REACH Portal</a>.
+1\. The Bioethics Advisory Committee (BAC) will conduct a public consultation to seek views and feedback on the ethical, legal and social issues arising from the use of big data and Artificial Intelligence (AI) in human biomedical research. The online consultation will be conducted from **2 May 2023 to 1 July 2023** and can be accessed from the   <a href="https://www.bioethics-singapore.gov.sg/">BAC website</a> or <a href="https://www.reach.gov.sg/">REACH Portal</a>.
 
 **Ethical Challenges of Big Data and AI Use in Human Biomedical Research**
 
@@ -17,11 +17,11 @@ image: ""
 
 **Aim of Consultation**
 
-3\. Recognising these ethical challenges, the BAC has developed a public consultation paper ‘Big Data and Artificial Intelligence (AI) Use in Human Biomedical Research’ to discuss the ethical principles underpinning the use of big data and AI applications in human biomedical research and selected use-cases in clinical research, such as respect for persons, solidarity<sup>[1]</sup>, justice, proportionality<sup>[2]</sup> and sustainability. Other ethical considerations are also discussed, including integrity, transparency, accountability, consistency and stakeholder engagement. The paper is intended to guide academics, researchers, healthcare professionals, Clinical Ethics Committees (CECs) and Institutional Review Boards (IRBs) on the ethical use of big data and AI applications in human biomedical research. Other clinical or healthcare aspects will not be covered within the scope of the paper.
+3\. Recognising these ethical challenges, the BAC has developed a public consultation paper ‘Big Data and Artificial Intelligence Use in Human Biomedical Research’ to discuss the ethical principles underpinning the use of big data and AI applications in human biomedical research and selected use-cases in clinical research, such as respect for persons, solidarity<sup>[1]</sup>, justice, proportionality<sup>[2]</sup> and sustainability. Other ethical considerations are also discussed, including integrity, transparency, accountability, consistency and stakeholder engagement. The paper is intended to guide academics, researchers, healthcare professionals, Clinical Ethics Committees (CECs) and Institutional Review Boards (IRBs) on the ethical use of big data and AI applications in human biomedical research. Other clinical or healthcare aspects will not be covered within the scope of the paper.
 
 4\. The report builds upon previous BAC reports and recommendations and references relevant legislations such as the Personal Data Protection Act (2012) and the Human Biomedical Research Act (2015), and complements other big data and AI reports and ethical guidelines in Singapore to provide guidance to decision-makers who work with big data in health and research, codify good practice and support the safe growth of AI in biomedical and healthcare research. 
 
-5\. The views of the public, academic, research, and healthcare institutions, CECs, IRBs, professional bodies and societies, and other interested organisations will greatly assist the BAC in developing its recommendations.
+5\. The views of the public, academic, research, and healthcare institutions, CECs, IRBs, professional bodies and societies, and other interested organisations will assist the BAC in developing its recommendations.
 
 **Scope of Consultation** 
 
