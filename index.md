@@ -25,9 +25,9 @@ sections:
   - infobar:
       title: Big Data and Artificial Intelligence
       subtitle: Check out our
-      description: Consultation paper
+      description: "Public Consultation "
       button: Learn more
-      url: www.bioethics-singapore.gov.sg/files/publications/consultation-papers/big-data-and-ai.pdf
+      url: www.bioethics-singapore.gov.sg/publications/press-releases/bac-bdai-press-release/
   - infopic:
       title: Bioethics Corner
       subtitle: check out the
