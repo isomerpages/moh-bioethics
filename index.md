@@ -32,7 +32,7 @@ sections:
       subtitle: Check out our
       description: "Public Consultation "
       button: Learn more
-      url: www.bioethics-singapore.gov.sg/publications/press-releases/bac-bdai-press-release/
+      url: /publications/press-releases/bac-bdai-press-release/
   - infopic:
       title: Bioethics Corner
       subtitle: check out the
