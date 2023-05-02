@@ -9,7 +9,7 @@ image: ""
 ---
 **PUBLIC CONSULTATION ON ETHICAL, LEGAL AND SOCIAL ISSUES ARISING FROM BIG DATA AND ARTIFICIAL INTELLIGENCE USE IN HUMAN BIOMEDICAL RESEARCH**
 
-1\. The Bioethics Advisory Committee (BAC) will conduct a public consultation to seek views and feedback on the ethical, legal and social issues arising from the use of big data and Artificial Intelligence (AI) in human biomedical research. The online consultation will be conducted from **2 May 2023 to 1 July 2023** and can be accessed from the   <a href="https://www.bioethics-singapore.gov.sg/">BAC website</a> or <a href="https://www.reach.gov.sg/">REACH Portal</a>.
+1\. The Bioethics Advisory Committee (BAC) will conduct a public consultation to seek views and feedback on the ethical, legal and social issues arising from the use of big data and Artificial Intelligence (AI) in human biomedical research. The online consultation will be conducted from **2 May 2023 to 1 July 2023** and can be accessed from the   <a href="https://www.bioethics-singapore.gov.sg/">BAC website</a> or <a href="https://go.gov.sg/feedback-bdai/">REACH Portal</a>.
 
 **Ethical Challenges of Big Data and AI Use in Human Biomedical Research**
 
@@ -34,7 +34,7 @@ image: ""
 
 **Feedback Channels** 
 
-8\. The public consultation paper can be accessed from the   <a href="https://www.bioethics-singapore.gov.sg/">BAC website</a> or <a href="https://www.reach.gov.sg/">REACH Portal</a>. Members of the public are invited to provide feedback on the issues discussed in the public consultation paper through the following channels:
+8\. The public consultation paper can be accessed from the   <a href="https://www.bioethics-singapore.gov.sg/">BAC website</a> or <a href="https://go.gov.sg/feedback-bdai/">REACH Portal</a>. Members of the public are invited to provide feedback on the issues discussed in the public consultation paper through the following channels:
 
 a. By email to:	<br> &lt;[bioethics\_singapore@moh.gov.sg](mailto:bioethics_singapore@moh.gov.sg)&gt;
 
