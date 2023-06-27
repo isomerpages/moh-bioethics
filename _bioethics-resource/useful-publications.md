@@ -1,11 +1,8 @@
 ---
-title: 'Useful Publications'
+title: Useful Publications
 permalink: /bioethics-resource/useful-publications/
-breadcrumb: 'Useful Links'
-
+breadcrumb: Useful Links
 ---
-
-
 # **Monographs** 
 
 ### **Bioethics in Singapore: The Ethical Microcosm**
@@ -24,7 +21,7 @@ Edited by Terry Kaan and Edison T Liu
 
 "An integral dimension of Singapore's recent advances in biomedical research is the public focus and debate on the legal, ethical and social aspects of such research. In this collection of essays, eminent experts from Singapore in the fields of moral philosophy and ethics, sociology, law and the life sciences expound on the latest developments in the area of biomedical science and research from the perspectives of law, ethics and social impact..."
 
-[For more information]({{"https://www.sal-e.org.sg/life-sciences-law-and-ethics-recent-developments-in-singapore-softcover-edition"}}){:target="_blank"}
+[For more information]({{"https://www.nlb.gov.sg/biblio/12830310"}}){:target="_blank"}
 
 ---
 
@@ -48,9 +45,9 @@ Papers on specific issues.
 - [The Ethical Position of Singapore on Embryonic Stem Cell Research](/files/publications/others/the-ethical-position-of-singapore-on-embryonic-stem-cell-research.pdf){:target="_blank"}
 - [Adult Stem Cells](/files/publications/others/adult-stem-cells.pdf){:target="_blank"}
 - [Umbilical Cord Stem Cell - Science](/files/publications/others/umbilical-cord-stem-cell-science.pdf){:target="_blank"}
-- [Human Embryonic Stem Cells - Science & Ethics](/files/publications/others/human-embryonic-stem-cells-science-ethics.pdf){:target="_blank"}
+- [Human Embryonic Stem Cells - Science &amp; Ethics](/files/publications/others/human-embryonic-stem-cells-science-ethics.pdf){:target="_blank"}
 - [Ethical Considerations in Stem Cell Research](/files/publications/others/ethical-considerations-in-stem-cell-research.pdf){:target="_blank"}
-- [Somatic Cell Nuclear Transfer (Cloning) - Science & Ethics](/files/publications/others/somatic-cell-nuclear-transfer-cloning-science-ethics.pdf){:target="_blank"}
+- [Somatic Cell Nuclear Transfer (Cloning) - Science &amp; Ethics](/files/publications/others/somatic-cell-nuclear-transfer-cloning-science-ethics.pdf){:target="_blank"}
 
 ### **Human Tissue Research**
 - [Human Tissue for Biomedical Research](/files/publications/others/human-tissue-for-biomedical-research.pdf){:target="_blank"}
@@ -68,4 +65,3 @@ Papers on specific issues.
 - [Legal and Ethical Issues Pertaining to Preimplantation Genetic Diagnosis](/files/publications/others/legal-and-ethical-issues-pertaining-to-preimplantation-genetic-diagnosis.pdf){:target="_blank"}
 ### **General**
 - [The Patient's Consent](/files/publications/others/the-patients-consent.pdf){:target="_blank"}
- 
