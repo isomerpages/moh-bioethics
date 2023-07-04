@@ -30,7 +30,7 @@ image: ""
 
 **Period of Consultation**
 
-7\. The public consultation will last for a period of two months from **2 May 2023 to 1 July 2023.** All comments should be sent in by **1 July 2023**. Any comments received after 1 July 2023 will not be considered.
+7\. The public consultation will last for a period of two months from **2 May 2023 to 14 July 2023.** All comments should be sent in by **14 July 2023**. Any comments received after 14 July 2023 will not be considered.
 
 **Feedback Channels** 
 
