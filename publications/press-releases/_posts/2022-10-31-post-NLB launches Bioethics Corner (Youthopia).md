@@ -21,6 +21,6 @@ More than 13,600 books and 5,500 e-books on bioethics are also available on [NL
 
 “This is an area of emerging importance and interest among our patrons, and we are glad to partner the Bioethics Advisory Committee to offer such materials for everyone to discover and learn from.” said NLB’s CEO Mr Ng Cher Pong.
 
-[PDF Version of Press Release](/files/publications/press-releases/Youthopia%20article%20on%20Bioethics%20Corner.pdf)
+[PDF Version of Press Release](/files/publications/press-releases/youthopia%20article%20on%20bioethics%20corner.pdf)
 
 [Link to Press Release](https://youthopia.sg/read/nlb-launches-bioethics-corner-at-lee-kong-chian-reference-library-with-over-160-books/)

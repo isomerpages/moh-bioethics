@@ -6,4 +6,4 @@ third_nav_title: Conference presentation slides
 ---
 ### **Keynote Lecture**
 
-**'Our Bioethics Future: Empowering the Next Generation' by Professor Paul Root Wolpe**[](/files/20th%20Anniversary%20Resources/Our%20Bioethics%20Future%20-%20Empowering%20the%20Next%20Generation%20by%20Professor%20Paul%20Root%20Wolpe.pdf)
+**'Our Bioethics Future: Empowering the Next Generation' by Professor Paul Root Wolpe**[](/files/20th%20anniversary%20resources/our%20bioethics%20future%20-%20empowering%20the%20next%20generation%20by%20professor%20paul%20root%20wolpe.pdf)
