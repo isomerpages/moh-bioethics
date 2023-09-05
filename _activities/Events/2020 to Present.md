@@ -1,6 +1,6 @@
 ---
 title: 2020 to Present
-permalink: /activities/events/2020-to-Present/
+permalink: /activities/events/2020-to-present/
 description: ""
 third_nav_title: Events
 ---

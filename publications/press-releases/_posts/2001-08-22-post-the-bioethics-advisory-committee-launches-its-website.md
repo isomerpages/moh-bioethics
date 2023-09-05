@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Bioethics Advisory Committee Launches its Website'
-permalink: /publications/press-releases/the-bioethics-advisory-committee-launches-its-website
+permalink: /publications/press-releases/the-bioethics-advisory-committee-launches-its-website/
 date: 2001-08-22T00:00:00.000Z
 
 ---

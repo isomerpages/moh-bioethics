@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bioethics Advisory Committee seeks public feedback on the donation of human eggs for research'
-permalink: /publications/press-releases/bioethics-advisory-committee-seeks-public-feedback-on-the-donation-of-human-eggs-for-research
+permalink: /publications/press-releases/bioethics-advisory-committee-seeks-public-feedback-on-the-donation-of-human-eggs-for-research/
 date: 2007-11-07T00:00:00.000Z
 
 ---

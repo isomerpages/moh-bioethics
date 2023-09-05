@@ -1,6 +1,6 @@
 ---
 title: Introduction
-permalink: /bac-20th-anniversary/permalink
+permalink: /bac-20th-anniversary/permalink/
 description: ""
 ---
 ### **Introduction**

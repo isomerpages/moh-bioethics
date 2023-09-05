@@ -1,6 +1,6 @@
 ---
 title: Member States
-permalink: /asian-bioethics-network/ABN-Member-States
+permalink: /asian-bioethics-network/abn-member-states/
 description: ""
 ---
 ### **Countries Represented in the Asian Bioethics Network**

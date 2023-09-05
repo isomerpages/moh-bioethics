@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bioethics Advisory Committee seeks community feedback on genetic testing and genetics research'
-permalink: /publications/press-releases/bioethics-advisory-committee-seeks-community-feedback-on-genetic-testing-and-genetics-research
+permalink: /publications/press-releases/bioethics-advisory-committee-seeks-community-feedback-on-genetic-testing-and-genetics-research/
 date: 2005-04-05T00:00:00.000Z
 
 ---

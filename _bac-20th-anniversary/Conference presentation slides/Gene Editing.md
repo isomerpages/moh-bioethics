@@ -1,6 +1,6 @@
 ---
 title: Gene Editing
-permalink: /bac-20th-anniversary/Conference-presentation-slides/Gene-Editing
+permalink: /bac-20th-anniversary/conference-presentation-slides/gene-editing/
 description: ""
 third_nav_title: Conference presentation slides
 ---

@@ -1,6 +1,6 @@
 ---
 title: NLB launches Bioethics Corner (Youthopia)
-permalink: /publications/press-releases/NLBlaunchesBioethicsCornerYouthopia/
+permalink: /publications/press-releases/nlblaunchesbioethicscorneryouthopia/
 date: 2022-10-31
 layout: post
 description: ""

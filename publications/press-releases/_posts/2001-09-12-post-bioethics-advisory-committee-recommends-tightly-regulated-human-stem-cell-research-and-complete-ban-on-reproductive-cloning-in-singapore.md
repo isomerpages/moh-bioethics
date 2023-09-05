@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bioethics Advisory Committee recommends tightly regulated human stem cell research and complete ban on reproductive cloning in Singapore'
-permalink: /publications/press-releases/bioethics-advisory-committee-recommends-tightly-regulated-human-stem-cell-research-and-complete-ban-on-reproductive-cloning-in-singapore
+permalink: /publications/press-releases/bioethics-advisory-committee-recommends-tightly-regulated-human-stem-cell-research-and-complete-ban-on-reproductive-cloning-in-singapore/
 date: 2001-09-12T00:00:00.000Z
 
 ---

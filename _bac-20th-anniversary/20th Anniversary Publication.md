@@ -1,6 +1,6 @@
 ---
 title: 20th Anniversary Publication
-permalink: /bac-20th-anniversary/20th-Anniversary-Publication
+permalink: /bac-20th-anniversary/20th-anniversary-publication/
 description: ""
 ---
 ### **20th Anniversary Publication: The Future of Bioethics in Singapore**

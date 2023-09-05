@@ -1,6 +1,6 @@
 ---
 title: 20th Anniversary Videos and Filmlets
-permalink: /bac-20th-anniversary/20th-Anniversary-Videos-and-Filmlets
+permalink: /bac-20th-anniversary/20th-anniversary-videos-and-filmlets/
 description: ""
 third_nav_title: 20th Anniversary Videos
 ---

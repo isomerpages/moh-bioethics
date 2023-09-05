@@ -1,6 +1,6 @@
 ---
 title: Past Members
-permalink: /who-we-are/Past-Members
+permalink: /who-we-are/past-members/
 breadcrumb: Past Members
 description: ""
 ---

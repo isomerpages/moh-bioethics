@@ -1,6 +1,6 @@
 ---
 title: Introduction
-permalink: /asian-bioethics-network/permalink
+permalink: /asian-bioethics-network/permalink/
 description: ""
 ---
 ### **Introduction**

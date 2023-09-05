@@ -1,6 +1,6 @@
 ---
 title: NLB launches Bioethics Corner (8world)
-permalink: /publications/press-releases/NLBlaunchesBioethicsCorner8world/
+permalink: /publications/press-releases/nlblaunchesbioethicscorner8world/
 date: 2022-10-29
 layout: post
 description: ""

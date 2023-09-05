@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bioethics Advisory Committee (BAC) update report for media conference'
-permalink: /publications/press-releases/bioethics-advisory-committee-update-report-for-media-conference
+permalink: /publications/press-releases/bioethics-advisory-committee-update-report-for-media-conference/
 date: 2001-09-12T00:00:00.000Z
 
 ---

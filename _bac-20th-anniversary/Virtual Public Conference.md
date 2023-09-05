@@ -1,6 +1,6 @@
 ---
 title: Virtual Public Conference
-permalink: /bac-20th-anniversary/Virtual-Public-Conference
+permalink: /bac-20th-anniversary/virtual-public-conference/
 description: ""
 ---
 ###  **Virtual Public Conference - 'Bioethics Future - Empowering Our Next Generation'**

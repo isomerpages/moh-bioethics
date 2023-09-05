@@ -1,6 +1,6 @@
 ---
 title: Artificial Intelligence (AI)
-permalink: /bac-20th-anniversary/Conference-presentation-slides/Artificial-Intelligence
+permalink: /bac-20th-anniversary/conference-presentation-slides/artificial-intelligence/
 description: ""
 third_nav_title: Conference presentation slides
 ---

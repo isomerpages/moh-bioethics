@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Release of second report by the Bioethics Advisory Committee on Human Tissue Research in Singapore'
-permalink: /publications/press-releases/release-of-second-report-by-the-bioethics-advisory-committee-on-human-tissue-research-in-singapore
+permalink: /publications/press-releases/release-of-second-report-by-the-bioethics-advisory-committee-on-human-tissue-research-in-singapore/
 date: 2002-11-12T00:00:00.000Z
 
 ---
