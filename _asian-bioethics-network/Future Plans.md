@@ -1,6 +1,6 @@
 ---
 title: Future Plans
-permalink: /asian-bioethics-network/Future-plans
+permalink: /asian-bioethics-network/future-plans/
 description: ""
 ---
 ### **Plans for 2022**

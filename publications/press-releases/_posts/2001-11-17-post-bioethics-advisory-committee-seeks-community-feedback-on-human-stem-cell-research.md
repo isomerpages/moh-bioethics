@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bioethics Advisory committee seeks community feedback on human stem cell research'
-permalink: /publications/press-releases/bioethics-advisory-committee-seeks-community-feedback-on-human-stem-cell-research
+permalink: /publications/press-releases/bioethics-advisory-committee-seeks-community-feedback-on-human-stem-cell-research/
 date: 2001-11-17T00:00:00.000Z
 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Donation of Human Eggs for Research'
-permalink: /publications/press-releases/donation-of-human-eggs-for-research
+permalink: /publications/press-releases/donation-of-human-eggs-for-research/
 date: 2008-11-03T00:00:00.000Z
 
 ---

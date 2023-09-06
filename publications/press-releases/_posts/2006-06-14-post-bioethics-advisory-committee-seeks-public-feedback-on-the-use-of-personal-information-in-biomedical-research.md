@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bioethics Advisory Committee seeks public feedback on the use of personal information in biomedical research'
-permalink: /publications/press-releases/bioethics-advisory-committee-seeks-public-feedback-on-the-use-of-personal-information-in-biomedical-research
+permalink: /publications/press-releases/bioethics-advisory-committee-seeks-public-feedback-on-the-use-of-personal-information-in-biomedical-research/
 date: 2006-06-14T00:00:00.000Z
 
 ---

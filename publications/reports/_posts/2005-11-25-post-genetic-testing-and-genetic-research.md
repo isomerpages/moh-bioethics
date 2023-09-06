@@ -2,7 +2,7 @@
 layout: post
 title: 'Genetic Testing and Genetic Research'
 date: 2005-11-25T00:00:00.000Z
-permalink: /publications/reports/genetic-testing-genetic-research
+permalink: /publications/reports/genetic-testing-genetic-research/
 
 ---
 

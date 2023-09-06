@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bioethics Advisory Committee seeks community feedback on human tissue research'
-permalink: /publications/press-releases/bioethics-advisory-committee-seeks-community-feedback-on-human-tissue-research
+permalink: /publications/press-releases/bioethics-advisory-committee-seeks-community-feedback-on-human-tissue-research/
 date: 2002-03-04T00:00:00.000Z
 
 ---

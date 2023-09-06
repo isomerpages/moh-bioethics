@@ -1,13 +1,13 @@
 ---
 title: Gene Editing
-permalink: /bac-20th-anniversary/Conference-presentation-slides/Gene-Editing
+permalink: /bac-20th-anniversary/conference-presentation-slides/gene-editing/
 description: ""
 third_nav_title: Conference presentation slides
 ---
 ### **Speakers' Presentation Slides on Gene Editing**
 
-**Introductory Presentation: ‘Genome Editing - Ethical Issues’ by Dr Andy Greenfield**[](/files/20th%20Anniversary%20Resources/Genome%20Editing%20-%20Ethical%20Issues%20by%20Dr%20Andy%20Greenfield.pdf)
+**Introductory Presentation: ‘Genome Editing - Ethical Issues’ by Dr Andy Greenfield**[](/files/20th%20anniversary%20resources/genome%20editing%20-%20ethical%20issues%20by%20dr%20andy%20greenfield.pdf)
 
-**Presentation on Research Ethics: ‘Gene Editing Research and Its Bioethics’ by Dr Chew Wei Leong**[](/files/20th%20Anniversary%20Resources/Research%20Ethics%20-%20Gene%20Editing%20Research%20and%20its%20Bioethics%20by%20Dr%20Chew%20Wei%20Leong.pdf)
+**Presentation on Research Ethics: ‘Gene Editing Research and Its Bioethics’ by Dr Chew Wei Leong**[](/files/20th%20anniversary%20resources/research%20ethics%20-%20gene%20editing%20research%20and%20its%20bioethics%20by%20dr%20chew%20wei%20leong.pdf)
 
-**Presentation on Clinical Ethics: ‘Overview of CRISPR/Cas Gene Editing for Clinical Applications: Potential Benefits, Risks and Concerns’ by Associate Professor Lai Poh-San**[](/files/20th%20Anniversary%20Resources/Clinical%20Ethics%20-%20Overview%20of%20CRISPR_Cas%20Gene%20Editing%20for%20Clinical%20Applns%20by%20A_Prof%20Lai%20Poh-San.pdf)
+**Presentation on Clinical Ethics: ‘Overview of CRISPR/Cas Gene Editing for Clinical Applications: Potential Benefits, Risks and Concerns’ by Associate Professor Lai Poh-San**[](/files/20th%20anniversary%20resources/clinical%20ethics%20-%20overview%20of%20crispr_cas%20gene%20editing%20for%20clinical%20applns%20by%20a_prof%20lai%20poh-san.pdf)

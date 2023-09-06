@@ -2,7 +2,7 @@
 layout: post
 title: 'Research Involving Subjects:Guidelines for IRBs'
 date: 2004-11-23T00:00:00.000Z
-permalink: /publications/reports/research-involving-subjects-guidelines-for-irbs
+permalink: /publications/reports/research-involving-subjects-guidelines-for-irbs/
 
 ---
 

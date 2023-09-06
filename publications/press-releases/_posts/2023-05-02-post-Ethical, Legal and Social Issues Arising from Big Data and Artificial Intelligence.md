@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-**PUBLIC CONSULTATION ON ETHICAL, LEGAL AND SOCIAL ISSUES ARISING FROM BIG DATA AND ARTIFICIAL INTELLIGENCE USE IN HUMAN BIOMEDICAL RESEARCH**
+**PUBLIC CONSULTATION ON ETHICAL, LEGAL AND SOCIAL ISSUES ARISING FROM BIG DATA AND ARTIFICIAL INTELLIGENCE USE IN HUMAN BIOMEDICAL RESEARCH.**
 
 1\. The Bioethics Advisory Committee (BAC) will conduct a public consultation to seek views and feedback on the ethical, legal and social issues arising from the use of big data and Artificial Intelligence (AI) in human biomedical research. The online consultation will be conducted from **2 May 2023 to 14 July 2023** and can be accessed from  <a href="https://www.bioethics-singapore.gov.sg/files/publications/consultation-papers/big-data-and-ai.pdf/">here</a> or <a href="https://go.gov.sg/feedback-bdai/">REACH Portal</a>.
 
@@ -47,7 +47,7 @@ b. By post to:<br>
 c. By online feedback form at:
 * <a href="https://form.gov.sg/641cfda6e9ca7c0012eae318">Respondent's Form</a> <br> 
 
-- scan QR code below: <br> ![](/images/Big%20Data%20and%20AI/qr%20code%20-%20bdai%20respondent%20form.png)
+- scan QR code below: <br> ![](/images/big%20data%20and%20ai/qr%20code%20-%20bdai%20respondent%20form.png)
 
 9\. There will be focus group discussions conducted virtually via Zoom in June 2023. The BAC will invite representatives from various academic, research and healthcare institutions, CECs, IRBs, professional bodies and societies, as well as industry partners to participate in these sessions.	
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Human Tissue Research'
 date: 2002-12-12T00:00:00.000Z
-permalink: /publications/reports/human-tissue-research
+permalink: /publications/reports/human-tissue-research/
 
 ---
 

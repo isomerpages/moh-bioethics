@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Human-Animal Combinations in Stem Cell Research'
-permalink: /publications/press-releases/human-animal-combinations-in-stem-cell-research
+permalink: /publications/press-releases/human-animal-combinations-in-stem-cell-research/
 date: 2010-09-22T00:00:00.000Z
 
 ---
