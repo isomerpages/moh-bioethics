@@ -2,6 +2,7 @@ collections:
   asian-bioethics-network:
     output: true
     order:
+      - Meeting presentation slides/2023 Meeting Presentation Slides.md
       - Meeting presentation slides/.keep
       - Introduction.md
       - Member States.md
