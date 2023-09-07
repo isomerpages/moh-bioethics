@@ -3,7 +3,7 @@ title: Member States
 permalink: /asian-bioethics-network/abn-member-states/
 description: ""
 ---
-### **Countries Represented in the Asian Bioethics Network**
+### **Asian Bioethics Network Member States**
 
 **Australia**  
 **Bhutan**  
