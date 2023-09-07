@@ -39,3 +39,6 @@ third_nav_title: Past Meetings
 |     18      |     Thailand    |      Ms Thitiwan Kerdsomboon                              |     Program Manager, National Science and Technology Development Agency (NSTDA)    |
 |     19      |     Thailand    |      Rattanapan Phoomirat                              |     The Office of Research Integrity Division (ORI), NSTDA    |
 |     20      |     Thailand    |      Rujikorn Sabsompong                              |         |
+
+
+*Click [here](https://www.bioethics-singapore.gov.sg/asian-bioethics-network/meeting-presentation-slides/2023-report/) for the meeting report and presentation slides.*
