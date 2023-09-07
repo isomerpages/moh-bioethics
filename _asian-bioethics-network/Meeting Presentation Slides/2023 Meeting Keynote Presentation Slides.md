@@ -4,7 +4,7 @@ permalink: /asian-bioethics-network/meeting-presentation-slides/2023-keynote/
 description: ""
 third_nav_title: Meeting Presentation Slides
 ---
-### **Speakers' Presentation Slides **
+### **Speakers' Presentation Slides**
 
 **Keynote Presentation 1: ‘Ethics of Artificial Intelligence/Large Language Models including ChatGPT’ by Professor Julian Savulescu** 
 
