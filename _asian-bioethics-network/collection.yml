@@ -2,13 +2,13 @@ collections:
   asian-bioethics-network:
     output: true
     order:
-      - Meeting presentation slides/2023 Meeting Presentation Slides.md
-      - Meeting presentation slides/.keep
       - Introduction.md
       - Member States.md
-      - Past Meetings/4 Sep 2023.md
       - Past Meetings/.keep
+      - Past Meetings/4 Sep 2023.md
       - Past Meetings/10 June 2021.md
+      - Meeting presentation slides/.keep
+      - Meeting presentation slides/2023 Meeting Presentation Slides.md
       - Future Plans.md
       - Summary of first ABN meeting /.keep
       - Summary of first ABN meeting /Example.md
