@@ -20,4 +20,4 @@ description: ""
 **Thailand**
 <br>**Vietnam**
 
-(as of 07 Sep 2023)
+(as of 04 Sep 2023)
