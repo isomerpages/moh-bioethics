@@ -7,11 +7,16 @@ description: ""
 
 **Australia**  
 **Bhutan**  
+**Brunei**
+**China**
+**India**
 **Myanmar**  
 **Nepal**  
 **New Zealand**  
+**Philippines**
 **Singapore**  
 **Sri Lanka**  
+**Thailand**
 **Vietnam**
 
-(as of 30 Jun 2021)
+(as of 07 Sep 2023)
