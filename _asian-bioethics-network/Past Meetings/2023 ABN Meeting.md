@@ -9,13 +9,13 @@ third_nav_title: Past Meetings
 **Summary of Second Meeting**
 
 * The second Asian Bioethics Network (ABN) meeting was held on 4 Sep 2023 with the theme "**Emerging Ethical Challenges of Healthcare Digitalisation**".  
-* The ABN meeting was chaired by Emeritus Professor Lee Eng Hin, Chairman of the Bioethics Advisory Committee (BAC), Singapore.
+* The ABN meeting was chaired by Emeritus Professor Lee Eng Hin, Chair of the Bioethics Advisory Committee (BAC) and Emeritus Professor Roy Joseph, Chair of the National Medical Ethics Committee (NMEC).
 * The ABN has expanded considerably from eight member states in June 2021 and currently comprises 14 members from Asia, Australia and New Zealand. This indicates strong support and interest from our regional counterparts in exchanging bioethics experiences and furthering capabilities.
-* At the meeting, the BAC invited representatives from different Asian countries to share their national bioethics committees' work, major achievements, and past/ongoing/upcoming bioethics initiatives in their countries. They also shared on the state of healthcare digitalisation in their countries as well as the emerging technologies, benefits, ethical challenges faced and the plans/recommendations to address the challenges. 
-* The meeting also featured two keynote presentations by Associate Professor Ngiam Kee Yuan, Group Chief Technology Officer at the National University Health System and Professor Julian Savulescu, Director at the Centre for Biomedical Ethics, and Chen Su Lan Centennial Professor in Medical Ethics at the National University of Singapore. 
+* Representatives from different Asian countries were invited to share on their national bioethics committees' work, major achievements, and bioethics initiatives in their countries. They also shared on the state of healthcare digitalisation in their countries as well as the emerging technologies, benefits, ethical challenges faced and the plans/recommendations to address the challenges. 
+* The meeting also featured two keynote presentations by Associate Professor Ngiam Kee Yuan, Group Chief Technology Officer, National University Health System and Professor Julian Savulescu, Director, Centre for Biomedical Ethics, and Chen Su Lan Centennial Professor in Medical Ethics, National University of Singapore. 
 
 
-**International Attendees** (as of 4 Sep 2023)
+**Representatives from ABN member states**
 
 |     S/N    |     Country        |     Name                                       |     Professional Designation  |
 |--------|-------------|---------------|----------------------|
@@ -41,4 +41,4 @@ third_nav_title: Past Meetings
 |     20      |     Thailand    |      Rujikorn Sabsompong                              |         |
 
 
-*Click [here](https://www.bioethics-singapore.gov.sg/asian-bioethics-network/meeting-presentation-slides/2023-report/) for the meeting report and presentation slides.*
+*Click [here](https://www.bioethics-singapore.gov.sg/asian-bioethics-network/meeting-presentation-slides/2023-report/) for the presentation slides and meeting report (work in progress).*
