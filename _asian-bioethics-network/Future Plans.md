@@ -12,10 +12,12 @@ The digital repository is expected to be completed by early 2024.
 
 **ABN Bioethics Conference 2025 (Upcoming)**
 <br>Singapore will be hosting the inaugural ABN Bioethics Conference in 2025.
+
 <br>**The main objectives of this Conference are as follows:**
 <br>(i) Discuss pertinent ethical issues in the region
 <br>(ii) Hear from local and international experts
 <br>(iii)Learn about latest trends and developments of biomedical ethics
+
 <br>**Areas of focus/topics for discussion at conference:**
 <br>(i) New and emerging areas with ethical issues/challenges arising from biomedical research and healthcare 
 <br>(ii) Cybernetics
