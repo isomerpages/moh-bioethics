@@ -6,7 +6,7 @@ third_nav_title: Meeting Report & Slides
 ---
 ### **ABN Member States Presentation Slides**
 
-**Presentation on 'Emerging Ethical Challenges of Healthcare Digitalisation: Australia' by Ms Cathy Schapper**
+**Presentation on 'Emerging Ethical Challenges of Healthcare Digitalisation: Australia' by Ms Cathy Schapper**[](/files/australia%20slides.pdf)
 
 **Presentation on 'Emerging Ethical Challenges of Healthcare Digitalisation: India’ by Dr Roli Mathur**
 
