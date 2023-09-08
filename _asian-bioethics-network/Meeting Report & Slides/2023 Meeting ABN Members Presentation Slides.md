@@ -4,9 +4,11 @@ permalink: /asian-bioethics-network/meeting-presentation-slides/2023-abn/
 description: ""
 third_nav_title: Meeting Report & Slides
 ---
-### **Speakers' Presentation Slides**
+### **ABN Member States Presentation Slides**
 
 **Presentation on 'Emerging Ethical Challenges of Healthcare Digitalisation: Australia' by Ms Cathy Schapper**
+
+**Presentation on 'Emerging Ethical Challenges of Healthcare Digitalisation: India’ by Dr Roli Mathur**
 
 **Presentation on 'Emerging Ethical Challenges of Healthcare Digitalisation: Korea’ by Associate Professor Ilhak Lee**
 
@@ -14,7 +16,7 @@ third_nav_title: Meeting Report & Slides
 
 **Presentation on ‘Bioethics in Nepal’ by Ms Namita Ghimire**
 
-**Presentation on ‘Emerging Ethical Challenges of Healthcare Digitalisation: The Aotearoa New Zealand perspective’ by Professor John McMillan**
+**Presentation on ‘Emerging Ethical Challenges of Healthcare Digitalisation: The Aotearoa New Zealand perspective’ by Professor John McMillan and Mr Shannon Hanrahan**
 
 **Presentation on ‘Other Major Achievements or Ongoing/Upcoming Bioethics Initiatives in the Philippines’ by Attorney Charade B. Mercado-Grande**
 
