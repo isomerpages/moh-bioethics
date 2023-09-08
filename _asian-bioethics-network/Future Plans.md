@@ -6,9 +6,9 @@ description: ""
 ### **ABN Future Plans**
 
 **Digital Repository**
-<br>Following the Asian Bioethics Network (ABN) meeting, the BAC is currently developing an ABN webpage for countries to share their bioethics publications, programmes and resources. 
+<br>Following the Asian Bioethics Network (ABN) meeting, the BAC is currently developing an ABN webpage which will function as a digital repository for countries to share their bioethics publications, programmes and resources.
 
- The digital repository is expected to be completed by early 2024. 
+The digital repository is expected to be completed by early 2024.
 
 **ABN Bioethics Conference 2025 (Upcoming)**
 <br>Singapore will be hosting the inaugural ABN Bioethics Conference in 2025.
