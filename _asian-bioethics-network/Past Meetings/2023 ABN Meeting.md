@@ -36,9 +36,9 @@ third_nav_title: Past Meetings
 |     15      |     Philippines    |      Kathleen Grace M. Lentija                             |     Nurse IV, Health Facilities and Services Regulatory Bureau, Department of Health    |
 |     16      |     Thailand    |      Emeritus Professor Yongyuth Yuthavong                              |     Emeritus Professor, Department of Biochemistry, Faculty of Science , Mahidol University    |
 |     17      |     Thailand    |      Professor Prasit Palittapongarnpim                              |     Professor, Department of Microbiology, Faculty of Science, Mahidol University    |
-|     18      |     Thailand    |      Ms Thitiwan Kerdsomboon                              |     Program Manager, National Science and Technology Development Agency (NSTDA)    |
-|     19      |     Thailand    |      Rattanapan Phoomirat                              |     The Office of Research Integrity Division (ORI), NSTDA    |
-|     20      |     Thailand    |      Rujikorn Sabsompong                              |         |
+|     18      |     Thailand    |      Ms Thitiwan Kerdsomboon                              |     Division Director, The Office of Research Integrity Division (ORI), National Science and Technology Development Agency (NSTDA)   |
+|     19      |     Thailand    |      Dr Rattanapan Phoomirat                              |     Senior Project Analyst, ORI, NSTDA    |
+|     20      |     Thailand    |      Ms Rujikorn Sabsompong                              |     Project Analyst, ORI, NSTDA   |
 
 
 *Click [here](https://www.bioethics-singapore.gov.sg/asian-bioethics-network/meeting-presentation-slides/2023-report/) for the presentation slides and meeting report (work in progress).*
