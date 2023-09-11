@@ -28,7 +28,7 @@ third_nav_title: Past Meetings
 |     7      |     Myanmar        |    Professor Zaw Than Htun                         |    Director-General, Department of Medical Research (DMR); and Vice-chairperson, Institutional Review Board  |
 |     8      |     Myanmar        |     Dr Theingi Thwin                         |     Director, Research (Ret.), DMR; and Member, DMR Ethical Institutional Review Board  |
 |     9      |     Nepal          |     Ms Namita Ghimire                        |     Chief, Ethical Review of the Monitoring and Evaluation Section, Nepal Health Research Council |
-|     10      |     New Zealand    |    Professor John McMillan       |     Chair, National Ethics Advisory Committee (NEAC); and Professor, Bioethics Centre, Otago University  |
+|     10      |     New Zealand    |    Professor John McMillan       |     Chair, National Ethics Advisory Committee (NEAC); and Professor, Bioethics Centre, University of Otago  |
 |     11      |     New Zealand    |      Mr Shannon Hanrahan                              |     Deputy Chair, NEAC    |
 |     12      |     New Zealand    |      Ms Elizabeth Bohm                              |     Principal Advisor, NEAC    |
 |     13      |     New Zealand    |      Ms Nic Liebergreen                              |     Senior Advisor, NEAC    |
