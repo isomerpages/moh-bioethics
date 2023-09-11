@@ -31,7 +31,7 @@ third_nav_title: Past Meetings
 |     10      |     New Zealand    |    Professor John McMillan       |     Chair, National Ethics Advisory Committee (NEAC); and Professor, Bioethics Centre, University of Otago  |
 |     11      |     New Zealand    |      Mr Shannon Hanrahan                              |     Deputy Chair, NEAC    |
 |     12      |     New Zealand    |      Ms Elizabeth Bohm                              |     Principal Advisor, NEAC    |
-|     13      |     New Zealand    |      Ms Nic Liebergreen                              |     Senior Advisor, NEAC    |
+|     13      |     New Zealand    |      Ms Nicola Liebergreen                              |     Senior Advisor, NEAC    |
 |     14      |     Philippines    |      Attorney Charade B. Mercado-Grande                             |     Assistant Secretary of Health, Health Facility and Patient Support Team, Department of Health; and Chairperson, Bioethics Advisory Board    |
 |     15      |     Philippines    |      Ms Kathleen Grace M. Lentija                             |     Nurse IV, Health Facilities and Services Regulatory Bureau, Department of Health    |
 |     16      |     Thailand    |      Emeritus Professor Yongyuth Yuthavong                              |     Emeritus Professor, Department of Biochemistry, Faculty of Science , Mahidol University    |
