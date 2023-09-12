@@ -23,8 +23,7 @@ National University of Singapore
 **Emeritus Professor Lee Eng Hin**<br>
 Emeritus Professor, Department of Orthopaedic Surgery<br>
 National University of Singapore; and<br>
-Emeritus Consultant<br>
-Division of Paediatrics Orthopaedics<br>
+Emeritus Consultant, Division of Paediatrics Orthopaedics<br>
 National University Hospital  
 
 **Deputy Chair**<br>
