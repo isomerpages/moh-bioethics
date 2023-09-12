@@ -23,8 +23,8 @@ third_nav_title: Past Meetings
 |     2      |     Australia      |     Dr Jeremy Kenner                         |     Expert Advisor - Ethics, NHMRC |
 |     3      |     Brunei    |      Dr Alice Yong                              |     ex-Chair, Medical and Health Research and Ethics Committee, Ministry of Health    |
 |     4      |     Korea         |     Associate Professor Ilhak Lee                    |     Associate Professor, Department of Medical Humanities and Social Sciences, College of Medicine, Yonsei University of Korea  |
-|     5      |     Korea         |     Ms Geyhyoung Joh                    |     Administrative Staff, Department of Policy & Research, Team of Policy Development, Korea National Institute for Bioethics Policy (KoNIBP)  |
-|     6      |     Korea         |     Eunyoung Lee                    |  , KoNIBP     |
+|     5      |     Korea         |     Dr Eunyoung Lee                    |     Senior Researcher (Team Leader), Department of Policy & Research, Team of Policy Development, Korea National Institute for Bioethics Policy (KoNIBP)  |
+|     6      |     Korea         |     Ms Geyhyoung Joh                    |  Administrative Staff, Department of Policy & Research, Team of Policy Development, KoNIBP     |
 |     7      |     Myanmar        |    Professor Zaw Than Htun                         |    Director-General, Department of Medical Research (DMR); and Vice-chairperson, Institutional Review Board  |
 |     8      |     Myanmar        |     Dr Theingi Thwin                         |     Director, Research (Ret.), DMR; and Member, DMR Ethical Institutional Review Board  |
 |     9      |     Nepal          |     Ms Namita Ghimire                        |     Chief, Ethical Review of the Monitoring and Evaluation Section, Nepal Health Research Council |
