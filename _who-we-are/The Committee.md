@@ -80,7 +80,7 @@ National University of Singapore
 **Professor Patrick Tan Boon Ooi**<br>
 Professor, Cancer and Stem Cell Biology Programme, Duke-NUS Medical School;<br>
 Executive Director, Genome Institute of Singapore;<br>
-Director, SingHealth Duke-NUS Institute of Precision Medicine (PRISM);<br>
+Director, SingHealth Duke-NUS Institute of Precision Medicine (PRISM); and<br>
 Senior Vice Dean for Research, Duke-NUS Medical School
 
 **Mr Tan Sze Yao**<br>
