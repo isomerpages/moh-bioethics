@@ -51,7 +51,8 @@ Yong Loo Lin School of Medicine, National University of Singapore<br>
 
 **Associate Professor Lai Poh San**<br>
 Associate Professor, Department of Paediatrics; and<br>
-Deputy Chairman, NUS Institutional Biosafety Committee, National University of Singapore<br>
+Deputy Chairman, NUS Institutional Biosafety Committee<br>
+National University of Singapore
 
 **Mr Charles Lim Aeng Cheng**<br>
 Principal Senior State Counsel, Legislation Division<br>
