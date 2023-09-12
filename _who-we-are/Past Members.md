@@ -24,7 +24,7 @@ Head, Civil Division, Attorney-General’s Chambers<br>
 (2001 to 2004)
 
 **Ms Chang Ai-Lien**<br>
-Health & Science Editor, The Straits Times<br>
+Health &amp; Science Editor, The Straits Times<br>
 (2016 to 2021)
 
 **Mr Cheong Yip Seng**<br>
@@ -32,7 +32,7 @@ Editor-in-Chief, Singapore Press Holdings<br>
 (2001 to 2004)
 
 **Associate Professor John Elliott**<br>
-Department of Social Work & Psychology, National University of Singapore<br>
+Department of Social Work &amp; Psychology, National University of Singapore<br>
 (August 2001 to 2006)
 
 **Mr Han Fook Kwang**<br>
@@ -48,7 +48,7 @@ Member of Parliament, Hong Kah Group Representation Constituency<br>
 (2005 to 2006)
 
 **Professor Eddie Kuo Chen-Yu**<br>
-Professorial Fellow, Division of Communication Research, Wee Kim Wee School of Communication & Information, National Technological University<br>
+Professorial Fellow, Division of Communication Research, Wee Kim Wee School of Communication &amp; Information, National Technological University<br>
 (2007 to 2011)
 
 **Professor Lee Hin Peng**<br>
@@ -83,6 +83,12 @@ Chairman, National Medical Ethics Committee<br>
 Chief Health Scientist, Ministry of Health<br>
 (2001 to 2006)
 
+**Professor Tan Sor Hoon**<br>
+Professor of Philosophy, Lee Kong Chian Research Fellow; and<br>
+Academic Director (Politics-Law-Economics major), School of Social Sciences<br>
+Singapore Management University<br>
+(2016 to 2023)
+
 **Professor Yap Hui Kim**<br>
 Senior Consultant, Department of Paediatrics, Yong Loo Lin School of Medicine, National University of Singapore<br>
 (2007 to 2011)
@@ -97,7 +103,7 @@ and Social Sciences, National University of Singapore<br>
 (2011 to 2015) 
 
 **Dr Mary Ann Tsao**<br>
-President & Director, Tsao Foundation<br>
+President &amp; Director, Tsao Foundation<br>
 (2014 to 2015) 
 
 **Mr Alfian Yasrif Bin Kuchit**<br>
@@ -105,7 +111,7 @@ President, Syariah Court<br>
 (2011 to 2015) 
 
 **Professor Ng Soon Chye**<br>
-Director, O&G Partners Fertility Centre, Gleneagles Hospital and Medical Director, Sincere IVF
+Director, O&amp;G Partners Fertility Centre, Gleneagles Hospital and Medical Director, Sincere IVF
 Center, Novena Specialist Center<br>
 (2009 – 2015) 
 
@@ -156,3 +162,4 @@ Director, Centre of Genomics and Policy, Faculty of Medicine, Department of Huma
 **Dr Thomas H. Murray**<br>
 President and CEO, The Hastings Center, USA<br>
 (2005 to 2012)
+
