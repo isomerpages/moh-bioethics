@@ -73,7 +73,7 @@ Senior Consultant, Division of Thyroid and Endocrine Surgery<br>
 National University Hospital and Alexandra Hospital<br>       
 
 **Professor Vineeta Sinha**<br>
-Department of Sociology<br>
+Professor, Department of Sociology<br>
 Faculty of Arts and Social Sciences<br>
 National University of Singapore
 
