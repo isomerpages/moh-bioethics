@@ -20,7 +20,7 @@ Professor of Medicine<br>
 National University of Singapore
 
 **Chair**<br>
-**Professor Lee Eng Hin**<br>
+**Emeritus Professor Lee Eng Hin**<br>
 Emeritus Professor, Department of Orthopaedic Surgery<br>
 National University of Singapore; and<br>
 Emeritus Consultant<br>
@@ -43,18 +43,19 @@ Chairman, Medical Board<br>
 Senior Consultant, Department of Geriatric Medicine<br> 
 Tan Tock Seng Hospital
 
-**Associate Professor Roy Joseph**<br>
+**Emeritus Professor Roy Joseph**<br>
 Emeritus Consultant, Department of Neonatology<br> 
-Khoo Teck Puat - National University Children's Medical Institute,<br> 
-National University Hospital
+Khoo Teck Puat - National University Children's Medical Institute<br> 
+National University Hospital; and<br>
+Director of the Paediatric Ethics Program, Centre for Biomedical Ethics<br>
+Yong Loo Lin School of Medicine, National University of Singapore<br>
 
 **Associate Professor Lai Poh San**<br>
 Associate Professor, Department of Paediatrics; and<br>
 Deputy Chairman, NUS Institutional Biosafety Committee, National University of Singapore<br>
 
 **Mr Charles Lim Aeng Cheng**<br>
-Principal Senior State Counsel<br>
-Legislation Division<br>
+Principal Senior State Counsel, Legislation Division<br>
 Attorney-General’s Chambers
 
 **Associate Professor Lim Tit Meng**<br>
@@ -78,13 +79,9 @@ National University of Singapore
 
 **Professor Patrick Tan Boon Ooi**<br>
 Professor, Cancer and Stem Cell Biology Programme, Duke-NUS Medical School;<br>
-Executive Director, Genome Institute of Singapore; and<br>
-Director, SingHealth Duke-NUS Institute of Precision Medicine (PRISM)
-
-**Professor Tan Sor Hoon**<br>
-Professor of Philosophy, Lee Kong Chian Research Fellow; and<br>
-Academic Director (Politics-Law-Economics major), School of Social Sciences<br>
-Singapore Management University
+Executive Director, Genome Institute of Singapore;<br>
+Director, SingHealth Duke-NUS Institute of Precision Medicine (PRISM);<br>
+Senior Vice Dean for Research, Duke-NUS Medical School
 
 **Mr Tan Sze Yao**<br>
 Director, Legal Office<br>
@@ -95,11 +92,12 @@ Senior Health Correspondent<br>
 The Straits Times<br>
 
 **Mr Gregory Vijayendran**<br>
-Equity Partner, Rajah & Tann Singapore LLP<br>
+Senior Counsel and Partner<br>
+Rajah and Tann Singapore LLP<br>
 
 **Dr Voo Teck Chuan**<br>
-Assistant Professor, Centre for Biomedical Ethics<br>
-Yong Loo Lin School of Medicine, National university of Singapore<br>
+Research Assistant Professor, Centre for Biomedical Ethics<br>
+Yong Loo Lin School of Medicine, National University of Singapore<br>
 
 ### **Advisors**
 
