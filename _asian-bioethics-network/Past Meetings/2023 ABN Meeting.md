@@ -17,7 +17,7 @@ third_nav_title: Past Meetings
 
 **Representatives from ABN member states**
 
-|     S/N    |     Country        |     Name                                       |     Professional Designation  |
+|     S/N    |     Country        |     Name                                       |     Designation and Institution  |
 |--------|-------------|---------------|----------------------|
 |     1      |     Australia      |    Ms Cathy Schapper                        |     Acting Director, Ethics and Integrity section, National Health and Medical Research Council (NHMRC) |
 |     2      |     Australia      |     Dr Jeremy Kenner                         |     Expert Advisor - Ethics, NHMRC |
