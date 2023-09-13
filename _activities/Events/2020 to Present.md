@@ -50,17 +50,15 @@ third_nav_title: Events
 
 <table class="table-v">
 	<tbody><tr>
+		<td>2 - 3 Dec</td>
+		<td>BAC Chair, Emeritus Prof Lee, elected as Vice-Chair of IBC for 2022-2023 term</td>
+	</tr>
+	<tr>
 		<td>27 October</td>
 		<td>BAC published the following reports:<br>
 			(i) A report on Neuroscience Research;<br>
 			(ii) An Interim Report on Mitochondrial Genome Replacement Technology; and<br>
 			(iii) Ethics Guidelines for Human Biomedical Research (2021 Revised)</td>
-	</tr>
-	<tr>
-		<td>23 - 24 September</td>
-		<td>Singapore re-elected as Member State of IGBC at the 12th Session of the IGBC, for 2021-2025 term. <br>
-			<br>
-		Singapore's representative and BAC member, Mr Charles Lim, elected as IGBC Vice-Chair for 2021-2023 term</td>
 	</tr>
 	<tr>
 		<td>17 - 18 June</td>
@@ -77,11 +75,3 @@ third_nav_title: Events
 	</tbody></table>
 
 
-### 	**2020**
-
-<table class="table-v">
-	<tbody><tr>
-		<td>17 December</td>
-		<td>BAC Chair, Emeritus Prof Lee, nominated by UNESCO Director-General as IBC member for 2020-2023 term at the 27th Session of the IBC</td>
-	</tr>
-	</tbody></table>
