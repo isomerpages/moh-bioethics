@@ -31,7 +31,7 @@ third_nav_title: Events
 	</tr>
 	<tr>
 		<td>19 - 23 September</td>
-		<td>BAC participated in the 29th Session of the International Bioethics Committee and the Joint Session of the International Bioethics Committee and Intergovernmental Bioethics Committee in Paris, France. </td>
+		<td>BAC participated in the 29th Session of the International Bioethics Committee and the Joint Session of the International Bioethics Committee and Intergovernmental Bioethics Committee in Paris, France</td>
 	</tr>
 	<tr>
 		<td>15 - 17 September</td>
