@@ -9,7 +9,7 @@ third_nav_title: Events
 <table class="table-v">
 	<tbody><tr>
 		<td>18 - 19 September</td>
-		<td>BAC participated in the 13th Session of the Intergovernmental Bioethics Committee (IGBC) in Paris, France, which was held in conjunction with the 30th Session of the International Bioethics Committee (IBC)</td>
+		<td>BAC participated in the 13th Session of the Intergovernmental Bioethics Committee in Paris, France, which was held in conjunction with the 30th Session of the International Bioethics Committee</td>
 	</tr>
 	<tr>
 		<td>4 September</td>
@@ -31,7 +31,7 @@ third_nav_title: Events
 	</tr>
 	<tr>
 		<td>19 - 23 September</td>
-		<td>BAC participated in the 29th Session of the UNESCO IBC and the Joint Session of the IBC and IGBC in Paris, France. </td>
+		<td>BAC participated in the 29th Session of the UNESCO International Bioethics Committee and the Joint Session of the International Bioethics Committee and Intergovernmental Bioethics Committee in Paris, France. </td>
 	</tr>
 	<tr>
 		<td>15 - 17 September</td>
@@ -49,7 +49,7 @@ third_nav_title: Events
 <table class="table-v">
 	<tbody><tr>
 		<td>2 - 3 December</td>
-		<td>BAC Chair, Emeritus Prof Lee, elected as Vice-Chair of IBC for 2022-2023 term at the 28th Session of the IBC</td>
+		<td>BAC Chair, Emeritus Prof Lee, elected as Vice-Chair of International Bioethics Committee for 2022-2023 term at the 28th Session of the International Bioethics Committee</td>
 	</tr>
 	<tr>
 		<td>27 October</td>
