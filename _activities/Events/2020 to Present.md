@@ -12,13 +12,13 @@ third_nav_title: Events
 		<td>Media event on launch of the <a href="https://www.bioethics-singapore.org/bioethicscorner/">Bioethics Corner</a> at Lee Kong Chian Reference Library; <a href="https://www.bioethics-singapore.org/bioethicspanelprogrammeonbigdataandartificialintelligence/">Bioethics Panel Programme on Big Data and Artificial Intelligence - Public talks and panel discussion</a> </td>
 	</tr>
 	<tr>
-		<td>19 - 23 Sep</td>
+		<td>19 - 23 September</td>
 		<td>BAC participated in the 29th Session of the UNESCO International Bioethics Committee (IBC) and the Joint Session of the IBC and Intergovernmental Bioethics Committee (IGBC) in Paris, France. <br>
 			<br>
 			BAC Chair, Emeritus Prof Lee, elected as Vice-Chair of IBC for 2022-2023 term</td>
 	</tr>
 	<tr>
-		<td>15 - 17 Sep</td>
+		<td>15 - 17 September</td>
 		<td>BAC participated in the 13th Global Summit of National Ethics/Bioethics Committee in Lisbon, Portugal</td>
 	</tr>
 	<tr>
@@ -39,7 +39,7 @@ third_nav_title: Events
 			(iii) Ethics Guidelines for Human Biomedical Research (2021 Revised)</td>
 	</tr>
 	<tr>
-		<td>23 - 24 Sep</td>
+		<td>23 - 24 September</td>
 		<td>Singapore re-elected as Member State of IGBC at the 12th Session of the IGBC , for 2021-2025 term. Singapore's representative and BAC member, Mr Charles Lim, elected as IGBC Vice-Chair for 2021-2023 term</td>
 	</tr>
 	<tr>
