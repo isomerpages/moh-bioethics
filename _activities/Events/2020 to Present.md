@@ -49,7 +49,7 @@ third_nav_title: Events
 <table class="table-v">
 	<tbody><tr>
 		<td>2 - 3 December</td>
-		<td>BAC Chair, Emeritus Prof Lee, elected as Vice-Chair of IBC for 2022-2023 term</td>
+		<td>BAC Chair, Emeritus Prof Lee, elected as Vice-Chair of IBC for 2022-2023 term at the 28th Session of the IBC</td>
 	</tr>
 	<tr>
 		<td>27 October</td>
