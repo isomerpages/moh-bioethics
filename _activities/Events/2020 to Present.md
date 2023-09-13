@@ -4,6 +4,24 @@ permalink: /activities/events/2020-to-present/
 description: ""
 third_nav_title: Events
 ---
+### **2023**
+
+<table class="table-v">
+	<tbody><tr>
+		<td>18 - 19 September</td>
+		<td>BAC participated in the 13th Session of the Intergovernmental Bioethics Committee (IGBC) in Paris, France, which was held in conjunction with the 30th Session of the International Bioethics Committee (IBC) and the 13th Session of the World Commission on the Ethics of Scientific Knowledge and Technology (COMEST)</td>
+	</tr>
+	<tr>
+		<td>4 September</td>
+		<td>BAC and National Medical Ethics Committee (NMEC) co-chaired the Second Asian Bioethics Network Meeting</td>
+	</tr>
+	<tr>
+		<td>2 May - 14 July</td>
+		<td>BAC conducted a public consultation on Big Data and Artificial Intelligence (AI) in human biomedical research</td>
+	</tr>
+	</tbody></table>
+
+
 ### **2022**
 
 <table class="table-v">
@@ -13,7 +31,7 @@ third_nav_title: Events
 	</tr>
 	<tr>
 		<td>19 - 23 September</td>
-		<td>BAC participated in the 29th Session of the UNESCO International Bioethics Committee (IBC) and the Joint Session of the IBC and Intergovernmental Bioethics Committee (IGBC) in Paris, France. <br>
+		<td>BAC participated in the 29th Session of the UNESCO IBC and the Joint Session of the IBC and IGBC in Paris, France. <br>
 			<br>
 			BAC Chair, Emeritus Prof Lee, elected as Vice-Chair of IBC for 2022-2023 term</td>
 	</tr>
