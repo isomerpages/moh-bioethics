@@ -14,6 +14,7 @@ third_nav_title: Events
 	<tr>
 		<td>19 - 23 Sep</td>
 		<td>BAC participated in the 29th Session of the UNESCO International Bioethics Committee (IBC) and the Joint Session of the IBC and Intergovernmental Bioethics Committee (IGBC) at the UNESCO Headquarters in Paris, France. <br>
+			<br>
 			BAC Chair, Emeritus Prof Lee, elected as Vice-Chair of IBC for 2022-2023 term at the 29th Session of the IBC</td>
 	</tr>
 	<tr>
