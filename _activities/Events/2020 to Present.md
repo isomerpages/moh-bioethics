@@ -9,7 +9,7 @@ third_nav_title: Events
 <table class="table-v">
 	<tbody><tr>
 		<td>18 - 19 September</td>
-		<td>BAC participated in the 13th Session of the Intergovernmental Bioethics Committee (IGBC) in Paris, France, which was held in conjunction with the 30th Session of the International Bioethics Committee (IBC) and the 13th Session of the World Commission on the Ethics of Scientific Knowledge and Technology (COMEST)</td>
+		<td>BAC participated in the 13th Session of the Intergovernmental Bioethics Committee (IGBC) in Paris, France, which was held in conjunction with the 30th Session of the International Bioethics Committee (IBC)</td>
 	</tr>
 	<tr>
 		<td>4 September</td>
