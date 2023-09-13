@@ -58,7 +58,9 @@ third_nav_title: Events
 	</tr>
 	<tr>
 		<td>23 - 24 September</td>
-		<td>Singapore re-elected as Member State of IGBC at the 12th Session of the IGBC, for 2021-2025 term. Singapore's representative and BAC member, Mr Charles Lim, elected as IGBC Vice-Chair for 2021-2023 term</td>
+		<td>Singapore re-elected as Member State of IGBC at the 12th Session of the IGBC, for 2021-2025 term. <br>
+			<br>
+		Singapore's representative and BAC member, Mr Charles Lim, elected as IGBC Vice-Chair for 2021-2023 term</td>
 	</tr>
 	<tr>
 		<td>17 - 18 June</td>
