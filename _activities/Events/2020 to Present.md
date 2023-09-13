@@ -50,7 +50,7 @@ third_nav_title: Events
 
 <table class="table-v">
 	<tbody><tr>
-		<td>2 - 3 Dec</td>
+		<td>2 - 3 December</td>
 		<td>BAC Chair, Emeritus Prof Lee, elected as Vice-Chair of IBC for 2022-2023 term</td>
 	</tr>
 	<tr>
@@ -73,5 +73,3 @@ third_nav_title: Events
 		<td>BAC's 20th Anniversary Pre-Conference: Asian Bioethics Network Meeting</td>
 	</tr>
 	</tbody></table>
-
-
