@@ -17,7 +17,7 @@ third_nav_title: Events
 	</tr>
 	<tr>
 		<td>13 July</td>
-		<td>BAC hosted a meeting with Mr George Onisiforou, Head of Artificial intelligence Research and Ethics, National Health Service England</td>
+		<td>BAC hosted a meeting with Mr George Onisiforou, Head of Artificial Intelligence Research and Ethics, National Health Service England</td>
 	</tr>
 	<tr>
 		<td>2 May - 14 July</td>
@@ -27,7 +27,7 @@ third_nav_title: Events
 	</tr>
 	<tr>
 		<td>9 - 10 March</td>
-		<td>BAC and Centre for Biomedical Ethics co-hosted a Bruneian delegation from the Medical and Health Research and Ethics Committee, Ministry of Health, Brunei Darussalam</td>
+		<td>BAC and Centre for Biomedical Ethics hosted Bruneian delegation team from the Medical and Health Research and Ethics Committee, Ministry of Health, Brunei Darussalam</td>
 	</tr>
 	</tbody></table>
 
@@ -59,11 +59,11 @@ third_nav_title: Events
 <table class="table-v">
 	<tbody><tr>
 		<td>2 - 3 December</td>
-		<td>BAC Chair, Emeritus Prof Lee, elected as Vice-Chair of International Bioethics Committee for 2022-2023 term at the 28th Session of the International Bioethics Committee</td>
+		<td>BAC Chair, Emeritus Prof Lee, elected as Vice-Chair of the International Bioethics Committee for 2022-2023 term at the 28th Session of the International Bioethics Committee</td>
 	</tr>
 	<tr>
 		<td>22 November</td>
-		<td>Mr Charles Lim, BAC member, elected as Intergovernmental Bioethics Committee Vice-Chair for 2021-2023 term</td>
+		<td>Mr Charles Lim, BAC member, elected as Vice-Chair of the Intergovernmental Bioethics Committee for 2021-2023 term</td>
 	</tr>
 	<tr>
 		<td>18 November</td>
