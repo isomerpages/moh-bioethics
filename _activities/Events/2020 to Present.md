@@ -9,15 +9,25 @@ third_nav_title: Events
 <table class="table-v">
 	<tbody><tr>
 		<td>18 - 19 September</td>
-		<td>BAC participated in the 13th Session of the Intergovernmental Bioethics Committee in Paris, France, which was held in conjunction with the 30th Session of the International Bioethics Committee</td>
+		<td>BAC participated in the 13th Session of the Intergovernmental Bioethics Committee, which was held in conjunction with the 30th Session of the International Bioethics Committee in Paris, France</td>
 	</tr>
 	<tr>
 		<td>4 September</td>
-		<td>BAC and National Medical Ethics Committee co-chaired the Second Asian Bioethics Network Meeting</td>
+		<td>BAC and National Medical Ethics Committee co-hosted the Second Asian Bioethics Network Meeting</td>
+	</tr>
+	<tr>
+		<td>13 July</td>
+		<td>BAC hosted a meeting with Mr George Onisiforou, Head of Artificial intelligence Research and Ethics, National Health Service England</td>
 	</tr>
 	<tr>
 		<td>2 May - 14 July</td>
-		<td>BAC conducted a public consultation on Big Data and Artificial Intelligence in human biomedical research</td>
+		<td>BAC conducted a public consultation on Big Data and Artificial Intelligence in human biomedical research<br>
+	<br>
+		BAC held two Focus Group Discussion Sessions over Zoom on 21 June and 6 July</td>
+	</tr>
+	<tr>
+		<td>9 - 10 March</td>
+		<td>BAC and Centre for Biomedical Ethics co-hosted a Bruneian delegation from the Medical and Health Research and Ethics Committee, Ministry of Health, Brunei Darussalam</td>
 	</tr>
 	</tbody></table>
 
