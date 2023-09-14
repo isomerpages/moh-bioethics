@@ -62,6 +62,10 @@ third_nav_title: Events
 		<td>BAC Chair, Emeritus Prof Lee, elected as Vice-Chair of International Bioethics Committee for 2022-2023 term at the 28th Session of the International Bioethics Committee</td>
 	</tr>
 	<tr>
+		<td>22 November</td>
+		<td>Mr Charles Lim, BAC member, elected as Intergovernmental Bioethics Committee Vice-Chair for 2021-2023 term</td>
+	</tr>
+	<tr>
 		<td>18 November</td>
 		<td>Singapore re-elected as Member State of the Intergovernmental Bioethics Committee at the 41st Session of the UNESCO General Conference</td>
 	</tr>
