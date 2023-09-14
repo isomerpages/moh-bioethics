@@ -62,6 +62,10 @@ third_nav_title: Events
 		<td>BAC Chair, Emeritus Prof Lee, elected as Vice-Chair of International Bioethics Committee for 2022-2023 term at the 28th Session of the International Bioethics Committee</td>
 	</tr>
 	<tr>
+		<td>18 November</td>
+		<td>Singapore re-elected as Member State of the Intergovernmental Bioethics Committee at the 41st Session of the UNESCO General Conference</td>
+	</tr>
+	<tr>
 		<td>27 October</td>
 		<td>BAC published the following reports:<br>
 			(i) A report on Neuroscience Research;<br>
