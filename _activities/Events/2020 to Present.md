@@ -59,11 +59,11 @@ third_nav_title: Events
 <table class="table-v">
 	<tbody><tr>
 		<td>2 - 3 December</td>
-		<td>BAC Chair, Emeritus Prof Lee Eng Hin, elected as Vice-Chair of the International Bioethics Committee for 2022-2023 term at the 28th Session of the International Bioethics Committee</td>
+		<td>BAC Chair, Emeritus Professor Lee Eng Hin, elected as Vice-Chair of the International Bioethics Committee for 2022-2023 term at the 28th Session of the International Bioethics Committee</td>
 	</tr>
 	<tr>
 		<td>22 November</td>
-		<td>Mr Charles Lim, BAC member, elected as Vice-Chair of the Intergovernmental Bioethics Committee for 2021-2023 term</td>
+		<td>Mr Charles Lim Aeng Cheng, BAC member, elected as Vice-Chair of the Intergovernmental Bioethics Committee for 2021-2023 term</td>
 	</tr>
 	<tr>
 		<td>18 November</td>
