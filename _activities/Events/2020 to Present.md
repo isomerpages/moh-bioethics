@@ -27,7 +27,7 @@ third_nav_title: Events
 	</tr>
 	<tr>
 		<td>9 - 10 March</td>
-		<td>BAC and the NUS Centre for Biomedical Ethics hosted Bruneian delegation team from the Medical and Health Research and Ethics Committee, Ministry of Health, Brunei Darussalam</td>
+		<td>BAC and NUS Centre for Biomedical Ethics hosted the Bruneian delegation team from the Medical and Health Research and Ethics Committee, Ministry of Health, Brunei Darussalam</td>
 	</tr>
 	</tbody></table>
 
