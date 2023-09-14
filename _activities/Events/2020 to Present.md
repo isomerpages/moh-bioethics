@@ -23,11 +23,11 @@ third_nav_title: Events
 		<td>2 May - 14 July</td>
 		<td>BAC conducted a public consultation on Big Data and Artificial Intelligence in human biomedical research<br>
 	<br>
-		BAC held two Focus Group Discussion Sessions over Zoom on 21 June and 6 July</td>
+		BAC held two Focus Group Discussion Sessions on 21 June and 6 July</td>
 	</tr>
 	<tr>
 		<td>9 - 10 March</td>
-		<td>BAC and Centre for Biomedical Ethics hosted Bruneian delegation team from the Medical and Health Research and Ethics Committee, Ministry of Health, Brunei Darussalam</td>
+		<td>BAC and the NUS Centre for Biomedical Ethics hosted Bruneian delegation team from the Medical and Health Research and Ethics Committee, Ministry of Health, Brunei Darussalam</td>
 	</tr>
 	</tbody></table>
 
@@ -59,7 +59,7 @@ third_nav_title: Events
 <table class="table-v">
 	<tbody><tr>
 		<td>2 - 3 December</td>
-		<td>BAC Chair, Emeritus Prof Lee, elected as Vice-Chair of the International Bioethics Committee for 2022-2023 term at the 28th Session of the International Bioethics Committee</td>
+		<td>BAC Chair, Emeritus Prof Lee Eng Hin, elected as Vice-Chair of the International Bioethics Committee for 2022-2023 term at the 28th Session of the International Bioethics Committee</td>
 	</tr>
 	<tr>
 		<td>22 November</td>
