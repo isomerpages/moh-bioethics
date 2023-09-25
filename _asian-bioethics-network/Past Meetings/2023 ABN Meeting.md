@@ -22,7 +22,7 @@ third_nav_title: Past Meetings
 |     1      |     Australia      |    Ms Cathy Schapper                        |     Acting Director, Ethics and Integrity section, National Health and Medical Research Council (NHMRC) |
 |     2      |     Australia      |     Dr Jeremy Kenner                         |     Expert Advisor - Ethics, NHMRC |
 |     3      |     Brunei    |      Dr Alice Yong                              |     ex-Chair, Medical and Health Research and Ethics Committee, Ministry of Health    |
-|     4      |     Korea         |     Associate Professor Ilhak Lee                    |     Associate Professor, Department of Medical Humanities and Social Sciences, College of Medicine, Yonsei University of Korea  |
+|     4      |     Korea         |     Associate Professor Ilhak Lee                    |     Associate Professor in Medical Ethics, Department of Medical Humanities and Social Sciences, College of Medicine, Yonsei University of Korea  |
 |     5      |     Korea         |     Dr Eunyoung Lee                    |     Senior Researcher (Team Leader), Department of Policy & Research, Team of Policy Development, Korea National Institute for Bioethics Policy (KoNIBP)  |
 |     6      |     Korea         |     Ms Geyhyoung Joh                    |  Administrative Staff, Department of Policy & Research, Team of Policy Development, KoNIBP     |
 |     7      |     Myanmar        |    Professor Zaw Than Htun                         |    Director-General, Department of Medical Research (DMR); and Vice-chairperson, Institutional Review Board  |
