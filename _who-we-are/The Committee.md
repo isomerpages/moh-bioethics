@@ -78,10 +78,14 @@ Faculty of Arts and Social Sciences<br>
 National University of Singapore
 
 **Professor Patrick Tan Boon Ooi**<br>
-Professor, Cancer and Stem Cell Biology Programme, Duke-NUS Medical School;<br>
-Executive Director, Genome Institute of Singapore;<br>
-Director, SingHealth Duke-NUS Institute of Precision Medicine (PRISM); and<br>
-Senior Vice Dean for Research, Duke-NUS Medical School
+Senior Vice Dean (Research), Duke-NUS Medical School;<br> 
+Senior Scientific Advisor (Group Research, SingHealth);<br>
+Chief Scientific Officer, Genome Institute of Singapore;<br>
+Executive Director, Precision Health Research Singapore (PRECISE);<br> 
+Professor (Tenured), Cancer and Stem Cell Biology, Duke-NUS Medical School;<br> 
+Senior Principal Investigator, Cancer Science Institute of Singapore (NUS); and<br>
+Director, Duke-NUS Genome Biology Facility<br>
+
 
 **Mr Tan Sze Yao**<br>
 Director, Legal Office<br>
