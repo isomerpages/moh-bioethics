@@ -10,7 +10,7 @@ notification: The Bioethics Advisory Committee (BAC) will conduct a public
   Portal at https://go.gov.sg/feedback-bdai.
 sections:
   - hero:
-      background: /images/20th Anniversary Images/BAC 20th Anniversary banner blue1.png
+      background: /images/20th anniversary images/bac 20th anniversary banner blue1.png
       url: https://www.bioethics-singapore.gov.sg/who-we-are/overview/
       key_highlights:
         - title: What We Do
@@ -38,7 +38,7 @@ sections:
       description: Level 7, Lee Kong Chian Reference Library, National Library Building
       button: learn more
       url: /bioethicscorner/
-      image: /images/NLB Bioethics Corner/P8A1015.jpg
+      image: /images/nlb bioethics corner/p8a1015.jpg
       alt: Bioethics Corner
   - resources:
       title: Be in the know
