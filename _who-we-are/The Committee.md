@@ -3,6 +3,7 @@ title: The Committee
 permalink: /who-we-are/the-committee/
 breadcrumb: The Committee
 description: ""
+variant: markdown
 ---
 ### **Bioethics Advisory Committee**
 
@@ -26,10 +27,14 @@ National University of Singapore; and<br>
 Emeritus Consultant, Division of Paediatrics Orthopaedics<br>
 National University Hospital  
 
-**Deputy Chair**<br>
+**Deputy Chairs**<br>
 **Professor Kon Oi Lian**<br>
 Adjunct Professor<br>
 Duke-NUS Medical School
+
+**Mr Gregory Vijayendran**<br>
+Senior Counsel and Partner<br>
+Rajah and Tann Singapore LLP
 
 **Members**<br>
 **Dr Chew Wei Leong**<br>
@@ -47,7 +52,7 @@ Emeritus Consultant, Department of Neonatology<br>
 Khoo Teck Puat - National University Children's Medical Institute<br> 
 National University Hospital; and<br>
 Director of the Paediatric Ethics Program, Centre for Biomedical Ethics<br>
-Yong Loo Lin School of Medicine, National University of Singapore<br>
+Yong Loo Lin School of Medicine, National University of Singapore
 
 **Associate Professor Lai Poh San**<br>
 Associate Professor, Department of Paediatrics; and<br>
@@ -70,7 +75,7 @@ Islamic Religious Council of Singapore (MUIS)
 **Associate Professor Ngiam Kee Yuan**<br>
 Group Chief Technology Officer, National University Health System; and<br>
 Senior Consultant, Division of Thyroid and Endocrine Surgery<br> 
-National University Hospital and Alexandra Hospital<br>       
+National University Hospital and Alexandra Hospital       
 
 **Professor Vineeta Sinha**<br>
 Professor, Department of Sociology<br>
@@ -84,8 +89,7 @@ Chief Scientific Officer, Genome Institute of Singapore;<br>
 Executive Director, Precision Health Research Singapore (PRECISE);<br> 
 Professor (Tenured), Cancer and Stem Cell Biology, Duke-NUS Medical School;<br> 
 Senior Principal Investigator, Cancer Science Institute of Singapore (NUS); and<br>
-Director, Duke-NUS Genome Biology Facility<br>
-
+Director, Duke-NUS Genome Biology Facility
 
 **Mr Tan Sze Yao**<br>
 Director, Legal Office<br>
@@ -94,10 +98,6 @@ Ministry of Health, Singapore<br>
 **Ms Joyce Teo**<br>
 Senior Health Correspondent<br>
 The Straits Times<br>
-
-**Mr Gregory Vijayendran**<br>
-Senior Counsel and Partner<br>
-Rajah and Tann Singapore LLP<br>
 
 **Dr Voo Teck Chuan**<br>
 Research Assistant Professor, Centre for Biomedical Ethics<br>
