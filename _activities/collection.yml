@@ -2,11 +2,11 @@ collections:
   activities:
     output: true
     order:
-      - What's New/Panel Programme on ‘Ethics of Human Nuclear Genome Editing’.md
+      - What's New/.keep
       - What's New/Current Projects.md
+      - What's New/Panel Programme on ‘Ethics of Human Nuclear Genome Editing’.md
       - What's New/Bioethics Panel Programme on 'Big Data and Artificial
         Intelligence'.md
-      - What's New/.keep
       - Events/.keep
       - Events/2020 to Present.md
       - Events/2010 to 2019.md
