@@ -7,7 +7,7 @@ third_nav_title: What's New
 ---
 The BAC and National Library Board (NLB) co-organised a Panel Programme on ‘Ethics of Human Nuclear Genome Editing’ (HNGE) on 25 November 2023 at the Possibility Room, level 5, National Library Building, with Emeritus Professor Lee Eng Hin, BAC Chair and HNGE Review Group Chair, and Emeritus Professor, Department of Orthopaedic Surgery, National University of Singapore (NUS) and Emeritus Consultant, Division of Paediatric Orthopaedics, National University Hospital (NUH), as the Guest-of-Honour. 
 
-Overall response from the audience was good and positive. We had about an estimated 75 attendees.  The participants found the talks and panel discussion both interesting and engaging, particularly in relation to the bioethical issues surrounding human nuclear genome editing. 
+Overall response from the audience was good and positive. We had about an estimated 75 attendees. The participants found the talks and panel discussion both interesting and engaging, particularly in relation to the bioethical issues surrounding human nuclear genome editing. 
 
 ![](/images/HNGE%20Panel%20Programme%202023/Emeritus_Prof_Lee.jpeg)
 *Figure 1: Emeritus Prof Lee Eng Hin giving the welcome address*
