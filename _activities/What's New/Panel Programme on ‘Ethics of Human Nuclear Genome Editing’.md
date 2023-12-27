@@ -5,9 +5,9 @@ variant: markdown
 description: ""
 third_nav_title: What's New
 ---
-The BAC and National Library Board (NLB) co-organised a Panel Programme on ‘Ethics of Human Nuclear Genome Editing’ (HNGE) on 25 November 2023 at the Possibility Room, level 5, National Library Building, with Emeritus Professor Lee Eng Hin, BAC Chair and HNGE Review Group Chair, and Emeritus Professor, Department of Orthopaedic Surgery, National University of Singapore (NUS) and Emeritus Consultant, Division of Paediatric Orthopaedics, National University Hospital (NUH), as the Guest-of-Honour. 
+The BAC and the National Library Board (NLB) jointly organised a Panel Programme on the 'Ethics of Human Nuclear Genome Editing' (HNGE) on 25 November 2023 at the National Library Building. Emeritus Professor Lee Eng Hin, BAC Chair and HNGE Review Group Chair; Emeritus Professor, Department of Orthopaedic Surgery, National University of Singapore (NUS) and Emeritus Consultant, Division of Paediatric Orthopaedics, National University Hospital (NUH), graced the event as the Guest-of-Honour.
 
-Overall response from the audience was good and positive. We had about an estimated 75 attendees. The participants found the talks and panel discussion both interesting and engaging, particularly in relation to the bioethical issues surrounding human nuclear genome editing. 
+Overall response from the audience was good and positive. We had a total of 75 attendees. The participants found the talks and panel discussion both interesting and engaging, particularly in relation to the bioethical issues surrounding human nuclear genome editing. 
 
 ![](/images/HNGE%20Panel%20Programme%202023/Emeritus_Prof_Lee.jpeg)
 *Figure 1: Emeritus Prof Lee Eng Hin giving the welcome address*
@@ -24,7 +24,7 @@ The programme featured:
 *  Moderator: 
 	*  Associate Professor Mahesh Choolani, HNGE Review Group member and Chief of Department of Obstetrics and Gynaecology, NUS<br>
 * Panellists:<br> 
-	* Emeritus Professor Lee Eng Hin, BAC Chair and HNGE Review Group Chair, and Emeritus Professor, Department of Orthopaedic Surgery, NUS and Emeritus Consultant, Division of Paediatric Orthopaedics, NUH;<br>
+	* Emeritus Professor Lee Eng Hin, BAC Chair and HNGE Review Group Chair; Emeritus Professor, Department of Orthopaedic Surgery, NUS and Emeritus Consultant, Division of Paediatric Orthopaedics, NUH;<br>
 	* Dr Chew Wei Leong, HNGE Review Group Co-Chair and Associate Director (Genome Design), and Senior Research Scientist, Genome Institute of Singapore;<br>
 	* Dr Owen Schaefer, HNGE Review Group member and Assistant Professor, NUS Centre for Biomedical Ethics; and<br>
 	* Adjunct Associate Professor Tan Ee Shien, HNGE Review Group member and Head of SingHealth-Duke NUS Genomic Medicine Centre<br> 
