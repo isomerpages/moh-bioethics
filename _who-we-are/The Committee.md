@@ -101,6 +101,7 @@ The Straits Times<br>
 
 **Dr Voo Teck Chuan**<br>
 Head, Office of Ethics in Healthcare<br>
+SingHealth-Duke NUS Academic Medicine Centre<br>
 SingHealth<br>
 
 ### **Advisors**
