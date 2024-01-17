@@ -3,6 +3,7 @@ title: 2023 ABN Meeting
 permalink: /asian-bioethics-network/past-meetings/2023-mtg/
 description: ""
 third_nav_title: Past Meetings
+variant: markdown
 ---
 ### **Second Asian Bioethics Network Meeting held on 4 Sep 2023**
 
@@ -41,4 +42,4 @@ third_nav_title: Past Meetings
 |     20      |     Thailand    |      Ms Rujikorn Sabsompong                              |     Project Analyst, ORI, NSTDA   |
 
 
-*Click [here](https://www.bioethics-singapore.gov.sg/asian-bioethics-network/meeting-presentation-slides/2023-report/) for the presentation slides and meeting report (work in progress).*
+*Click [here](https://www.bioethics-singapore.gov.sg/asian-bioethics-network/meeting-presentation-slides/2023-report/) for the presentation slides and meeting report.*
