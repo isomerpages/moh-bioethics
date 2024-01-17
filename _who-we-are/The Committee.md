@@ -100,8 +100,9 @@ Senior Health Correspondent<br>
 The Straits Times<br>
 
 **Dr Voo Teck Chuan**<br>
-Research Assistant Professor, Centre for Biomedical Ethics<br>
-Yong Loo Lin School of Medicine, National University of Singapore<br>
+Head, Office of Ethics in Healthcare<br>
+SingHealth-Duke NUS Academic Medicine Centre<br>
+SingHealth<br>
 
 ### **Advisors**
 
