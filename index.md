@@ -2,15 +2,10 @@
 layout: homepage
 title: Bioethics Advisory Committee
 permalink: /
-notification: The Bioethics Advisory Committee (BAC) will conduct a public
-  consultation to seek views and feedback on the ethical, legal and social
-  issues arising from the use of big data and Artificial Intelligence (AI) in
-  human biomedical research. The online consultation will be conducted from 2
-  May 2023 to 14 July 2023 and can be accessed from the BAC website or REACH
-  Portal at https://go.gov.sg/feedback-bdai.
+notification: ""
 sections:
   - hero:
-      background: /images/20th anniversary images/bac 20th anniversary banner blue1.png
+      background: /images/20th Anniversary images/bac 20th anniversary banner blue1.png
       url: https://www.bioethics-singapore.gov.sg/who-we-are/overview/
       key_highlights:
         - title: What We Do
