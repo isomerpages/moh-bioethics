@@ -22,7 +22,7 @@ Artificial Intelligence (AI) panel discussion and Q&amp;A
 
 A fire-side chat on the topic of 'BAC - Past, Present and Future' was moderated by Associate Professor Roy Joseph, Chairman of National Medical Ethics Committee (NMEC) and BAC member. The panellists comprised Associate Professor Kenneth Mak, Director of Medical Services, MOH; Professor Tan Chorh Chuan, Chief Health Scientist, MOH; late Chief District Judge (Ret.) Richard Magnus, then BAC Chair and Prof Lee Eng Hin, current BAC Chair. The fire-side chat discussed the BAC's history, progress and future and highlighted precision health, development of new biotherapeutics, and genome editing as key areas for the BAC to consider reviewing in future.
 
-![](/images/20th%20Anniversary%20Images/17th%20jun-6683(cropped)_Fire-side%20chat.jpg)
+![](/images/20th%20Anniversary%20images/17th%20jun-6683(cropped)_fire-side%20chat.jpg)
 Fire-side Chat with panellists
 
 *Click [here](/files/20th%20anniversary%20resources/virtual%20public%20conference%20book.pdf) for the Virtual Public Conference Book for panellist biographies.*
@@ -44,5 +44,5 @@ Sikh Advisory Board<br>
 Singapore Buddhist Federation<br>
 Taoist Mission (Singapore)<br>
 
-![](/images/20th%20Anniversary%20Images/17th%20jun-6823(cropped)_Religious%20leaders.jpg)
+![](/images/20th%20Anniversary%20images/17th%20jun-6823(cropped)_religious%20leaders.jpg)
 Panel Discussion with Religious Leaders
