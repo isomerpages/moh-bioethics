@@ -7,13 +7,13 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>PUBLIC CONSULTATION ON ETHICAL, LEGAL AND SOCIAL ISSUES ARISING FROM BIG DATA AND ARTIFICIAL INTELLIGENCE USE IN HUMAN BIOMEDICAL RESEARCH</strong>
+<p><strong>PUBLIC CONSULTATION ON ETHICAL, LEGAL, AND SOCIAL ISSUES IN HUMAN NUCLEAR GENOME EDITING</strong> 
 </p>
 <p>1\. The Bioethics Advisory Committee (BAC) will conduct a public consultation
-to seek views and feedback on the ethical, legal and social issues arising
-from the use of big data and Artificial Intelligence (AI) in human biomedical
-research. The online consultation will be conducted from <strong>2 May 2023 to 14 July 2023</strong> and
-can be accessed from &lt;a href="<a href="https://www.bioethics-singapore.gov.sg/files/publications/consultation-papers/big-data-and-ai.pdf/&quot;>here</a>" rel="noopener noreferrer nofollow" target="_blank">https://www.bioethics-singapore.gov.sg/files/publications/consultation-papers/big-data-and-ai.pdf/"&gt;here&lt;/a&gt;</a>or
+to seek views and feedback on the ethical, legal and social issues in Human
+Nuclear Genome Editing (HNGE). The online consultation will be conducted
+from <strong>2 May 2023 to 14 July 2023</strong> and can be accessed from
+&lt;a href="<a href="https://www.bioethics-singapore.gov.sg/files/publications/consultation-papers/hnge.pdf/&quot;>here</a>" rel="noopener noreferrer nofollow" target="_blank">https://www.bioethics-singapore.gov.sg/files/publications/consultation-papers/big-data-and-ai.pdf/"&gt;here&lt;/a&gt;</a>or
 &lt;a href="<a href="https://go.gov.sg/feedback-bdai/&quot;>REACH" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/feedback-bdai/"&gt;REACH</a> Portal&lt;/a&gt;.</p>
 <p><strong>Ethical Challenges of Big Data and AI Use in Human Biomedical Research</strong>
 </p>
@@ -52,7 +52,7 @@ healthcare research.</p>
 <p>5\. The views of the public, academic, research, and healthcare institutions,
 CECs, IRBs, professional bodies and societies, and other interested organisations
 will assist the BAC in developing its recommendations.</p>
-<p><strong>Scope of Consultation</strong> 
+<p><strong>Scope of Consultation</strong>
 </p>
 <p>6\. The public consultation paper covers ethical issues arising from the
 use of big data and AI in human biomedical research, such as responsible
@@ -66,7 +66,7 @@ paper.</p>
 <p>7\. The public consultation will last for a period of two months from <strong>2 May 2023 to 14 July 2023.</strong> All
 comments should be sent in by <strong>14 July 2023</strong>. Any comments
 received after 14 July 2023 will not be considered.</p>
-<p><strong>Feedback Channels</strong> 
+<p><strong>Feedback Channels</strong>
 </p>
 <p>8\. The public consultation paper can be accessed from the &lt;a href="
 <a href="https://www.bioethics-singapore.gov.sg/&quot;>BAC" rel="noopener noreferrer nofollow" target="_blank">https://www.bioethics-singapore.gov.sg/"&gt;BAC</a>website&lt;/a&gt; or
@@ -137,7 +137,7 @@ did not participate in the subsequent processing or analysis have intellectual
 property rights in the data?</p>
 <p>iv. How should large volumes of biomedical data shared across countries
 in international research collaborations be managed?</p>
-<p> <strong>c.	Data Privacy, Accessibility and Security</strong>
+<p><strong>c. Data Privacy, Accessibility and Security</strong>
 </p>
 <p></p>
 <p>3\. Data privacy, accessibility and security frameworks will be necessary
@@ -150,7 +150,7 @@ the protected data by legitimate third parties.</p>
 access control while maintaining data privacy?</p>
 <p>ii. How can institutions or organisations managing data stored in multiple
 on-site servers or cloud repositories ensure appropriate data accessibility?</p>
-<p><strong>d.	Data Anonymisation, De- and Re-identification of Data</strong>
+<p><strong>d. Data Anonymisation, De- and Re-identification of Data</strong>
 </p>
 <p>4\. Anonymisation, de- and re-identification of data are tools used in
 biomedical research to enable data to be analysed while protecting the
@@ -199,7 +199,7 @@ because the data is often not collected primarily for research purposes.</p>
 data that are collected via various sources and novel methods?</p>
 <p>ii. What are the differences between consent for usage of data between
 cohort studies and that of real-world data?</p>
-<p><strong>f.	Responsibility to the Public in Data-Sharing for Research</strong>
+<p><strong>f. Responsibility to the Public in Data-Sharing for Research</strong>
 </p>
 <p>8\. Responsible data sharing can lead to research that benefits individuals,
 communities, and society. The challenge lies in ensuring that data sharing
@@ -209,7 +209,7 @@ for privacy.</p>
 </p>
 <p>i. How can the benefits of biomedical research be shared with participants
 whose data is used?</p>
-<p><strong>g.	Ethical Considerations and Issues Specific to AI</strong>
+<p><strong>g. Ethical Considerations and Issues Specific to AI</strong>
 </p>
 <p>9\. Ethical principles that may apply to AI in biomedical research include
 transparency&lt;sup&gt;[6]&lt;/sup&gt;, explainability&lt;sup&gt;[7]&lt;/sup&gt;,
