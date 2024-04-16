@@ -7,15 +7,15 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>PUBLIC CONSULTATION ON ETHICAL, LEGAL, AND SOCIAL ISSUES IN HUMAN NUCLEAR GENOME EDITING</strong> 
+<p><strong>PUBLIC CONSULTATION ON ETHICAL, LEGAL, AND SOCIAL ISSUES IN HUMAN NUCLEAR GENOME EDITING</strong>
 </p>
 <p>1\. The Bioethics Advisory Committee (BAC) will conduct a public consultation
 to seek views and feedback on the ethical, legal and social issues in Human
 Nuclear Genome Editing (HNGE). The online consultation will be conducted
-from <strong>2 May 2023 to 14 July 2023</strong> and can be accessed from
+from <strong>3 June 2024 to 31 July 2024</strong> and can be accessed from
 &lt;a href="<a href="https://www.bioethics-singapore.gov.sg/files/publications/consultation-papers/hnge.pdf/&quot;>here</a>" rel="noopener noreferrer nofollow" target="_blank">https://www.bioethics-singapore.gov.sg/files/publications/consultation-papers/big-data-and-ai.pdf/"&gt;here&lt;/a&gt;</a>or
 &lt;a href="<a href="https://go.gov.sg/feedback-bdai/&quot;>REACH" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/feedback-bdai/"&gt;REACH</a> Portal&lt;/a&gt;.</p>
-<p><strong>Ethical Challenges of Big Data and AI Use in Human Biomedical Research</strong>
+<p><strong>Ethical Challenges of Human Nuclear Genome Editing</strong>
 </p>
 <p>2\. With advances in information technology, data and computational analytics
 in recent decades, the use of big data and AI in human biomedical research
