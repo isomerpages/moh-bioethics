@@ -62,14 +62,14 @@ received after 31 July 2024 will not be considered.</p>
 &lt;a href="<a href="https://go.gov.sg/feedback-bdai/&quot;>REACH" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/feedback-bdai/"&gt;REACH</a> Portal&lt;/a&gt;.
 Members of the public are invited to provide feedback on the issues discussed
 in the public consultation paper through the following channels:</p>
-<p>a. By email to: &lt;br&gt; <a href="mailto:Bioethics_Singapore@moh.gov.sg" rel="noopener noreferrer nofollow" target="_blank">&amp;lt;[bioethics\_singapore@moh.gov.sg](mailto: bioethics_singapore@moh.gov.sg)&amp;gt;</a>
+<p>a. By email: &lt;br&gt; <a href="mailto:Bioethics_Singapore@moh.gov.sg" rel="noopener noreferrer nofollow" target="_blank">&amp;lt;[bioethics\_singapore@moh.gov.sg](mailto: bioethics_singapore@moh.gov.sg)&amp;gt;</a>
 </p>
-<p>b. By post to:&lt;br&gt;</p>
+<p>b. By post:&lt;br&gt;</p>
 <p>Biomedical Ethics Coordinating Office&lt;br&gt;</p>
 <p>1 Maritime Square&lt;br&gt;</p>
 <p>#09-66 HarbourFront Centre&lt;br&gt;</p>
 <p>Singapore 099253&lt;br&gt;</p>
-<p>c. By online feedback form at:</p>
+<p>c. By online feedback form:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>* &lt;a href="<a href="https://form.gov.sg/641cfda6e9ca7c0012eae318&quot;>Respondent's" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/641cfda6e9ca7c0012eae318"&gt;Respondent's</a> Form&lt;/a&gt;
