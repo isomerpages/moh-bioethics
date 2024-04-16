@@ -72,11 +72,13 @@ in the public consultation paper through the following channels:</p>
 <p>c. By online feedback form at:</p>
 <p>* &lt;a href="<a href="https://form.gov.sg/641cfda6e9ca7c0012eae318&quot;>Respondent's" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/641cfda6e9ca7c0012eae318"&gt;Respondent's</a> Form&lt;/a&gt;
 &lt;br&gt;</p>
-<p>- scan QR code below: &lt;br&gt; ![](/images/big%20data%20and%20ai/qr%20code%20-%20bdai%20respondent%20form.png)</p>
-<p>9\. There will be focus group discussions conducted virtually via Zoom
-in June/July 2024. The BAC will invite representatives from various academic,
-research and healthcare institutions, CECs, IRBs, professional bodies and
-societies, as well as industry partners to participate in these sessions.</p>
+<p>- scan QR code below: &lt;br&gt;</p>
+<p></p>
+<p>9\. There will be focus group discussions conducted physically or virtually
+via Zoom in June/July 2024. The BAC will invite representatives from various
+academic, research and healthcare institutions, CECs, IRBs, professional
+bodies and societies, as well as industry partners to participate in these
+sessions.</p>
 <p><strong>Summary of Response</strong>
 </p>
 <p>10\. A summary of the main comments/feedback received, together with the
@@ -87,13 +89,9 @@ REACH Portal in end 2024.</p>
 </p>
 <p><strong>[Invitation To Comment] Public Consultation Paper: Ethical, Legal, and Social Issues in Human Nuclear Genome Editing.</strong>
 </p>
-<p><strong>a. Responsible Data Usage</strong>
+<p><strong>a. </strong>
 </p>
-<p>1\. Responsible data usage ensures that data is used in a fair and transparent
-manner without compromising data integrity. This protects individual privacy
-and control of personal data. It also reduces the risk of discrimination
-or injustice, or inaccurate research outcomes as a result of bias in AI
-algorithms and the data used.</p>
+<p>1\.</p>
 <p><strong>Ethical Considerations:</strong>
 </p>
 <p>i.</p>
