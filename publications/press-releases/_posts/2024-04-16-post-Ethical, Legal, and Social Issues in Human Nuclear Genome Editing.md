@@ -10,38 +10,27 @@ variant: tiptap
 <p><strong>PUBLIC CONSULTATION ON ETHICAL, LEGAL, AND SOCIAL ISSUES IN HUMAN NUCLEAR GENOME EDITING</strong>
 </p>
 <p>1\. The Bioethics Advisory Committee (BAC) will conduct a public consultation
-to seek views and feedback on the ethical, legal and social issues in Human
-Nuclear Genome Editing (HNGE). The online consultation will be conducted
+to seek views and feedback on the ethical, legal, and social issues in
+Human Nuclear Genome Editing (HNGE). The online consultation will be conducted
 from <strong>3 June 2024 to 31 July 2024</strong> and can be accessed from
 &lt;a href="<a href="https://www.bioethics-singapore.gov.sg/files/publications/consultation-papers/hnge.pdf/&quot;>here</a>" rel="noopener noreferrer nofollow" target="_blank">https://www.bioethics-singapore.gov.sg/files/publications/consultation-papers/big-data-and-ai.pdf/"&gt;here&lt;/a&gt;</a>or
 &lt;a href="<a href="https://go.gov.sg/feedback-bdai/&quot;>REACH" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/feedback-bdai/"&gt;REACH</a> Portal&lt;/a&gt;.</p>
 <p><strong>Ethical Challenges of Human Nuclear Genome Editing</strong>
 </p>
-<p>2\. With advances in information technology, data and computational analytics
-in recent decades, the use of big data and AI in human biomedical research
-is becoming increasingly important, enabling researchers and healthcare
-professionals to analyse massive datasets, generate useful insights, and
-enhance data-driven decisions. While the growing use of big data and AI
-in biomedical research promises benefits, it also raises ethical issues
-such as the need for protecting data privacy versus ensuring societal benefit;
-the importance of obtaining informed consent and respecting the individual’s
-rights and autonomy; and the extent of data security obligations with respect
-to the value of data.</p>
+<p>2\. .</p>
 <p><strong>Aim of Consultation</strong>
 </p>
 <p>3\. Recognising these ethical challenges, the BAC has developed a public
-consultation paper ‘Big Data and Artificial Intelligence Use in Human Biomedical
-Research’ to discuss the ethical principles underpinning the use of big
-data and AI applications in human biomedical research and selected use-cases
-in clinical research, such as respect for persons, solidarity&lt;sup&gt;[1]&lt;/sup&gt;,
-justice, proportionality&lt;sup&gt;[2]&lt;/sup&gt; and sustainability.
-Other ethical considerations are also discussed, including integrity, transparency,
-accountability, consistency and stakeholder engagement. The paper is intended
-to guide academics, researchers, healthcare professionals, Clinical Ethics
-Committees (CECs) and Institutional Review Boards (IRBs) on the ethical
-use of big data and AI applications in human biomedical research. Other
-clinical or healthcare aspects will not be covered within the scope of
-the paper.</p>
+consultation paper ‘Ethical, legal, and social issues in Human Nuclear
+Genome Editing’ to discuss the ethical principles underpinning the use
+of HNGE and selected use-cases in clinical research, such as respect for
+persons, solidarity&lt;sup&gt;[1]&lt;/sup&gt;, justice, proportionality&lt;sup&gt;[2]&lt;/sup&gt;
+and sustainability. Other ethical considerations are also discussed, including
+integrity, transparency, accountability, consistency and stakeholder engagement.
+The paper is intended to guide academics, researchers, healthcare professionals,
+Clinical Ethics Committees (CECs) and Institutional Review Boards (IRBs)
+on the ethical use of HNGE. Other clinical or healthcare aspects will not
+be covered within the scope of the paper.</p>
 <p>4\. The report builds upon previous BAC reports and recommendations and
 references relevant legislations such as the Personal Data Protection Act
 (2012) and the Human Biomedical Research Act (2015), and complements other
@@ -63,9 +52,9 @@ outline of key ethical questions and issues raised in the consultation
 paper.</p>
 <p><strong>Period of Consultation</strong>
 </p>
-<p>7\. The public consultation will last for a period of two months from <strong>2 May 2023 to 14 July 2023.</strong> All
-comments should be sent in by <strong>14 July 2023</strong>. Any comments
-received after 14 July 2023 will not be considered.</p>
+<p>7\. The public consultation will last for a period of two months from <strong>3 June 2024 to 31 July 2024.</strong> All
+comments should be sent in by <strong>31 July 2024</strong>. Any comments
+received after 31 July 2024 will not be considered.</p>
 <p><strong>Feedback Channels</strong>
 </p>
 <p>8\. The public consultation paper can be accessed from the &lt;a href="
@@ -85,18 +74,18 @@ in the public consultation paper through the following channels:</p>
 &lt;br&gt;</p>
 <p>- scan QR code below: &lt;br&gt; ![](/images/big%20data%20and%20ai/qr%20code%20-%20bdai%20respondent%20form.png)</p>
 <p>9\. There will be focus group discussions conducted virtually via Zoom
-in June 2023. The BAC will invite representatives from various academic,
+in June/July 2024. The BAC will invite representatives from various academic,
 research and healthcare institutions, CECs, IRBs, professional bodies and
 societies, as well as industry partners to participate in these sessions.</p>
 <p><strong>Summary of Response</strong>
 </p>
 <p>10\. A summary of the main comments/feedback received, together with the
 final report and recommendations will be published on the BAC website and
-REACH Portal in end 2023.</p>
+REACH Portal in end 2024.</p>
 <p>---</p>
 <p><strong>ANNEX A</strong>
 </p>
-<p><strong>[Invitation To Comment] Public Consultation Paper: Ethical, Legal and Social Issues Arising from Big Data and Artificial Intelligence (AI) Use in Human Biomedical Research.</strong>
+<p><strong>[Invitation To Comment] Public Consultation Paper: Ethical, Legal, and Social Issues in Human Nuclear Genome Editing.</strong>
 </p>
 <p><strong>a. Responsible Data Usage</strong>
 </p>
