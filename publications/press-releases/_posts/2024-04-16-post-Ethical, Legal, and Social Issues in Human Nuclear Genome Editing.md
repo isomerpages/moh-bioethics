@@ -69,7 +69,7 @@ in the public consultation paper through the following channels:</p>
 <p>1 Maritime Square&lt;br&gt;</p>
 <p>#09-66 HarbourFront Centre&lt;br&gt;</p>
 <p>Singapore 099253&lt;br&gt;</p>
-<p>c. By online feedback form:</p>
+<p>c. By online feedback form:&lt;br&gt;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>* &lt;a href="<a href="https://form.gov.sg/641cfda6e9ca7c0012eae318&quot;>Respondent's" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/641cfda6e9ca7c0012eae318"&gt;Respondent's</a> Form&lt;/a&gt;
