@@ -89,7 +89,7 @@ REACH Portal in end 2024.</p>
 </p>
 <p><strong>[Invitation To Comment] Public Consultation Paper: Ethical, Legal, and Social Issues in Human Nuclear Genome Editing.</strong>
 </p>
-<p><strong>a. </strong>
+<p><strong>a.</strong>
 </p>
 <p>1\.</p>
 <p><strong>Ethical Considerations:</strong>
