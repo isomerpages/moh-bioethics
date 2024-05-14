@@ -13,8 +13,8 @@ variant: tiptap
 to seek views and feedback on the ethical, legal, and social issues in
 Human Nuclear Genome Editing (HNGE). The online consultation will be conducted
 from <strong>3 June 2024 to xx August 2024</strong> and can be accessed from
-&lt;a href="<a href="https://www.bioethics-singapore.gov.sg/files/publications/consultation-papers/big-data-and-ai.pdf/&quot;>here</a>or" rel="noopener noreferrer nofollow" target="_blank">https://www.bioethics-singapore.gov.sg/files/publications/consultation-papers/big-data-and-ai.pdf/"&gt;here&lt;/a&gt;or</a>&lt;a
-href="<a href="https://go.gov.sg/feedback-bdai/&quot;>REACH" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/feedback-bdai/"&gt;REACH</a> Portal&lt;/a&gt;.</p>
+the <a href="https://www.bioethics-singapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BAC website</a> or
+<a href="https://www.reach.gov.sg" rel="noopener noreferrer nofollow" target="_blank">REACH Portal</a>.&nbsp;</p>
 <p><strong>Ethical Challenges of HNGE applications in biomedical and clinical research, and healthcare</strong>
 </p>
 <p>2 Applications of HNGE technologies in human biomedical research have
