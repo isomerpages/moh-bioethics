@@ -67,21 +67,19 @@ All comments should be sent in by <strong>xx August <u>2024</u></strong>.
 Any comments received after xx August 2024 will not be considered.</p>
 <p><strong>Feedback Channels</strong>
 </p>
-<p>8 The public consultation paper can be accessed from the &lt;a href="
-<a href="https://www.bioethics-singapore.gov.sg/&quot;>BACwebsite</a>" rel="noopener noreferrer nofollow" target="_blank">https://www.bioethics-singapore.gov.sg/"&gt;BACwebsite&lt;/a&gt;</a>or
-&lt;a href="<a href="https://go.gov.sg/feedback-bdai/&quot;>REACH" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/feedback-bdai/"&gt;REACH</a> Portal&lt;/a&gt;.
-Members of the public are invited to provide feedback on the issues discussed
-in the public consultation paper through the following channels:</p>
-<p>a. By email: &lt;br&gt; &amp;lt;[<a href="mailto:bioethics\_singapore@moh.gov.sg" rel="noopener noreferrer nofollow" target="_blank">bioethics\_singapore@moh.gov.sg</a>](mailto:
-<a href="mailto:bioethics_singapore@moh.gov.sg" rel="noopener noreferrer nofollow" target="_blank">bioethics_singapore@moh.gov.sg</a>)&amp;gt;</p>
-<p>b. By post:&lt;br&gt;</p>
-<p>Biomedical Ethics Coordinating Office&lt;br&gt;</p>
-<p>1 Maritime Square&lt;br&gt;</p>
-<p>#09-66 HarbourFront Centre&lt;br&gt;</p>
-<p>Singapore 099253&lt;br&gt;</p>
-<p>c. By online feedback form:&lt;br&gt;</p>
-<p>* &lt;a href="<a href="https://form.gov.sg/641cfda6e9ca7c0012eae318&quot;>Respondent's" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/641cfda6e9ca7c0012eae318"&gt;Respondent's</a> Form&lt;/a&gt;
-&lt;br&gt;</p>
+<p>8 The public consultation paper can be accessed from the <a href="https://www.bioethics-singapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BAC website</a> or
+<a href="https://www.reach.gov.sg" rel="noopener noreferrer nofollow" target="_blank">REACH Portal</a>. Members of the public are invited to provide feedback
+on the issues discussed in the public consultation paper through the following
+channels:</p>
+<p>a. By email to:&nbsp;&nbsp;&nbsp;&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">bioethics_singapore@moh.gov.sg</a>
+</p>
+<p>b. By post to:</p>
+<p>Biomedical Ethics Coordinating Office</p>
+<p>1 Maritime Square</p>
+<p>#09-66 HarbourFront Centre</p>
+<p>Singapore 099253</p>
+<p>c. By online feedback form at:</p>
+<p></p>
 <p>9 There will be focus group discussions conducted either physically or
 virtually via Zoom in July and August 2024. The BAC will invite representatives
 from various academic, research and healthcare institutions, CECs, IRBs,
