@@ -10,11 +10,11 @@ variant: tiptap
 <p><strong>PUBLIC CONSULTATION ON ETHICAL, LEGAL, AND SOCIAL ISSUES IN HUMAN NUCLEAR GENOME EDITING</strong>
 </p>
 <p>1. The Bioethics Advisory Committee (BAC) will conduct a public consultation
-to seek views and feedback on the ethical, legal, and social issues in
-Human Nuclear Genome Editing (HNGE). The online consultation will be conducted
-from <strong>3 June 2024 to xx August 2024</strong> and can be accessed from
-the <a href="https://www.bioethics-singapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BAC website</a> or
-<a href="https://www.reach.gov.sg" rel="noopener noreferrer nofollow" target="_blank">REACH Portal</a>.&nbsp;</p>
+to seek views and feedback on the ethical, legal, and social issues arising
+from the use of Human Nuclear Genome Editing (HNGE) technologies in biomedical
+research, clinical research, and healthcare. The consultation will be conducted
+from <strong>3 June 2024 to xx August 2024</strong> and the consultation
+paper can be accessed from the <a href="https://www.bioethics-singapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BAC website</a> or <a href="https://www.reach.gov.sg" rel="noopener noreferrer nofollow" target="_blank">REACH Portal</a>.&nbsp;</p>
 <p><strong>Ethical Challenges of HNGE applications in biomedical and clinical research, and healthcare</strong>
 </p>
 <p>2. Applications of HNGE technologies in human biomedical research have
