@@ -63,8 +63,8 @@ recommendations.</p>
 <p><strong>Period of Consultation</strong>
 </p>
 <p>7. The public consultation will last for a period of two months from <strong>3 June 2024 to xx August 2024</strong>.
-All comments should be sent in by <strong>xx August <u>2024</u></strong>.
-Any comments received after xx August 2024 will not be considered.</p>
+All comments should be sent in by <strong>xx August 2024</strong>. Any comments
+received after xx August 2024 will not be considered.</p>
 <p><strong>Feedback Channels</strong>
 </p>
 <p>8. The public consultation paper can be accessed from the <a href="https://www.bioethics-singapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BAC website</a> or
