@@ -111,7 +111,7 @@ the public can access this report from the website in July 2024.</p>
 </p>
 <p><strong>a. Mosaicism<sup>5</sup>, Off-Target Effects, and On-Target Undesirable Modifications</strong>
 </p>
-<p>1 Gene editing technologies could enable corrections to the genomic sequence
+<p>1. Gene editing technologies could enable corrections to the genomic sequence
 to rectify or remove mutations that lead to adverse health conditions.
 Such technologies could also lead to unintended biological outcomes such
 as chromosomal mosaicism in embryos, and undesirable consequences (e.g.,
@@ -130,7 +130,7 @@ given the possibility that future generations may suffer from unintended
 consequences associated with such applications?</p>
 <p><strong>b. Safety and Long-Term Effects of HNGE</strong>
 </p>
-<p>2 Gene editing may potentially offer new ways of treating diseases and
+<p>2. Gene editing may potentially offer new ways of treating diseases and
 could be used for enhancement of human performance. Nonetheless, it has
 not received general acceptance for widespread use in clinical practice
 as the technology is still in its early phase of development. This raises
@@ -153,7 +153,7 @@ to determine the long-term side effects of gene editing interventions in
 research participants?</p>
 <p><strong>c. Procurement and Use of Human Embryos and Oocytes in HNGE Research</strong>
 </p>
-<p>3 Human embryos have been used by researchers on gene editing as a tool
+<p>3. Human embryos have been used by researchers on gene editing as a tool
 to enhance knowledge about human gene function and early embryonic development,
 as well as to advance research on infertility, genetic diseases, and intractable
 diseases. While procuring oocytes with the desired genotype from healthy
@@ -175,12 +175,12 @@ the dignity and rights and privacy and confidentiality of individuals who
 donate embryos or oocytes are protected?</p>
 <p><strong>d. Equitable Access and Allocation of Resources</strong>
 </p>
-<p>4 Gene editing technologies extend beyond discovering and developing therapies,
-particularly for rare genetic disorders, severe diseases such as cancer
-and treatment of infertility. These technologies can also be used for enhancing
-specific traits. However, as with many new modalities in medicine, gene
-editing technologies would give rise to concerns of inequitable access
-by those who are in need but cannot afford them.</p>
+<p>4. Gene editing technologies extend beyond discovering and developing
+therapies, particularly for rare genetic disorders, severe diseases such
+as cancer and treatment of infertility. These technologies can also be
+used for enhancing specific traits. However, as with many new modalities
+in medicine, gene editing technologies would give rise to concerns of inequitable
+access by those who are in need but cannot afford them.</p>
 <p><strong>Ethical Considerations:</strong>
 </p>
 <p>i. What are the ethical considerations in ensuring equitable access to
@@ -192,7 +192,7 @@ participation in clinical trials for gene editing technologies to ensure
 inclusivity?</p>
 <p><strong>e. Genetic Enhancement and the Effects on Society</strong>
 </p>
-<p>5 Recent advances have increased the possibility that gene editing can
+<p>5. Recent advances have increased the possibility that gene editing can
 also be used for purposes that go beyond therapies and medical interventions,
 and the possible applications of gene editing technologies include genetic
 enhancement in areas such as conferring resistance to diseases and enhancement
