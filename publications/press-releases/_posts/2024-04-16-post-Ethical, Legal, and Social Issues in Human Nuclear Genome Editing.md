@@ -19,15 +19,15 @@ the <a href="https://www.bioethics-singapore.gov.sg" rel="noopener noreferrer no
 </p>
 <p>2. Applications of HNGE technologies in human biomedical research have
 advanced developments in genetics, disease modelling and therapeutics.
-The increasing use of non-heritable gene editing&lt;sup&gt;[1]&lt;/sup&gt;
-in clinical applications holds promise for treating genetic disorders,
-infertility, enhancing personalised medicine and improving health outcomes.
-While HNGE technologies have the potential to confer resistance to diseases
-and enhance traits in the future, they also raise ethical issues such as
-unintended consequences and long-term effects on individuals and future
-generations, resulting in social inequalities, and other issues on consent.
-Maintaining a balance between scientific innovation and ethical responsibility
-remains a challenge in navigating the complex landscape of HNGE.</p>
+The increasing use of non-heritable gene editing<sup>1</sup> in clinical
+applications holds promise for treating genetic disorders, infertility,
+enhancing personalised medicine and improving health outcomes. While HNGE
+technologies have the potential to confer resistance to diseases and enhance
+traits in the future, they also raise ethical issues such as unintended
+consequences and long-term effects on individuals and future generations,
+resulting in social inequalities, and other issues on consent. Maintaining
+a balance between scientific innovation and ethical responsibility remains
+a challenge in navigating the complex landscape of HNGE.</p>
 <p><strong>Scope and Aim of Consultation</strong>
 </p>
 <p>3. Recognising these ethical challenges, the BAC has developed a public
