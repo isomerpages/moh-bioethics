@@ -101,8 +101,7 @@ gathered from the last public consultation in 2023 have been reviewed and
 incorporated into the final report to inform the recommendations. The advisory
 report will guide academics, researchers, healthcare professionals, CECs,
 and IRBs on the ethical use of Big Data and AI in human biomedical research.
-The completed Big Data and AI advisory report will be published on BAC’s
-website at <a href="http://www.bioethics-singapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.bioethics-singapore.gov.sg</a> and
+The completed Big Data and AI advisory report will be published on <a href="https://www.bioethics-singapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BAC website</a> and
 the public can access this report from the website in July 2024.</p>
 <p>---</p>
 <p><strong><u>ANNEX A</u></strong>
