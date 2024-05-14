@@ -228,4 +228,4 @@ or more sets of cells that differ genetically from one another. For example,
 a person with this condition might possess some cells that have 46 chromosomes
 while other cells have 47 chromosomes.</p>
 <p>---</p>
-<p>[Press Release (PDF)](/files/publications/press-releases/bac-bdai-press-release.pdf)</p>
+<p>[Press Release (PDF)] &lt;to insert&gt;</p>
