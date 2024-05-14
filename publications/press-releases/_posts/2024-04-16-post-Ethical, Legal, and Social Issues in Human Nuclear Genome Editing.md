@@ -78,8 +78,7 @@ channels:</p>
 <p>1 Maritime Square</p>
 <p>#09-66 HarbourFront Centre</p>
 <p>Singapore 099253</p>
-<p>c. By online feedback form at:</p>
-<p></p>
+<p>c. By online <a href="https://go.gov.sg/hnge-respondent-form" rel="noopener noreferrer nofollow" target="_blank">feedback </a>form</p>
 <p>9. There will be focus group discussions conducted either physically or
 virtually via Zoom in July and August 2024. The BAC will invite representatives
 from various academic, research and healthcare institutions, CECs, IRBs,
