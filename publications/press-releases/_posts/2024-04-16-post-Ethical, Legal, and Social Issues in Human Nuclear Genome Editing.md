@@ -28,7 +28,7 @@ unintended consequences and long-term effects on individuals and future
 generations, resulting in social inequalities, and other issues on consent.
 Maintaining a balance between scientific innovation and ethical responsibility
 remains a challenge in navigating the complex landscape of HNGE.</p>
-<p><strong>Scope and Aim of Consultation </strong>
+<p><strong>Scope and Aim of Consultation</strong>
 </p>
 <p>3\. Recognising these ethical challenges, the BAC has developed a public
 consultation paper titled ‘Ethical, Legal, and Social Issues arising from
@@ -110,7 +110,7 @@ the public can access this report from the website in July 2024.</p>
 <p>---</p>
 <p><strong><u>ANNEX A</u></strong>
 </p>
-<p><strong>[Invitation To Comment] Public Consultation Paper: Ethical, Legal, and Social Issues Arising from Human Nuclear Genome Editing </strong>
+<p><strong>[Invitation To Comment] Public Consultation Paper: Ethical, Legal, and Social Issues Arising from Human Nuclear Genome Editing</strong>
 </p>
 <p><strong>a. Mosaicism<sup>5</sup>, Off-Target Effects, and On-Target Undesirable Modifications</strong>
 </p>
@@ -120,7 +120,8 @@ Such technologies could also lead to unintended biological outcomes such
 as chromosomal mosaicism in embryos, and undesirable consequences (e.g.,
 development of cancer and allergic reactions) arising from off-target mutations
 and deletions.</p>
-<p>Ethical Considerations:</p>
+<p><strong>Ethical Considerations:</strong>
+</p>
 <p>i. How should researchers and clinicians balance the potential benefits
 of gene editing technologies against the risks associated with mosaicism
 and off-target effects?</p>
@@ -130,14 +131,16 @@ associated with such applications?</p>
 <p>iii. Should clinical applications of heritable gene editing be allowed,
 given the possibility that future generations may suffer from unintended
 consequences associated with such applications?</p>
-<p>b. Safety and Long-Term Effects of HNGE</p>
+<p><strong>b. Safety and Long-Term Effects of HNGE</strong>
+</p>
 <p>2\. Gene editing may potentially offer new ways of treating diseases and
 could be used for enhancement of human performance. Nonetheless, it has
 not received general acceptance for widespread use in clinical practice
 as the technology is still in its early phase of development. This raises
 concerns regarding the safety and long-term side effects of the technology
 on individuals receiving the treatment.</p>
-<p>Ethical Considerations:</p>
+<p><strong>Ethical Considerations:</strong>
+</p>
 <p>i. How should researchers, research institutions and clinicians ensure
 favourable risk-benefit ratio is achieved for patients or participants
 undergoing clinical trials or clinical interventions involving non-heritable
@@ -186,14 +189,16 @@ different socio-economic groups and regions?</p>
 <p>iii. How can researchers and research institutions encourage more Asian
 participation in clinical trials for gene editing technologies to ensure
 inclusivity?</p>
-<p>e. Genetic Enhancement and the Effects on Society</p>
-<p>5\. Recent advances have increased the possibility that gene editing can
+<p><strong>e. Genetic Enhancement and the Effects on Society</strong>
+</p>
+<p>5 Recent advances have increased the possibility that gene editing can
 also be used for purposes that go beyond therapies and medical interventions,
 and the possible applications of gene editing technologies include genetic
 enhancement in areas such as conferring resistance to diseases and enhancement
 of physical attributes and cognitive abilities. Such potential clinical
 applications of gene editing technologies raise several ethical issues.</p>
-<p>Ethical Considerations:</p>
+<p><strong>Ethical Considerations:</strong>
+</p>
 <p>i. What are the ethical considerations involved in using gene editing
 technologies for genetic enhancement?</p>
 <p>ii. How might potential clinical applications of gene editing for genetic
@@ -204,25 +209,23 @@ enhancement?</p>
 responsibly and ethically?</p>
 <p>---</p>
 <p>### Footnotes</p>
-<p>&lt;br&gt;&lt;sup&gt;[1]&lt;/sup&gt;Non-heritable gene editing involves
-making changes to somatic cells, which include all cells in the body that
-are not involved in reproduction. As a result, changes made to these cells
-cannot be inherited by any children of the person receiving the treatment.</p>
-<p>&lt;br&gt;&lt;sup&gt;[2]&lt;/sup&gt;Solidarity reflects the willingness
-and moral obligations of individuals to share the costs associated with
-research participation, such as potential risks, in return for the common
-good.</p>
-<p>&lt;br&gt;&lt;sup&gt;[3]&lt;/sup&gt;Proportionality requires that the
-risk in any acceptable programme of research, and the stringency of its
-regulation, should not be disproportionate to any anticipated benefits.</p>
-<p>&lt;br&gt;&lt;sup&gt;[4]&lt;/sup&gt;Responsible stewardship of science
-refers to the moral requirement to be prudent about the resources and having
-oversight of all elements responsibly, including planning, management,
-and decision-making in research activities in the pursuit of any emerging
-field in biomedical research.</p>
-<p>&lt;br&gt;&lt;sup&gt;[5]&lt;/sup&gt;Mosaicism is a condition that occurs
-when a person has two or more sets of cells that differ genetically from
-one another. For example, a person with this condition might possess some
-cells that have 46 chromosomes while other cells have 47 chromosomes.</p>
+<p><sup>1</sup>Non-heritable gene editing involves making changes to somatic
+cells, which include all cells in the body that are not involved in reproduction.
+As a result, changes made to these cells cannot be inherited by any children
+of the person receiving the treatment.</p>
+<p><sup>2</sup>Solidarity reflects the willingness and moral obligations
+of individuals to share the costs associated with research participation,
+such as potential risks, in return for the common good.</p>
+<p><sup>3</sup>Proportionality requires that the risk in any acceptable programme
+of research, and the stringency of its regulation, should not be disproportionate
+to any anticipated benefits.</p>
+<p><sup>4</sup>Responsible stewardship of science refers to the moral requirement
+to be prudent about the resources and having oversight of all elements
+responsibly, including planning, management, and decision-making in research
+activities in the pursuit of any emerging field in biomedical research.</p>
+<p><sup>5</sup>Mosaicism is a condition that occurs when a person has two
+or more sets of cells that differ genetically from one another. For example,
+a person with this condition might possess some cells that have 46 chromosomes
+while other cells have 47 chromosomes.</p>
 <p>---</p>
 <p>[Press Release (PDF)](/files/publications/press-releases/bac-bdai-press-release.pdf)</p>
