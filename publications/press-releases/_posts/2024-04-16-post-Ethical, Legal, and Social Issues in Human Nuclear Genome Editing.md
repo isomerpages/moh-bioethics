@@ -208,7 +208,8 @@ enhancement?</p>
 <p>iv. What can be done to ensure that gene editing technologies are used
 responsibly and ethically?</p>
 <p>---</p>
-<p>### Footnotes</p>
+<p><strong>Footnotes</strong>
+</p>
 <p><sup>1</sup>Non-heritable gene editing involves making changes to somatic
 cells, which include all cells in the body that are not involved in reproduction.
 As a result, changes made to these cells cannot be inherited by any children
