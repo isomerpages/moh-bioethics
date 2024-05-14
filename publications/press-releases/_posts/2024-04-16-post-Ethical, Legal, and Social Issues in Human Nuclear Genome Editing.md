@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <p><strong>PUBLIC CONSULTATION ON ETHICAL, LEGAL, AND SOCIAL ISSUES IN HUMAN NUCLEAR GENOME EDITING</strong>
 </p>
-<p>1\. The Bioethics Advisory Committee (BAC) will conduct a public consultation
+<p>1 The Bioethics Advisory Committee (BAC) will conduct a public consultation
 to seek views and feedback on the ethical, legal, and social issues in
 Human Nuclear Genome Editing (HNGE). The online consultation will be conducted
 from <strong>3 June 2024 to xx August 2024</strong> and can be accessed from
@@ -17,7 +17,7 @@ from <strong>3 June 2024 to xx August 2024</strong> and can be accessed from
 href="<a href="https://go.gov.sg/feedback-bdai/&quot;>REACH" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/feedback-bdai/"&gt;REACH</a> Portal&lt;/a&gt;.</p>
 <p><strong>Ethical Challenges of HNGE applications in biomedical and clinical research, and healthcare</strong>
 </p>
-<p>2\. Applications of HNGE technologies in human biomedical research have
+<p>2 Applications of HNGE technologies in human biomedical research have
 advanced developments in genetics, disease modelling and therapeutics.
 The increasing use of non-heritable gene editing&lt;sup&gt;[1]&lt;/sup&gt;
 in clinical applications holds promise for treating genetic disorders,
@@ -30,7 +30,7 @@ Maintaining a balance between scientific innovation and ethical responsibility
 remains a challenge in navigating the complex landscape of HNGE.</p>
 <p><strong>Scope and Aim of Consultation</strong>
 </p>
-<p>3\. Recognising these ethical challenges, the BAC has developed a public
+<p>3 Recognising these ethical challenges, the BAC has developed a public
 consultation paper titled ‘Ethical, Legal, and Social Issues arising from
 Human Nuclear Genome Editing’ to discuss the ethical issues from the use
 of HNGE technologies in biomedical and clinical research and other potential
@@ -45,29 +45,29 @@ healthcare professionals, research and healthcare institutions, Clinical
 Ethics Committees (CECs) and Institutional Review Boards (IRBs) on the
 ethical use of HNGE applications in human biomedical research, clinical
 research, and healthcare.</p>
-<p>4\. The paper builds upon previous BAC reports and recommendations, referencing
+<p>4 The paper builds upon previous BAC reports and recommendations, referencing
 relevant legislation/Acts such as the Human Biomedical Research Act (2015),
 the Human Cloning and Other Prohibited Practices Act (2004), and the Healthcare
 Services Act (2020).</p>
-<p>5\. Through the public consultation, the BAC aims to gather inputs from
+<p>5 Through the public consultation, the BAC aims to gather inputs from
 academics, researchers, research and healthcare institutions, healthcare
 professionals, professional bodies and societies, CECs, IRBs, religious
 organisations, industry partners, and the public on key ethical questions
 and issues discussed in the consultation paper. Please refer to <strong><u>Annex A</u></strong> for
 the outline of key ethical questions and issues raised in the consultation
 paper.</p>
-<p>6\. The views of the public, academic, research, and healthcare institutions,
+<p>6 The views of the public, academic, research, and healthcare institutions,
 CECs, IRBs, professional bodies and societies, religious organisations,
 and other interested organisations will assist the BAC in developing its
 recommendations.</p>
 <p><strong>Period of Consultation</strong>
 </p>
-<p>7\. The public consultation will last for a period of two months from <strong>3 June 2024 to xx August 2024</strong>.
+<p>7 The public consultation will last for a period of two months from <strong>3 June 2024 to xx August 2024</strong>.
 All comments should be sent in by <strong>xx August <u>2024</u></strong>.
 Any comments received after xx August 2024 will not be considered.</p>
 <p><strong>Feedback Channels</strong>
 </p>
-<p>8\. The public consultation paper can be accessed from the &lt;a href="
+<p>8 The public consultation paper can be accessed from the &lt;a href="
 <a href="https://www.bioethics-singapore.gov.sg/&quot;>BACwebsite</a>" rel="noopener noreferrer nofollow" target="_blank">https://www.bioethics-singapore.gov.sg/"&gt;BACwebsite&lt;/a&gt;</a>or
 &lt;a href="<a href="https://go.gov.sg/feedback-bdai/&quot;>REACH" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/feedback-bdai/"&gt;REACH</a> Portal&lt;/a&gt;.
 Members of the public are invited to provide feedback on the issues discussed
@@ -82,19 +82,19 @@ in the public consultation paper through the following channels:</p>
 <p>c. By online feedback form:&lt;br&gt;</p>
 <p>* &lt;a href="<a href="https://form.gov.sg/641cfda6e9ca7c0012eae318&quot;>Respondent's" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/641cfda6e9ca7c0012eae318"&gt;Respondent's</a> Form&lt;/a&gt;
 &lt;br&gt;</p>
-<p>9\. There will be focus group discussions conducted either physically
-or virtually via Zoom in July and August 2024. The BAC will invite representatives
+<p>9 There will be focus group discussions conducted either physically or
+virtually via Zoom in July and August 2024. The BAC will invite representatives
 from various academic, research and healthcare institutions, CECs, IRBs,
 professional bodies and societies, religious organisations, as well as
 industry partners to participate in these sessions.</p>
 <p><strong>Summary of Response</strong>
 </p>
-<p>10\. A summary of the main comments/feedback received, together with the
+<p>10 A summary of the main comments/feedback received, together with the
 final advisory report and recommendations will be published on the BAC
 website and REACH Portal in 2025.</p>
 <p><strong>Big Data and Artificial Intelligence (AI) Advisory Report</strong>
 </p>
-<p>11\. An earlier Public Consultation on Big Data and AI was conducted from
+<p>11 An earlier Public Consultation on Big Data and AI was conducted from
 2 May 2023 to 14 July 2023 to gather views and feedback from the public
 on the ethical issues arising from the use of big data and AI in human
 biomedical research, such as responsible data usage, data ownership, custodianship,
