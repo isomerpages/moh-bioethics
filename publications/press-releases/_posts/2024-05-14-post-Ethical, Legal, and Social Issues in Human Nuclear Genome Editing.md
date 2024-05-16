@@ -7,16 +7,14 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>PUBLIC CONSULTATION ON ETHICAL, LEGAL, AND SOCIAL ISSUES IN HUMAN NUCLEAR GENOME EDITING</strong>
-</p>
+<h2><strong>PUBLIC CONSULTATION ON ETHICAL, LEGAL, AND SOCIAL ISSUES IN HUMAN NUCLEAR GENOME EDITING</strong></h2>
 <p>1. The Bioethics Advisory Committee (BAC) will conduct a public consultation
 to seek views and feedback on the ethical, legal, and social issues arising
 from the use of Human Nuclear Genome Editing (HNGE) technologies in biomedical
 research, clinical research, and healthcare. The consultation will be conducted
 from <strong>3 June 2024 to xx August 2024</strong> and the consultation
 paper can be accessed from the <a href="https://www.bioethics-singapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BAC website</a> or <a href="https://www.reach.gov.sg" rel="noopener noreferrer nofollow" target="_blank">REACH Portal</a>.&nbsp;</p>
-<p><strong>Ethical Challenges of HNGE applications in biomedical and clinical research, and healthcare</strong>
-</p>
+<h3><strong>Ethical Challenges of HNGE applications in biomedical and clinical research, and healthcare</strong></h3>
 <p>2. Applications of HNGE technologies in human biomedical research have
 advanced developments in genetics, disease modelling and therapeutics.
 The increasing use of non-heritable gene editing<sup>1</sup> in clinical
@@ -28,8 +26,7 @@ consequences and long-term effects on individuals and future generations,
 resulting in social inequalities, and other issues on consent. Maintaining
 a balance between scientific innovation and ethical responsibility remains
 a challenge in navigating the complex landscape of HNGE.</p>
-<p><strong>Scope and Aim of Consultation</strong>
-</p>
+<h3><strong>Scope and Aim of Consultation</strong></h3>
 <p>3. Recognising these ethical challenges, the BAC has developed a public
 consultation paper titled ‘Ethical, Legal, and Social Issues arising from
 Human Nuclear Genome Editing’ to discuss the ethical issues from the use
@@ -60,13 +57,11 @@ paper.</p>
 CECs, IRBs, professional bodies and societies, religious organisations,
 and other interested organisations will assist the BAC in developing its
 recommendations.</p>
-<p><strong>Period of Consultation</strong>
-</p>
+<h3><strong>Period of Consultation</strong></h3>
 <p>7. The public consultation will last for a period of two months from <strong>3 June 2024 to xx August 2024</strong>.
 All comments should be sent in by <strong>xx August 2024</strong>. Any comments
 received after xx August 2024 will not be considered.</p>
-<p><strong>Feedback Channels</strong>
-</p>
+<h3><strong>Feedback Channels</strong></h3>
 <p>8. The public consultation paper can be accessed from the <a href="https://www.bioethics-singapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BAC website</a> or
 <a href="https://www.reach.gov.sg" rel="noopener noreferrer nofollow" target="_blank">REACH Portal</a>. Members of the public are invited to provide feedback
 on the issues discussed in the public consultation paper through the following
@@ -85,13 +80,11 @@ virtually via Zoom in July and August 2024. The BAC will invite representatives
 from various academic, research and healthcare institutions, CECs, IRBs,
 professional bodies and societies, religious organisations, as well as
 industry partners to participate in these sessions.</p>
-<p><strong>Summary of Response</strong>
-</p>
+<h3><strong>Summary of Response</strong></h3>
 <p>10. A summary of the main comments/feedback received, together with the
 final advisory report and recommendations will be published on the BAC
 website and REACH Portal in 2025.</p>
-<p><strong>Big Data and Artificial Intelligence (AI) Advisory Report</strong>
-</p>
+<h3><strong>Big Data and Artificial Intelligence (AI) Advisory Report</strong></h3>
 <p>11. An earlier Public Consultation on Big Data and AI was conducted from
 2 May 2023 to 14 July 2023 to gather views and feedback from the public
 on the ethical issues arising from the use of big data and AI in human
@@ -105,20 +98,16 @@ and IRBs on the ethical use of Big Data and AI in human biomedical research.
 The completed Big Data and AI advisory report will be published on <a href="https://www.bioethics-singapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BAC website</a> and
 the public can access this report from the website in July 2024.</p>
 <p>---</p>
-<p><strong><u>ANNEX A</u></strong>
-</p>
-<p><strong>[Invitation To Comment] Public Consultation Paper: Ethical, Legal, and Social Issues Arising from Human Nuclear Genome Editing</strong>
-</p>
-<p><strong>a. Mosaicism<sup>5</sup>, Off-Target Effects, and On-Target Undesirable Modifications</strong>
-</p>
+<h3><strong><u>ANNEX A</u></strong></h3>
+<h3><strong>[Invitation To Comment] Public Consultation Paper: Ethical, Legal, and Social Issues Arising from Human Nuclear Genome Editing</strong></h3>
+<h4><strong>a. Mosaicism<sup>5</sup>, Off-Target Effects, and On-Target Undesirable Modifications</strong></h4>
 <p>1. Gene editing technologies could enable corrections to the genomic sequence
 to rectify or remove mutations that lead to adverse health conditions.
 Such technologies could also lead to unintended biological outcomes such
 as chromosomal mosaicism in embryos, and undesirable consequences (e.g.,
 development of cancer and allergic reactions) arising from off-target mutations
 and deletions.</p>
-<p><strong>Ethical Considerations:</strong>
-</p>
+<h4><strong>Ethical Considerations:</strong></h4>
 <p>i. How should researchers and clinicians balance the potential benefits
 of gene editing technologies against the risks associated with mosaicism
 and off-target effects?</p>
@@ -128,16 +117,14 @@ associated with such applications?</p>
 <p>iii. Should clinical applications of heritable gene editing be allowed,
 given the possibility that future generations may suffer from unintended
 consequences associated with such applications?</p>
-<p><strong>b. Safety and Long-Term Effects of HNGE</strong>
-</p>
+<h4><strong>b. Safety and Long-Term Effects of HNGE</strong></h4>
 <p>2. Gene editing may potentially offer new ways of treating diseases and
 could be used for enhancement of human performance. Nonetheless, it has
 not received general acceptance for widespread use in clinical practice
 as the technology is still in its early phase of development. This raises
 concerns regarding the safety and long-term side effects of the technology
 on individuals receiving the treatment.</p>
-<p><strong>Ethical Considerations:</strong>
-</p>
+<h4><strong>Ethical Considerations:</strong></h4>
 <p>i. How should researchers, research institutions and clinicians ensure
 favourable risk-benefit ratio is achieved for patients or participants
 undergoing clinical trials or clinical interventions involving non-heritable
@@ -151,8 +138,7 @@ on future generations?</p>
 <p>iv. What are the ethical challenges involved in conducting follow-up studies
 to determine the long-term side effects of gene editing interventions in
 research participants?</p>
-<p><strong>c. Procurement and Use of Human Embryos and Oocytes in HNGE Research</strong>
-</p>
+<h4><strong>c. Procurement and Use of Human Embryos and Oocytes in HNGE Research</strong></h4>
 <p>3. Human embryos have been used by researchers on gene editing as a tool
 to enhance knowledge about human gene function and early embryonic development,
 as well as to advance research on infertility, genetic diseases, and intractable
@@ -162,8 +148,7 @@ in embryos for a given disease-causing gene, or to correct a specific gene
 mutation, it may lead to health risks for donors. Another ethical issue
 involved in the use of embryos for gene editing research is potential privacy
 breach.</p>
-<p><strong>Ethical Considerations:</strong>
-</p>
+<h4><strong>Ethical Considerations:</strong></h4>
 <p>i. How do researchers and research institutions weigh the potential benefits
 of gene editing research on human embryos and oocytes against the ethical
 and safety concerns?</p>
@@ -173,16 +158,14 @@ contributions to gene editing research?</p>
 <p>iii. What can researchers and research institutions do to ensure that
 the dignity and rights and privacy and confidentiality of individuals who
 donate embryos or oocytes are protected?</p>
-<p><strong>d. Equitable Access and Allocation of Resources</strong>
-</p>
+<h4><strong>d. Equitable Access and Allocation of Resources</strong></h4>
 <p>4. Gene editing technologies extend beyond discovering and developing
 therapies, particularly for rare genetic disorders, severe diseases such
 as cancer and treatment of infertility. These technologies can also be
 used for enhancing specific traits. However, as with many new modalities
 in medicine, gene editing technologies would give rise to concerns of inequitable
 access by those who are in need but cannot afford them.</p>
-<p><strong>Ethical Considerations:</strong>
-</p>
+<h4><strong>Ethical Considerations:</strong></h4>
 <p>i. What are the ethical considerations in ensuring equitable access to
 gene editing technologies?</p>
 <p>ii. How do we ensure equitable access to gene editing technologies across
@@ -190,16 +173,14 @@ different socio-economic groups and regions?</p>
 <p>iii. How can researchers and research institutions encourage more Asian
 participation in clinical trials for gene editing technologies to ensure
 inclusivity?</p>
-<p><strong>e. Genetic Enhancement and the Effects on Society</strong>
-</p>
+<h4><strong>e. Genetic Enhancement and the Effects on Society</strong></h4>
 <p>5. Recent advances have increased the possibility that gene editing can
 also be used for purposes that go beyond therapies and medical interventions,
 and the possible applications of gene editing technologies include genetic
 enhancement in areas such as conferring resistance to diseases and enhancement
 of physical attributes and cognitive abilities. Such potential clinical
 applications of gene editing technologies raise several ethical issues.</p>
-<p><strong>Ethical Considerations:</strong>
-</p>
+<h4><strong>Ethical Considerations:</strong></h4>
 <p>i. What are the ethical considerations involved in using gene editing
 technologies for genetic enhancement?</p>
 <p>ii. How might potential clinical applications of gene editing for genetic
@@ -209,8 +190,7 @@ enhancement?</p>
 <p>iv. What can be done to ensure that gene editing technologies are used
 responsibly and ethically?</p>
 <p>---</p>
-<p><strong>Footnotes</strong>
-</p>
+<h4><strong>Footnotes</strong></h4>
 <p><sup>1</sup>Non-heritable gene editing involves making changes to somatic
 cells, which include all cells in the body that are not involved in reproduction.
 As a result, changes made to these cells cannot be inherited by any children
