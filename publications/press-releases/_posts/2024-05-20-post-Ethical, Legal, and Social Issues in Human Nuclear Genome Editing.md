@@ -96,7 +96,7 @@ professionals, CECs, and IRBs on the ethical use of Big Data and AI in
 human biomedical research. The completed Big Data and AI advisory report
 will be published on <a href="https://www.bioethics-singapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BAC website</a> and the public
 can access this report from the website from July 2024.</p>
-<p>---</p>
+<p>-----------------------------</p>
 <h3><strong><u>ANNEX A</u></strong></h3>
 <h3><strong>[Invitation To Comment] Public Consultation Paper: Ethical, Legal, and Social Issues Arising from Human Nuclear Genome Editing</strong></h3>
 <h4><strong>a. Mosaicism<sup>5</sup>, Off-Target Effects, and On-Target Undesirable Modifications</strong></h4>
