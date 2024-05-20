@@ -96,7 +96,8 @@ professionals, CECs, and IRBs on the ethical use of Big Data and AI in
 human biomedical research. The completed Big Data and AI advisory report
 will be published on <a href="https://www.bioethics-singapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BAC website</a> and the public
 can access this report from the website from July 2024.</p>
-<p>-----------------------------</p>
+<hr>
+<p></p>
 <h3><strong><u>ANNEX A</u></strong></h3>
 <h3><strong>[Invitation To Comment] Public Consultation Paper: Ethical, Legal, and Social Issues Arising from Human Nuclear Genome Editing</strong></h3>
 <h4><strong>a. Mosaicism<sup>5</sup>, Off-Target Effects, and On-Target Undesirable Modifications</strong></h4>
@@ -182,7 +183,8 @@ applications of gene editing technologies raise several ethical issues.</p>
 <p><em>iv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What can be done to ensure that gene editing technologies are used responsibly and ethically?</em>
 </p>
 <p>&nbsp;</p>
-<p>---</p>
+<hr>
+<p></p>
 <h4><strong>Footnotes</strong></h4>
 <p><sup>1</sup>Non-heritable gene editing involves making genetic changes
 to somatic cells, and including all cells in the body that are not involved
@@ -203,5 +205,6 @@ in biomedical research.</p>
 or more sets of cells that differ genetically from one another. For example,
 a person with this condition might possess some cells that have 46 chromosomes
 while other cells have 47 chromosomes.</p>
-<p>---</p>
+<hr>
+<p></p>
 <p>[Press Release (PDF)] &lt;to insert&gt;</p>
