@@ -60,9 +60,9 @@ CECs, IRBs, professional bodies and societies, religious organisations,
 and other interested organisations will assist the BAC in developing its
 recommendations.</p>
 <h3><strong>Period of Consultation</strong></h3>
-<p>7. The public consultation will last for a period of two months from <strong>3 June 2024 to xx August 2024</strong>.
-All comments should be sent in by <strong>xx August 2024</strong>. Any comments
-received after xx August 2024 will not be considered.</p>
+<p>7. The public consultation will last for a period of two months from <strong>3 June 2024 to 13 August 2024. </strong>All
+comments should be sent in by <strong><u>13 August</u></strong><u> </u><strong><u>2024</u></strong>.
+Any comments received after 13 August 2024 will not be considered.</p>
 <h3><strong>Feedback Channels</strong></h3>
 <p>8. The public consultation paper can be accessed from the <a href="https://www.bioethics-singapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BAC website</a> or
 <a href="https://www.reach.gov.sg" rel="noopener noreferrer nofollow" target="_blank">REACH Portal</a>. Members of the public are invited to provide feedback
@@ -77,28 +77,25 @@ channels:</p>
 <p>Singapore 099253</p>
 <p>c. By online <a href="https://go.gov.sg/hnge-respondent-form" rel="noopener noreferrer nofollow" target="_blank">feedback form</a>
 </p>
-<p>9. There will be focus group discussions conducted either physically or
-virtually via Zoom in July and August 2024. The BAC will invite representatives
-from various academic, research and healthcare institutions, CECs, IRBs,
-professional bodies and societies, religious organisations, as well as
-industry partners to participate in these sessions.</p>
+<p>9. There will be focus group discussions conducted virtually and/or physically
+in July and August 2024. The BAC will invite representatives from various
+academic, research and healthcare institutions, CECs, IRBs, professional
+bodies and societies, religious organisations, as well as industry partners
+to participate in these sessions.</p>
 <h3><strong>Summary of Response</strong></h3>
 <p>10. A summary of the main comments/feedback received, together with the
 final advisory report and recommendations will be published on the BAC
 website and REACH Portal in 2025.</p>
 <h3><strong>Big Data and Artificial Intelligence (AI) Advisory Report</strong></h3>
-<p>11. An earlier Public Consultation on Big Data and AI was conducted from
-2 May 2023 to 14 July 2023 to gather views and feedback from the public
-on the ethical issues arising from the use of big data and AI in human
-biomedical research, such as responsible data usage, data ownership, custodianship,
-and stewardship, data privacy, accessibility and security, data anonymisation
-and other ethical considerations and issues specific to AI. The responses
-gathered from the last public consultation in 2023 have been reviewed and
-incorporated into the final report to inform the recommendations. The advisory
-report will guide academics, researchers, healthcare professionals, CECs,
-and IRBs on the ethical use of Big Data and AI in human biomedical research.
-The completed Big Data and AI advisory report will be published on <a href="https://www.bioethics-singapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BAC website</a> and
-the public can access this report from the website in July 2024.</p>
+<p>11. An earlier public consultation on the ethical issues arising from
+the use of Big Data and AI in human biomedical research was conducted from
+2 May 2023 to 14 July 2023. The responses gathered from the last public
+consultation in 2023 have been reviewed and incorporated to the advisory
+report and recommendations which will guide academics, researchers, healthcare
+professionals, CECs, and IRBs on the ethical use of Big Data and AI in
+human biomedical research. The completed Big Data and AI advisory report
+will be published on <a href="https://www.bioethics-singapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BAC website</a> and the public
+can access this report from the website from July 2024.</p>
 <p>---</p>
 <h3><strong><u>ANNEX A</u></strong></h3>
 <h3><strong>[Invitation To Comment] Public Consultation Paper: Ethical, Legal, and Social Issues Arising from Human Nuclear Genome Editing</strong></h3>
