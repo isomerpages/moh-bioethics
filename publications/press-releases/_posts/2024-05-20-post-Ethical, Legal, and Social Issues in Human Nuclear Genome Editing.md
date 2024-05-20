@@ -114,6 +114,7 @@ and deletions.</p>
 </p>
 <p><em>iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Should clinical applications of heritable gene editing be allowed, such as for the treatment of diseases or infertility, given the possibility that future generations may potentially suffer from unintended consequences associated with such applications?</em>
 </p>
+<p></p>
 <h4><strong>b. Safety and Long-Term Effects of HNGE</strong></h4>
 <p>2. Gene editing may potentially offer new ways of treating genetic disorders,
 infertility, enhancing personalised medicine and improving health outcomes.
@@ -130,6 +131,7 @@ side effects of the technology on individuals receiving the treatment.</p>
 </p>
 <p><em>iv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What are the ethical challenges involved in conducting follow-up studies to determine the long-term side effects of gene editing interventions in research participants?</em>
 </p>
+<p></p>
 <h4><strong>c. Procurement and Use of Human Embryos and Oocytes in HNGE Research</strong></h4>
 <p>3. Regulated research with human embryos have greatly enhanced knowledge
 about human gene function and early embryonic development, as well as advanced
@@ -184,7 +186,6 @@ applications of gene editing technologies raise several ethical issues.</p>
 </p>
 <p>&nbsp;</p>
 <hr>
-<p></p>
 <h4><strong>Footnotes</strong></h4>
 <p><sup>1</sup>Non-heritable gene editing involves making genetic changes
 to somatic cells, and including all cells in the body that are not involved
@@ -206,5 +207,4 @@ or more sets of cells that differ genetically from one another. For example,
 a person with this condition might possess some cells that have 46 chromosomes
 while other cells have 47 chromosomes.</p>
 <hr>
-<p></p>
 <p>[Press Release (PDF)] &lt;to insert&gt;</p>
