@@ -107,15 +107,12 @@ as chromosomal mosaicism in embryos, and undesirable consequences (e.g.,
 development of cancer and allergic reactions) arising from off-target mutations
 and deletions.</p>
 <h4><strong>Ethical Considerations:</strong></h4>
-<p>i. How should researchers and clinicians balance the potential benefits
-of gene editing technologies against the risks associated with mosaicism
-and off-target effects?</p>
-<p>ii. How can researchers ensure that patients or participants undergoing
-non-heritable gene editing interventions are fully informed of the risks
-associated with such applications?</p>
-<p>iii. Should clinical applications of heritable gene editing be allowed,
-given the possibility that future generations may suffer from unintended
-consequences associated with such applications?</p>
+<p><em>i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How should researchers and clinicians balance the potential benefits of gene editing technologies against the risks associated with mosaicism and off-target effects?</em>
+</p>
+<p><em>ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How can researchers, clinicians, and regulatory bodies ensure that patients or participants undergoing non-heritable gene editing interventions are fully informed of the risks associated with such applications?</em>
+</p>
+<p><em>iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Should clinical applications of heritable gene editing be allowed, such as for the treatment of diseases or infertility, given the possibility that future generations may potentially suffer from unintended consequences associated with such applications?</em>
+</p>
 <h4><strong>b. Safety and Long-Term Effects of HNGE</strong></h4>
 <p>2. Gene editing may potentially offer new ways of treating diseases and
 could be used for enhancement of human performance. Nonetheless, it has
