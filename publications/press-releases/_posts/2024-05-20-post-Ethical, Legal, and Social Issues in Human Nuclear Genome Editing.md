@@ -7,41 +7,43 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h2><strong>PUBLIC CONSULTATION ON ETHICAL, LEGAL, AND SOCIAL ISSUES IN HUMAN NUCLEAR GENOME EDITING</strong></h2>
-<p>1. The Bioethics Advisory Committee (BAC) will conduct a public consultation
+<h2><strong>PUBLIC CONSULTATION ON ETHICAL, LEGAL, AND SOCIAL ISSUES ARISING FROM HUMAN NUCLEAR GENOME EDITING</strong></h2>
+<p>1. The Bioethics Advisory Committee (BAC) is conducting a public consultation
 to seek views and feedback on the ethical, legal, and social issues arising
 from the use of Human Nuclear Genome Editing (HNGE) technologies in biomedical
 research, clinical research, and healthcare. The consultation will be conducted
-from <strong>3 June 2024 to xx August 2024</strong> and the consultation
-paper can be accessed from the <a href="https://www.bioethics-singapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BAC website</a> or <a href="https://www.reach.gov.sg" rel="noopener noreferrer nofollow" target="_blank">REACH Portal</a>.&nbsp;</p>
+from <strong>3 June 2024 to 13 August 2024 </strong>and the consultation
+paper can be accessed from <a href="https://www.bioethics-singapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BAC website</a> or <a href="https://www.reach.gov.sg" rel="noopener noreferrer nofollow" target="_blank">REACH Portal</a>.&nbsp;</p>
 <h3><strong>Ethical Challenges of HNGE applications in biomedical and clinical research, and healthcare</strong></h3>
-<p>2. Applications of HNGE technologies in human biomedical research have
-advanced developments in genetics, disease modelling and therapeutics.
-The increasing use of non-heritable gene editing<sup>1</sup> in clinical
-applications holds promise for treating genetic disorders, infertility,
-enhancing personalised medicine and improving health outcomes. While HNGE
-technologies have the potential to confer resistance to diseases and enhance
-traits in the future, they also raise ethical issues such as unintended
-consequences and long-term effects on individuals and future generations,
-resulting in social inequalities, and other issues on consent. Maintaining
-a balance between scientific innovation and ethical responsibility remains
-a challenge in navigating the complex landscape of HNGE.</p>
+<p>2. In recent years advances in HNGE technologies have resulted in the
+discovery of more precise tools that hold great promise in advancing human
+biomedical research and clinical translation, with the potential to improve
+human health. HNGE technologies in human biomedical research have facilitated
+developments in genetics, disease modelling and therapeutics. The use of
+non-heritable gene editing<sup>1</sup> holds promise for treating genetic
+disorders, infertility, enhancing personalised medicine and improving health
+outcomes. While HNGE technologies have the potential to confer resistance
+to diseases and enhance traits in the future, they also raise ethical issues
+such as unintended consequences and long-term effects on individuals and
+future generations, resulting in social inequalities, and other issues
+on consent. Maintaining a balance between scientific innovation and ethical
+responsibility remains a challenge in navigating the complex landscape
+of HNGE.</p>
 <h3><strong>Scope and Aim of Consultation</strong></h3>
 <p>3. Recognising these ethical challenges, the BAC has developed a public
 consultation paper titled ‘Ethical, Legal, and Social Issues arising from
 Human Nuclear Genome Editing’ to discuss the ethical issues from the use
 of HNGE technologies in biomedical and clinical research and other potential
-clinical applications, such as mosaicism, off-target effects, long-term
-safety, equitable access, the broad effect of genetic enhancement on society,
-and how the HNGE governance framework can be implemented in Singapore.
-The paper also discusses the ethical principles underpinning the applications
-of HNGE, such as respect for persons, solidarity<sup>2</sup>, justice,
-proportionality<sup>3</sup>, sustainability, and responsible stewardship
-of science<sup>4</sup>. The paper is intended to guide academics, researchers,
-healthcare professionals, research and healthcare institutions, Clinical
-Ethics Committees (CECs) and Institutional Review Boards (IRBs) on the
-ethical use of HNGE applications in human biomedical research, clinical
-research, and healthcare.</p>
+clinical applications. These include issues on mosaicism, off-target effects,
+long-term safety, equitable access, the broad effect of genetic enhancement
+on society, and how the HNGE governance framework can be implemented in
+Singapore. The paper also discusses the ethical principles underpinning
+the applications of HNGE, such as <em>respect for persons</em>, <em>solidarity<sup>2</sup></em>, <em>justice</em>, <em>proportionality<sup>3</sup></em>, <em>sustainability</em>,
+and <em>responsible stewardship of science<sup>4</sup></em>. The paper is
+intended to guide academics, researchers, healthcare professionals, research
+and healthcare institutions, Clinical Ethics Committees (CECs) and Institutional
+Review Boards (IRBs) on the ethical use of HNGE applications in human biomedical
+research, clinical research, and healthcare.</p>
 <p>4. The paper builds upon previous BAC reports and recommendations, referencing
 relevant legislation/Acts such as the Human Biomedical Research Act (2015),
 the Human Cloning and Other Prohibited Practices Act (2004), and the Healthcare
