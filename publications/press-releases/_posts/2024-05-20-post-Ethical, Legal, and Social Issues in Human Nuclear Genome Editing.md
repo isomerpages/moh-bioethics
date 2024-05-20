@@ -140,28 +140,31 @@ lead to health risks for donors during the oocyte extraction procedure.
 Another ethical issue involved in the use of embryos for gene editing research
 is potential privacy breach.</p>
 <h4><strong>Ethical Considerations:</strong></h4>
-<p>&nbsp;</p>
-<p><em>i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How do researchers and research institutions weigh the potential benefits of gene editing research on human embryos and oocytes against the ethical and safety concerns?</em>
+<p>&nbsp;<em>i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How do researchers and research institutions weigh the potential benefits of gene editing research on human embryos and oocytes against the ethical and safety concerns?</em>
 </p>
 <p><em>ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What can regulatory authorities do to ensure that embryo or oocyte donors are not receiving any inducement but fairly reciprocated for their contributions to gene editing research?</em>
 </p>
-<p><em>iii.               What can researchers and research institutions do to ensure that the dignity and rights and privacy and confidentiality of individuals who donate embryos or oocytes are protected?</em>
+<p><em>iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What can researchers and research institutions do to ensure that the dignity and rights and privacy and confidentiality of individuals who donate embryos or oocytes are protected?</em>
+</p>
+<p><strong>&nbsp;</strong>
 </p>
 <h4><strong>d. Equitable Access and Allocation of Resources</strong></h4>
 <p>4. Gene editing technologies extend beyond discovering and developing
 therapies, particularly for rare genetic disorders, severe diseases such
-as cancer and treatment of infertility. These technologies can also be
+as cancer, and treatment of infertility. These technologies can also be
 used for enhancing specific traits. However, as with many new modalities
-in medicine, gene editing technologies would give rise to concerns of inequitable
-access by those who are in need but cannot afford them.</p>
+in medicine, gene editing technologies could be prohibitively expensive
+and would give rise to concerns of inequitable access by those who are
+in need but cannot afford them.</p>
 <h4><strong>Ethical Considerations:</strong></h4>
-<p>i. What are the ethical considerations in ensuring equitable access to
-gene editing technologies?</p>
-<p>ii. How do we ensure equitable access to gene editing technologies across
-different socio-economic groups and regions?</p>
-<p>iii. How can researchers and research institutions encourage more Asian
-participation in clinical trials for gene editing technologies to ensure
-inclusivity?</p>
+<p>&nbsp;<em>i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What are the ethical considerations in ensuring equitable access to gene editing technologies?</em>
+</p>
+<p><em>ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How do we ensure equitable access to gene editing technologies across different socio-economic groups and regions?</em>
+</p>
+<p><em>iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How can researchers and research institutions encourage more Asian participation in clinical trials for gene editing technologies to ensure inclusivity?</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
 <h4><strong>e. Genetic Enhancement and the Effects on Society</strong></h4>
 <p>5. Recent advances have increased the possibility that gene editing can
 also be used for purposes that go beyond therapies and medical interventions,
@@ -169,31 +172,33 @@ and the possible applications of gene editing technologies include genetic
 enhancement in areas such as conferring resistance to diseases and enhancement
 of physical attributes and cognitive abilities. Such potential clinical
 applications of gene editing technologies raise several ethical issues.</p>
-<h4><strong>Ethical Considerations:</strong></h4>
-<p>i. What are the ethical considerations involved in using gene editing
-technologies for genetic enhancement?</p>
-<p>ii. How might potential clinical applications of gene editing for genetic
-enhancement impact future generations?</p>
-<p>iii. Should we allow clinical applications of gene editing for genetic
-enhancement?</p>
-<p>iv. What can be done to ensure that gene editing technologies are used
-responsibly and ethically?</p>
+<h4><strong>Ethical Considerations:</strong>&nbsp;</h4>
+<p><em>i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What are the ethical considerations involved in using gene editing technologies for genetic enhancement?</em>
+</p>
+<p><em>ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How might potential clinical applications of gene editing for genetic enhancement impact future generations?</em>
+</p>
+<p><em>iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Should we allow clinical applications of gene editing for genetic enhancement?</em>
+</p>
+<p><em>iv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What can be done to ensure that gene editing technologies are used responsibly and ethically?</em>
+</p>
+<p>&nbsp;</p>
 <p>---</p>
 <h4><strong>Footnotes</strong></h4>
-<p><sup>1</sup>Non-heritable gene editing involves making changes to somatic
-cells, which include all cells in the body that are not involved in reproduction.
-As a result, changes made to these cells cannot be inherited by any children
-of the person receiving the treatment.</p>
-<p><sup>2</sup>Solidarity reflects the willingness and moral obligations
+<p><sup>1</sup>Non-heritable gene editing involves making genetic changes
+to somatic cells, and including all cells in the body that are not involved
+in reproduction. As a result, changes made to these cells cannot be inherited
+by any children of the person receiving the treatment.</p>
+<p><sup>2</sup><em>Solidarity</em> reflects the willingness and moral obligations
 of individuals to share the costs associated with research participation,
 such as potential risks, in return for the common good.</p>
-<p><sup>3</sup>Proportionality requires that the risk in any acceptable programme
-of research, and the stringency of its regulation, should not be disproportionate
-to any anticipated benefits.</p>
-<p><sup>4</sup>Responsible stewardship of science refers to the moral requirement
-to be prudent about the resources and having oversight of all elements
-responsibly, including planning, management, and decision-making in research
-activities in the pursuit of any emerging field in biomedical research.</p>
+<p><sup>3</sup><em>Proportionality</em> requires that the risk in any acceptable
+programme of research, and the stringency of its regulation, should not
+be disproportionate to any anticipated benefits.</p>
+<p><sup>4</sup><em>Responsible stewardship of science</em> refers to the moral
+requirement to be prudent about the resources and having oversight of all
+elements responsibly, including planning, management, and decision-making
+in research activities&nbsp;&nbsp; in the pursuit of any emerging field
+in biomedical research.</p>
 <p><sup>5</sup>Mosaicism is a condition that occurs when a person has two
 or more sets of cells that differ genetically from one another. For example,
 a person with this condition might possess some cells that have 46 chromosomes
