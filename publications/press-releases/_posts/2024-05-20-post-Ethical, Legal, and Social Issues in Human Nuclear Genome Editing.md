@@ -114,46 +114,39 @@ and deletions.</p>
 <p><em>iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Should clinical applications of heritable gene editing be allowed, such as for the treatment of diseases or infertility, given the possibility that future generations may potentially suffer from unintended consequences associated with such applications?</em>
 </p>
 <h4><strong>b. Safety and Long-Term Effects of HNGE</strong></h4>
-<p>2. Gene editing may potentially offer new ways of treating diseases and
-could be used for enhancement of human performance. Nonetheless, it has
-not received general acceptance for widespread use in clinical practice
-as the technology is still in its early phase of development. This raises
-concerns regarding the safety and long-term side effects of the technology
-on individuals receiving the treatment.</p>
+<p>2. Gene editing may potentially offer new ways of treating genetic disorders,
+infertility, enhancing personalised medicine and improving health outcomes.
+However, it has not yet seen widespread use in clinical practice nor evaluated
+over long periods of time in humans as the technology is still in its early
+phase of development and there are concerns regarding the safety and long-term
+side effects of the technology on individuals receiving the treatment.</p>
 <h4><strong>Ethical Considerations:</strong></h4>
-<p>i. How should researchers, research institutions and clinicians ensure
-favourable risk-benefit ratio is achieved for patients or participants
-undergoing clinical trials or clinical interventions involving non-heritable
-gene editing?</p>
-<p>ii. What can researchers do to mitigate challenges and alleviate long-term
-consequences associated with non-heritable gene editing to ensure responsible
-stewardship of science?</p>
-<p>iii. Should clinical applications of heritable gene editing be allowed,
-given the difficulty in predicting the long-term consequences of such applications
-on future generations?</p>
-<p>iv. What are the ethical challenges involved in conducting follow-up studies
-to determine the long-term side effects of gene editing interventions in
-research participants?</p>
+<p><em>i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How should researchers, research institutions, and clinicians ensure favourable risk-benefit ratio is achieved for patients or participants undergoing clinical trials or clinical interventions involving non-heritable gene editing?</em>
+</p>
+<p><em>ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What can researchers do to mitigate challenges and alleviate long-term consequences associated with non-heritable gene editing to ensure responsible stewardship of science?</em>
+</p>
+<p><em>iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Should clinical applications of heritable gene editing be allowed, given the difficulty in predicting the long-term consequences of such applications on future generations?</em>
+</p>
+<p><em>iv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What are the ethical challenges involved in conducting follow-up studies to determine the long-term side effects of gene editing interventions in research participants?</em>
+</p>
 <h4><strong>c. Procurement and Use of Human Embryos and Oocytes in HNGE Research</strong></h4>
-<p>3. Human embryos have been used by researchers on gene editing as a tool
-to enhance knowledge about human gene function and early embryonic development,
-as well as to advance research on infertility, genetic diseases, and intractable
-diseases. While procuring oocytes with the desired genotype from healthy
-individuals can enable researchers to study heterozygous gene mutations
-in embryos for a given disease-causing gene, or to correct a specific gene
-mutation, it may lead to health risks for donors. Another ethical issue
-involved in the use of embryos for gene editing research is potential privacy
-breach.</p>
+<p>3. Regulated research with human embryos have greatly enhanced knowledge
+about human gene function and early embryonic development, as well as advanced
+research on infertility, genetic diseases, and intractable diseases. While
+procuring oocytes with the desired genotype from individuals can enable
+researchers to study gene mutations in embryos for a given disease-causing
+gene, or to evaluate the treatment for a specific gene mutation, it may
+lead to health risks for donors during the oocyte extraction procedure.
+Another ethical issue involved in the use of embryos for gene editing research
+is potential privacy breach.</p>
 <h4><strong>Ethical Considerations:</strong></h4>
-<p>i. How do researchers and research institutions weigh the potential benefits
-of gene editing research on human embryos and oocytes against the ethical
-and safety concerns?</p>
-<p>ii. What can regulatory authorities do to ensure that embryo or oocyte
-donors are not receiving any inducement but fairly reciprocated for their
-contributions to gene editing research?</p>
-<p>iii. What can researchers and research institutions do to ensure that
-the dignity and rights and privacy and confidentiality of individuals who
-donate embryos or oocytes are protected?</p>
+<p>&nbsp;</p>
+<p><em>i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How do researchers and research institutions weigh the potential benefits of gene editing research on human embryos and oocytes against the ethical and safety concerns?</em>
+</p>
+<p><em>ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What can regulatory authorities do to ensure that embryo or oocyte donors are not receiving any inducement but fairly reciprocated for their contributions to gene editing research?</em>
+</p>
+<p><em>iii.               What can researchers and research institutions do to ensure that the dignity and rights and privacy and confidentiality of individuals who donate embryos or oocytes are protected?</em>
+</p>
 <h4><strong>d. Equitable Access and Allocation of Resources</strong></h4>
 <p>4. Gene editing technologies extend beyond discovering and developing
 therapies, particularly for rare genetic disorders, severe diseases such
