@@ -15,7 +15,7 @@ research, clinical research, and healthcare. The consultation will be conducted
 from <strong>3 June 2024 to 13 August 2024 </strong>and the consultation
 paper can be accessed from <a href="https://www.bioethics-singapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BAC website</a> or <a href="https://www.reach.gov.sg" rel="noopener noreferrer nofollow" target="_blank">REACH Portal</a>.&nbsp;</p>
 <h3><strong>Ethical Challenges of HNGE applications in biomedical and clinical research, and healthcare</strong></h3>
-<p>2. In recent years advances in HNGE technologies have resulted in the
+<p>2. In recent years, advances in HNGE technologies have resulted in the
 discovery of more precise tools that hold great promise in advancing human
 biomedical research and clinical translation, with the potential to improve
 human health. HNGE technologies in human biomedical research have facilitated
@@ -85,17 +85,6 @@ to participate in these sessions.</p>
 <p>10. A summary of the main comments/feedback received, together with the
 final advisory report and recommendations will be published on the BAC
 website and REACH Portal in 2025.</p>
-<h3><strong>Big Data and Artificial Intelligence (AI) Advisory Report</strong></h3>
-<p>11. Prior to this public consultation on HNGE, the BAC has been engaging
-the public on critical bioethical issues. An earlier public consultation
-on the ethical issues arising from the use of Big Data and AI in human
-biomedical research was conducted from 2 May 2023 to 14 July 2023. The
-responses gathered from the last public consultation in 2023 have been
-reviewed and incorporated to the advisory report and recommendations which
-will guide academics, researchers, healthcare professionals, CECs, and
-IRBs on the ethical use of Big Data and AI in human biomedical research.
-The completed Big Data and AI advisory report will be published on <a href="https://www.bioethics-singapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BAC website</a> and
-the public can access this report from the website from July 2024.</p>
 <hr>
 <p></p>
 <h3><strong><u>ANNEX A</u></strong></h3>
