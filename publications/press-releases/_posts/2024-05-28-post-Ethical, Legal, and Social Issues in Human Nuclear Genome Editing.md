@@ -53,8 +53,7 @@ As part of the public consultation, the BAC will also conduct focus group
 discussions with representatives from various academic, research and healthcare
 institutions, CECs, IRBs, professional bodies and societies, religious
 organisations, as well as industry partners in July and August to gather
-their views on the issues.<strong> </strong>
-</p>
+their views on the issues.</p>
 <h3><strong>Feedback Channels</strong></h3>
 <p>7. The public consultation paper can be accessed from the <a href="https://www.bioethics-singapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BAC website</a> or
 <a href="https://www.reach.gov.sg" rel="noopener noreferrer nofollow" target="_blank">REACH Portal</a>. Members of the public are invited to provide feedback
@@ -174,4 +173,5 @@ or more sets of cells that differ genetically from one another. For example,
 a person with this condition might possess some cells that have 46 chromosomes
 while other cells have 47 chromosomes.</p>
 <hr>
-<p>[Press Release (PDF)] &lt;to insert&gt;</p>
+<p><a href="/files/publications/press-releases/HNGE_Public_Consultation_Press_Release_vF.pdf" rel="noopener noreferrer nofollow" target="_blank">Press Release (PDF)</a>
+</p>
