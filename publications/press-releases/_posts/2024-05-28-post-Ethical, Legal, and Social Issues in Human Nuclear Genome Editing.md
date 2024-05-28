@@ -8,62 +8,55 @@ image: ""
 variant: tiptap
 ---
 <h2><strong>PUBLIC CONSULTATION ON ETHICAL, LEGAL, AND SOCIAL ISSUES ARISING FROM HUMAN NUCLEAR GENOME EDITING</strong></h2>
-<p>1. The Bioethics Advisory Committee (BAC) is conducting a public consultation
-to seek views and feedback on the ethical, legal, and social issues arising
-from the use of Human Nuclear Genome Editing (HNGE) technologies in biomedical
-research, clinical research, and healthcare. The consultation will be conducted
-from <strong>3 June 2024 to 13 August 2024 </strong>and the consultation
-paper can be accessed from <a href="https://www.bioethics-singapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BAC website</a> or <a href="https://www.reach.gov.sg" rel="noopener noreferrer nofollow" target="_blank">REACH Portal</a>.&nbsp;</p>
+<p>1. The Bioethics Advisory Committee (BAC) will conduct a public consultation
+from <strong>3 June 2024 to 13 August 2024</strong> to seek views and feedback
+on the ethical, legal, and social issues arising from the use of Human
+Nuclear Genome Editing (HNGE) technologies in biomedical research, clinical
+research, and healthcare. The consultation paper can be accessed from
+<a href="https://www.bioethics-singapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BAC website</a>or <a href="https://www.reach.gov.sg" rel="noopener noreferrer nofollow" target="_blank">REACH Portal</a>.&nbsp;</p>
 <h3><strong>Ethical Challenges of HNGE applications in biomedical and clinical research, and healthcare</strong></h3>
 <p>2. In recent years, advances in HNGE technologies have resulted in the
-discovery of more precise tools that hold great promise in advancing human
-biomedical research and clinical translation, with the potential to improve
-human health. HNGE technologies in human biomedical research have facilitated
-developments in genetics, disease modelling and therapeutics. The use of
-non-heritable gene editing<sup>1</sup> holds promise for treating genetic
-disorders, infertility, enhancing personalised medicine and improving health
-outcomes. While HNGE technologies have the potential to confer resistance
-to diseases and enhance traits in the future, they also raise ethical issues
-such as unintended consequences and long-term effects on individuals and
-future generations, resulting in social inequalities, and other issues
-on consent. Maintaining a balance between scientific innovation and ethical
-responsibility remains a challenge in navigating the complex landscape
-of HNGE.</p>
+discovery of more precise tools that could further advance human biomedical
+research to improve patient outcomes. For example, the use of non-heritable
+gene editing<sup>1</sup> holds promise for treating genetic disorders, infertility,
+enhancing personalised medicine and improving health outcomes. However,
+these technologies also raise ethical issues such as the unintended consequences
+and long-term effects on individuals and future generations resulting in
+social inequalities, and issues on consent. Maintaining a balance between
+scientific innovation and ethical responsibility remains a challenge in
+navigating the complex landscape of HNGE.</p>
 <h3><strong>Scope and Aim of Consultation</strong></h3>
 <p>3. Recognising these ethical challenges, the BAC has developed a public
 consultation paper titled ‘Ethical, Legal, and Social Issues arising from
-Human Nuclear Genome Editing’ to discuss the ethical issues from the use
-of HNGE technologies in biomedical and clinical research and other potential
-clinical applications. These include issues on mosaicism, off-target effects,
-long-term safety, equitable access, the broad effect of genetic enhancement
-on society, and how the HNGE governance framework can be implemented in
-Singapore. The paper also discusses the ethical principles underpinning
-the applications of HNGE, such as <em>respect for persons</em>, <em>solidarity<sup>2</sup></em>, <em>justice</em>, <em>proportionality<sup>3</sup></em>, <em>sustainability</em>,
-and <em>responsible stewardship of science<sup>4</sup></em>. The paper is
-intended to guide academics, researchers, healthcare professionals, research
-and healthcare institutions, Clinical Ethics Committees (CECs) and Institutional
-Review Boards (IRBs) on the ethical use of HNGE applications in human biomedical
+Human Nuclear Genome Editing’ to seek views on the ethical issues from
+the use of HNGE technologies in biomedical and clinical research and other
+potential clinical applications. The paper also discusses the ethical principles
+underpinning the applications of HNGE.&nbsp; The paper is intended to guide
+academics, researchers, healthcare professionals, research and healthcare
+institutions, Clinical Ethics Committees (CECs) and Institutional Review
+Boards (IRBs) on the ethical use of HNGE applications in human biomedical
 research, clinical research, and healthcare.</p>
 <p>4. The paper builds upon previous BAC reports and recommendations, referencing
 relevant legislation/Acts such as the Human Biomedical Research Act (2015),
 the Human Cloning and Other Prohibited Practices Act (2004), and the Healthcare
 Services Act (2020).</p>
-<p>5. Through the public consultation, the BAC aims to gather inputs from
+<p>5. Through the public consultation, the BAC aims to gather views from
 academics, researchers, research and healthcare institutions, healthcare
 professionals, professional bodies and societies, CECs, IRBs, religious
-organisations, industry partners, and the public on key ethical questions
-and issues discussed in the consultation paper. Please refer to <strong><u>Annex A</u></strong> for
-the outline of key ethical questions and issues raised in the consultation
-paper.</p>
-<p>6. The views of the public, academic, research, and healthcare institutions,
-CECs, IRBs, professional bodies and societies, religious organisations,
-and other interested organisations will assist the BAC in developing its
-recommendations.</p>
+organisations, industry partners, as well as the public on key ethical
+questions and issues, which will assist the BAC in developing its recommendations.
+Please refer to <strong><u>Annex A</u></strong> for the outline of key ethical
+questions and issues raised in the consultation paper.</p>
 <h3><strong>Period of Consultation</strong></h3>
-<p>7. The public consultation will last for a period of two months from <strong>3 June 2024 to 13 August 2024. </strong>All
-comments should be sent and reach the BAC by <strong><u>13 August</u></strong><u> </u><strong><u>2024</u></strong>.</p>
+<p>6. The public consultation will take place from <strong>3 June 2024 to 13 August 2024</strong>.
+As part of the public consultation, the BAC will also conduct focus group
+discussions with representatives from various academic, research and healthcare
+institutions, CECs, IRBs, professional bodies and societies, religious
+organisations, as well as industry partners in July and August to gather
+their views on the issues.<strong> </strong>
+</p>
 <h3><strong>Feedback Channels</strong></h3>
-<p>8. The public consultation paper can be accessed from the <a href="https://www.bioethics-singapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BAC website</a> or
+<p>7. The public consultation paper can be accessed from the <a href="https://www.bioethics-singapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BAC website</a> or
 <a href="https://www.reach.gov.sg" rel="noopener noreferrer nofollow" target="_blank">REACH Portal</a>. Members of the public are invited to provide feedback
 on the issues discussed in the public consultation paper through the following
 channels:</p>
@@ -76,20 +69,16 @@ channels:</p>
 <p>Singapore 099253</p>
 <p>c. By online <a href="https://go.gov.sg/hnge-respondent-form" rel="noopener noreferrer nofollow" target="_blank">feedback form</a>
 </p>
-<p>9. There will be focus group discussions conducted virtually and/or physically
-in July and August 2024. The BAC will invite representatives from various
-academic, research and healthcare institutions, CECs, IRBs, professional
-bodies and societies, religious organisations, as well as industry partners
-to participate in these sessions.</p>
+<p>All comments should be sent and reach the BAC by <strong><u>13 August</u></strong><u> </u><strong><u>2024</u></strong>.</p>
 <h3><strong>Summary of Response</strong></h3>
-<p>10. A summary of the main comments/feedback received, together with the
+<p>8. A summary of the main comments/feedback received, together with the
 final advisory report and recommendations will be published on the BAC
 website and REACH Portal in 2025.</p>
 <hr>
 <p></p>
 <h3><strong><u>ANNEX A</u></strong></h3>
 <h3><strong>[Invitation To Comment] Public Consultation Paper: Ethical, Legal, and Social Issues Arising from Human Nuclear Genome Editing</strong></h3>
-<h4><strong>a. Mosaicism<sup>5</sup>, Off-Target Effects, and On-Target Undesirable Modifications</strong></h4>
+<h4><strong>a. Mosaicism<sup>2</sup>, Off-Target Effects, and On-Target Undesirable Modifications</strong></h4>
 <p>1. Gene editing technologies could enable corrections to the genomic sequence
 to rectify or remove mutations that lead to adverse health conditions.
 Such technologies could also lead to unintended biological outcomes such
@@ -180,18 +169,7 @@ applications of gene editing technologies raise several ethical issues.</p>
 to somatic cells, and including all cells in the body that are not involved
 in reproduction. As a result, changes made to these cells cannot be inherited
 by any children of the person receiving the treatment.</p>
-<p><sup>2</sup><em>Solidarity</em> reflects the willingness and moral obligations
-of individuals to share the costs associated with research participation,
-such as potential risks, in return for the common good.</p>
-<p><sup>3</sup><em>Proportionality</em> requires that the risk in any acceptable
-programme of research, and the stringency of its regulation, should not
-be disproportionate to any anticipated benefits.</p>
-<p><sup>4</sup><em>Responsible stewardship of science</em> refers to the moral
-requirement to be prudent about the resources and having oversight of all
-elements responsibly, including planning, management, and decision-making
-in research activities&nbsp;&nbsp; in the pursuit of any emerging field
-in biomedical research.</p>
-<p><sup>5</sup>Mosaicism is a condition that occurs when a person has two
+<p><sup>2</sup>Mosaicism is a condition that occurs when a person has two
 or more sets of cells that differ genetically from one another. For example,
 a person with this condition might possess some cells that have 46 chromosomes
 while other cells have 47 chromosomes.</p>
