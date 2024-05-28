@@ -74,7 +74,6 @@ channels:</p>
 final advisory report and recommendations will be published on the BAC
 website and REACH Portal in 2025.</p>
 <hr>
-<p></p>
 <h3><strong><u>ANNEX A</u></strong></h3>
 <h3><strong>[Invitation To Comment] Public Consultation Paper: Ethical, Legal, and Social Issues Arising from Human Nuclear Genome Editing</strong></h3>
 <h4><strong>a. Mosaicism<sup>2</sup>, Off-Target Effects, and On-Target Undesirable Modifications</strong></h4>
@@ -159,9 +158,7 @@ applications of gene editing technologies raise several ethical issues.</p>
 </p>
 <p><em>iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Should we allow clinical applications of gene editing for genetic enhancement?</em>
 </p>
-<p><em>iv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What can be done to ensure that gene editing technologies are used responsibly and ethically?</em>
-</p>
-<p>&nbsp;</p>
+<p><em>iv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What can be done to ensure that gene editing technologies are used responsibly and ethically?</em>&nbsp;</p>
 <hr>
 <h4><strong>Footnotes</strong></h4>
 <p><sup>1</sup>Non-heritable gene editing involves making genetic changes
