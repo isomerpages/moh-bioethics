@@ -55,9 +55,9 @@ Director of the Paediatric Ethics Program, Centre for Biomedical Ethics<br>
 Yong Loo Lin School of Medicine, National University of Singapore
 
 **Associate Professor Lai Poh San**<br>
-Associate Professor, Department of Paediatrics; and<br>
-Deputy Chairman, NUS Institutional Biosafety Committee<br>
-National University of Singapore
+Associate Professor, Department of Paediatrics, Yong Loo Lin School of Medicine, National University of Singapore; <br>
+Deputy Chair, NUS Institutional Biosafety Committee; and<br>
+Chair, MD1 Tahir Foundation Building Research Safety Committee
 
 **Mr Charles Lim Aeng Cheng**<br>
 Principal Senior State Counsel, Legislation Division<br>

@@ -1,11 +1,12 @@
 ---
-title: Ethical, Legal and Social Issues Arising from Big Data and Artificial
+title: Ethical, Legal, and Social Issues Arising from Big Data and Artificial
   Intelligence
 permalink: /publications/press-releases/bac-bdai-press-release/
 date: 2023-05-02
 layout: post
 description: ""
 image: ""
+variant: tiptap
 ---
 **PUBLIC CONSULTATION ON ETHICAL, LEGAL AND SOCIAL ISSUES ARISING FROM BIG DATA AND ARTIFICIAL INTELLIGENCE USE IN HUMAN BIOMEDICAL RESEARCH**
 
