@@ -13,7 +13,7 @@ from <strong>3 June 2024 to 13 August 2024</strong> to seek views and feedback
 on the ethical, legal, and social issues arising from the use of Human
 Nuclear Genome Editing (HNGE) technologies in biomedical research, clinical
 research, and healthcare. The consultation paper can be accessed from
-<a href="https://www.bioethics-singapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BAC</a>website or <a href="https://go.gov.sg/feedback-hnge" rel="noopener noreferrer nofollow" target="_blank">REACH Portal</a>.&nbsp;</p>
+<a href="https://www.bioethics-singapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BAC website</a>or <a href="https://go.gov.sg/feedback-hnge" rel="noopener noreferrer nofollow" target="_blank">REACH Portal</a>.&nbsp;</p>
 <h3><strong>Ethical Challenges of HNGE applications in biomedical and clinical research, and healthcare</strong></h3>
 <p>2. In recent years, advances in HNGE technologies have resulted in the
 discovery of more precise tools that could further advance human biomedical
