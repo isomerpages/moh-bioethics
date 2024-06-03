@@ -12,8 +12,8 @@ variant: tiptap
 from <strong>3 June 2024 to 13 August 2024</strong> to seek views and feedback
 on the ethical, legal, and social issues arising from the use of Human
 Nuclear Genome Editing (HNGE) technologies in biomedical research, clinical
-research, and healthcare. The consultation paper can be accessed from
-<a href="https://www.bioethics-singapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BAC website</a>or <a href="https://go.gov.sg/feedback-hnge" rel="noopener noreferrer nofollow" target="_blank">REACH Portal</a>.&nbsp;</p>
+research, and healthcare. The consultation paper can be accessed from the
+<a href="https://www.bioethics-singapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BAC website</a>or <a href="https://go.gov.sg/feedback-hnge" rel="noopener noreferrer nofollow" target="_blank">REACH Portal</a>.</p>
 <h3><strong>Ethical Challenges of HNGE applications in biomedical and clinical research, and healthcare</strong></h3>
 <p>2. In recent years, advances in HNGE technologies have resulted in the
 discovery of more precise tools that could further advance human biomedical
@@ -56,7 +56,7 @@ organisations, as well as industry partners in July and August to gather
 their views on the issues.</p>
 <h3><strong>Feedback Channels</strong></h3>
 <p>7. The public consultation paper can be accessed from the <a href="https://www.bioethics-singapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BAC website</a> or
-<a href="https://www.reach.gov.sg" rel="noopener noreferrer nofollow" target="_blank">REACH Portal</a>. Members of the public are invited to provide feedback
+<a href="https://go.gov.sg/feedback-hnge" rel="noopener noreferrer nofollow" target="_blank">REACH Portal</a>. Members of the public are invited to provide feedback
 on the issues discussed in the public consultation paper through the following
 channels:</p>
 <p>a. By email to:&nbsp;&nbsp;&nbsp;&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">bioethics_singapore@moh.gov.sg</a>
