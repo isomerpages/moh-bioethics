@@ -170,5 +170,5 @@ or more sets of cells that differ genetically from one another. For example,
 a person with this condition might possess some cells that have 46 chromosomes
 while other cells have 47 chromosomes.</p>
 <hr>
-<p><a href="/files/publications/press-releases/HNGE_Public_Consultation_Press_Release_vF.pdf" rel="noopener noreferrer nofollow" target="_blank">Press Release (PDF)</a>
+<p><a href="/files/publications/press-releases/Press_Release_HNGE_Public_Consultation_3_June_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Press Release (PDF)</a>
 </p>
