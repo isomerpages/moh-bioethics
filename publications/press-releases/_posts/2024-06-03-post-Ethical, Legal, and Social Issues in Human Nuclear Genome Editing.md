@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <h2><strong>PUBLIC CONSULTATION ON ETHICAL, LEGAL, AND SOCIAL ISSUES ARISING FROM HUMAN NUCLEAR GENOME EDITING</strong></h2>
 <p>1. The Bioethics Advisory Committee (BAC) will conduct a public consultation
-from <strong>3 June 2024 to 13 August 2024</strong> to seek views and feedback
+from <strong>6 June 2024 to 16 August 2024</strong> to seek views and feedback
 on the ethical, legal, and social issues arising from the use of Human
 Nuclear Genome Editing (HNGE) technologies in biomedical research, clinical
 research, and healthcare. The consultation paper can be accessed from the
@@ -48,7 +48,7 @@ questions and issues, which will assist the BAC in developing its recommendation
 Please refer to <strong><u>Annex A</u></strong> for the outline of key ethical
 questions and issues raised in the consultation paper.</p>
 <h3><strong>Period of Consultation</strong></h3>
-<p>6. The public consultation will take place from <strong>3 June 2024 to 13 August 2024</strong>.
+<p>6. The public consultation will take place from <strong>6 June 2024 to 16 August 2024</strong>.
 As part of the public consultation, the BAC will also conduct focus group
 discussions with representatives from various academic, research and healthcare
 institutions, CECs, IRBs, professional bodies and societies, religious
@@ -68,7 +68,7 @@ channels:</p>
 <p>Singapore 099253</p>
 <p>c. By online <a href="https://go.gov.sg/hnge-respondent-form" rel="noopener noreferrer nofollow" target="_blank">feedback form</a>
 </p>
-<p>All comments should be sent and reach the BAC by <strong><u>13 August</u></strong><u> </u><strong><u>2024</u></strong>.</p>
+<p>All comments should be sent and reach the BAC by <strong><u>16 August</u></strong><u> </u><strong><u>2024</u></strong>.</p>
 <h3><strong>Summary of Response</strong></h3>
 <p>8. A summary of the main comments/feedback received, together with the
 final advisory report and recommendations will be published on the BAC
