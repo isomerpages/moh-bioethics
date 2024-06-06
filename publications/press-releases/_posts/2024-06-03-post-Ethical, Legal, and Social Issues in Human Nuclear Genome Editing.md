@@ -31,11 +31,11 @@ consultation paper titled ‘Ethical, Legal, and Social Issues arising from
 Human Nuclear Genome Editing’ to seek views on the ethical issues from
 the use of HNGE technologies in biomedical and clinical research and other
 potential clinical applications. The paper also discusses the ethical principles
-underpinning the applications of HNGE.&nbsp; The paper is intended to guide
-academics, researchers, healthcare professionals, research and healthcare
-institutions, Clinical Ethics Committees (CECs) and Institutional Review
-Boards (IRBs) on the ethical use of HNGE applications in human biomedical
-research, clinical research, and healthcare.</p>
+underpinning the applications of HNGE. The paper is intended to guide academics,
+researchers, healthcare professionals, research and healthcare institutions,
+Clinical Ethics Committees (CECs) and Institutional Review Boards (IRBs)
+on the ethical use of HNGE applications in human biomedical research, clinical
+research, and healthcare.</p>
 <p>4. The paper builds upon previous BAC reports and recommendations, referencing
 relevant legislation/Acts such as the Human Biomedical Research Act (2015),
 the Human Cloning and Other Prohibited Practices Act (2004), and the Healthcare
