@@ -1,7 +1,7 @@
 ---
 title: Ethical, Legal, and Social Issues in Human Nuclear Genome Editing
 permalink: /publications/press-releases/bac-hnge-press-release/
-date: 2024-06-03
+date: 2024-06-06
 layout: post
 description: ""
 image: ""
@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <h2><strong>PUBLIC CONSULTATION ON ETHICAL, LEGAL, AND SOCIAL ISSUES ARISING FROM HUMAN NUCLEAR GENOME EDITING</strong></h2>
 <p>1. The Bioethics Advisory Committee (BAC) will conduct a public consultation
-from <strong>3 June 2024 to 13 August 2024</strong> to seek views and feedback
+from <strong>6 June 2024 to 16 August 2024</strong> to seek views and feedback
 on the ethical, legal, and social issues arising from the use of Human
 Nuclear Genome Editing (HNGE) technologies in biomedical research, clinical
 research, and healthcare. The consultation paper can be accessed from the
@@ -31,11 +31,11 @@ consultation paper titled ‘Ethical, Legal, and Social Issues arising from
 Human Nuclear Genome Editing’ to seek views on the ethical issues from
 the use of HNGE technologies in biomedical and clinical research and other
 potential clinical applications. The paper also discusses the ethical principles
-underpinning the applications of HNGE.&nbsp; The paper is intended to guide
-academics, researchers, healthcare professionals, research and healthcare
-institutions, Clinical Ethics Committees (CECs) and Institutional Review
-Boards (IRBs) on the ethical use of HNGE applications in human biomedical
-research, clinical research, and healthcare.</p>
+underpinning the applications of HNGE. The paper is intended to guide academics,
+researchers, healthcare professionals, research and healthcare institutions,
+Clinical Ethics Committees (CECs) and Institutional Review Boards (IRBs)
+on the ethical use of HNGE applications in human biomedical research, clinical
+research, and healthcare.</p>
 <p>4. The paper builds upon previous BAC reports and recommendations, referencing
 relevant legislation/Acts such as the Human Biomedical Research Act (2015),
 the Human Cloning and Other Prohibited Practices Act (2004), and the Healthcare
@@ -48,7 +48,7 @@ questions and issues, which will assist the BAC in developing its recommendation
 Please refer to <strong><u>Annex A</u></strong> for the outline of key ethical
 questions and issues raised in the consultation paper.</p>
 <h3><strong>Period of Consultation</strong></h3>
-<p>6. The public consultation will take place from <strong>3 June 2024 to 13 August 2024</strong>.
+<p>6. The public consultation will take place from <strong>6 June 2024 to 16 August 2024</strong>.
 As part of the public consultation, the BAC will also conduct focus group
 discussions with representatives from various academic, research and healthcare
 institutions, CECs, IRBs, professional bodies and societies, religious
@@ -68,7 +68,7 @@ channels:</p>
 <p>Singapore 099253</p>
 <p>c. By online <a href="https://go.gov.sg/hnge-respondent-form" rel="noopener noreferrer nofollow" target="_blank">feedback form</a>
 </p>
-<p>All comments should be sent and reach the BAC by <strong><u>13 August</u></strong><u> </u><strong><u>2024</u></strong>.</p>
+<p>All comments should be sent and reach the BAC by <strong><u>16 August</u></strong><u> </u><strong><u>2024</u></strong>.</p>
 <h3><strong>Summary of Response</strong></h3>
 <p>8. A summary of the main comments/feedback received, together with the
 final advisory report and recommendations will be published on the BAC
@@ -170,5 +170,5 @@ or more sets of cells that differ genetically from one another. For example,
 a person with this condition might possess some cells that have 46 chromosomes
 while other cells have 47 chromosomes.</p>
 <hr>
-<p><a href="/files/publications/press-releases/Press_Release_HNGE_Public_Consultation_3_June_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Press Release (PDF)</a>
+<p><a href="/files/publications/press-releases/Press_Release_for_HNGE_Public_Consultation__6_June_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">Press Release (PDF)</a>
 </p>
