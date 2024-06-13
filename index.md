@@ -40,15 +40,15 @@ sections:
           url: https://go.gov.sg/hnge-respondent-form
         - title: Focus Group Discussion
           description: 22 July 2024, Monday, 10am – 1pm
-          linktext: Register
+          linktext: Register here
           url: https://go.gov.sg/hnge-fgd1
         - title: Focus Group Discussion
           description: 26 July 2024, Friday, 1pm – 4pm
-          linktext: Register
+          linktext: Register here
           url: https://go.gov.sg/hnge-fgd2
         - title: Focus Group Discussion
           description: 13 August 2024, Tuesday, 9am – 12pm
-          linktext: Register
+          linktext: Register here
           url: https://go.gov.sg/hnge-fgd3
   - infopic:
       title: Human Nuclear Genome Editing
