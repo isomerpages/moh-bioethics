@@ -34,6 +34,10 @@ sections:
       id: textcards
       description: Public Consultation
       cards:
+        - title: Respondent’s Form
+          description: Give your feedback here
+          linktext: Find out more
+          url: https://go.gov.sg/hnge-respondent-form
         - title: Focus Group Discussion
           description: 22 July 2024, Monday, 10am – 1pm
           linktext: Register
