@@ -36,6 +36,7 @@ sections:
       button: LEARN MORE
       url: https://www.bioethics-singapore.gov.sg/publications/press-releases/bac-hnge-press-release/
       image: /images/Human Nuclear Genome Editing/HNGE_pic.png
+      alt: Human Nuclear Genome Editing
   - infopic:
       title: Bioethics Corner
       subtitle: check out the
