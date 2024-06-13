@@ -2,22 +2,23 @@
 title: Member States
 permalink: /asian-bioethics-network/abn-member-states/
 description: ""
+variant: tiptap
 ---
-### **Asian Bioethics Network Member States**
-
-**Australia**  
-**Bhutan**  
-**Brunei**
-<br>**China**
-<br>**India**
-<br>**Myanmar**
-<br>**Nepal**
-<br>**New Zealand**
-<br>**Philippines**
-<br>**Singapore**  
-**South Korea**
-<br>**Sri Lanka**  
-**Thailand**
-<br>**Vietnam**
-
-(as of 04 Sep 2023)
+<h2><strong>Asian Bioethics Network Member States</strong></h2>
+<p><strong>Australia</strong>
+<br><strong>Bhutan</strong>
+<br><strong>Brunei</strong>
+<br><strong>China</strong>
+<br><strong>India</strong>
+<br><strong>Japan</strong>
+<br><strong>Myanmar</strong>
+<br><strong>Nepal</strong>
+<br><strong>New Zealand</strong>
+<br><strong>Philippines</strong>
+<br><strong>Singapore</strong>
+<br><strong>South Korea</strong>
+<br><strong>Sri Lanka</strong>
+<br><strong>Thailand</strong>
+<br><strong>Vietnam</strong>
+</p>
+<p>(as of Jun 2024)</p>
