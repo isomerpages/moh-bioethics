@@ -39,7 +39,6 @@ sections:
       title: Be in the know
       subtitle: Publications
       button: More Publications
-      url: publications/
 description: Description
 image: /images/isomer-logo.svg
 ---
