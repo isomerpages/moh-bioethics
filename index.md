@@ -2,7 +2,10 @@
 layout: homepage
 title: Bioethics Advisory Committee
 permalink: /
-notification: ""
+notification: The BAC is conducting a public consultation on Human Nuclear
+  Genome Editing (HNGE) from 6 June 2024 to 16 August 2024. Focus Group
+  Discussion sessions will be held in July and August 2024. For more information
+  on how to register, please refer to the links below.
 sections:
   - hero:
       background: /images/20th Anniversary images/bac 20th anniversary banner blue1.png
