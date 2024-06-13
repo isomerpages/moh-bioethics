@@ -1,0 +1,18 @@
+logo: /images/logo4.jpg
+links:
+  - title: Who We Are
+    collection: who-we-are
+  - title: Bioethics Resource
+    collection: bioethics-resource
+  - title: Activities
+    collection: activities
+  - title: Publications
+    resource_room: true
+  - title: BAC's 20th Anniversary
+    collection: bac-20th-anniversary
+  - title: Asian Bioethics Network
+    collection: asian-bioethics-network
+  - title: FAQ
+    url: /faq/
+  - title: Contact Us
+    url: /contactus/

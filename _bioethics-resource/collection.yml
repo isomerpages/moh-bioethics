@@ -1,0 +1,8 @@
+collections:
+  bioethics-resource:
+    output: true
+    order:
+      - bioethics-background.md
+      - Bioethics Corner.md
+      - useful-links.md
+      - useful-publications.md
