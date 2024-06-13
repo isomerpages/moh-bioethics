@@ -29,7 +29,7 @@ sections:
       backgroundColor: white
       button: enter
   - infobar:
-      title: Big Data and Artificial Intelligence
+      title: Human Nuclear Genome Editing
       subtitle: Check out our
       description: Public Consultation
       button: Learn more
@@ -46,6 +46,14 @@ sections:
       title: Be in the know
       subtitle: Publications
       button: More Publications
+  - infopic:
+      title: Human Nuclear Genome Editing
+      subtitle: CHECK OUT OUR
+      id: infopic
+      description: Public Consultation
+      button: LEARN MORE
+      url: https://www.bioethics-singapore.gov.sg/publications/press-releases/bac-hnge-press-release/
+      image: /images/Human Nuclear Genome Editing/HNGE_pic.png
 description: Description
 image: /images/isomer-logo.svg
 ---
