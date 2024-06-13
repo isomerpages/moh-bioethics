@@ -24,6 +24,7 @@ sections:
       size: sm
       alignment: left
       backgroundColor: white
+      button: enter
   - infobar:
       title: Big Data and Artificial Intelligence
       subtitle: Check out our
