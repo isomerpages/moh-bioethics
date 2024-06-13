@@ -20,7 +20,10 @@ sections:
         - title: Current Projects
           description: More information here
           url: https://www.bioethics-singapore.gov.sg/activities/current-projects/
-      variant: center
+      variant: image
+      size: sm
+      alignment: left
+      backgroundColor: white
   - infobar:
       title: Big Data and Artificial Intelligence
       subtitle: Check out our
