@@ -50,10 +50,9 @@ sections:
           linktext: Register here
           url: https://go.gov.sg/hnge-fgd3
   - infopic:
-      title: Human Nuclear Genome Editing
+      title: Human Nuclear Genome Editing Public Consultation
       subtitle: CHECK OUT the
       id: infopic
-      description: Public Consultation
       button: LEARN MORE
       url: https://www.bioethics-singapore.gov.sg/publications/press-releases/bac-hnge-press-release/
       image: /images/Human Nuclear Genome Editing/HNGE_pic.png
