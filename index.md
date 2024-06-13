@@ -58,10 +58,9 @@ sections:
       image: /images/Human Nuclear Genome Editing/HNGE_pic.png
       alt: Human Nuclear Genome Editing
   - infopic:
-      title: Human Nuclear Genome Editing
+      title: Human Nuclear Genome Editing Public Consultation Paper
       subtitle: Access the
       id: infopic
-      description: Public Consultation Paper
       button: read more
       url: https://www.bioethics-singapore.gov.sg/files/publications/consultation-papers/hnge_public_consultation_paper.pdf
       image: /images/Human Nuclear Genome Editing/HNGE_report_pic.png
