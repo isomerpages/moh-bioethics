@@ -66,9 +66,8 @@ sections:
       image: /images/NLB   Bioethics Corner/p8a1015.jpg
       alt: Bioethics Corner
   - announcements:
-      title: Announcements
+      title: Past Press Releases
       id: announcements
-      subtitle: Add a list of announcements with dates
       announcement_items:
         - title: Ethical, Legal, and Social Issues Arising from Big Data and Artificial
             Intelligence
