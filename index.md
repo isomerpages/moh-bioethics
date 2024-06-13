@@ -45,11 +45,15 @@ sections:
           linktext: Register here
           url: https://go.gov.sg/hnge-fgd1
         - title: Focus Group Discussion
-          description: 26 July 2024, Friday, 1pm – 4pm
+          description: |-
+            26 July 2024, Friday, 
+            1pm – 4pm
           linktext: Register here
           url: https://go.gov.sg/hnge-fgd2
         - title: Focus Group Discussion
-          description: 13 August 2024, Tuesday, 9am – 12pm
+          description: |-
+            13 August 2024, Tuesday, 
+            9am – 12pm
           linktext: Register here
           url: https://go.gov.sg/hnge-fgd3
   - infopic:
