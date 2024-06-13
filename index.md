@@ -58,6 +58,15 @@ sections:
       image: /images/Human Nuclear Genome Editing/HNGE_pic.png
       alt: Human Nuclear Genome Editing
   - infopic:
+      title: Human Nuclear Genome Editing
+      subtitle: Access the
+      id: infopic
+      description: Public Consultation Paper
+      button: read more
+      url: https://www.bioethics-singapore.gov.sg/files/publications/consultation-papers/hnge_public_consultation_paper.pdf
+      image: /images/Human Nuclear Genome Editing/HNGE_report_pic.png
+      alt: HNGE public consultation paper
+  - infopic:
       title: Bioethics Corner
       subtitle: check out the
       description: Level 7, Lee Kong Chian Reference Library, National Library Building
@@ -75,15 +84,6 @@ sections:
           announcement: The public consultation was conducted from 2 May to 14 July 2023.
           link_text: Press Release
           link_url: https://www.bioethics-singapore.gov.sg/publications/press-releases/bac-bdai-press-release/
-  - infopic:
-      title: Human Nuclear Genome Editing
-      subtitle: Access the
-      id: infopic
-      description: Public Consultation Paper
-      button: read more
-      url: https://www.bioethics-singapore.gov.sg/files/publications/consultation-papers/hnge_public_consultation_paper.pdf
-      image: /images/Human Nuclear Genome Editing/HNGE_report_pic.png
-      alt: HNGE public consultation paper
 description: Description
 image: /images/isomer-logo.svg
 ---
