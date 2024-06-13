@@ -41,11 +41,11 @@ sections:
         - title: Focus Group Discussion
           description: 26 July 2024, Friday, 1pm – 4pm
           linktext: Register
-          url: "https://go.gov.sg/hnge-fgd2 "
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
+          url: https://go.gov.sg/hnge-fgd2
+        - title: Focus Group Discussion
+          description: "13 August 2024, Tuesday, 9am – 12pm "
+          linktext: Register
+          url: "https://go.gov.sg/hnge-fgd3 "
   - infopic:
       title: Human Nuclear Genome Editing
       subtitle: CHECK OUT the
