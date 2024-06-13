@@ -28,6 +28,24 @@ sections:
       alignment: left
       backgroundColor: white
       button: enter
+  - textcards:
+      title: Human Nuclear Genome Editing
+      subtitle: from 6 June to 16 August 2024
+      id: textcards
+      description: Public Consultation
+      cards:
+        - title: Focus Group Discussion
+          description: 22 July 2024, Monday, 10am – 1pm
+          linktext: Register
+          url: "https://go.gov.sg/hnge-fgd1 "
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
   - infopic:
       title: Human Nuclear Genome Editing
       subtitle: CHECK OUT the
