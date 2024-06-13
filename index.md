@@ -39,7 +39,9 @@ sections:
           linktext: View more
           url: https://go.gov.sg/hnge-respondent-form
         - title: Focus Group Discussion
-          description: 22 July 2024, Monday, 10am – 1pm
+          description: |-
+            22 July 2024, Monday, 
+            10am – 1pm
           linktext: Register here
           url: https://go.gov.sg/hnge-fgd1
         - title: Focus Group Discussion
