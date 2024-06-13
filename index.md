@@ -28,12 +28,14 @@ sections:
       alignment: left
       backgroundColor: white
       button: enter
-  - infobar:
+  - infopic:
       title: Human Nuclear Genome Editing
-      subtitle: Check out our
+      subtitle: CHECK OUT the
+      id: infopic
       description: Public Consultation
-      button: Learn more
-      url: /publications/press-releases/bac-bdai-press-release/
+      button: LEARN MORE
+      url: https://www.bioethics-singapore.gov.sg/publications/press-releases/bac-hnge-press-release/
+      image: /images/Human Nuclear Genome Editing/HNGE_pic.png
   - infopic:
       title: Bioethics Corner
       subtitle: check out the
@@ -46,14 +48,6 @@ sections:
       title: Be in the know
       subtitle: Publications
       button: More Publications
-  - infopic:
-      title: Human Nuclear Genome Editing
-      subtitle: CHECK OUT OUR
-      id: infopic
-      description: Public Consultation
-      button: LEARN MORE
-      url: https://www.bioethics-singapore.gov.sg/publications/press-releases/bac-hnge-press-release/
-      image: /images/Human Nuclear Genome Editing/HNGE_pic.png
 description: Description
 image: /images/isomer-logo.svg
 ---
