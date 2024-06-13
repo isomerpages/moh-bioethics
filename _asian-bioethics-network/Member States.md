@@ -21,4 +21,4 @@ variant: tiptap
 <br><strong>Thailand</strong>
 <br><strong>Vietnam</strong>
 </p>
-<p>(as of Nov 2023)</p>
+<p>(as of Jun 2024)</p>
