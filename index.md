@@ -65,10 +65,17 @@ sections:
       url: /bioethicscorner/
       image: /images/NLB   Bioethics Corner/p8a1015.jpg
       alt: Bioethics Corner
-  - resources:
-      title: Be in the know
-      subtitle: Publications
-      button: More Publications
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: Ethical, Legal, and Social Issues Arising from Big Data and Artificial
+            Intelligence
+          date: 02 May 2023
+          announcement: The public consultation was conducted from 2 May to 14 July 2023.
+          link_text: Press Release
+          link_url: https://www.bioethics-singapore.gov.sg/publications/press-releases/bac-bdai-press-release/
 description: Description
 image: /images/isomer-logo.svg
 ---
