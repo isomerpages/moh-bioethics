@@ -29,10 +29,9 @@ sections:
       backgroundColor: white
       button: enter
   - textcards:
-      title: Human Nuclear Genome Editing
-      subtitle: from 6 June to 16 August 2024
+      title: Human Nuclear Genome Editing Public Consultation
       id: textcards
-      description: Public Consultation
+      description: From 6 June to 16 August 2024
       cards:
         - title: Respondent’s Form
           description: Give your feedback here
