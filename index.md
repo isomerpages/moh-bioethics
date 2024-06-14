@@ -8,7 +8,7 @@ notification: The BAC is conducting a public consultation on Human Nuclear
   register, please refer to the links below.
 sections:
   - hero:
-      background: /images/20th Anniversary images/bac 20th anniversary banner blue1.png
+      background: /images/Human Nuclear Genome Editing/3.png
       url: https://www.bioethics-singapore.gov.sg/who-we-are/overview/
       key_highlights:
         - title: What We Do
