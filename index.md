@@ -27,7 +27,6 @@ sections:
       size: sm
       alignment: left
       backgroundColor: white
-      button: enter
   - textcards:
       title: Human Nuclear Genome Editing Public Consultation
       id: textcards
