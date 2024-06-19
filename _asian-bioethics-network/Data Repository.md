@@ -5,17 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h1>Past BAC reports</h1>
-<ol data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-<li>
-<p></p>
-</li>
-<li>
-<p></p>
-</li>
-</ol>
 <p></p>
 <table style="minWidth: 100px">
 <colgroup>
