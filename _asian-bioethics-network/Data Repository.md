@@ -39,6 +39,14 @@ description: ""
 </p>
 </li>
 <li>
+<p><a href="https://drive.google.com/file/d/1fLIbeazBNgXT2V-lBOyZ_TnoDuqSWFMN/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Research Involving Subjects:Guidelines for IRBs</a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/1iD7DqjDOzE_gtKkzMvckDbOuhTb5wy42/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Human Tissue Research</a>
+</p>
+</li>
+<li>
 <p></p>
 </li>
 </ol>
