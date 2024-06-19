@@ -2,6 +2,7 @@ collections:
   asian-bioethics-network:
     output: true
     order:
+      - Data Repository.md
       - Introduction.md
       - Member States.md
       - Past Meetings/.keep
