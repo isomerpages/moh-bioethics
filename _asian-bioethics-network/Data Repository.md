@@ -15,8 +15,15 @@ description: ""
 </p>
 </li>
 <li>
+<p><a href="https://drive.google.com/file/d/1xOdi-zDuZUaF5jz9RZcHlQRLqGbK47Kg/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Ethics Guidelines for Human Biomedical Research 2021 Revised</a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/1In5-l9gnFV9LuEKMThw_MrA7YdrAGviS/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Ethics Guidelines for Human Biomedical Research</a>
+</p>
+</li>
+<li>
 <p></p>
 </li>
 </ol>
-<p></p>
 <p></p>
