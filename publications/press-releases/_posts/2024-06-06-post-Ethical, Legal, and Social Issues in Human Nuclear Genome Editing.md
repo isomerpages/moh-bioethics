@@ -60,10 +60,10 @@ to gather their views on the issues.</p>
 </p>
 <p><strong>FGD 2: 26 July 2024, Friday, 1pm – 4pm</strong>
 </p>
-<p><a href="https://go.gov.sg/hnge-fgd1" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/hnge-fgd2</u></a>
+<p><a href="https://go.gov.sg/hnge-fgd2" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/hnge-fgd2</u></a>
 </p>
 <p><strong>FGD 3: 13 August 2024, Tuesday, 9am – 12pm</strong>&nbsp;</p>
-<p><a href="https://go.gov.sg/hnge-fgd1" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/hnge-fgd3</u></a>
+<p><a href="https://go.gov.sg/hnge-fgd3" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/hnge-fgd3</u></a>
 </p>
 <h3><strong>Feedback Channels</strong></h3>
 <p>7. The public consultation paper can be accessed from the <a href="https://www.bioethics-singapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BAC website</a> or
