@@ -50,10 +50,10 @@ questions and issues raised in the consultation paper.</p>
 <h3><strong>Period of Consultation</strong></h3>
 <p>6. The public consultation will take place from <strong>6 June 2024 to 16 August 2024</strong>.
 As part of the public consultation, the BAC will also conduct focus group
-discussions with representatives from various academic, research and healthcare
-institutions, CECs, IRBs, professional bodies and societies, religious
-organisations, as well as industry partners in July and August to gather
-their views on the issues.</p>
+discussions (FGD) with representatives from various academic, research
+and healthcare institutions, CECs, IRBs, professional bodies and societies,
+religious organisations, as well as industry partners in July and August
+to gather their views on the issues.</p>
 <p><strong>FGD 1: 22 July 2024, Monday, 10am – 1pm</strong>
 </p>
 <p><a href="https://go.gov.sg/hnge-fgd1" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/hnge-fgd1</u></a>
