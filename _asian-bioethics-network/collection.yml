@@ -2,6 +2,7 @@ collections:
   asian-bioethics-network:
     output: true
     order:
+      - Data Repository/Example Title.md
       - Data Repository/Singapore.md
       - Data Repository/Vietnam.md
       - Data Repository/.keep
