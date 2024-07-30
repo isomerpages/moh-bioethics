@@ -1,6 +1,6 @@
 ---
 title: Document submission
-permalink: /example-title/
+permalink: /asian-bioethics-network/data-repository/submission/
 variant: tiptap
 description: ""
 third_nav_title: Data Repository

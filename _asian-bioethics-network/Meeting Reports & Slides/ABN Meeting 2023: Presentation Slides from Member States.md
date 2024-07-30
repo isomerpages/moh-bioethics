@@ -2,7 +2,7 @@
 title: "ABN Meeting 2023: Presentation Slides from Member States"
 permalink: /asian-bioethics-network/meeting-presentation-slides/2023-abn/
 description: ""
-third_nav_title: Meeting Report & Slides
+third_nav_title: Meeting Reports & Slides
 ---
 ### **ABN Member States Presentation Slides**
 

@@ -43,9 +43,8 @@ Genome Institute of Singapore; and<br>
 Adjunct Assistant Professor, National University of Singapore 
 
 **Professor Chin Jing Jih**<br>
-Chairman, Medical Board<br>
-Senior Consultant, Department of Geriatric Medicine<br> 
-Tan Tock Seng Hospital
+Deputy Group Chief Executive Officer (Clinical &amp; Academic Development)<br>
+National Healthcare Group<br> 
 
 **Emeritus Professor Roy Joseph**<br>
 Emeritus Consultant, Department of Neonatology<br> 
