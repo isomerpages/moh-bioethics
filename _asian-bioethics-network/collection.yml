@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Data Repository/Document submission.md
-      - Data Repository/Singapore.md
       - Data Repository/Vietnam.md
       - Data Repository/.keep
       - Introduction.md
