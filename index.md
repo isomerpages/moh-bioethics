@@ -29,7 +29,7 @@ sections:
       subtitle: CHECK OUT THE
       id: infopic
       description: National Library Building · Imagination Room · Sunday · September
-        29 · 3pm - 5pm
+        29 · 3pm – 5pm
       button: Register now
       url: https://www.eventbrite.sg/e/bioethics-ethics-of-genetic-and-genomic-testing-and-research-tickets-936296055707
       alt: Image alt text
