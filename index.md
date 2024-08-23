@@ -54,7 +54,7 @@ sections:
       announcement_items:
         - title: Ethical, Legal, and Social Issues Arising from Human Nuclear Genome
             Editing
-          date: 02 May 2023
+          date: 06 June 2024
           announcement: The public consultation was conducted from 6 June to 16 August 2024.
           link_text: Press Release
           link_url: https://www.bioethics-singapore.gov.sg/publications/press-releases/bac-hnge-press-release/
