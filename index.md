@@ -25,6 +25,16 @@ sections:
       alignment: left
       backgroundColor: white
   - infopic:
+      title: Ethics of Genetic and Genomic Testing and Research
+      subtitle: CHECK OUT THE
+      id: infopic
+      description: Join our expert panel for an exciting discussion on the emerging
+        ethical and social implications surrounding Genetic and Genomic Testing
+        and Research.
+      button: Register now
+      url: https://www.eventbrite.sg/e/bioethics-ethics-of-genetic-and-genomic-testing-and-research-tickets-936296055707
+      alt: Image alt text
+  - infopic:
       title: Human Nuclear Genome Editing Public Consultation
       subtitle: CHECK OUT the
       id: infopic
