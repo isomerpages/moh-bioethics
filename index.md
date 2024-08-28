@@ -33,7 +33,7 @@ sections:
       button: Register now
       url: https://www.eventbrite.sg/e/bioethics-ethics-of-genetic-and-genomic-testing-and-research-tickets-936296055707
       alt: Image alt text
-      image: /images/GGTR Panel Programme/2.png
+      image: /images/GGTR Panel Programme/Bioethics_2024___FB_Telegram_IG_post__2_.jpg
   - infopic:
       title: Human Nuclear Genome Editing Public Consultation
       subtitle: CHECK OUT the
