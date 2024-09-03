@@ -2,6 +2,7 @@ collections:
   asian-bioethics-network:
     output: true
     order:
+      - Data Repository/Australia.md
       - Data Repository/.keep
       - Data Repository/Submission.md
       - Introduction.md
