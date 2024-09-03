@@ -40,6 +40,10 @@ Health.</p>
 </div>
 <p><em>Figures 4 and 5: Dr Janil Puthucheary, Senior Minister of State, Ministry of Digital Development and Information &amp; Ministry of Health, on a guided tour of the exhibition.</em>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCS Bioethics Exhibition/Exhibition_collage_2.png">
+</div>
 <p>Four interactive dioramas which addresses ethical issues from emerging
 topics are:</p>
 <ul data-tight="true" class="tight">
