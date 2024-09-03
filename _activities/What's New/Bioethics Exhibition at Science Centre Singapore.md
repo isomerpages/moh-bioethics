@@ -13,6 +13,24 @@ launched on 29 August 2024 by Dr Janil Puthucheary, Senior Minister of
 State, Ministry of Digital Development and Information &amp; Ministry of
 Health.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCS Bioethics Exhibition/IMG_20240829_WA0005.jpg">
+</div>
+<p><em>Figure 1: Dr Janil Puthucheary, Senior Minister of State, Ministry of Digital Development and Information &amp; Ministry of Health speaking at Science Centre Singapore during the launch of Bioethics: We Could, But Should We?&nbsp;</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCS Bioethics Exhibition/IMG_20240903_WA0000.jpg">
+</div>
+<p><em>Figure 2: Associate Professor Lim Tit Meng, Chief Executive, Science Centre Board speaking at Science Centre Singapore for the launch of Bioethics: We Could, But Should We?&nbsp;</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCS Bioethics Exhibition/IMG_20240829_WA0012.jpg">
+</div>
+<p><em>Figure 3: Opening Ceremony of Bioethics: We Could, But Should We? <br><br>From left to right: Associate Professor Lim Tit Meng, Chief Executive, Science Centre Board; Emeritus Professor Lee Eng Hin, Chair of the Bioethics Advisory Committee; Dr Janil Puthucheary, Senior Minister of State, Ministry of Digital Development and Information &amp; Ministry of Health; Mr Peter Ho Yew Chi, Chairman, Science Centre Board; Dr Raymond Chua, Deputy Director-General of Health, Health Regulation Group, Ministry of Health&nbsp;</em>
+</p>
+<p></p>
 <p>Four interactive dioramas which addresses ethical issues from emerging
 topics are:</p>
 <ul data-tight="true" class="tight">
