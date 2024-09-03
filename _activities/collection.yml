@@ -2,6 +2,7 @@ collections:
   activities:
     output: true
     order:
+      - What's New/Bioethics Exhibition at Science Centre Singapore.md
       - What's New/.keep
       - What's New/Current Projects.md
       - What's New/Panel Programme on ‘Ethics of Human Nuclear Genome Editing’.md
