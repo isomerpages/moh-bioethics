@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Data Repository/.keep
-      - Data Repository/Document submission.md
+      - Data Repository/Submission.md
       - Introduction.md
       - Member States.md
       - Future Plans.md
