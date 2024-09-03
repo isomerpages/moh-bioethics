@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - What's New/.keep
-      - What's New/Bioethics Exhibition at Science Centre Singapore.md
       - What's New/Current Projects.md
+      - What's New/Bioethics Exhibition at Science Centre Singapore.md
       - What's New/Panel Programme on ‘Ethics of Human Nuclear Genome Editing’.md
       - What's New/Bioethics Panel Programme on 'Big Data and Artificial
         Intelligence'.md
