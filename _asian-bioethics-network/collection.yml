@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Submission for Data Repository.md
+      - Data Repository/The Philippines.md
       - Data Repository/New Zealand.md
       - Data Repository/Nepal.md
       - Data Repository/Myanmar.md
