@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Submission for Data Repository.md
+      - Data Repository/India.md
       - Data Repository/China.md
       - Data Repository/Brunei.md
       - Data Repository/Bhutan.md
