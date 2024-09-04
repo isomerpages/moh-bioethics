@@ -47,7 +47,7 @@ Bioethics Committee in Paris, France</p>
 <p>BAC conducted a public consultation on use of Human Nuclear Genome Editing
 technologies in biomedical research, clinical research, and healthcare
 <br>
-<br>BAC held two Focus Group Discussion Sessions on 26 July and 13 August</p>
+<br>BAC held two Focus Group Discussion sessions on 26 July and 13 August</p>
 </td>
 </tr>
 </tbody>
