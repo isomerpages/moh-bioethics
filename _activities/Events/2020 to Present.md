@@ -81,8 +81,8 @@ themed ‘Crisis, Evolution, Growth’ in San Marino</p>
 <p>20 November</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Charles Lim Aeng Cheng, BAC member, elected as Vice-Chair of the Intergovernmental
-Bioethics Committee</p>
+<p>Mr Charles Lim Aeng Cheng, BAC member, re-elected as Vice-Chair of the
+Intergovernmental Bioethics Committee</p>
 </td>
 </tr>
 <tr>
