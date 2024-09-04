@@ -69,6 +69,15 @@ technologies in biomedical research, clinical research, and healthcare
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>20 November</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Charles Lim Aeng Cheng, BAC member, elected as Vice-Chair of the Intergovernmental
+Bioethics Committee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>18 - 19 September</p>
 </td>
 <td rowspan="1" colspan="1">
