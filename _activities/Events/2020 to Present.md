@@ -50,6 +50,15 @@ technologies in biomedical research, clinical research, and healthcare
 <br>BAC held two Focus Group Discussion sessions on 26 July and 13 August</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17 - 19 April</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BAC participated in the 14th Global Summit of National Ethics Committees,
+themed ‘Crisis, Evolution, Growth’ in San Marino</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3><strong>2023</strong></h3>
