@@ -16,19 +16,18 @@ Health.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCS Bioethics Exhibition/IMG_20240829_WA0005.jpg">
 </div>
-<p><em>Figure 1: Dr Janil Puthucheary, Senior Minister of State, Ministry of Digital Development and Information &amp; Ministry of Health speaking at Science Centre Singapore during the launch of Bioethics: We Could, But Should We?&nbsp;</em>
-</p>
-<p></p>
+<p><em>Figure 1: Dr Janil Puthucheary, Senior Minister of State, Ministry of Digital Development and Information &amp; Ministry of Health speaking at Science Centre Singapore during the launch of Bioethics: We Could, But Should We?&nbsp;</em>[Photo
+credit: Singapore Science Centre]</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCS Bioethics Exhibition/IMG_20240903_WA0000.jpg">
 </div>
-<p><em>Figure 2: Associate Professor Lim Tit Meng, Chief Executive, Science Centre Board speaking at Science Centre Singapore for the launch of Bioethics: We Could, But Should We?&nbsp;</em>
+<p><em>Figure 2: Associate Professor Lim Tit Meng, Chief Executive, Science Centre Board speaking at Science Centre Singapore for the launch of Bioethics: We Could, But Should We?&nbsp;[Photo credit: Singapore Science Centre]</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCS Bioethics Exhibition/IMG_20240829_WA0012.jpg">
 </div>
-<p><em>Figure 3: Opening Ceremony of Bioethics: We Could, But Should We? <br><br>From left to right: Associate Professor Lim Tit Meng, Chief Executive, Science Centre Board; Emeritus Professor Lee Eng Hin, Chair of the Bioethics Advisory Committee; Dr Janil Puthucheary, Senior Minister of State, Ministry of Digital Development and Information &amp; Ministry of Health; Mr Peter Ho Yew Chi, Chairman, Science Centre Board; Dr Raymond Chua, Deputy Director-General of Health, Health Regulation Group, Ministry of Health&nbsp;</em>
+<p><em>Figure 3: Opening Ceremony of Bioethics: We Could, But Should We? [Photo credit: Singapore Science Centre]<br><br>From left to right: Associate Professor Lim Tit Meng, Chief Executive, Science Centre Board; Emeritus Professor Lee Eng Hin, Chair of the Bioethics Advisory Committee; Dr Janil Puthucheary, Senior Minister of State, Ministry of Digital Development and Information &amp; Ministry of Health; Mr Peter Ho Yew Chi, Chairman, Science Centre Board; Dr Raymond Chua, Deputy Director-General of Health, Health Regulation Group, Ministry of Health&nbsp;</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -38,7 +37,7 @@ Health.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCS Bioethics Exhibition/IMG_20240829_WA0006.jpg">
 </div>
-<p><em>Figures 4 and 5: Dr Janil Puthucheary, Senior Minister of State, Ministry of Digital Development and Information &amp; Ministry of Health, on a guided tour of the exhibition.</em>
+<p><em>Figures 4 and 5: Dr Janil Puthucheary, Senior Minister of State, Ministry of Digital Development and Information &amp; Ministry of Health, on a guided tour of the exhibition. [Photo credit: Singapore Science Centre]  </em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
