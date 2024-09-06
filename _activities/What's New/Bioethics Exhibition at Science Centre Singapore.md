@@ -8,7 +8,7 @@ third_nav_title: What's New
 ---
 <p>The Bioethics Exhibition at Science Centre Singapore titled ‘<strong>We Could, But Should We?</strong>’,
 which is organised jointly by the Bioethics Advisory Committee with the
-Science Centre Board, and supported by the Ministry of Health, is officially
+Science Centre Board, and supported by the Ministry of Health, was officially
 launched on 29 August 2024 by Dr Janil Puthucheary, Senior Minister of
 State, Ministry of Digital Development and Information &amp; Ministry of
 Health.</p>
