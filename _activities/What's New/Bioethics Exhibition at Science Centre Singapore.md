@@ -27,7 +27,7 @@ credit: Singapore Science Centre]</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCS Bioethics Exhibition/IMG_20240829_WA0012.jpg">
 </div>
-<p><em>Figure 3: Opening Ceremony of Bioethics: We Could, But Should We? [Photo credit: Singapore Science Centre]<br><br>From left to right: Associate Professor Lim Tit Meng, Chief Executive, Science Centre Board; Emeritus Professor Lee Eng Hin, Chair of the Bioethics Advisory Committee; Dr Janil Puthucheary, Senior Minister of State, Ministry of Digital Development and Information &amp; Ministry of Health; Mr Peter Ho Yew Chi, Chairman, Science Centre Board; Dr Raymond Chua, Deputy Director-General of Health, Health Regulation Group, Ministry of Health&nbsp;</em>
+<p><em>Figure 3: Opening Ceremony of Bioethics: We Could, But Should We? [Photo credit: Singapore Science Centre]<br><br>From left to right: Associate Professor Lim Tit Meng, Chief Executive, Science Centre Board; Emeritus Professor Lee Eng Hin, Chair of the Bioethics Advisory Committee; Dr Janil Puthucheary, Senior Minister of State, Ministry of Digital Development and Information &amp; Ministry of Health; Mr Peter Ho Yew Chi, Chairman, Science Centre Board; Adj Associate Professor (Dr) Raymond Chua, Deputy Director-General of Health, Health Regulation Group, Ministry of Health&nbsp;</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -37,7 +37,7 @@ credit: Singapore Science Centre]</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCS Bioethics Exhibition/IMG_20240829_WA0006.jpg">
 </div>
-<p><em>Figures 4 and 5: Dr Janil Puthucheary, Senior Minister of State, Ministry of Digital Development and Information &amp; Ministry of Health, on a guided tour of the exhibition. [Photo credit: Singapore Science Centre]  </em>
+<p><em>Figures 4 and 5: Dr Janil Puthucheary, Senior Minister of State, Ministry of Digital Development and Information &amp; Ministry of Health, on a guided tour of the exhibition. [Photo credit: Singapore Science Centre]</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
