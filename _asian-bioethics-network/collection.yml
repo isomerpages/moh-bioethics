@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Submission for Data Repository.md
+      - Data Repository/Singapore.md
       - Data Repository/.keep
       - Data Repository/Australia.md
       - Data Repository/Bhutan.md
