@@ -151,7 +151,7 @@ building on existing regulations for pharmaceutical and biomedical trials.</p>
 <p><strong>Description:</strong>This report outlines new national guidelines
 for human tissue banking and biomedical research involving human tissue
 samples. It recommends building on the current self-regulation system and
-suggests a statutory licensing system for research tissue banks, emphasizing
+suggests a statutory licensing system for research tissue banks, emphasising
 the importance of well-managed tissue banks in advancing life sciences
 and benefiting Singapore's healthcare and well-being.</p>
 </td>
