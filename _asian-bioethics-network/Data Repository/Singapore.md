@@ -121,7 +121,11 @@ the provision of proper safeguards.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Genetic Testing and Genetic Research</p>
-<p>Description:</p>
+<p><strong>Description:</strong> This report outlines ethical guidelines for
+genetic testing and human genetic research. It builds on existing guidelines
+from the National Medical Ethics Committee and applies to both clinical
+and research settings, with specific recommendations on consent and counselling
+for tests involving direct genetic analysis.</p>
 </td>
 </tr>
 <tr>
@@ -130,6 +134,8 @@ the provision of proper safeguards.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Research Involving Subjects: Guidelines for IRBs</p>
+<p><strong>Description:</strong> 
+</p>
 </td>
 </tr>
 <tr>
