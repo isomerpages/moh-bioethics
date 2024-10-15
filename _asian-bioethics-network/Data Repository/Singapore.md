@@ -133,9 +133,13 @@ for tests involving direct genetic analysis.</p>
 <p>23 Nov 2004</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Research Involving Subjects: Guidelines for IRBs</p>
-<p><strong>Description: </strong>
-</p>
+<p>Research Involving Human Subjects: Guidelines for IRBs</p>
+<p><strong>Description: </strong>This report provides guidelines for the
+ethics governance of human biomedical research in Singapore. It mandates
+that all such research, including that involving human tissue or medical
+information, be overseen by institutional review boards, detailing their
+roles, accreditation, and the responsibilities of institutions and researchers,
+building on existing regulations for pharmaceutical and biomedical trials.</p>
 </td>
 </tr>
 <tr>
@@ -155,7 +159,7 @@ for tests involving direct genetic analysis.</p>
 <td rowspan="1" colspan="1">
 <p>Ethical, Legal &amp; Social Issues in Human Stem Cell Research, Reproductive
 and Therapeutic Cloning</p>
-<p><strong>Description: </strong>
+<p><strong>Description:</strong>
 </p>
 </td>
 </tr>
