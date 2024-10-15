@@ -5,9 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Data Repository
 ---
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -17,10 +16,7 @@ third_nav_title: Data Repository
 <p>Date</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Description</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Link</p>
+<p>Title of Document</p>
 </th>
 </tr>
 <tr>
@@ -29,9 +25,12 @@ third_nav_title: Data Repository
 </td>
 <td rowspan="1" colspan="1">
 <p>Neuroscience Research Report</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Description:</strong> The increasing prevalence of neurological
+and psychiatric disorders has heightened the importance of neuroscience
+research globally. However, the development of novel neurotechnologies
+that modify the brain raises ethical, legal, and social concerns regarding
+the impact on individual rights and welfare, prompting the Bioethics Advisory
+Committee (BAC) to examine these issues.</p>
 </td>
 </tr>
 <tr>
@@ -41,9 +40,6 @@ third_nav_title: Data Repository
 <td rowspan="1" colspan="1">
 <p>Ethics Guidelines for Human Biomedical Research 2021 Revised</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -51,9 +47,6 @@ third_nav_title: Data Repository
 </td>
 <td rowspan="1" colspan="1">
 <p>Interim Report on Mitochondrial Genome Replacement Technology</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -63,9 +56,6 @@ third_nav_title: Data Repository
 <td rowspan="1" colspan="1">
 <p>Ethics Guidelines for Human Biomedical Research</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -73,9 +63,6 @@ third_nav_title: Data Repository
 </td>
 <td rowspan="1" colspan="1">
 <p>Human-Animal Combinations in Stem Cell Research</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -85,9 +72,6 @@ third_nav_title: Data Repository
 <td rowspan="1" colspan="1">
 <p>Donation of Human Eggs for Research</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -95,9 +79,6 @@ third_nav_title: Data Repository
 </td>
 <td rowspan="1" colspan="1">
 <p>Personal Information in Biomedical Research</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -107,9 +88,6 @@ third_nav_title: Data Repository
 <td rowspan="1" colspan="1">
 <p>Genetic Testing and Genetic Research</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -117,9 +95,6 @@ third_nav_title: Data Repository
 </td>
 <td rowspan="1" colspan="1">
 <p>Research Involving Subjects: Guidelines for IRBs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -129,9 +104,6 @@ third_nav_title: Data Repository
 <td rowspan="1" colspan="1">
 <p>Human Tissue Research</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -140,9 +112,6 @@ third_nav_title: Data Repository
 <td rowspan="1" colspan="1">
 <p>Ethical, Legal &amp; Social Issues in Human Stem Cell Research, Reproductive
 and Therapeutic Cloning</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
