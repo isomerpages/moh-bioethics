@@ -39,8 +39,12 @@ Committee (BAC) to examine these issues.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ethics Guidelines for Human Biomedical Research 2021 Revised</p>
-<p><strong>Description: </strong>
-</p>
+<p><strong>Description: </strong>The Bioethics Advisory Committee (BAC) first
+published the Ethics Guidelines for Human Biomedical Research in 2015 to
+guide ethical conduct in Singapore's biomedical research. In light of rapid
+scientific advancements, the updated 2021 edition reflects new developments
+and aims to remain a comprehensive resource for researchers, ethics committees,
+and institutions involved in human biomedical research.</p>
 </td>
 </tr>
 <tr>
@@ -63,6 +67,13 @@ continuing to monitor advancements in this field.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ethics Guidelines for Human Biomedical Research</p>
+<p><strong>Description:</strong> The Bioethics Advisory Committee (BAC) has
+explored diverse topics in human biomedical research, including stem cell
+research, cloning, genetics, and more. To consolidate its work over the
+past decade, the BAC published the Ethics Guidelines for Human Biomedical
+Research, providing a comprehensive and accessible resource for researchers,
+ethics committees, and individuals seeking guidance on ethical research
+practices in Singapore.</p>
 </td>
 </tr>
 <tr>
