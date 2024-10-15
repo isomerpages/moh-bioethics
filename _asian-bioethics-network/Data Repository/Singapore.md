@@ -163,8 +163,11 @@ and benefiting Singapore's healthcare and well-being.</p>
 <td rowspan="1" colspan="1">
 <p>Ethical, Legal &amp; Social Issues in Human Stem Cell Research, Reproductive
 and Therapeutic Cloning</p>
-<p><strong>Description: </strong>
-</p>
+<p><strong>Description: </strong>This report addresses the ethical, legal,
+and social issues surrounding human stem cell research, as well as reproductive
+and therapeutic cloning. It explores the implications of these technologies,
+offering guidelines and recommendations for their responsible use in biomedical
+research while considering societal concerns and legal frameworks.</p>
 </td>
 </tr>
 </tbody>
