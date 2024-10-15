@@ -163,7 +163,7 @@ and benefiting Singapore's healthcare and well-being.</p>
 <td rowspan="1" colspan="1">
 <p>Ethical, Legal &amp; Social Issues in Human Stem Cell Research, Reproductive
 and Therapeutic Cloning</p>
-<p><strong>Description:</strong>
+<p><strong>Description: </strong>
 </p>
 </td>
 </tr>
