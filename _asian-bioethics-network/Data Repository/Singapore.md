@@ -39,6 +39,8 @@ Committee (BAC) to examine these issues.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ethics Guidelines for Human Biomedical Research 2021 Revised</p>
+<p><strong>Description: </strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -47,6 +49,12 @@ Committee (BAC) to examine these issues.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Interim Report on Mitochondrial Genome Replacement Technology</p>
+<p><strong>Description:</strong> Mitochondrial Genome Replacement Technology
+(MGRT) offers a way for carrier mothers to have genetically related children
+without passing on mitochondrial diseases. The Bioethics Advisory Committee
+(BAC) is reviewing the clinical application of MGRT in Singapore, considering
+current research, global regulatory policies, and public feedback, while
+continuing to monitor advancements in this field.</p>
 </td>
 </tr>
 <tr>
