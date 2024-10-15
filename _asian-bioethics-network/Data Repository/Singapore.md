@@ -134,7 +134,7 @@ for tests involving direct genetic analysis.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Research Involving Subjects: Guidelines for IRBs</p>
-<p><strong>Description:</strong> 
+<p><strong>Description: </strong>
 </p>
 </td>
 </tr>
@@ -144,6 +144,8 @@ for tests involving direct genetic analysis.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Human Tissue Research</p>
+<p><strong>Description: </strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -153,6 +155,8 @@ for tests involving direct genetic analysis.</p>
 <td rowspan="1" colspan="1">
 <p>Ethical, Legal &amp; Social Issues in Human Stem Cell Research, Reproductive
 and Therapeutic Cloning</p>
+<p><strong>Description: </strong>
+</p>
 </td>
 </tr>
 </tbody>
