@@ -82,6 +82,12 @@ practices in Singapore.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Human-Animal Combinations in Stem Cell Research</p>
+<p><strong>Description:</strong> The use of laboratory animals, often involving
+human-animal biological material, has been crucial in biomedical research
+and is closely regulated to ensure animal welfare. While there has been
+little controversy over human-animal combinations in research, recent advances
+in stem cell research have raised new ethical concerns, prompting the Bioethics
+Advisory Committee (BAC) to focus on emerging issues in this area.</p>
 </td>
 </tr>
 <tr>
@@ -90,6 +96,11 @@ practices in Singapore.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Donation of Human Eggs for Research</p>
+<p><strong>Description:</strong> This Report deals with issues related to
+the provision of human eggs for the purpose of research, especially research
+into embryonic stem cells, and is part of the BAC’s longer term intention
+to consolidate its views and recommendations in the area of human embryonic
+stem cell research.</p>
 </td>
 </tr>
 <tr>
@@ -98,6 +109,10 @@ practices in Singapore.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Personal Information in Biomedical Research</p>
+<p><strong>Description:</strong> This Report discusses the ethical issues
+relating to the use of personal information in biomedical research and
+makes recommendations on the appropriate use of such information through
+the provision of proper safeguards.</p>
 </td>
 </tr>
 <tr>
@@ -106,6 +121,7 @@ practices in Singapore.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Genetic Testing and Genetic Research</p>
+<p>Description:</p>
 </td>
 </tr>
 <tr>
