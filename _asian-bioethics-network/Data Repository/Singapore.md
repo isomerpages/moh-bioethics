@@ -24,7 +24,7 @@ third_nav_title: Data Repository
 <p>27 Oct 2021</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Neuroscience Research Report</p>
+<p>Neuroscience Research Report (Download here)</p>
 <p><strong>Description:</strong> The increasing prevalence of neurological
 and psychiatric disorders has heightened the importance of neuroscience
 research globally. However, the development of novel neurotechnologies
@@ -38,7 +38,8 @@ Committee (BAC) to examine these issues.</p>
 <p>27 Oct 2021</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ethics Guidelines for Human Biomedical Research 2021 Revised</p>
+<p>Ethics Guidelines for Human Biomedical Research 2021 Revised (Download
+here)</p>
 <p><strong>Description: </strong>The Bioethics Advisory Committee (BAC) first
 published the Ethics Guidelines for Human Biomedical Research in 2015 to
 guide ethical conduct in Singapore's biomedical research. In light of rapid
@@ -52,7 +53,8 @@ and institutions involved in human biomedical research.</p>
 <p>28 Oct 2021</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Interim Report on Mitochondrial Genome Replacement Technology</p>
+<p>Interim Report on Mitochondrial Genome Replacement Technology (Download
+here)</p>
 <p><strong>Description:</strong> Mitochondrial Genome Replacement Technology
 (MGRT) offers a way for carrier mothers to have genetically related children
 without passing on mitochondrial diseases. The Bioethics Advisory Committee
@@ -66,7 +68,7 @@ continuing to monitor advancements in this field.</p>
 <p>23 Jun 2015</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ethics Guidelines for Human Biomedical Research</p>
+<p>Ethics Guidelines for Human Biomedical Research (Download here)</p>
 <p><strong>Description:</strong> The Bioethics Advisory Committee (BAC) has
 explored diverse topics in human biomedical research, including stem cell
 research, cloning, genetics, and more. To consolidate its work over the
@@ -81,7 +83,7 @@ practices in Singapore.</p>
 <p>22 Sep 2010</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Human-Animal Combinations in Stem Cell Research</p>
+<p>Human-Animal Combinations in Stem Cell Research (Download here)</p>
 <p><strong>Description:</strong> The use of laboratory animals, often involving
 human-animal biological material, has been crucial in biomedical research
 and is closely regulated to ensure animal welfare. While there has been
@@ -95,7 +97,7 @@ Advisory Committee (BAC) to focus on emerging issues in this area.</p>
 <p>03 Nov 2008</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Donation of Human Eggs for Research</p>
+<p>Donation of Human Eggs for Research (Download here)</p>
 <p><strong>Description:</strong> This Report deals with issues related to
 the provision of human eggs for the purpose of research, especially research
 into embryonic stem cells, and is part of the BAC’s longer term intention
@@ -108,7 +110,7 @@ stem cell research.</p>
 <p>07 May 2007</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Personal Information in Biomedical Research</p>
+<p>Personal Information in Biomedical Research ( Download here)</p>
 <p><strong>Description:</strong> This Report discusses the ethical issues
 relating to the use of personal information in biomedical research and
 makes recommendations on the appropriate use of such information through
@@ -120,7 +122,7 @@ the provision of proper safeguards.</p>
 <p>25 Nov 2005</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Genetic Testing and Genetic Research</p>
+<p>Genetic Testing and Genetic Research (Download here)</p>
 <p><strong>Description:</strong> This report outlines ethical guidelines for
 genetic testing and human genetic research. It builds on existing guidelines
 from the National Medical Ethics Committee and applies to both clinical
@@ -133,7 +135,7 @@ for tests involving direct genetic analysis.</p>
 <p>23 Nov 2004</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Research Involving Human Subjects: Guidelines for IRBs</p>
+<p>Research Involving Human Subjects: Guidelines for IRBs (Download here)</p>
 <p><strong>Description: </strong>This report provides guidelines for the
 ethics governance of human biomedical research in Singapore. It mandates
 that all such research, including that involving human tissue or medical
@@ -147,7 +149,7 @@ building on existing regulations for pharmaceutical and biomedical trials.</p>
 <p>12 Dec 2002</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Human Tissue Research</p>
+<p>Human Tissue Research (Download here)</p>
 <p><strong>Description:</strong>This report outlines new national guidelines
 for human tissue banking and biomedical research involving human tissue
 samples. It recommends building on the current self-regulation system and
@@ -162,7 +164,7 @@ and benefiting Singapore's healthcare and well-being.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ethical, Legal &amp; Social Issues in Human Stem Cell Research, Reproductive
-and Therapeutic Cloning</p>
+and Therapeutic Cloning (Download here)</p>
 <p><strong>Description: </strong>This report addresses the ethical, legal,
 and social issues surrounding human stem cell research, as well as reproductive
 and therapeutic cloning. It explores the implications of these technologies,
