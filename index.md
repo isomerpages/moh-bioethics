@@ -30,7 +30,7 @@ sections:
       id: infopic
       description: Singapore Science Centre
       button: Book your tickets!
-      url: https://www.gevme.com/scsonlinetickets
+      url: https://www.science.edu.sg/whats-on/exhibitions/bioethics-exhibition
       image: /images/SCS Bioethics Exhibition/Exhibition_entrance.png
       alt: Image alt text
   - infopic:
