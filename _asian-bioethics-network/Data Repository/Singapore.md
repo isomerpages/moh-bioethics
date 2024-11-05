@@ -64,11 +64,10 @@ and public opinion.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ethics Guidelines for Human Biomedical Research (Download here)</p>
-<p><strong>Description:</strong> This report covers the Bioethics Advisory
-Committee’s exploration of various biomedical topics, culminating in the
-Ethics Guidelines for Human Biomedical Research. The guidelines serve as
-a comprehensive resource for researchers, ethics committees, and those
-seeking ethical guidance.</p>
+<p><strong>Description:</strong> This report explores various biomedical topics
+and culminates in the Ethics Guidelines for Human Biomedical Research,
+which serve as a comprehensive resource for researchers, ethics committees,
+and individuals seeking ethical guidance.</p>
 </td>
 </tr>
 <tr>
@@ -90,10 +89,10 @@ on these emerging issues.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Donation of Human Eggs for Research (Download here)</p>
-<p><strong>Description:</strong> This Report deals with issues related to
-the provision of human eggs for the purpose of research, especially research
-into embryonic stem cells, and is part of the BAC’s longer term intention
-to consolidate its views and recommendations in the area of human embryonic
+<p><strong>Description:</strong> This report addresses the issues surrounding
+the provision of human eggs for research, particularly in embryonic stem
+cell studies, and contributes to the Bioethics Advisory Committee's long-term
+goal of consolidating its views and recommendations on human embryonic
 stem cell research.</p>
 </td>
 </tr>
@@ -103,10 +102,10 @@ stem cell research.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Personal Information in Biomedical Research ( Download here)</p>
-<p><strong>Description:</strong> This Report discusses the ethical issues
-relating to the use of personal information in biomedical research and
-makes recommendations on the appropriate use of such information through
-the provision of proper safeguards.</p>
+<p><strong>Description:</strong> This report addresses the ethical issues
+surrounding the use of personal information in biomedical research and
+offers recommendations for its appropriate use, emphasizing the need for
+proper safeguards.</p>
 </td>
 </tr>
 <tr>
@@ -128,12 +127,12 @@ for tests involving direct genetic analysis.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Research Involving Human Subjects: Guidelines for IRBs (Download here)</p>
-<p><strong>Description: </strong>This report provides guidelines for the
-ethics governance of human biomedical research in Singapore. It mandates
-that all such research, including that involving human tissue or medical
-information, be overseen by institutional review boards, detailing their
-roles, accreditation, and the responsibilities of institutions and researchers,
-building on existing regulations for pharmaceutical and biomedical trials.</p>
+<p><strong>Description: </strong>This report sets forth guidelines for the
+ethical governance of human biomedical research in Singapore, mandating
+oversight by institutional review boards for all studies involving human
+tissue or medical information. It details the roles, accreditation, and
+responsibilities of institutions and researchers, enhancing existing regulations
+for pharmaceutical and biomedical trials.</p>
 </td>
 </tr>
 <tr>
@@ -142,12 +141,11 @@ building on existing regulations for pharmaceutical and biomedical trials.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Human Tissue Research (Download here)</p>
-<p><strong>Description:</strong>This report outlines new national guidelines
-for human tissue banking and biomedical research involving human tissue
-samples. It recommends building on the current self-regulation system and
-suggests a statutory licensing system for research tissue banks, emphasising
-the importance of well-managed tissue banks in advancing life sciences
-and benefiting Singapore's healthcare and well-being.</p>
+<p><strong>Description: </strong>This report presents new national guidelines
+for human tissue banking and research involving human tissue samples. It
+suggests enhancing the self-regulation system with a statutory licensing
+model for research tissue banks, highlighting their role in advancing life
+sciences and supporting Singapore’s healthcare.</p>
 </td>
 </tr>
 <tr>
@@ -157,11 +155,10 @@ and benefiting Singapore's healthcare and well-being.</p>
 <td rowspan="1" colspan="1">
 <p>Ethical, Legal &amp; Social Issues in Human Stem Cell Research, Reproductive
 and Therapeutic Cloning (Download here)</p>
-<p><strong>Description: </strong>This report addresses the ethical, legal,
-and social issues surrounding human stem cell research, as well as reproductive
-and therapeutic cloning. It explores the implications of these technologies,
-offering guidelines and recommendations for their responsible use in biomedical
-research while considering societal concerns and legal frameworks.</p>
+<p><strong>Description: </strong>This report examines the ethical, legal,
+and social issues in human stem cell research, reproductive cloning, and
+therapeutic cloning. It provides guidelines and recommendations for responsible
+use, taking into account societal concerns and legal frameworks.</p>
 </td>
 </tr>
 </tbody>
