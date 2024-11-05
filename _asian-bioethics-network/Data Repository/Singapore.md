@@ -25,12 +25,10 @@ third_nav_title: Data Repository
 </td>
 <td rowspan="1" colspan="1">
 <p>Neuroscience Research Report (Download here)</p>
-<p><strong>Description:</strong> The increasing prevalence of neurological
-and psychiatric disorders has heightened the importance of neuroscience
-research globally. However, the development of novel neurotechnologies
-that modify the brain raises ethical, legal, and social concerns regarding
-the impact on individual rights and welfare, prompting the Bioethics Advisory
-Committee (BAC) to examine these issues.</p>
+<p><strong>Description:</strong> This report highlights the growing prevalence
+of neurological and psychiatric disorders, underscoring the need for neuroscience
+research. It addresses ethical, legal, and social concerns about neurotechnologies
+that modify brain functions and their impact on individual rights.</p>
 </td>
 </tr>
 <tr>
@@ -40,12 +38,10 @@ Committee (BAC) to examine these issues.</p>
 <td rowspan="1" colspan="1">
 <p>Ethics Guidelines for Human Biomedical Research 2021 Revised (Download
 here)</p>
-<p><strong>Description: </strong>The Bioethics Advisory Committee (BAC) first
-published the Ethics Guidelines for Human Biomedical Research in 2015 to
-guide ethical conduct in Singapore's biomedical research. In light of rapid
-scientific advancements, the updated 2021 edition reflects new developments
-and aims to remain a comprehensive resource for researchers, ethics committees,
-and institutions involved in human biomedical research.</p>
+<p><strong>Description: </strong>This report presents the updated 2021 Ethics
+Guidelines for Human Biomedical Research in Singapore, reflecting recent
+scientific advancements to serve as a comprehensive resource for researchers,
+ethics committees, and institutions.</p>
 </td>
 </tr>
 <tr>
@@ -55,12 +51,11 @@ and institutions involved in human biomedical research.</p>
 <td rowspan="1" colspan="1">
 <p>Interim Report on Mitochondrial Genome Replacement Technology (Download
 here)</p>
-<p><strong>Description:</strong> Mitochondrial Genome Replacement Technology
-(MGRT) offers a way for carrier mothers to have genetically related children
-without passing on mitochondrial diseases. The Bioethics Advisory Committee
-(BAC) is reviewing the clinical application of MGRT in Singapore, considering
-current research, global regulatory policies, and public feedback, while
-continuing to monitor advancements in this field.</p>
+<p><strong>Description:</strong> This report examines Mitochondrial Genome
+Replacement Technology (MGRT) as a method for carrier mothers to prevent
+passing on mitochondrial diseases to their children. It reviews MGRT’s
+clinical application in Singapore, factoring in research, global policies,
+and public opinion.</p>
 </td>
 </tr>
 <tr>
@@ -69,13 +64,11 @@ continuing to monitor advancements in this field.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ethics Guidelines for Human Biomedical Research (Download here)</p>
-<p><strong>Description:</strong> The Bioethics Advisory Committee (BAC) has
-explored diverse topics in human biomedical research, including stem cell
-research, cloning, genetics, and more. To consolidate its work over the
-past decade, the BAC published the Ethics Guidelines for Human Biomedical
-Research, providing a comprehensive and accessible resource for researchers,
-ethics committees, and individuals seeking guidance on ethical research
-practices in Singapore.</p>
+<p><strong>Description:</strong> This report covers the Bioethics Advisory
+Committee’s exploration of various biomedical topics, culminating in the
+Ethics Guidelines for Human Biomedical Research. The guidelines serve as
+a comprehensive resource for researchers, ethics committees, and those
+seeking ethical guidance.</p>
 </td>
 </tr>
 <tr>
@@ -84,12 +77,11 @@ practices in Singapore.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Human-Animal Combinations in Stem Cell Research (Download here)</p>
-<p><strong>Description:</strong> The use of laboratory animals, often involving
-human-animal biological material, has been crucial in biomedical research
-and is closely regulated to ensure animal welfare. While there has been
-little controversy over human-animal combinations in research, recent advances
-in stem cell research have raised new ethical concerns, prompting the Bioethics
-Advisory Committee (BAC) to focus on emerging issues in this area.</p>
+<p><strong>Description:</strong> This report discusses the critical role of
+laboratory animals in biomedical research and the strict regulations in
+place for animal welfare. Advances in stem cell research have introduced
+new ethical concerns regarding human-animal combinations, prompting a focus
+on these emerging issues.</p>
 </td>
 </tr>
 <tr>
