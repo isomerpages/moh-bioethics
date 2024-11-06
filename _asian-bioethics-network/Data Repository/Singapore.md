@@ -24,7 +24,7 @@ third_nav_title: Data Repository
 <p>27 Oct 2021</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Neuroscience Research Report (Download here)</p>
+<p>Neuroscience Research Report (<a href="https://drive.google.com/file/d/1wQOQuWU7EJfCJP45AF3MbFc6pI1mF_aq/view?usp=share_link" rel="noopener nofollow" target="_blank">Download Report</a>)</p>
 <p><strong>Description:</strong> This report highlights the growing prevalence
 of neurological and psychiatric disorders, underscoring the need for neuroscience
 research. It addresses ethical, legal, and social concerns about neurotechnologies
@@ -36,8 +36,7 @@ that modify brain functions and their impact on individual rights.</p>
 <p>27 Oct 2021</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ethics Guidelines for Human Biomedical Research 2021 Revised (Download
-here)</p>
+<p>Ethics Guidelines for Human Biomedical Research 2021 Revised (<a href="https://drive.google.com/file/d/1sjCEOW1iQvWDAV2SFbHyrtBWvIxfJt1V/view?usp=share_link" rel="noopener nofollow" target="_blank">Download Report</a>)</p>
 <p><strong>Description: </strong>This report presents the updated 2021 Ethics
 Guidelines for Human Biomedical Research in Singapore, reflecting recent
 scientific advancements to serve as a comprehensive resource for researchers,
@@ -49,8 +48,7 @@ ethics committees, and institutions.</p>
 <p>28 Oct 2021</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Interim Report on Mitochondrial Genome Replacement Technology (Download
-here)</p>
+<p>Interim Report on Mitochondrial Genome Replacement Technology (<a href="https://drive.google.com/file/d/1UwF0umhB0pdZ1S1ojHH7ynQh0kvKPk0m/view?usp=share_link" rel="noopener nofollow" target="_blank">Download Report </a>)</p>
 <p><strong>Description:</strong> This report examines Mitochondrial Genome
 Replacement Technology (MGRT) as a method for carrier mothers to prevent
 passing on mitochondrial diseases to their children. It reviews MGRT’s
@@ -63,7 +61,7 @@ and public opinion.</p>
 <p>23 Jun 2015</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ethics Guidelines for Human Biomedical Research (Download here)</p>
+<p>Ethics Guidelines for Human Biomedical Research (<a href="https://drive.google.com/file/d/1pWnGzcHmYRdz8XucPW9YKSnCmnEqJhHI/view?usp=share_link" rel="noopener nofollow" target="_blank">Download Report</a>)</p>
 <p><strong>Description:</strong> This report explores various biomedical topics
 and culminates in the Ethics Guidelines for Human Biomedical Research,
 which serve as a comprehensive resource for researchers, ethics committees,
@@ -75,7 +73,7 @@ and individuals seeking ethical guidance.</p>
 <p>22 Sep 2010</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Human-Animal Combinations in Stem Cell Research (Download here)</p>
+<p>Human-Animal Combinations in Stem Cell Research (<a href="https://drive.google.com/file/d/1v6PQehs5fQFSLU7YqmuuZ7N78kYj-hqD/view?usp=share_link" rel="noopener nofollow" target="_blank">Download Report</a>)</p>
 <p><strong>Description:</strong> This report discusses the critical role of
 laboratory animals in biomedical research and the strict regulations in
 place for animal welfare. Advances in stem cell research have introduced
