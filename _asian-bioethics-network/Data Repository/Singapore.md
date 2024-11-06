@@ -86,7 +86,7 @@ on these emerging issues.</p>
 <p>03 Nov 2008</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Donation of Human Eggs for Research (Download here)</p>
+<p>Donation of Human Eggs for Research (<a href="https://drive.google.com/file/d/14gO5INaUXeQa4gZbypvg5H-_0LImG9VG/view?usp=share_link" rel="noopener nofollow" target="_blank">Download Report</a>)</p>
 <p><strong>Description:</strong> This report addresses the issues surrounding
 the provision of human eggs for research, particularly in embryonic stem
 cell studies, and contributes to the Bioethics Advisory Committee's long-term
@@ -99,7 +99,7 @@ stem cell research.</p>
 <p>07 May 2007</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Personal Information in Biomedical Research ( Download here)</p>
+<p>Personal Information in Biomedical Research (<a href="https://drive.google.com/file/d/1pz-RbKfNwS7fJJBlCfL-ajr_MS7SAz0I/view?usp=share_link" rel="noopener nofollow" target="_blank">Download Report</a>)</p>
 <p><strong>Description:</strong> This report addresses the ethical issues
 surrounding the use of personal information in biomedical research and
 offers recommendations for its appropriate use, emphasizing the need for
@@ -111,7 +111,7 @@ proper safeguards.</p>
 <p>25 Nov 2005</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Genetic Testing and Genetic Research (Download here)</p>
+<p>Genetic Testing and Genetic Research (<a href="https://drive.google.com/file/d/1lOS4Rh2qVn7yR9BSYY5Ts6yo7AzScC_k/view?usp=share_link" rel="noopener nofollow" target="_blank">Download Report</a>)</p>
 <p><strong>Description:</strong> This report outlines ethical guidelines for
 genetic testing and human genetic research. It builds on existing guidelines
 from the National Medical Ethics Committee and applies to both clinical
@@ -124,7 +124,7 @@ for tests involving direct genetic analysis.</p>
 <p>23 Nov 2004</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Research Involving Human Subjects: Guidelines for IRBs (Download here)</p>
+<p>Research Involving Human Subjects: Guidelines for IRBs (<a href="https://drive.google.com/file/d/1TjJ4crpVYtSnbBN8paiM_yDkI7Ygl8ww/view?usp=share_link" rel="noopener nofollow" target="_blank">Download Report</a>)</p>
 <p><strong>Description: </strong>This report sets forth guidelines for the
 ethical governance of human biomedical research in Singapore, mandating
 oversight by institutional review boards for all studies involving human
@@ -138,7 +138,7 @@ for pharmaceutical and biomedical trials.</p>
 <p>12 Dec 2002</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Human Tissue Research (Download here)</p>
+<p>Human Tissue Research (<a href="https://drive.google.com/file/d/1rRiVOgWrQgaqrE_syRxxbm1lfeYA0Re-/view?usp=share_link" rel="noopener nofollow" target="_blank">Download Report</a>)</p>
 <p><strong>Description: </strong>This report presents new national guidelines
 for human tissue banking and research involving human tissue samples. It
 suggests enhancing the self-regulation system with a statutory licensing
@@ -152,7 +152,7 @@ sciences and supporting Singapore’s healthcare.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ethical, Legal &amp; Social Issues in Human Stem Cell Research, Reproductive
-and Therapeutic Cloning (Download here)</p>
+and Therapeutic Cloning (<a href="https://drive.google.com/file/d/1Cll10tT4cV13iKgZeoTdWM9rVnyk3JKe/view?usp=share_link" rel="noopener nofollow" target="_blank">Download Report</a>)</p>
 <p><strong>Description: </strong>This report examines the ethical, legal,
 and social issues in human stem cell research, reproductive cloning, and
 therapeutic cloning. It provides guidelines and recommendations for responsible
