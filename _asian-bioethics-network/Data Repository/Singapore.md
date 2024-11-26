@@ -53,7 +53,7 @@ views and recommendations on human embryonic stem cell research.</div>
 <a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1lOS4Rh2qVn7yR9BSYY5Ts6yo7AzScC_k/view?usp=share_link" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Genetic Testing and Genetic Research" src="/images/Report_8.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
