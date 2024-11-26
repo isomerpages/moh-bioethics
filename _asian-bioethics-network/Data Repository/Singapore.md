@@ -38,7 +38,7 @@ guidance.</div>
 <a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/14gO5INaUXeQa4gZbypvg5H-_0LImG9VG/view?usp=share_link" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Donation of Human Eggs for Research" src="/images/R6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Donation of Human Eggs for Research" src="/images/R6_update.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
