@@ -34,11 +34,11 @@ resource for researchers, ethics committees, and individuals seeking ethical
 guidance.</div>
 <div class="isomer-card-link">Download Report</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1v6PQehs5fQFSLU7YqmuuZ7N78kYj-hqD/view?usp=share_link" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Human-Animal Combinations in Stem Cell Research</div><div class="isomer-card-description">This report discusses the critical role of laboratory animals in biomedical research and the strict regulations in place for animal welfare. Advances in stem cell research have introduced new ethical concerns regarding human-animal combinations, prompting a focus on these emerging issues.</div><div class="isomer-card-link">Download Report</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1v6PQehs5fQFSLU7YqmuuZ7N78kYj-hqD/view?usp=share_link" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Human-Animal Combinations in Stem Cell Research" src="/images/Report_5.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Human-Animal Combinations in Stem Cell Research</div><div class="isomer-card-description">This report discusses the critical role of laboratory animals in biomedical research and the strict regulations in place for animal welfare. Advances in stem cell research have introduced new ethical concerns regarding human-animal combinations, prompting a focus on these emerging issues.</div><div class="isomer-card-link">Download Report</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/14gO5INaUXeQa4gZbypvg5H-_0LImG9VG/view?usp=share_link" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Donation of Human Eggs for Research" src="/images/Report_6.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
