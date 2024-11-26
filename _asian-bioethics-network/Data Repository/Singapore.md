@@ -63,11 +63,11 @@ genetic research. It builds on existing guidelines from the National Medical
 Ethics Committee and applies to both clinical and research settings.</div>
 <div class="isomer-card-link">Download Report</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1TjJ4crpVYtSnbBN8paiM_yDkI7Ygl8ww/view?usp=share_link" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Research Involving Human Subjects: Guidelines for IRBs</div><div class="isomer-card-description">The report outlines ethical governance for human biomedical research in Singapore, requiring institutional review board oversight for studies using human tissue or medical data. It defines roles, accreditation, and responsibilities for institutions and researchers, strengthening trial regulations.</div><div class="isomer-card-link">Download Report</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1TjJ4crpVYtSnbBN8paiM_yDkI7Ygl8ww/view?usp=share_link" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Research Involving Human Subjects: Guidelines for IRBs" src="/images/Report_9.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Research Involving Human Subjects: Guidelines for IRBs</div><div class="isomer-card-description">The report outlines ethical governance for human biomedical research in Singapore, requiring institutional review board oversight for studies using human tissue or medical data. It defines roles, accreditation, and responsibilities for institutions and researchers, strengthening trial regulations.</div><div class="isomer-card-link">Download Report</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1rRiVOgWrQgaqrE_syRxxbm1lfeYA0Re-/view?usp=share_link" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Human Tissue Research" src="/images/report_10.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
