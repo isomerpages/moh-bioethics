@@ -19,7 +19,7 @@ Research in Singapore, reflecting recent scientific advancements to serve
 as a comprehensive resource for researchers, ethics committees, and institutions.</div>
 <div class="isomer-card-link">Download Report</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1UwF0umhB0pdZ1S1ojHH7ynQh0kvKPk0m/view?usp=share_link" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Mitochondrial Genome Replacement Technology" src="/images/Report_3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Interim Report on Mitochondrial Genome Replacement Technology</div><div class="isomer-card-description">This report examines Mitochondrial Genome Replacement Technology (MGRT) as a method for carrier mothers to prevent passing on mitochondrial diseases to their children. It reviews MGRT’s clinical application in Singapore, factoring in research, global policies, and public opinion.</div><div class="isomer-card-link">Download Report</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1UwF0umhB0pdZ1S1ojHH7ynQh0kvKPk0m/view?usp=share_link" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Mitochondrial Genome Replacement Technology" src="/images/Report_3_adjust.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Interim Report on Mitochondrial Genome Replacement Technology</div><div class="isomer-card-description">This report examines Mitochondrial Genome Replacement Technology (MGRT) as a method for carrier mothers to prevent passing on mitochondrial diseases to their children. It reviews MGRT’s clinical application in Singapore, factoring in research, global policies, and public opinion.</div><div class="isomer-card-link">Download Report</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1pWnGzcHmYRdz8XucPW9YKSnCmnEqJhHI/view?usp=share_link" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -38,7 +38,7 @@ guidance.</div>
 <a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/14gO5INaUXeQa4gZbypvg5H-_0LImG9VG/view?usp=share_link" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Donation of Human Eggs for Research" src="/images/Report_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Donation of Human Eggs for Research" src="/images/Report_6_adjust.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
