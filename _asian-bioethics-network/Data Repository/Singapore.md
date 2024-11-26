@@ -23,7 +23,7 @@ as a comprehensive resource for researchers, ethics committees, and institutions
 <a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1pWnGzcHmYRdz8XucPW9YKSnCmnEqJhHI/view?usp=share_link" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Ethics Guidelines for Human Biomedical Research" src="/images/Report_4.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
