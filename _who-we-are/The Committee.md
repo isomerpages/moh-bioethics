@@ -44,7 +44,9 @@ Adjunct Assistant Professor, National University of Singapore
 
 **Professor Chin Jing Jih**<br>
 Deputy Group Chief Executive Officer (Clinical &amp; Academic Development)<br>
-National Healthcare Group<br> 
+National Healthcare Group; and<br> 
+Senior Consultant, Department of Geriatric Medicine, <br>
+Tan Tock Seng Hospital
 
 **Emeritus Professor Roy Joseph**<br>
 Emeritus Consultant, Department of Neonatology<br> 

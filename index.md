@@ -25,6 +25,15 @@ sections:
       alignment: left
       backgroundColor: white
   - infopic:
+      title: BIOETHICS EXHIBITION
+      subtitle: check out the
+      id: infopic
+      description: Singapore Science Centre
+      button: Book your tickets!
+      url: https://www.science.edu.sg/whats-on/exhibitions/bioethics-exhibition
+      image: /images/SCS Bioethics Exhibition/Exhibition_entrance.png
+      alt: Image alt text
+  - infopic:
       title: "Panel: Ethics of Genetic and Genomic Testing and Research"
       subtitle: CHECK OUT THE
       id: infopic
@@ -34,22 +43,6 @@ sections:
       url: https://www.eventbrite.sg/e/bioethics-ethics-of-genetic-and-genomic-testing-and-research-tickets-936296055707
       alt: Image alt text
       image: /images/GGTR Panel Programme/Bioethics_2024___FB_Telegram_IG_post__2_.jpg
-  - infopic:
-      title: Human Nuclear Genome Editing Public Consultation
-      subtitle: CHECK OUT the
-      id: infopic
-      button: press release
-      url: https://www.bioethics-singapore.gov.sg/publications/press-releases/bac-hnge-press-release/
-      image: /images/Human Nuclear Genome Editing/HNGE_pic.png
-      alt: Human Nuclear Genome Editing
-  - infopic:
-      title: Human Nuclear Genome Editing Public Consultation Paper
-      subtitle: Access the
-      id: infopic
-      button: read more
-      url: https://www.bioethics-singapore.gov.sg/files/publications/consultation-papers/hnge_public_consultation_paper.pdf
-      image: /images/Human Nuclear Genome Editing/HNGE_report_pic.png
-      alt: HNGE public consultation paper
   - infopic:
       title: Bioethics Corner
       subtitle: check out the
