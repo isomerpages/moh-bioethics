@@ -90,9 +90,27 @@ Precision Health Research Singapore (PRECISE)
 </p>
 <p><strong>Dr Voo Teck Chuan</strong>
 <br>Head, Office of Ethics in Healthcare Singhealth; and&nbsp;Advisor, SingHealth
-Duke-NUS Medical Humanities Institute
+Duke-NUS Medical Humanities Institute</p>
+<p></p>
+<p><strong>Past members</strong>
+<br><strong>Dr Tony Tan Keng Yam</strong>
+<br>Honorary Patron
+<br>Distinguished Senior Fellow
+<br>Singapore Management University</p>
+<p><strong>Emeritus Professor Lim Pin</strong>
+<br>Emeritus Consultant
+<br>Division of Endocrinology
+<br>National University Hospital; and
+<br>Professor of Medicine
+<br>National University of Singapore
 <br>
 </p>
+<p><strong>Dr Nazirudin Bin Mohd Nasir</strong>
+<br>Mufti
+<br>Office of the Mufti
+<br>Islamic Religious Council of Singapore</p>
+<p></p>
+<p></p>
 <h5></h5>
 <h5><strong>International Panel of Experts</strong></h5>
 <p><strong>Professor Kazuto Kato</strong>
