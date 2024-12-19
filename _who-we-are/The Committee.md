@@ -20,14 +20,14 @@ variant: tiptap
 <p><strong>Mr Gregory Vijayendran</strong>
 <br>Senior Counsel and Partner
 <br>Rajah and Tann Singapore LLP</p>
+<p></p>
 <p><strong>Members</strong>
-</p>
-<p><strong>Associate Professor Chan Mei Yoke      </strong>
-</p>
-<p>Senior Consultant, Paediatric Haematology/Oncology KK Women's and Children's
-Hospital (KKH); and Adjunct Associate Professor Yong Loo Lin School of
-Medicine, NUS</p>
-<p><strong>Dr Chew Wei Leong</strong>
+<br><strong>Associate Professor Chan Mei Yoke</strong>
+<br>Senior Consultant, Paediatric Haematology/Oncology
+<br>KK Women's and Children's Hospital (KKH); and
+<br>Adjunct Associate Professor Yong Loo Lin School of Medicine, NUS
+<br>
+<br><strong>Dr Chew Wei Leong</strong>
 <br>Associate Director (Genome Design) and Senior Research Scientist
 <br>Genome Institute of Singapore; and
 <br>Adjunct Assistant Professor, National University of Singapore</p>
@@ -37,8 +37,7 @@ Medicine, NUS</p>
 <br>Senior Consultant, Department of Geriatric Medicine,
 <br>Tan Tock Seng Hospital</p>
 <p><strong>Dr Izal Mustafa Kamar</strong>
-</p>
-<p>Deputy-Mufti, Islamic Religious Council of Singapore (MUIS); and Secretary,
+<br>Deputy-Mufti, Islamic Religious Council of Singapore (MUIS); and Secretary,
 MUIS’ Legal (Fatwa) Committee</p>
 <p><strong>Emeritus Professor Roy Joseph</strong>
 <br>Emeritus Consultant, Department of Neonatology
@@ -46,17 +45,15 @@ MUIS’ Legal (Fatwa) Committee</p>
 <br>National University Hospital; and
 <br>Director of the Paediatric Ethics Program, Centre for Biomedical Ethics
 <br>Yong Loo Lin School of Medicine, National University of Singapore</p>
-<p><strong>Ms Kuah Boon Theng </strong>
-</p>
-<p>Senior Counsel and Managing Director</p>
-<p>Legal Clinic LLC</p>
-<p><strong>Associate Professor Adrian Kwek Sui-Kion </strong>
-</p>
-<p>Associate Professor, Core Learning</p>
-<p>Singapore University of Social Sciences (SUSS)</p>
+<p><strong>Ms Kuah Boon Theng</strong>
+<br>Senior Counsel and Managing Director
+<br>Legal Clinic LLC</p>
+<p><strong>Associate Professor Adrian Kwek Sui-Kion</strong>
+<br>Associate Professor, Core Learning
+<br>Singapore University of Social Sciences (SUSS)</p>
 <p><strong>Associate Professor Lai Poh San</strong>
-<br>Associate Professor, Department of Paediatrics, Yong Loo Lin School of
-Medicine, National University of Singapore
+<br>Associate Professor, Department of Paediatrics,
+<br>Yong Loo Lin School of Medicine, National University of Singapore
 <br>
 </p>
 <p><strong>Mr Charles Lim Aeng Cheng</strong>
