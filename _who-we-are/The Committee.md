@@ -32,10 +32,9 @@ variant: tiptap
 <br>Genome Institute of Singapore; and
 <br>Adjunct Assistant Professor, National University of Singapore</p>
 <p><strong>Professor Chin Jing Jih</strong>
-<br>Deputy Group Chief Executive Officer (Clinical &amp; Academic Development)
-<br>National Healthcare Group; and
-<br>Senior Consultant, Department of Geriatric Medicine,
-<br>Tan Tock Seng Hospital</p>
+<br>Deputy Group Chief Executive Officer (Clinical and Academic Development),
+National Healthcare Group
+<br>Senior Consultant Geriatrician, Tan Tock Seng Hospital</p>
 <p><strong>Dr Izal Mustafa Kamar</strong>
 <br>Deputy-Mufti, Islamic Religious Council of Singapore (MUIS); and Secretary,
 MUIS’ Legal (Fatwa) Committee</p>
