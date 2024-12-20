@@ -88,8 +88,8 @@ Precision Health Research Singapore (PRECISE)
 <br>
 </p>
 <p><strong>Dr Voo Teck Chuan</strong>
-<br>Head, Office of Ethics in Healthcare Singhealth; and&nbsp;Advisor, SingHealth
-Duke-NUS Medical Humanities Institute</p>
+<br>Head, Office of Ethics in Healthcare Singhealth; and&nbsp;
+<br>Advisor, SingHealth Duke-NUS Medical Humanities Institute</p>
 <p></p>
 <p><strong>Past members</strong>
 <br><strong>Dr Tony Tan Keng Yam</strong>
