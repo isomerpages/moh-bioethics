@@ -8,11 +8,11 @@ variant: tiptap
 <h3><strong>Bioethics Advisory Committee</strong></h3>
 <p></p>
 <p><strong>Chairman</strong>
-<br><strong>Emeritus Professor Lee Eng Hin</strong>
-<br>Emeritus Professor, Department of Orthopaedic Surgery
-<br>National University of Singapore; and
-<br>Emeritus Consultant, Division of Paediatric Orthopaedics
-<br>National University Hospital</p>
+<br><strong>Dr Lee Eng Hin</strong>
+<br>Emeritus Professor &amp; Emeritus Consultant
+<br>Department of Orthopaedic Surgery
+<br>National University Health System</p>
+<p></p>
 <p><strong>Deputy Chairs</strong>
 <br><strong>Professor Kon Oi Lian</strong>
 <br>Adjunct Professor
