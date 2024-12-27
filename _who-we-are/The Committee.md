@@ -104,17 +104,17 @@ Precision Health Research Singapore (PRECISE)
 <br>Distinguished Senior Fellow
 <br>Singapore Management University</p>
 <p><strong>Emeritus Professor Lim Pin</strong>
-<br>Emeritus Consultant
+<br>Emeritus Consultant,
 <br>Division of Endocrinology
 <br>National University Hospital; and
-<br>Professor of Medicine
+<br>Professor of Medicine,
 <br>National University of Singapore
 <br>
 </p>
 <p><strong>Dr Nazirudin Bin Mohd Nasir</strong>
 <br>Mufti
 <br>Office of the Mufti
-<br>Islamic Religious Council of Singapore</p>
+<br>Islamic Religious Council of Singapore (MUIS)</p>
 <p></p>
 <p></p>
 <h5></h5>
