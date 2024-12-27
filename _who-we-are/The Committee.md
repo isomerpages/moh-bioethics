@@ -37,17 +37,18 @@ NTU
 <br>Adjunct Assistant Professor, National University of Singapore</p>
 <p><strong>Professor Chin Jing Jih</strong>
 <br>Deputy Group Chief Executive Officer (Clinical and Academic Development),
-National Healthcare Group
+National Healthcare Group and
 <br>Senior Consultant Geriatrician, Tan Tock Seng Hospital</p>
 <p><strong>Dr Izal Mustafa Kamar</strong>
 <br>Deputy-Mufti, Islamic Religious Council of Singapore (MUIS); and Secretary,
 MUIS’ Legal (Fatwa) Committee</p>
 <p><strong>Emeritus Professor Roy Joseph</strong>
 <br>Emeritus Consultant, Department of Neonatology
-<br>Khoo Teck Puat - National University Children's Medical Institute
-<br>National University Hospital; and
-<br>Director of the Paediatric Ethics Program, Centre for Biomedical Ethics,
-Yong Loo Lin School of Medicine, National University of Singapore</p>
+<br>Khoo Teck Puat - National University Children's Medical Institute, National
+University Hospital; and
+<br>Director of the Paediatric Ethics Program
+<br>Centre for Biomedical Ethics, Yong Loo Lin School of Medicine, National
+University of Singapore</p>
 <p></p>
 <p><strong>Ms Kuah Boon Theng</strong>
 <br>Senior Counsel and Managing Director
@@ -57,7 +58,8 @@ Yong Loo Lin School of Medicine, National University of Singapore</p>
 <br>Singapore University of Social Sciences (SUSS)</p>
 <p><strong>Associate Professor Lai Poh San</strong>
 <br>Associate Professor, Department of Paediatrics,
-<br>Yong Loo Lin School of Medicine, National University of Singapore
+<br>Yong Loo Lin School of Medicine
+<br>National University of Singapore
 <br>
 </p>
 <p><strong>Mr Charles Lim Aeng Cheng</strong>
@@ -71,9 +73,11 @@ Yong Loo Lin School of Medicine, National University of Singapore</p>
 <br>Office of the Mufti
 <br>Islamic Religious Council of Singapore (MUIS)</p>
 <p><strong>Associate Professor Ngiam Kee Yuan</strong>
-<br>Head, Academic Informatics Office, National University Health System
+<br>Head, Academic Informatics Office
+<br>National University Health System
 <br>Head and Senior Consultant, Division of General Surgery (Endocrine and
-Thyroid Surgery), Department of Surgery, NUH
+Thyroid Surgery),
+<br>Department of Surgery, NUH
 <br>Senior Consultant, Division of Surgical Oncology, NCIS; and Adjunct Professor,
 Department of Surgery, NUS Medicine</p>
 <p><strong>Professor Vineeta Sinha</strong>
