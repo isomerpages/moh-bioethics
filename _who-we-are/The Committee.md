@@ -8,14 +8,14 @@ variant: tiptap
 <h3><strong>Bioethics Advisory Committee</strong></h3>
 <p></p>
 <p><strong>Chairman</strong>
-<br><strong>Dr Lee Eng Hin</strong>
+<br><strong>Emeritus Professor Lee Eng Hin</strong>
 <br>Emeritus Professor &amp; Emeritus Consultant
 <br>Department of Orthopaedic Surgery
 <br>National University Health System</p>
 <p></p>
 <p><strong>Deputy Chairs</strong>
 <br><strong>Professor Kon Oi Lian</strong>
-<br>Adjunct Professor
+<br>Professor (Retired)
 <br>Duke-NUS Medical School</p>
 <p><strong>Mr Gregory Vijayendran</strong>
 <br>Senior Counsel and Partner
@@ -24,8 +24,12 @@ variant: tiptap
 <p><strong>Members</strong>
 <br><strong>Associate Professor Chan Mei Yoke</strong>
 <br>Senior Consultant, Paediatric Haematology/Oncology
-<br>KK Women's and Children's Hospital (KKH); and
-<br>Adjunct Associate Professor Yong Loo Lin School of Medicine, NUS
+<br>KK Women's and Children's Hospital (KKH);
+<br>Adjunct Associate Professor
+<br>Yong Loo Lin School of Medicine, NUS; and
+<br>Clinical Associate Professor
+<br>Duke-NUS Graduate Medical School and Lee Kong Chian School of Medicine,
+NTU
 <br>
 <br><strong>Dr Chew Wei Leong</strong>
 <br>Associate Director (Genome Design) and Senior Research Scientist
