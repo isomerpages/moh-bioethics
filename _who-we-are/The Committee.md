@@ -40,8 +40,9 @@ NTU
 National Healthcare Group and
 <br>Senior Consultant Geriatrician, Tan Tock Seng Hospital</p>
 <p><strong>Dr Izal Mustafa Kamar</strong>
-<br>Deputy Mufti Islamic Religious Council of Singapore (MUIS)</p>
-<p>Secretary, MUIS Legal (Fatwa) Committee</p>
+<br>Deputy Mufti
+<br>Islamic Religious Council of Singapore (MUIS)
+<br>Secretary, MUIS Legal (Fatwa) Committee</p>
 <p><strong>Emeritus Professor Roy Joseph</strong>
 <br>Emeritus Consultant, Department of Neonatology
 <br>Khoo Teck Puat - National University Children's Medical Institute, National
@@ -64,7 +65,7 @@ University Hospital; and
 </p>
 <p><strong>Mr Charles Lim Aeng Cheng</strong>
 <br>Principal Senior State Counsel, Legislation Division
-<br>Attorney-General’s Chambers Accademy (AGC)</p>
+<br>Attorney-General’s Chambers (AGC)</p>
 <p><strong>Associate Professor Lim Tit Meng</strong>
 <br>Chief Executive
 <br>Science Centre Board</p>
