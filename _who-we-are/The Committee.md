@@ -32,8 +32,8 @@ variant: tiptap
 NTU
 <br>
 <br><strong>Dr Chew Wei Leong</strong>
-<br>Associate Director (Genome Design) and Senior Research Scientist
-<br>Genome Institute of Singapore; and
+<br>Associate Director and Senior Principal Scientist
+<br>Genome Institute of Singapore, A*STAR; and
 <br>Adjunct Assistant Professor, National University of Singapore</p>
 <p><strong>Professor Chin Jing Jih</strong>
 <br>Deputy Group Chief Executive Officer (Clinical and Academic Development),
@@ -46,8 +46,9 @@ MUIS’ Legal (Fatwa) Committee</p>
 <br>Emeritus Consultant, Department of Neonatology
 <br>Khoo Teck Puat - National University Children's Medical Institute
 <br>National University Hospital; and
-<br>Director of the Paediatric Ethics Program, Centre for Biomedical Ethics
-<br>Yong Loo Lin School of Medicine, National University of Singapore</p>
+<br>Director of the Paediatric Ethics Program, Centre for Biomedical Ethics,
+Yong Loo Lin School of Medicine, National University of Singapore</p>
+<p></p>
 <p><strong>Ms Kuah Boon Theng</strong>
 <br>Senior Counsel and Managing Director
 <br>Legal Clinic LLC</p>
@@ -70,9 +71,11 @@ MUIS’ Legal (Fatwa) Committee</p>
 <br>Office of the Mufti
 <br>Islamic Religious Council of Singapore (MUIS)</p>
 <p><strong>Associate Professor Ngiam Kee Yuan</strong>
-<br>Group Chief Technology Officer, National University Health System; and
-<br>Senior Consultant, Division of Thyroid and Endocrine Surgery
-<br>National University Hospital and Alexandra Hospital</p>
+<br>Head, Academic Informatics Office, National University Health System
+<br>Head and Senior Consultant, Division of General Surgery (Endocrine and
+Thyroid Surgery), Department of Surgery, NUH
+<br>Senior Consultant, Division of Surgical Oncology, NCIS; and Adjunct Professor,
+Department of Surgery, NUS Medicine</p>
 <p><strong>Professor Vineeta Sinha</strong>
 <br>Professor, Department of Sociology
 <br>Faculty of Arts and Social Sciences
@@ -92,8 +95,8 @@ Precision Health Research Singapore (PRECISE)
 <br>
 </p>
 <p><strong>Dr Voo Teck Chuan</strong>
-<br>Head, Office of Ethics in Healthcare Singhealth; and&nbsp;
-<br>Advisor, SingHealth Duke-NUS Medical Humanities Institute</p>
+<br>Head, Office of Ethics in Healthcare
+<br>SingHealth</p>
 <p></p>
 <p><strong>Past members</strong>
 <br><strong>Dr Tony Tan Keng Yam</strong>
