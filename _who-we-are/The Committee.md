@@ -81,8 +81,9 @@ Department of Surgery, NUS Medicine</p>
 <br>Faculty of Arts and Social Sciences
 <br>National University of Singapore</p>
 <p><strong>Professor Patrick Tan Boon Ooi</strong>
-<br>Senior Vice Dean (Research), Duke-NUS Medical School Executive Director,
-Precision Health Research Singapore (PRECISE)
+<br>Senior Vice Dean (Research),
+<br>Duke-NUS Medical School Executive Director,
+<br>Precision Health Research Singapore (PRECISE)
 <br>Chief Scientific Officer, Genome Institute of Singapore</p>
 <p><strong>Mr Tan Sze Yao</strong>
 <br>Director, Legal Office
