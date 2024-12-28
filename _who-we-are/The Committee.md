@@ -36,8 +36,9 @@ NTU
 <br>Genome Institute of Singapore, A*STAR; and
 <br>Adjunct Assistant Professor, National University of Singapore</p>
 <p><strong>Professor Chin Jing Jih</strong>
-<br>Deputy Group Chief Executive Officer (Clinical and Academic Development),
-National Healthcare Group and
+<br>Deputy Group Chief Executive Officer
+<br>(Clinical and Academic Development),
+<br>National Healthcare Group and
 <br>Senior Consultant Geriatrician, Tan Tock Seng Hospital</p>
 <p><strong>Dr Izal Mustafa Kamar</strong>
 <br>Deputy Mufti
