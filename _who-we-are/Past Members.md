@@ -9,7 +9,7 @@ variant: markdown
 
 **Late Mr Richard Magnus**<br>
 Chief District Judge (Ret.)<br>
-Chairman from January 2011 to March 2022<br>
+(Chairman from January 2011 to March 2022)<br>
 
 **Dr Tony Tan Keng Yam**<br>
 Honorary Patron
