@@ -77,9 +77,8 @@ University Hospital; and
 <br>Head and Senior Consultant, Division of General Surgery (Endocrine and
 Thyroid Surgery),
 <br>Department of Surgery, NUH
-<br>Senior Consultant, Division of Surgical Oncology, NCIS;
-<br>and Adjunct Professor, Department of Surgery,
-<br>NUS Medicine</p>
+<br>Senior Consultant, Division of Surgical Oncology, NCIS; and
+<br>Adjunct Professor, Department of Surgery, NUS Medicine</p>
 <p><strong>Professor Vineeta Sinha</strong>
 <br>Professor, Department of Sociology
 <br>Faculty of Arts and Social Sciences
