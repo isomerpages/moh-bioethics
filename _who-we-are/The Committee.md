@@ -104,26 +104,6 @@ Thyroid Surgery),
 <br>SingHealth
 <br>Advisor, SingHealth Duke-NUS Medical Humanities Institute</p>
 <p></p>
-<p><strong>Past members</strong>
-<br><strong>Dr Tony Tan Keng Yam</strong>
-<br>Honorary Patron
-<br>Distinguished Senior Fellow
-<br>Singapore Management University</p>
-<p><strong>Emeritus Professor Lim Pin</strong>
-<br>Emeritus Consultant,
-<br>Division of Endocrinology
-<br>National University Hospital; and
-<br>Professor of Medicine,
-<br>National University of Singapore
-<br>
-</p>
-<p><strong>Dr Nazirudin Bin Mohd Nasir</strong>
-<br>Mufti
-<br>Office of the Mufti
-<br>Islamic Religious Council of Singapore (MUIS)</p>
-<p></p>
-<p></p>
-<h5></h5>
 <h5><strong>International Panel of Experts</strong></h5>
 <p><strong>Professor Kazuto Kato</strong>
 <br>Department of Biomedical Ethics and Public Policy
