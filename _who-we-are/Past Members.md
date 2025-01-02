@@ -23,6 +23,7 @@ National University Hospital: and
 Professor of Medicine,
 National University of Singapore
 (Chairman from 2001 to 2011) 
+(Emeritus Advisor from 2012 to 2024)
 
 **Dr Nazirudin Bin Mohd Nasir**
 Mufti
