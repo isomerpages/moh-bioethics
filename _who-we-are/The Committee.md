@@ -47,8 +47,7 @@ NTU
 <p><strong>Emeritus Professor Roy Joseph</strong>
 <br>Emeritus Consultant, Department of Neonatology
 <br>Khoo Teck Puat - National University Children's Medical Institute, National
-University Hospital; and
-<br>Director of the Paediatric Ethics Program,
+University Hospital; and Director of the Paediatric Ethics Program,
 <br>Centre for Biomedical Ethics
 <br>Yong Loo Lin School of Medicine,
 <br>National University of Singapore</p>
