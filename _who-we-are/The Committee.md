@@ -38,7 +38,7 @@ NTU
 <p><strong>Professor Chin Jing Jih</strong>
 <br>Deputy Group Chief Executive Officer
 <br>(Clinical and Academic Development),
-<br>National Healthcare Group and
+<br>National Healthcare Group; and
 <br>Senior Consultant Geriatrician, Tan Tock Seng Hospital</p>
 <p><strong>Dr Izal Mustafa Kamar</strong>
 <br>Deputy Mufti
@@ -46,10 +46,12 @@ NTU
 <br>Secretary, MUIS Legal (Fatwa) Committee</p>
 <p><strong>Emeritus Professor Roy Joseph</strong>
 <br>Emeritus Consultant, Department of Neonatology
-<br>Khoo Teck Puat - National University Children's Medical Institute,
-<br>National University Hospital; and Director of the Paediatric Ethics Program,
+<br>Khoo Teck Puat - National University Children's Medical Institute, National
+University Hospital; and
+<br>Director of the Paediatric Ethics Program,
 <br>Centre for Biomedical Ethics
-<br>Yong Loo Lin School of Medicine, National University of Singapore</p>
+<br>Yong Loo Lin School of Medicine,
+<br>National University of Singapore</p>
 <p></p>
 <p><strong>Ms Kuah Boon Theng</strong>
 <br>Senior Counsel and Managing Director
@@ -83,7 +85,8 @@ Department of Surgery, NUS Medicine</p>
 <br>National University of Singapore</p>
 <p><strong>Professor Patrick Tan Boon Ooi</strong>
 <br>Senior Vice Dean (Research),
-<br>Duke-NUS Medical School Executive Director,
+<br>Duke-NUS Medical School
+<br>Executive Director,
 <br>Precision Health Research Singapore (PRECISE)
 <br>Chief Scientific Officer, Genome Institute of Singapore</p>
 <p><strong>Mr Tan Sze Yao</strong>
@@ -98,7 +101,8 @@ Department of Surgery, NUS Medicine</p>
 </p>
 <p><strong>Dr Voo Teck Chuan</strong>
 <br>Head, Office of Ethics in Healthcare
-<br>SingHealth</p>
+<br>SingHealth
+<br>Advisor, SingHealth Duke-NUS Medical Humanities Institute</p>
 <p></p>
 <p><strong>Past members</strong>
 <br><strong>Dr Tony Tan Keng Yam</strong>
