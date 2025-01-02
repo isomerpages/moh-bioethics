@@ -3,17 +3,32 @@ title: Past Members
 permalink: /who-we-are/past-members/
 breadcrumb: Past Members
 description: ""
+variant: markdown
 ---
 ### **Past Members of the Bioethics Advisory Committee**
 
 **Late Mr Richard Magnus**<br>
 Chief District Judge (Ret.)<br>
 Chairman from January 2011 to March 2022<br>
-Chairman, Public Transport Council from 2014 to 2022
 
-**Professor Lim Pin**<br>
-University Professor, National University of Singapore<br>
+**Dr Tony Tan Keng Yam**
+Honorary Patron
+Distinguished Senior Fellow
+Singapore Management University
+
+**Emeritus Professor Lim Pin**<br>
+Emeritus Consultant,<br>
+Division of Endocrinology,
+National University Hospital: and
+Professor of Medicine,
+National University of Singapore
 (Chairman from 2001 to 2011) 
+
+**Dr Nazirudin Bin Mohd Nasir**
+Mufti
+Office of the Mufti
+Islamic Religious Council of Singapore (MUIS)
+
 
 **Associate Professor David Chan Kum Wah**<br>
 Department of Philosophy, National University of Singapore<br>
@@ -162,4 +177,3 @@ Director, Centre of Genomics and Policy, Faculty of Medicine, Department of Huma
 **Dr Thomas H. Murray**<br>
 President and CEO, The Hastings Center, USA<br>
 (2005 to 2012)
-
