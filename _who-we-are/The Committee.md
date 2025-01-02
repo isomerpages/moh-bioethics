@@ -71,7 +71,7 @@ University Hospital; and
 <p><strong>Associate Professor Lim Tit Meng</strong>
 <br>Chief Executive
 <br>Science Centre Board</p>
-<p><strong>Associate Professor Ngiam Kee Yuan</strong>
+<p><strong>Adjunct Professor Ngiam Kee Yuan</strong>
 <br>Head, Academic Informatics Office,
 <br>National University Health System
 <br>Head and Senior Consultant, Division of General Surgery (Endocrine and
