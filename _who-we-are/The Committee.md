@@ -101,7 +101,7 @@ Thyroid Surgery),
 </p>
 <p><strong>Dr Voo Teck Chuan</strong>
 <br>Head, Office of Ethics in Healthcare
-<br>SingHealth
+<br>SingHealth; and
 <br>Advisor, SingHealth Duke-NUS Medical Humanities Institute</p>
 <p></p>
 <h5><strong>International Panel of Experts</strong></h5>
