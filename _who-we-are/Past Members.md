@@ -12,11 +12,9 @@ Chief District Judge (Ret.)<br>
 (Chairman from January 2011 to March 2022)<br>
 
 **Dr Tony Tan Keng Yam**<br>
-Honorary Patron
-
-Distinguished Senior Fellow
-
-Singapore Management University
+Honorary Patron<br>
+Distinguished Senior Fellow<br>
+Singapore Manageme
 
 **Emeritus Professor Lim Pin**<br>
 Emeritus Consultant,<br>
@@ -28,10 +26,8 @@ National University of Singapore
 (Emeritus Advisor from 2012 to 2024)
 
 **Dr Nazirudin Bin Mohd Nasir**<br>
-Mufti
-
-Office of the Mufti
-
+Mufti<br>
+Office of the Mufti<br>
 Islamic Religious Council of Singapore (MUIS)
 
 
