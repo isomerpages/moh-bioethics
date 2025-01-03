@@ -52,7 +52,6 @@ University Hospital; and
 <br>Centre for Biomedical Ethics
 <br>Yong Loo Lin School of Medicine,
 <br>National University of Singapore</p>
-<p></p>
 <p><strong>Ms Kuah Boon Theng</strong>
 <br>Senior Counsel and Managing Director
 <br>Legal Clinic LLC</p>
@@ -89,6 +88,7 @@ Thyroid Surgery),
 <br>Executive Director,
 <br>Precision Health Research Singapore (PRECISE)
 <br>Chief Scientific Officer, Genome Institute of Singapore</p>
+<p></p>
 <p><strong>Mr Tan Sze Yao</strong>
 <br>Director, Legal Office
 <br>Ministry of Health, Singapore
