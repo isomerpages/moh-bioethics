@@ -14,7 +14,8 @@ Chief District Judge (Ret.)<br>
 **Dr Tony Tan Keng Yam**<br>
 Honorary Patron<br>
 Distinguished Senior Fellow<br>
-Singapore Management University of Singapore
+Singapore Management University of Singapore<br>
+(Patron from 2020 to 2024)
 
 **Emeritus Professor Lim Pin**<br>
 Emeritus Consultant,<br>
