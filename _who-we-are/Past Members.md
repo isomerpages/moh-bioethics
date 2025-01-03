@@ -14,14 +14,14 @@ Chief District Judge (Ret.)<br>
 **Dr Tony Tan Keng Yam**<br>
 Honorary Patron<br>
 Distinguished Senior Fellow<br>
-Singapore Manageme
+Singapore Management University of Singapore
 
 **Emeritus Professor Lim Pin**<br>
 Emeritus Consultant,<br>
-Division of Endocrinology,
-National University Hospital: and
+Division of Endocrinology,<br>
+National University Hospital: and<br>
 Professor of Medicine,
-National University of Singapore
+National University of Singapore<br>
 (Chairman from 2001 to 2011) 
 (Emeritus Advisor from 2012 to 2024)
 
