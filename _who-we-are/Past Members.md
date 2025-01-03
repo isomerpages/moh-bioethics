@@ -29,7 +29,8 @@ National University of Singapore<br>
 **Dr Nazirudin Bin Mohd Nasir**<br>
 Mufti<br>
 Office of the Mufti<br>
-Islamic Religious Council of Singapore (MUIS)
+Islamic Religious Council of Singapore (MUIS)<br>
+(Member from 2016 to 2024)
 
 
 **Associate Professor David Chan Kum Wah**<br>
