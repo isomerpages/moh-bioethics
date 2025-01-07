@@ -40,7 +40,7 @@ NTU
 <br>(Clinical and Academic Development),
 <br>National Healthcare Group; and
 <br>Senior Consultant Geriatrician, Tan Tock Seng Hospital</p>
-<p><strong>Dr Izal Bin  Mustafa Kamar</strong>
+<p><strong>Dr Izal Bin Mustafa Kamar</strong>
 <br>Deputy Mufti
 <br>Islamic Religious Council of Singapore (MUIS)
 <br>Secretary, MUIS Legal (Fatwa) Committee</p>
