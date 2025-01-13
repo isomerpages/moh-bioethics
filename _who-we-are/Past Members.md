@@ -7,9 +7,6 @@ variant: markdown
 ---
 ### **Past Members of the Bioethics Advisory Committee**
 
-**Late Mr Richard Magnus**<br>
-Chief District Judge (Ret.)<br>
-(Chairman from January 2011 to March 2022)<br>
 
 **Dr Tony Tan Keng Yam**<br>
 Honorary Patron<br>
@@ -25,6 +22,10 @@ Professor of Medicine,
 National University of Singapore<br>
 (Chairman from 2001 to 2011) 
 (Emeritus Advisor from 2011 to 2024)
+
+**Late Mr Richard Magnus**<br>
+Chief District Judge (Ret.) <br>
+(Chairman from January 2011 to March 2022)
 
 **Dr Nazirudin Bin Mohd Nasir**<br>
 Mufti<br>
