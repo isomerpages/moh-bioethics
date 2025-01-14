@@ -105,35 +105,8 @@ Thyroid Surgery),
 <br>Advisor, SingHealth Duke-NUS Medical Humanities Institute</p>
 <p></p>
 <h5><strong>International Panel of Experts</strong></h5>
-<p><strong>Professor Kazuto Kato</strong>
-<br>Department of Biomedical Ethics and Public Policy
-<br>Graduate School of Medicine, Osaka University, Japan</p>
-<p>Professor Kazuto Kato is the BAC's IPE member for the Human Nuclear Genome
-Editing (HNGE) project. He has served as a member of various international
-projects such as the Ethics Committee of Human Genome Organization (HUGO),
-Ethical, Legal, and Social Implications (ELSI) group of International HapMap
-Project, Ethics and Policy Committee of the International Cancer Genome
-Consortium (ICGC) and the World Health Organization (WHO) Expert Advisory
-Committee which develops global standards for governance and oversight
-of human genome editing. Since 2010, Professor Kato has been directing
-the Research Unit for the ELSI of Genomics in Japan to analyse ethical,
-legal and social implications of human genome research, particularly focusing
-on the whole genome and exome analysis.
-<br>
-<br>
-</p>
-<p><strong>Professor Graeme Laurie</strong>
-<br>Professorial Fellow
-<br>School of Law, University of Edinburgh, Scotland</p>
-<p>Professor Graeme Laurie is the BAC's IPE member for the Big Data and Artificial
-Intelligence (AI) project. He is the Founding Director of the J Kenyon
-Mason Institute for Medicine, Life Sciences and the Law and was the Chair
-of Medical Jurisprudence in the School of Law at the University of Edinburgh
-from 2005 to 2019. He is also the current editor-in-chief of the Asian
-Bioethics Review. Prof Laurie has held numerous appointments including
-Chair of the UK Biobank Ethics and Governance Council (2006-2010), and
-Chair of the Privacy Advisory Committee in Scotland (2005-2013). From 2009
-to 2015, he was also an active member of the British Medical Association
-Medical Ethics Committee and the Nuffield Council for Bioethics. In 2019,
-he assumed membership of the International Council of Reference for Health
-Data Research in UK.</p>
+<p>Prof Timothy B. Curry
+<br>Consultant &amp; Vice Chair, Department of Anaesthesiology &amp; Perioperative
+Medicine, Mayo Clinic</p>
+<p></p>
+<p></p>
