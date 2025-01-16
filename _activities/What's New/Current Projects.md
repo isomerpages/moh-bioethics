@@ -4,8 +4,21 @@ permalink: /activities/current-projects/
 breadcrumb: Current Projects
 description: ""
 third_nav_title: What's New
+variant: markdown
 ---
 ### BAC's Current Projects 
+
+**Genetic and Genomic Testing and Research (GGTR)**<br>
+
+The GGTR Review Group (RG) was appointed on 1 Apr 2024 to review the latest developments and ethical issues in the area of genetic and genomic testing and research and develop recommendations to guide the ethical conduct of GGTR in Singapore.
+
+The GGTR RG comprises 19 select members from BAC, NMEC, Genetic Testing Advisory Committee (GTAC), and other  relevant experts as co-opted members and an International Panel of Expert (IPE) member.
+
+Members were selected based on their areas of expertise in:
+a. Research;
+b. Clinical specialties;
+c. Diagnostics/testing in the field of genetics; and
+d. The field of bioethics, law and health information technology
 
 
 **Advisory Report: Big Data and Artificial Intelligence in Human Biomedical Research**<br>
