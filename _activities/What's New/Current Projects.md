@@ -14,14 +14,12 @@ variant: tiptap
 developments and ethical issues in the area of genetic and genomic testing
 and research and develop recommendations to guide the ethical conduct of
 GGTR in Singapore.</p>
-<p>The GGTR RG comprises 19 select members from BAC, NMEC, Genetic Testing
-Advisory Committee (GTAC), and other relevant experts as co-opted members
-and an International Panel of Expert (IPE) member.</p>
-<p>Members were selected based on their areas of expertise in:
-<br>a. Research;
-<br>b. Clinical specialties;
-<br>c. Diagnostics/testing in the field of genetics; and
-<br>d. The field of bioethics, law and health information technology</p>
+<p>The topic on genetic/genomic testing and genetic/genomic research was
+identified by MOH to be important for enabling</p>
+<p>the wider Precision Medicine Workplan amongst other topics such as genome
+sequencing, gene patenting, and targeted</p>
+<p>therapies</p>
+<p></p>
 <p><strong>Advisory Report: Big Data and Artificial Intelligence in Human Biomedical Research</strong>
 <br>The advisory report aims to review the bioethical issues in the application/use
 of big data and artificial intelligence (AI) in human biomedical research
