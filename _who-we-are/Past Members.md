@@ -33,7 +33,6 @@ Office of the Mufti<br>
 Islamic Religious Council of Singapore (MUIS)<br>
 (Member from 2016 to 2024)
 
-
 **Associate Professor David Chan Kum Wah**<br>
 Department of Philosophy, National University of Singapore<br>
 (January to May 2001)
@@ -149,6 +148,17 @@ National University of Singapore<br>
 (2007 - 2017) 
 
 ### **Past Advisors on the BAC's International Panel of Experts**
+
+        -paper-source:0;} div.WordSection1 {page:WordSection1;} --&gt;
+
+**Professor Kazuto Kato**  
+Department of Biomedical Ethics and Public Policy  
+Graduate School of Medicine, Osaka University, Japan
+
+**Professor Graeme Laurie**  
+Professorial Fellow  
+School of Law, University of Edinburgh, Scotland
+
 
 **Professor Peter Braude**<br>
 Emeritus Professor of Obstetrics and Gynaecology, School of Medicine, King’s College London, UK<br>
