@@ -105,29 +105,17 @@ Thyroid Surgery),
 <br>Advisor, SingHealth Duke-NUS Medical Humanities Institute</p>
 <p></p>
 <h5><strong>International Panel of Experts</strong></h5>
-<p><strong>Prof Timothy B. Curry <br>Consultant &amp; Vice Chair, Department of Anaesthesiology &amp; Perioperative Medicine, Mayo Clinic</strong>
-</p>
-<p>Timothy B. Curry, MD, PhD, is a consultant and vice chair for practice
-in the Department of Anesthesiology and Perioperative Medicine, Mayo Clinic
-(Rochester, Minnesota). He also holds a joint appointment in the Department
-of Physiology and Biomedical Engineering.</p>
-<p>He joined the staff of Mayo Clinic in 2005 and holds the academic rank
-of professor of anesthesiology and assistant professor of physiology, Mayo
-Clinic College of Medicine and Science. As a clinical anesthesiologist,
-Dr Curry provides anesthesia services for spine, thoracic, and orthopedic
-surgery, regional anesthesia, and perioperative glucose management.</p>
-<p>Dr Curry is the William O. Lund, Jr. and Natalie C. Lund Program Director
-for Clinomics, Center for Individualized Medicine, for which he is also
-the Midwest associate director, Clinical Implementation. He was the Center’s
-director of education from 2014-2021. He serves as vice chair for the Mayo
-Clinic Rochester Surgical and Procedural Committee and vice chair of the
-Operations Coordinating Group.</p>
-<p>Dr Curry studies the autonomic nervous system, including its role in cardiovascular
-control. His current laboratory work focuses on the physiological compensation
-to hemorrhage and using machine learning to develop algorithms to guide
-diagnosis and treatment of shock. He has published extensively on perioperative
-practice management and is also engaged in translational genomic research
-projects with collaborations across specialties.</p>
-<p>He was named Section Editor of Mayo Clinic Proceedings in 2019.</p>
-<p></p>
+<h5><strong>Prof Timothy B. Curry <br>Consultant &amp; Vice Chair, Department of Anaesthesiology &amp; Perioperative Medicine, Mayo Clinic</strong></h5>
+<p>Prof Curry has a joint appointment as Consultant in the Department of
+Physiology and Biomedical Engineering at the Mayo Clinic in Rochester and
+is also the Center of Individualised Medicine’s Associate Director of clinical
+implementation and is the William O. Lund, Jr. and Natalie C. Lund Program
+Director for Clinomics. Prof Curry’s current research is focused on implementation
+of genomic medicine, genomic education, and clinical practice improvement.
+His work has been funded by the Department of Defense and the National
+Institutes of Health, among others. He is frequently invited to give presentations
+on his research both nationally and internationally and has authored numerous
+journal articles, abstracts and book chapters. He serves on the Mayo Clinic
+Proceedings editorial board and holds reviewer responsibilities for prominent
+scientific publications.</p>
 <p></p>
