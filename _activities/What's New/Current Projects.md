@@ -9,7 +9,7 @@ variant: tiptap
 <h3>BAC's Current Projects</h3>
 <p><strong>Genetic and Genomic Testing and Research (GGTR) </strong>
 <br>Genetic and Genomic Testing and Research (GGTR) assesses the latest developments
-and ethical issues in the area of genetic and genomic testing and research
+and ethical issues in the area of genetic and genomic testing and research,
 and develop recommendations to guide the ethical conduct of GGTR in Singapore.</p>
 <p>The topic on genetic/genomic testing and genetic/genomic research was
 identified by MOH to be important for enabling the wider Precision Medicine
