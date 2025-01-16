@@ -7,18 +7,14 @@ third_nav_title: What's New
 variant: tiptap
 ---
 <h3>BAC's Current Projects</h3>
-<p><strong>Genetic and Genomic Testing and Research (GGTR) Review Group</strong>
-<br>
-</p>
-<p>The GGTR Review Group (RG) was appointed on 1 Apr 2024 to review the latest
-developments and ethical issues in the area of genetic and genomic testing
-and research and develop recommendations to guide the ethical conduct of
-GGTR in Singapore.</p>
+<p><strong>Genetic and Genomic Testing and Research (GGTR) </strong>
+<br>Genetic and Genomic Testing and Research (GGTR) assesses the latest developments
+and ethical issues in the area of genetic and genomic testing and research
+and develop recommendations to guide the ethical conduct of GGTR in Singapore.</p>
 <p>The topic on genetic/genomic testing and genetic/genomic research was
-identified by MOH to be important for enabling</p>
-<p>the wider Precision Medicine Workplan amongst other topics such as genome
-sequencing, gene patenting, and targeted</p>
-<p>therapies</p>
+identified by MOH to be important for enabling the wider Precision Medicine
+Workplan amongst other topics such as genome sequencing, gene patenting,
+and targeted therapies.</p>
 <p></p>
 <p><strong>Advisory Report: Big Data and Artificial Intelligence in Human Biomedical Research</strong>
 <br>The advisory report aims to review the bioethical issues in the application/use
