@@ -149,7 +149,7 @@ National University of Singapore<br>
 
 ### **Past Advisors on the BAC's International Panel of Experts**
 
-        -paper-source:0;} div.WordSection1 {page:WordSection1;} --&gt;
+        
 
 **Professor Kazuto Kato**  
 Department of Biomedical Ethics and Public Policy  
