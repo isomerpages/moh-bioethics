@@ -105,17 +105,17 @@ Thyroid Surgery),
 <br>Advisor, SingHealth Duke-NUS Medical Humanities Institute</p>
 <p></p>
 <h5><strong>International Panel of Experts</strong></h5>
-<h5><strong>Prof Timothy B. Curry, MD, PhD<br>Consultant &amp; Vice Chair, Department of Anaesthesiology &amp; Perioperative Medicine, Mayo Clinic</strong></h5>
+<h5><strong>Prof Timothy B. Curry, MD, PhD<br>Consultant &amp; Vice Chair, Department of Anesthesiology &amp; Perioperative Medicine, Mayo Clinic</strong></h5>
 <p>Prof Curry has a joint appointment as Consultant in the Department of
-Physiology and Biomedical Engineering at the Mayo Clinic in Rochester and
-is also the Center of Individualised Medicine’s Associate Director of clinical
-implementation and is the William O. Lund, Jr. and Natalie C. Lund Program
-Director for Clinomics. Prof Curry’s current research is focused on implementation
-of genomic medicine, genomic education, and clinical practice improvement.
-His work has been funded by the Department of Defense and the National
-Institutes of Health, among others. He is frequently invited to give presentations
-on his research both nationally and internationally and has authored numerous
-journal articles, abstracts and book chapters. He serves on the Mayo Clinic
-Proceedings editorial board and holds reviewer responsibilities for prominent
-scientific publications.</p>
+Physiology and Biomedical Engineering at the Mayo Clinic in Rochester,
+Minnesota and is also the Center of Individualised Medicine’s Associate
+Director of clinical implementation and is the William O. Lund, Jr. and
+Natalie C. Lund Program Director for Clinomics. Prof Curry’s current research
+is focused on implementation of genomic medicine, genomic education, and
+clinical practice improvement. His work has been funded by the Department
+of Defense and the National Institutes of Health, among others. He is frequently
+invited to give presentations on his research both nationally and internationally
+and has authored numerous journal articles, abstracts and book chapters.
+He serves on the Mayo Clinic Proceedings editorial board and holds reviewer
+responsibilities for prominent scientific publications.</p>
 <p></p>
