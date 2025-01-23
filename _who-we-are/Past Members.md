@@ -159,7 +159,7 @@ Graduate School of Medicine, Osaka University, Japan
 **Professor Graeme Laurie**  
 Professorial Fellow  
 School of Law, University of Edinburgh, Scotland
-(2022 -2024)
+(2022-2024)
 
 **Professor Peter Braude**<br>
 Emeritus Professor of Obstetrics and Gynaecology, School of Medicine, King’s College London, UK<br>
