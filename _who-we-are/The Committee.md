@@ -105,7 +105,7 @@ Thyroid Surgery),
 <br>Advisor, SingHealth Duke-NUS Medical Humanities Institute</p>
 <p></p>
 <h5><strong>International Panel of Experts</strong></h5>
-<h5><strong>Prof Timothy B. Curry<br>Consultant &amp; Vice Chair, Department of Anaesthesiology &amp; Perioperative Medicine, Mayo Clinic</strong></h5>
+<h5><strong>Prof Timothy B. Curry, MD, Phd<br>Consultant &amp; Vice Chair, Department of Anaesthesiology &amp; Perioperative Medicine, Mayo Clinic</strong></h5>
 <p>Prof Curry has a joint appointment as Consultant in the Department of
 Physiology and Biomedical Engineering at the Mayo Clinic in Rochester and
 is also the Center of Individualised Medicine’s Associate Director of clinical
