@@ -153,12 +153,12 @@ National University of Singapore<br>
 
 **Professor Kazuto Kato**  
 Department of Biomedical Ethics and Public Policy  
-Graduate School of Medicine, Osaka University, Japan
+Graduate School of Medicine, Osaka University, Japan<br>
 (2020-2024)
 
 **Professor Graeme Laurie**  
 Professorial Fellow  
-School of Law, University of Edinburgh, Scotland
+School of Law, University of Edinburgh, Scotland<br>
 (2022-2024)
 
 **Professor Peter Braude**<br>
