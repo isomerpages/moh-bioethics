@@ -108,7 +108,7 @@ Thyroid Surgery),
 <p><strong>Prof Timothy B. Curry</strong>
 <br>Consultant &amp; Vice Chair, Department of Anesthesiology &amp; Perioperative
 Medicine, Mayo Clinic</p>
-<p>Prof Curry has a joint appointment as Consultant in the Department of
+<p>Prof Curry holds a joint appointment as Consultant in the Department of
 Physiology and Biomedical Engineering at the Mayo Clinic in Rochester,
 Minnesota and is also the Center of Individualised Medicine’s Associate
 Director of clinical implementation and is the William O. Lund, Jr. and
