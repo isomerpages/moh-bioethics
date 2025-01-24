@@ -23,7 +23,7 @@ National University of Singapore<br>
 (Chairman from 2001 to 2011) 
 (Emeritus Advisor from 2011 to 2024)
 
-**Late Mr Richard Magnus**<br>
+** Mr Richard Magnus**<br>
 Chief District Judge (Ret.) <br>
 (Chairman from January 2011 to March 2022)
 
