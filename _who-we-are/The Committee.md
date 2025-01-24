@@ -112,12 +112,13 @@ Medicine, Mayo Clinic</p>
 Physiology and Biomedical Engineering at the Mayo Clinic in Rochester,
 Minnesota and is also the Center of Individualised Medicine’s Associate
 Director of clinical implementation and is the William O. Lund, Jr. and
-Natalie C. Lund Program Director for Clinomics. Prof Curry’s current research
-is focused on implementation of genomic medicine, genomic education, and
-clinical practice improvement. His work has been funded by the Department
-of Defense and the National Institutes of Health, among others. He is frequently
-invited to give presentations on his research both nationally and internationally
-and has authored numerous journal articles, abstracts and book chapters.
-He serves on the Mayo Clinic Proceedings editorial board and holds reviewer
-responsibilities for prominent scientific publications.</p>
+Natalie C. Lund Program Director for Clinomics.</p>
+<p>Prof Curry’s current research is focused on implementation of genomic
+medicine, genomic education, and clinical practice improvement. His work
+has been funded by the Department of Defense and the National Institutes
+of Health, among others. He is frequently invited to give presentations
+on his research both nationally and internationally and has authored numerous
+journal articles, abstracts and book chapters. He serves on the Mayo Clinic
+Proceedings editorial board and holds reviewer responsibilities for prominent
+scientific publications.</p>
 <p></p>
