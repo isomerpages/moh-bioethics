@@ -3,17 +3,35 @@ title: Past Members
 permalink: /who-we-are/past-members/
 breadcrumb: Past Members
 description: ""
+variant: markdown
 ---
 ### **Past Members of the Bioethics Advisory Committee**
 
-**Late Mr Richard Magnus**<br>
-Chief District Judge (Ret.)<br>
-Chairman from January 2011 to March 2022<br>
-Chairman, Public Transport Council from 2014 to 2022
 
-**Professor Lim Pin**<br>
-University Professor, National University of Singapore<br>
+**Dr Tony Tan Keng Yam**<br>
+Honorary Patron<br>
+Distinguished Senior Fellow<br>
+Singapore Management University<br>
+(Patron from 2020 to 2024)
+
+**Emeritus Professor Lim Pin**<br>
+Emeritus Consultant,<br>
+Division of Endocrinology,<br>
+National University Hospital: and<br>
+Professor of Medicine,
+National University of Singapore<br>
 (Chairman from 2001 to 2011) 
+(Emeritus Advisor from 2011 to 2024)
+
+**Mr Richard Magnus**<br>
+Chief District Judge (Ret.) <br>
+(Chairman from January 2011 to March 2022)
+
+**Dr Nazirudin Bin Mohd Nasir**<br>
+Mufti<br>
+Office of the Mufti<br>
+Islamic Religious Council of Singapore (MUIS)<br>
+(Member from 2016 to 2024)
 
 **Associate Professor David Chan Kum Wah**<br>
 Department of Philosophy, National University of Singapore<br>
@@ -131,6 +149,18 @@ National University of Singapore<br>
 
 ### **Past Advisors on the BAC's International Panel of Experts**
 
+        
+
+**Professor Kazuto Kato**  
+Department of Biomedical Ethics and Public Policy  
+Graduate School of Medicine, Osaka University, Japan<br>
+(2020-2024)
+
+**Professor Graeme Laurie**  
+Professorial Fellow  
+School of Law, University of Edinburgh, Scotland<br>
+(2022-2024)
+
 **Professor Peter Braude**<br>
 Emeritus Professor of Obstetrics and Gynaecology, School of Medicine, King’s College London, UK<br>
 (2014-2021)
@@ -162,4 +192,3 @@ Director, Centre of Genomics and Policy, Faculty of Medicine, Department of Huma
 **Dr Thomas H. Murray**<br>
 President and CEO, The Hastings Center, USA<br>
 (2005 to 2012)
-
