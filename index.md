@@ -61,6 +61,6 @@ sections:
           announcement: The public consultation was conducted from 6 June to 16 August 2024.
           link_text: Press Release
           link_url: https://www.bioethics-singapore.gov.sg/publications/press-releases/bac-hnge-press-release/
-description: Description
+description: Website of the Bioethics Advisory Committee in Singapore
 image: /images/isomer-logo.svg
 ---
