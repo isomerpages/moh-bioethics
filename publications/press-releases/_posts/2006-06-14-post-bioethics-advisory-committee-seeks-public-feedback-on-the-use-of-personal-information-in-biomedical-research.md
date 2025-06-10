@@ -1,12 +1,11 @@
 ---
 layout: post
-title: 'Bioethics Advisory Committee seeks public feedback on the use of personal information in biomedical research'
+title: Bioethics Advisory Committee seeks public feedback on the use of personal
+  information in biomedical research
 permalink: /publications/press-releases/bioethics-advisory-committee-seeks-public-feedback-on-the-use-of-personal-information-in-biomedical-research/
 date: 2006-06-14T00:00:00.000Z
-
+variant: markdown
 ---
-
-
 **Consultation Paper distributed to 70 religious, professional and scientific organisations, and healthcare and research institutions in Singapore to seek their views**
 
 Over the past two years, the Bioethics Advisory Committee (BAC) has thoroughly examined the ethical, legal and social issues arising from the use of personal information in biomedical research. This was achieved by studying various policies and guidelines adopted in other leading jurisdictions and recommendations made by national and international organisations. Local and international experts were also consulted.
@@ -24,9 +23,9 @@ Associate Professor Terry Kaan, Chairman of the Human Genetics Subcommittee says
 
 BAC Chairman, Professor Lim Pin agrees with Associate Professor Kaan, adding: “It should be stressed that a legal privacy protection regime is to facilitate biomedical research, and not to impede its progress. A legal privacy protection regime will help prevent possible ethical lapses regarding privacy and confidentiality from occurring and thus safeguard and promote Singapore’s reputation as a responsible and safe country for carrying out biomedical research. This will bring about multiple benefits such as the possibility of collaboration with other countries for biomedical research.”
 
-The Consultation Paper will be distributed to 70 organisations and institutions seeking their views on the issues discussed and the recommendations proposed. The BAC also welcomes comments from the public. Those interested in providing their views could obtain a copy of the Consultation Paper at www.bioethics-singapore.org and should send their responses by 31 July 2006 to:
+The Consultation Paper will be distributed to 70 organisations and institutions seeking their views on the issues discussed and the recommendations proposed. The BAC also welcomes comments from the public. Those interested in providing their views could obtain a copy of the Consultation Paper at www.bioethics-singapore.gov.sg and should send their responses by 31 July 2006 to:
 
-Email: <contactus@bioethics-singapore.org>
+Email: 
 
 All comments received will be carefully considered before the final recommendations are made to the Steering Committee on Life Sciences. The BAC plans to publish all written responses received, unless it receives a request to consider responses confidential.
 
@@ -97,8 +96,8 @@ The BAC was established by the Government in December 2000 to address the ethica
 
 <br>Mr Calvin Ho
 <br>DID: (65) 6826 6382
-<br><calvin_ho@bioethics-singapore.org>
+<br>
 <br>
 <br>Mr Alvin Chew
 <br>DID: (65) 6826 6291
-<br><alvin_chew@bioethics-singapore.org >
+<br>
