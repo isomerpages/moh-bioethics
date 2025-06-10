@@ -1,12 +1,11 @@
 ---
 layout: post
-title: 'Release of the Fifth Report by the Bioethics Advisory Committee – Personal Information in Biomedical Research'
+title: Release of the Fifth Report by the Bioethics Advisory Committee –
+  Personal Information in Biomedical Research
 permalink: /publications/press-releases/release-of-the-fifth-report-by-the-bioethics-advisory-committee-personal-information-in-biomedical-research/
 date: 2007-05-07T00:00:00.000Z
-
+variant: markdown
 ---
-
-
 **RELEASE OF A REPORT BY THE BIOETHICS ADVISORY COMMITTEE**
 
 The Bioethics Advisory Committee (BAC) announces the release of a Report entitled: “Personal Information in Biomedical Research”. This Report discusses the ethical issues relating to the use of personal information in biomedical research and makes recommendations on the appropriate use of such information through the provision of proper safeguards.
@@ -91,8 +90,8 @@ The BAC was established by the Government in December 2000 to address the ethica
 
 <br>Dr Sylvia Lim
 <br>DID: (65) 6826 6258
-<br><sylvia_lim@bioethics-singapore.org>
+<br>
 <br>
 <br>Ms Vivien Goh
 <br>DID: (65) 6826 6292
-<br><Vivien_Goh@bioethics-singapore.org>
+<br>
