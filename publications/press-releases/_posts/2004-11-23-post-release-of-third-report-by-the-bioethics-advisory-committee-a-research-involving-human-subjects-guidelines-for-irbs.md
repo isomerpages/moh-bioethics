@@ -214,13 +214,14 @@ and timely manner.</p>
 <p>
 <br>Dr Sylvia Lim
 <br>DID: (65) 6826 6258
-<br><a href="mailto:Sylvia_Lim@bioethics-singapore.org" rel="noopener noreferrer nofollow" target="_blank">Sylvia_Lim@bioethics-singapore.org</a>
-<br>
+<br><a href="mailto:Sylvia_Lim@bioethics-singapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Sylvia_Lim@bioethics-singapore.gov.sg</a>
+</p>
+<p>
 <br>Ms Linda Tan
 <br>DID: (65) 6826 6263
-<br><a href="mailto:Linda_Tan@bioethics-singapore.org" rel="noopener noreferrer nofollow" target="_blank">Linda_Tan@bioethics-singapore.org</a>
+<br><a href="mailto:Linda_Tan@bioethics-singapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Linda_Tan@bioethics-singapore.gov.sg</a>
 <br>
 <br>Ms Jessy Chen
 <br>DID: (65) 6826 6264
-<br><a href="mailto:Jessy_Chen@bioethics-singapore.org" rel="noopener noreferrer nofollow" target="_blank">Jessy_Chen@bioethics-singapore.org</a>
+<br><a href="mailto:Jessy_Chen@bioethics-singapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Jessy_Chen@bioethics-singapore.gov.sg</a>
 </p>
