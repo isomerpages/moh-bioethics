@@ -148,7 +148,7 @@ of Health, Brunei Darussalam</p>
 <p>29 October</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Media event on launch of the <a href="www.bioethics-singapore.gov.sg/bioethicscorner/" rel="noopener noreferrer nofollow" target="_blank">Bioethics Corner</a> at
+<p>Media event on launch of the <a href="https://www.bioethics-singapore.gov.sg/bioethicscorner/" rel="noopener nofollow" target="_blank">Bioethics Corner</a> at
 Lee Kong Chian Reference Library; <a href="www.bioethics-singapore.gov.sg/bioethicspanelprogrammeonbigdataandartificialintelligence/" rel="noopener noreferrer nofollow" target="_blank">Bioethics Panel Programme on Big Data and Artificial Intelligence - Public talks and panel discussion</a>
 </p>
 </td>
@@ -177,7 +177,7 @@ Committee in Lisbon, Portugal</p>
 <p>30 June</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Launch of <a href="www.bioethics-singapore.gov.sg/bioethicscorner/" rel="noopener noreferrer nofollow" target="_blank">Bioethics Corner</a> at
+<p>Launch of <a href="https://www.bioethics-singapore.gov.sg/bioethicscorner/" rel="noopener nofollow" target="_blank">Bioethics Corner</a> at
 Lee Kong Chian Reference Library (in collaboration with National Library
 Board)</p>
 </td>
