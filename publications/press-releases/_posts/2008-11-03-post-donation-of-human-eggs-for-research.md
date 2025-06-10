@@ -1,12 +1,10 @@
 ---
 layout: post
-title: 'Donation of Human Eggs for Research'
+title: Donation of Human Eggs for Research
 permalink: /publications/press-releases/donation-of-human-eggs-for-research/
 date: 2008-11-03T00:00:00.000Z
-
+variant: markdown
 ---
-
-
 **Release of a Report by the BAC**
 
 1. The Bioethics Advisory Committee (BAC) announces the release of a report entitled “Donation of Human Eggs for Research”. This Report deals with issues related to the provision of human eggs for the purpose of research, especially research into embryonic stem cells, and is part of the BAC’s longer term intention to consolidate its views and recommendations in the area of human embryonic stem cell research.
@@ -75,4 +73,4 @@ The BAC was established by the Government in December 2000 to address the ethica
 
 <br>Ms Charmaine Chan
 <br>DID: (65) 6773 1726
-<br><charmaine@bioethics-singapore.org>
+<br>
