@@ -1,12 +1,11 @@
 ---
 layout: post
-title: 'Release of the Fourth Report by the Bioethics Advisory Committee – Genetic Testing and Genetic Research'
+title: Release of the Fourth Report by the Bioethics Advisory Committee –
+  Genetic Testing and Genetic Research
 permalink: /publications/press-releases/release-of-the-fourth-report-by-the-bioethics-advisory-committee-genetic-testing-and-genetic-research/
 date: 2005-11-18T00:00:00.000Z
-
+variant: markdown
 ---
-
-
 This Report of the Bioethics Advisory Committee (BAC) sets out ethical considerations for the conduct of genetic testing and human genetic research. 
 
 The recommendations in the Report build on the existing ethical guidelines of the National Medical Ethics Committee of the Ministry of Health and apply to genetic testing whether conducted in a clinical or research setting. However, the recommendations on consent and counselling do not apply to standard clinical tests for the purposes of diagnosis or treatment, unless the tests involve direct analysis of human DNA, RNA, genes and/or chromosomes. 
@@ -49,7 +48,7 @@ Recent advancement in gene technology allows an individual’s genetic makeup to
 
 The Report is the culmination of extensive research into the policies and guidelines of various international and national ethics, governmental and professional bodies, which commenced approximately two years ago. On 5 April 2005, a consultation paper was distributed to 107 healthcare and governmental institutions (including the NMEC) and professional, religious and patient support organisations for comments. A total of 31 written responses were received. In addition, the BAC held dialogue sessions with religious representatives and healthcare professionals, and further organised 14 focus group discussions (from 14 May to 9 July 2005) to facilitate discussion and gathering of feedback from the general public. The written responses and reports on the dialogue sessions and focus group discussions have been published as annexes to the Report. All views provided to the BAC had been carefully considered in formulating the recommendations, including feedback from the BAC’s International Panel of Experts and the International Advisory Council of the Biomedical Sciences Initiative.
 
-These recommendations have been presented to and accepted by the Life Sciences Steering Committee (previously, Life Sciences Ministerial Committee). A copy of the Report is available at [www.bioethics-singapore.org](www.bioethics-singapore.org).
+These recommendations have been presented to and accepted by the Life Sciences Steering Committee (previously, Life Sciences Ministerial Committee). A copy of the Report is available at [www.bioethics-singapore.gov.sg](www.bioethics-singapore.gov.sg).
 
 
 **LIST OF RECOMMENDATIONS**
@@ -138,8 +137,8 @@ The BAC was established by the Government in December 2000 to address the ethica
 
 <br>Mr Calvin Ho
 <br>DID: (65) 6826 6382
-<br><calvin_ho@bioethics-singapore.org>
+<br>
 <br>
 <br>Ms Jessy Chen
 <br>DID: (65) 6826 6264
-<br><Jessy_Chen@bioethics-singapore.org>
+<br>
