@@ -229,13 +229,13 @@ for the benefit of mankind.</p>
 <p>
 <br>Dr Sylvia Lim
 <br>DID: (65) 6826 6258
-<br><a href="mailto:sylvia_lim@bioethics-singapore.org" rel="noopener noreferrer nofollow" target="_blank">sylvia_lim@bioethics-singapore.org</a>
+<br><a href="mailto:sylvia_lim@bioethics-singapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sylvia_lim@bioethics-singapore.gov.sg</a>
 <br>
 <br>Ms Linda Tan
 <br>DID: (65) 6826 6263
-<br><a href="mailto:linda_tan@bioethics-singapore.org" rel="noopener noreferrer nofollow" target="_blank">linda_tan@bioethics-singapore.org</a>
+<br><a href="mailto:linda_tan@bioethics-singapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">linda_tan@bioethics-singapore.gov.sg</a>
 <br>
 <br>Ms Jessy Chen
 <br>DID: (65) 6826 6264
-<br><a href="mailto:Jessy_Chen@bioethics-singapore.org" rel="noopener noreferrer nofollow" target="_blank">Jessy_Chen@bioethics-singapore.org</a>
+<br><a href="mailto:Jessy_Chen@bioethics-singapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Jessy_Chen@bioethics-singapore.gov.sg</a>
 </p>
