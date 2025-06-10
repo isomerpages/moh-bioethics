@@ -85,7 +85,7 @@ the increasing interest in embryonic stem cell research.”</p>
 formulating recommendations on the donation of human eggs for research.
 Those interested in providing their views could obtain a copy of the Consultation
 Paper here, and send their responses by 7 January 2008 via:</p>
-<p>Email: <a href="mailto:contactus@bioethics-singapore.org" rel="noopener noreferrer nofollow" target="_blank">contactus@bioethics-singapore.org</a>
+<p>Email: <a href="mailto:contactus@bioethics-singapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contactus@bioethics-singapore.gov.sg</a>
 </p>
 <p>Post:
 <br>The Secretariat
