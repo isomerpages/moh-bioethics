@@ -200,9 +200,9 @@ potential for the benefit of mankind.</p>
 <p>
 <br>Dr Sylvia Lim
 <br>DID: (65) 6826 6258
-<br><a href="mailto:sylvia_lim@bioethics-singapore.org" rel="noopener noreferrer nofollow" target="_blank">sylvia_lim@bioethics-singapore.org</a>
+<br><a href="mailto:sylvia_lim@bioethics-singapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sylvia_lim@bioethics-singapore.gov.sg</a>
 <br>
 <br>Ms Vivien Goh
 <br>DID: (65) 6826 6292
-<br><a href="mailto:Vivien_Goh@bioethics-singapore.org" rel="noopener noreferrer nofollow" target="_blank">Vivien_Goh@bioethics-singapore.org</a>
+<br><a href="mailto:Vivien_Goh@bioethics-singapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Vivien_Goh@bioethics-singapore.gov.sg</a>
 </p>
