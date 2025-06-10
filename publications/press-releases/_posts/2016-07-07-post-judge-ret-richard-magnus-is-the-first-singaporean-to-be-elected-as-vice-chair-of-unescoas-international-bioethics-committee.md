@@ -1,12 +1,11 @@
 ---
 layout: post
-title: 'Judge (ret.) Richard Magnus is the First Singaporean to be Elected as Vice-Chair of UNESCO’s International Bioethics Committee'
+title: Judge (ret.) Richard Magnus is the First Singaporean to be Elected as
+  Vice-Chair of UNESCO’s International Bioethics Committee
 permalink: /publications/press-releases/bac-chair-appted-as-ibc-vice-chair/
 date: 2016-07-07T00:00:00.000Z
-
+variant: markdown
 ---
-
-
 **Judge (ret.) Richard Magnus is the First Singaporean to be Elected as Vice-Chair of UNESCO’s International Bioethics Committee**
 
 Judge (ret.) Richard Magnus, Chair of the Bioethics Advisory Committee (BAC), has been elected as a Vice-Chair of the International Bioethics Committee (IBC) of UNESCO for a two-year term until the end of the 24th (Ordinary) IBC Session in 2017. This is the first time
@@ -36,7 +35,7 @@ UNESCO Editorial Board that is producing a Book on Bioethics for Judges.
 ### **For media enquiries, please contact:**
 <br>Ms Charmaine Chan
 <br>DID: (65) 6773 1726
-<br><charmaine@bioethics-singapore.org>
+<br>
 
 ---
 
