@@ -1,12 +1,11 @@
 ---
 layout: post
-title: 'Bioethics Advisory Committee recommends tightly regulated human stem cell research and complete ban on reproductive cloning in Singapore'
+title: Bioethics Advisory Committee recommends tightly regulated human stem cell
+  research and complete ban on reproductive cloning in Singapore
 permalink: /publications/press-releases/bioethics-advisory-committee-recommends-tightly-regulated-human-stem-cell-research-and-complete-ban-on-reproductive-cloning-in-singapore/
 date: 2001-09-12T00:00:00.000Z
-
+variant: markdown
 ---
-
-
 Singapore, 21 June 2002 Singapore's Bioethics Advisory Committee recommends a complete ban on human reproductive cloning and recommends that human stem cell research and therapeutic cloning be permitted under strict regulation. The regulatory framework should require the informed voluntary consent of donors, prohibit the commerce and sale of donated materials, especially surplus embryos and stipulate that no one shall be under a duty to participate in any manner of research on human stem cells to which he has a conscientious objection.
 
 These were the key positions taken in the report, "Ethical, Legal and Social Issues in Human Stem Cell Research, Reproductive and Therapeutic Cloning" released by the Bioethics Advisory Committee ('BAC').
@@ -29,7 +28,7 @@ The report emphasized that it is crucial to set up a comprehensive and stringent
 
 The report has been presented to the relevant ministries, and the government will decide on these recommendations later.
 
-A copy of the report is available on the [BAC website](www.bioethics-singapore.org) from 21 June 2002.
+A copy of the report is available on the [BAC website](www.bioethics-singapore.gov.sg) from 21 June 2002.
 
 
 **SUMMARY OF RECOMMENDATIONS**
@@ -65,10 +64,9 @@ The BAC believes that the recommendations would lead to 'just' and 'sustainable'
 <br>Ms Michelle Khor
 <br>A*STAR Corporate Communications
 <br>DID: (65) 6837 9196
-<br><Michelle_Khor@a-star.edu.sg>
+<br>
 
 <br>Ms Trina Liew
 <br>A*STAR Corporate Communications
 <br>DID: (65) 6837 9185
-<br><Trina_Liew@a-star.edu.sg>
- 
+<br>
