@@ -1,13 +1,11 @@
 ---
 layout: post
-title: 'The Bioethics Advisory Committee Launches its Website'
+title: The Bioethics Advisory Committee Launches its Website
 permalink: /publications/press-releases/the-bioethics-advisory-committee-launches-its-website/
 date: 2001-08-22T00:00:00.000Z
-
+variant: markdown
 ---
-
-
-1. The Bioethics Advisory Committee (BAC), appointed by the Cabinet in December 2000 to develop Singapore's bioethics framework for biomedical research, launched its website today. The [website](www.bioethics-singapore.org) aims to provide the public with information on the key biomedical research areas such as stem cells and cloning, and their related ethical, legal and social issues.
+1. The Bioethics Advisory Committee (BAC), appointed by the Cabinet in December 2000 to develop Singapore's bioethics framework for biomedical research, launched its website today. The [website](www.bioethics-singapore.gov.sg) aims to provide the public with information on the key biomedical research areas such as stem cells and cloning, and their related ethical, legal and social issues.
 
 2. The website offers the following key features:
     - Updates on important international bioethics news and developments
@@ -23,4 +21,4 @@ For more information, please contact:
 <br>Senior Officer
 <br>Corporate Communications, NSTB
 <br>DID: 770 5897
-<br>Email: <Trina_Liew@nstb.gov.sg>
+<br>Email:
