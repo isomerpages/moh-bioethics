@@ -1,12 +1,10 @@
 ---
 layout: post
-title: 'Bioethics Advisory Committee (BAC) update report for media conference'
+title: Bioethics Advisory Committee (BAC) update report for media conference
 permalink: /publications/press-releases/bioethics-advisory-committee-update-report-for-media-conference/
 date: 2001-09-12T00:00:00.000Z
-
+variant: markdown
 ---
-
-
 **UPDATE REPORT**
 
 **1 Background**
@@ -57,9 +55,9 @@ The roles of the BAC are to:
 
 **5 Public Interaction**
 
-5.1 The [BAC Website](www.bioethics-singapore.org) launched on 22 August 2001, is the Committee's first initiative to promote public awareness and education regarding bioethics issues and the BAC in Singapore.
+5.1 The [BAC Website](www.bioethics-singapore.gov.sg) launched on 22 August 2001, is the Committee's first initiative to promote public awareness and education regarding bioethics issues and the BAC in Singapore.
 
-5.2 The BAC welcomes feedback from the public through the ["Contact the BAC"](contactus@bioethics-singapore.org) email on the website. Answers to questions obtained from the public through the website are responded to in the Frequently Asked Questions section of the website.
+5.2 The BAC welcomes feedback from the public through the ["Contact the BAC"](contactus@bioethics-singapore.gov.sg) email on the website. Answers to questions obtained from the public through the website are responded to in the Frequently Asked Questions section of the website.
 
 **6 Future Action/ Conclusion**
 
@@ -106,4 +104,4 @@ The roles of the BAC are to:
 <br>Senior Parliamentary Secretary, MFA
 <br>
 <br>Prof Tan Chorh Chuan
-<br>Director, Medical Services, MOH 
+<br>Director, Medical Services, MOH
