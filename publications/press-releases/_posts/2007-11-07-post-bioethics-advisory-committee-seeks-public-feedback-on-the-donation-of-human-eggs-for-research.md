@@ -110,9 +110,9 @@ for the benefit of mankind.</p>
 <p>
 <br>Mr Calvin Ho
 <br>DID: (65) 6826 6382
-<br><a href="mailto:calvin_ho@bioethics-singapore.org" rel="noopener noreferrer nofollow" target="_blank">calvin_ho@bioethics-singapore.org</a>
+<br><a href="mailto:calvin_ho@bioethics-singapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">calvin_ho@bioethics-singapore.gov.sg</a>
 <br>
 <br>Mr Alvin Chew
 <br>DID: (65) 6826 6291
-<br><a href="mailto:alvin_chew@bioethics-singapore.org" rel="noopener noreferrer nofollow" target="_blank">alvin_chew@bioethics-singapore.org</a>
+<br><a href="mailto:alvin_chew@bioethics-singapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">alvin_chew@bioethics-singapore.gov.sg</a>
 </p>
