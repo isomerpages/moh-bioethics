@@ -1,12 +1,10 @@
 ---
 layout: post
-title: 'Bioethics Advisory Committee seeks community feedback on human tissue research'
+title: Bioethics Advisory Committee seeks community feedback on human tissue research
 permalink: /publications/press-releases/bioethics-advisory-committee-seeks-community-feedback-on-human-tissue-research/
 date: 2002-03-04T00:00:00.000Z
-
+variant: markdown
 ---
-
-
 **Consultation paper distributed to 66 community groups in Singapore, including religious, medical and public interest groups to obtain their views**
 
 Since its appointment in December 2000, the Bioethics Advisory Committee (BAC) has formed three Subcommittees to focus on the specific issues of Human Stem Cell Research, Human Genetics, and Publicity. In particular, the Human Genetics Subcommittee (HGS) was formed to address the ethical, legal and social issues arising specifically from human genetics research in Singapore. The list of Human Genetics Subcommittee members is attached in Annexe 1 for your reference.
@@ -23,7 +21,7 @@ The paper covers the following key issues relating to human tissue research and 
 
 Said Associate Professor Terry Kaan, Chairman of the Human Genetics Subcommittee: "Research on human tissue underpins much of the advances in the biomedical sciences which have contributed so much to our health and well-being. For instance, a great deal of what we know about various forms of cancers have been derived from research on human tissue. Through such research, important discoveries in the prevention, control and treatment of such diseases have been made, and continue to be made, for the benefit of humankind". Associate Professor Kaan added that "As we have pointed out in our Report, human tissue research is likely to assume a more important role in the future as new uses for the information derived from human tissue research are discovered. Most notably, almost all forms of genetic and genomic research use human tissue, directly or indirectly, as the starting point of their investigations. It is therefore important that an effective legal and ethical framework is developed to allow the full potential of human tissue research to be tapped, while at the same time, to ensure that the rights of individuals are protected through the establishment of appropriate ethical guidelines and standards for the conduct of human tissue banking and research."
 
-The consultation paper was distributed to 66 organisations on Wednesday, ;27 February 2002, and the respective organisations have been requested to submit their feedback to the BAC by 13 March 2002. The HGS also invites and welcomes feedback from the public on the issues concerning human tissue research. Those interested to obtain a copy of the consultation paper and/ or to submit feedback may write to the BAC Secretariat at 250 North Bridge Road, #15-01/02 Raffles City Tower, Singapore 179101. Alternatively, the Secretariat can also be reached by email at contactus@bioethics-singapore.org. The BAC expects to prepare recommendations on these issues for the Life Sciences Ministerial Committee in the upcoming months.
+The consultation paper was distributed to 66 organisations on Wednesday, ;27 February 2002, and the respective organisations have been requested to submit their feedback to the BAC by 13 March 2002. The HGS also invites and welcomes feedback from the public on the issues concerning human tissue research. Those interested to obtain a copy of the consultation paper and/ or to submit feedback may write to the BAC Secretariat at 250 North Bridge Road, #15-01/02 Raffles City Tower, Singapore 179101. Alternatively, the Secretariat can also be reached by email at contactus@bioethics-singapore.gov.sg. The BAC expects to prepare recommendations on these issues for the Life Sciences Ministerial Committee in the upcoming months.
 
 The Bioethics Advisory Committee (BAC) was appointed by the Government in December 2000 to address the ethical, legal and social issues arising from research on human biology and behaviour, and its applications. It is chaired by Prof Lim Pin, University Professor at the National University of Singapore's (NUS) Faculty of Medicine. The BAC is charged to develop and recommend policies to the Life Sciences Ministerial Committee on these issues, with the aim of protecting the rights and welfare of individuals, while allowing the biomedical sciences to develop and realize its full potential for the benefit of mankind.
 
@@ -34,7 +32,7 @@ The Bioethics Advisory Committee (BAC) was appointed by the Government in Decemb
 <br>Senior Officer
 <br>Corporate Communications, A*STAR
 <br>DID: 837 9159
-<br>Email: <Adeline_Chua@a-star.gov.sg>
+<br>Email: 
 
 ---
 
