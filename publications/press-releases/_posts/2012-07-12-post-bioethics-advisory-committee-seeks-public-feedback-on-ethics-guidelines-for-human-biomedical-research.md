@@ -1,12 +1,11 @@
 ---
 layout: post
-title: 'Bioethics Advisory Committee seeks public feedback on Ethics Guidelines for Human Biomedical Research'
+title: Bioethics Advisory Committee seeks public feedback on Ethics Guidelines
+  for Human Biomedical Research
 permalink: /publications/press-releases/bioethics-advisory-committee-seeks-public-feedback-on-ethics-guidelines-for-human-biomedical-research/
 date: 2012-07-12T00:00:00.000Z
-
+variant: markdown
 ---
-
-
 **Public Consultation on the BAC’s Draft Ethics Guidelines for Human Biomedical Research**
 
 1. The Bioethics Advisory Committee (BAC) is currently seeking comments on its draft *Ethics Guidelines for Human Biomedical Research*. A **public dialogue session**, to be chaired by BAC Chairman, Senior Judge (Ret.) Richard Magnus, will be held on **26 July 2012 (Thursday) from 4.00 to 6.00 pm** at Room 01-01A, Block MD 6, Centre for Translational Medicine, National University of Singapore(14 Medical Drive, Singapore 117599).
@@ -17,7 +16,7 @@ date: 2012-07-12T00:00:00.000Z
 
 4. The *Guidelines* include a summary of the legislative and regulatory frameworkfor human biomedical research in Singapore, together with the relevant current guidelines from the Ministry of Health, and other authorities. The supervening *Mental Capacity Act*, which was enacted in 2008 and revised in 2010, is explained in relation to obtaining consent for research involving persons lacking capacity to make decisions for themselves.
 
-5. A copy of the draft *Guidelines* is available here. Individuals interested in participating in the dialogue session should register their attendance with the Secretariat at <contactus@bioethics-singapore.org> by 19 July 2012.
+5. A copy of the draft *Guidelines* is available here. Individuals interested in participating in the dialogue session should register their attendance with the Secretariat at  by 19 July 2012.
 
 6. Members of the public are also invited to send their comments and queries by **15 August 2012** to the Secretariat at the above email address.
 
@@ -62,11 +61,10 @@ The main revisions to the original recommendations are as follows:
 
 <br>Ms Charmaine Chan
 <br>DID: (65) 6773 1726
-<br><charmaine@bioethics-singapore.org>
+<br>
 <br>
 <br>Ms Nur Atishah
 <br>DID: (65) 773 6475
-<br><atishah@bioethics-singapore.org>
+<br>
 
 [PDF version of press release](/files/publications/press-releases/bioethics-advisory-committee-seeks-public-feedback-on-ethics-guidelines-for-human-biomedical-research.pdf)
-
