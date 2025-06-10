@@ -1,12 +1,11 @@
 ---
 layout: post
-title: 'Bioethics Advisory Committee seeks community feedback on genetic testing and genetics research'
+title: Bioethics Advisory Committee seeks community feedback on genetic testing
+  and genetics research
 permalink: /publications/press-releases/bioethics-advisory-committee-seeks-community-feedback-on-genetic-testing-and-genetics-research/
 date: 2005-04-05T00:00:00.000Z
-
+variant: markdown
 ---
-
-
 **Consultation Paper distributed to 114 community groups in Singapore , including religious, medical and patient interest groups, to seek their views**
 
 In the past year, the Bioethics Advisory Committee (BAC) examined a spectrum of ethical, legal and social issues arising from genetic testing in clinical practice and research. Studies were conducted on recent developments in both the local and global contexts and consultations with local and international experts were made. In addition, various policies and guidelines adopted in other leading jurisdictions and recommendations made by international organisations were carefully studied.
@@ -24,7 +23,7 @@ BAC Chairman, Professor Lim Pin, says: “Greater understanding of the human gen
 
 Associate Professor Terry Kaan, Chairman of the Human Genetics Subcommittee adds, "As genetic information is unique because of its shared and predictive nature, issues related to genetic testing and the genetic information so derived are varied and complex with long-term ramifications. Like many other national ethics bodies and international organisations, the BAC is proposing guidelines to attend to these issues which may have imminent ethical, legal and social impact."
 
-The consultation paper will be distributed to 114 organisations seeking their views on the issues discussed and the recommendations proposed. The BAC also welcomes comments from the public. Those interested in providing their views could obtain a copy of the consultation paper at [www.bioethics-singapore.org](www.bioethics-singapore.org) and send their responses by 17 May 2005 to:
+The consultation paper will be distributed to 114 organisations seeking their views on the issues discussed and the recommendations proposed. The BAC also welcomes comments from the public. Those interested in providing their views could obtain a copy of the consultation paper at [www.bioethics-singapore.gov.sg](www.bioethics-singapore.gov.sg) and send their responses by 17 May 2005 to:
 <br>The Secretariat
 <br>Bioethics Advisory Committee
 <br>20 Biopolis Way
@@ -144,12 +143,12 @@ The BAC was established by the Government in December 2000 to address the ethica
 
 <br>Dr Sylvia Lim
 <br>DID: (65) 6826 6258
-<br><sylvia_lim@bioethics-singapore.org>
+<br>
 <br>
 <br>Ms Linda Tan
 <br>DID: (65) 6826 6263
-<br><linda_tan@bioethics-singapore.org>
+<br>
 <br>
 <br>Ms Jessy Chen
 <br>DID: (65) 6826 6264
-<br><Jessy_Chen@bioethics-singapore.org>
+<br>
