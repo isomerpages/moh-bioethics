@@ -1,12 +1,11 @@
 ---
 layout: post
-title: 'Release of third report by the Bioethics Advisory Committee – Research Involving Human Subjects: Guidelines for IRBs'
+title: "Release of third report by the Bioethics Advisory Committee – Research
+  Involving Human Subjects: Guidelines for IRBs"
 permalink: /publications/press-releases/release-of-third-report-by-the-bioethics-advisory-committee-research-involving-human-subjects-guidelines-for-ibrs/
 date: 2004-11-23T00:00:00.000Z
-
+variant: markdown
 ---
-
-
 This Report of the Bioethics Advisory Committee (BAC) sets out guidelines for ethics governance of research involving human subjects.
 
 The guidelines require all human biomedical research in Singapore, including research involving human tissue or medical information, to be subject to ethics governance.
@@ -105,12 +104,12 @@ Institutions should also ensure that there are adequate resources to enable thei
 
 <br>Dr Sylvia Lim
 <br>DID: (65) 6826 6258
-<br><Sylvia_Lim@bioethics-singapore.org>
+<br>
 <br>
 <br>Ms Linda Tan
 <br>DID: (65) 6826 6263
-<br><Linda_Tan@bioethics-singapore.org>
+<br>
 <br>
 <br>Ms Jessy Chen
 <br>DID: (65) 6826 6264
-<br><Jessy_Chen@bioethics-singapore.org>
+<br>
