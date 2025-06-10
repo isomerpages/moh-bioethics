@@ -1,12 +1,11 @@
 ---
 layout: post
-title: 'Bioethics Advisory Committee seeks public feedback on the donation of human eggs for research'
+title: Bioethics Advisory Committee seeks public feedback on the donation of
+  human eggs for research
 permalink: /publications/press-releases/bioethics-advisory-committee-seeks-public-feedback-on-the-donation-of-human-eggs-for-research/
 date: 2007-11-07T00:00:00.000Z
-
+variant: markdown
 ---
-
-
 **Release of a public Consultation Paper by the BAC**
 
 The Bioethics Advisory Committee (BAC) announces the release of a public Consultation Paper entitled “Donation of Human Eggs for Research”.  The Paper raises issues related to the provision of human eggs for purposes of research, especially research into embryonic stem cells.
@@ -32,7 +31,7 @@ The BAC continues to emphasise the importance of effective consent procedures, w
 
 The views of the public and interested parties will assist the BAC in formulating recommendations on the donation of human eggs for research. Those interested in providing their views could obtain a copy of the Consultation Paper here, and send their responses by 7 January 2008 via:
 
-Email: <contactus@bioethics-singapore.org>
+Email: 
 
 Post:
 <br>The Secretariat
@@ -57,8 +56,8 @@ The BAC was established by the Government in December 2000 to address the ethica
 
 <br>Mr Calvin Ho
 <br>DID: (65) 6826 6382
-<br><calvin_ho@bioethics-singapore.org>
+<br>
 <br>
 <br>Mr Alvin Chew
 <br>DID: (65) 6826 6291
-<br><alvin_chew@bioethics-singapore.org>
+<br>
