@@ -1,12 +1,10 @@
 ---
 layout: post
-title: 'Human-animal combinations for biomedical research'
+title: Human-animal combinations for biomedical research
 permalink: /publications/press-releases/human-animal-combinations-for-biomedical-research/
 date: 2008-01-08T00:00:00.000Z
-
+variant: markdown
 ---
-
-
 **Release of a public Consultation Paper by the BAC**
 
 The Bioethics Advisory Committee (BAC) announces the release of a Consultation Paper entitled “Human-Animal Combinations for Research". Human-animal combinations are entities resulting from the mixing of genes, cells or tissue of human origin with those of other species. The Paper discusses the ethical, legal and social issues arising from the creation and use of such entities for research. 
@@ -36,9 +34,9 @@ Professor Lee Eng Hin, Chairman of the Human Embryo and Chimera Working Group, s
 
 Professor Lim Pin, Chairman of the BAC, added: “Even though the wide use of human-animal combinations in research underscores the confidence in the benefits that they would bring about, there are certain ethical boundaries to the conduct of such research. For instance, even if possible, it would be ethically unacceptable for scientists to create sub-human creatures with potentially human consciousness. Furthermore, scientists overwhelmingly do want to conduct research in a way that is ethical. The outcome of this public consultation will be useful in giving guidance to the scientific community here.”
 
-The views of the public and interested parties will assist the BAC in formulating recommendations on research involving human-animal combinations. Those interested in providing their views could obtain a copy of the Consultation Paper from the BAC website: www.bioethics-singapore.org and send their responses by 10 March 2008 to the BAC Secretariat via:
+The views of the public and interested parties will assist the BAC in formulating recommendations on research involving human-animal combinations. Those interested in providing their views could obtain a copy of the Consultation Paper from the BAC website: www.bioethics-singapore.gov.sg and send their responses by 10 March 2008 to the BAC Secretariat via:
 
-Email: <contactus@bioethics-singapore.org>
+Email: 
 
 Post:
 <br>The Secretariat
@@ -63,8 +61,8 @@ The BAC was established by the Government in December 2000 to address the ethica
 
 <br>Mr Calvin Ho
 <br>DID: (65) 6826 6382
-<br><calvin_ho@bioethics-singapore.org>
+<br>
 <br>
 <br>Mr Alvin Chew
 <br>DID: (65) 6826 6291
-<br><alvin_chew@bioethics-singapore.org>
+<br>
