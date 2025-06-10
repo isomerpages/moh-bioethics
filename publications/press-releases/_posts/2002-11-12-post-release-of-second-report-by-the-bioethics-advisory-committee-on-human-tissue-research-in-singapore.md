@@ -1,12 +1,11 @@
 ---
 layout: post
-title: 'Release of second report by the Bioethics Advisory Committee on Human Tissue Research in Singapore'
+title: Release of second report by the Bioethics Advisory Committee on Human
+  Tissue Research in Singapore
 permalink: /publications/press-releases/release-of-second-report-by-the-bioethics-advisory-committee-on-human-tissue-research-in-singapore/
 date: 2002-11-12T00:00:00.000Z
-
+variant: markdown
 ---
-
-
 New Report by Bioethics Advisory Committee on Human Tissue Research
 
 Follows upon earlier Report of the BAC on Stem Cells and Cloning issued in June 2002
@@ -31,7 +30,7 @@ Feedback and views of parties in the consultation process are included in the ne
 
 5. The new Report does not deal with human embryonic stem cell research, or with cloning, which are issues addressed by the BAC's first Report. The new Report makes it clear that the recommendations made in it are general recommendations which do not supplant or replace the more specific recommendations advanced by the BAC in relation to research involving human embryos, cord blood, gametes and stem cells, and the treatment of such materials.
 
-6. The new Report is the culmination of an extensive consultation process with various religious, professional and civic groups which began on 27 February 2002, when a Consultation Paper on Human Tissue Research was published by the BAC. This Consultation Paper, which contains the main gist of the recommendations in the new Report, was sent by the BAC to a total of 66 religious, professional and civic groups with an invitation for feedback. A general invitation was also issued to the public, and the Consultation Paper made available on the website of the BAC at [http://www.bioethics-singapore.org](http://www.bioethics-singapore.org).
+6. The new Report is the culmination of an extensive consultation process with various religious, professional and civic groups which began on 27 February 2002, when a Consultation Paper on Human Tissue Research was published by the BAC. This Consultation Paper, which contains the main gist of the recommendations in the new Report, was sent by the BAC to a total of 66 religious, professional and civic groups with an invitation for feedback. A general invitation was also issued to the public, and the Consultation Paper made available on the website of the BAC at [http://www.bioethics-singapore.gov.sg](http://www.bioethics-singapore.gov.sg).
 
 7. A total of 33 parties responded with comments and suggestions. The majority of those responding welcomed the proposal for the adoption of clear national guidelines, although some religious groups continued to express their opposition to human embryonic research, and to cloning.
 
@@ -162,4 +161,3 @@ Given the background of a rapidly shifting and evolving body of ethics, legal ru
 This dialogue should be undertaken with a view towards ensuring the harmonisation of our laws with accepted international best practice and consensus on relevant legal doctrines and principles such as are being developed in the leading jurisdictions around the world.
 
 While the BAC expects that most of the input in the dialogue will come from professionals in the life sciences, the BAC also recommends that the views of the public be sought. This Report is expressed to be issued by the BAC as part of that process.
-
