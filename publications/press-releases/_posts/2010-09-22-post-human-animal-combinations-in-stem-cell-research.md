@@ -1,12 +1,10 @@
 ---
 layout: post
-title: 'Human-Animal Combinations in Stem Cell Research'
+title: Human-Animal Combinations in Stem Cell Research
 permalink: /publications/press-releases/human-animal-combinations-in-stem-cell-research/
 date: 2010-09-22T00:00:00.000Z
-
+variant: markdown
 ---
-
-
 **Release of a report by the Bioethics Advisory Committee**
 
 1.   The Bioethics Advisory Committee (BAC) announces the release of a report entitled “Human-Animal Combinations in Stem Cell Research". The term “human-animal combinations” refers to any kind of living organism in which there is some mixing of human and animal materials. The Report focuses on two types of human-animal combinations: cytoplasmic hybrids and animal chimeras.
@@ -62,4 +60,4 @@ The BAC was established by the Government in December 2000 to address the ethica
 
 <br>Mr Calvin Ho
 <br>DID:  (65) 6773 6719
-<br><calvin_ho@bioethics-singapore.org>
+<br>
