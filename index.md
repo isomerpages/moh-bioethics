@@ -26,7 +26,7 @@ sections:
       backgroundColor: white
   - infopic:
       title: Asian Bioethics Network Conference 2025
-      subtitle: 23rd – 24th October
+      subtitle: 23rd – 24th October 2025
       id: infopic
       description: Grand Copthorne Waterfront Hotel, Singapore
       button: find out more
