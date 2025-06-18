@@ -29,7 +29,7 @@ sections:
       subtitle: 23rd – 24th October 2025
       id: infopic
       description: Grand Copthorne Waterfront Hotel, Singapore
-      button: find out more
+      button: find out more!
       url: https://abnconf2025.bioethics-singapore.gov.sg
       alt: Image alt text
       image: /images/ABN Conference 2025/ABN_Conf_2025___save_the_date__cropped_.png
