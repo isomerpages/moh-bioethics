@@ -33,7 +33,7 @@ sections:
       url: https://abnconf2025.bioethics-singapore.gov.sg
       alt: Image alt text
   - infopic:
-      title: BIOETHICS EXHIBITION
+      title: Bioethics Exhibition
       subtitle: check out the
       id: infopic
       description: Singapore Science Centre
