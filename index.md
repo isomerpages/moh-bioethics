@@ -2,7 +2,9 @@
 layout: homepage
 title: Bioethics Advisory Committee
 permalink: /
-notification: ""
+notification: ⓘ   Government officials will never ask you to transfer money or
+  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  Helpline at 1799 if you are unsure if something is a scam.
 sections:
   - hero:
       background: /images/Human Nuclear Genome Editing/3.png
@@ -25,7 +27,17 @@ sections:
       alignment: left
       backgroundColor: white
   - infopic:
-      title: BIOETHICS EXHIBITION
+      title: Asian Bioethics Network Conference 2025
+      subtitle: 23rd – 24th October 2025
+      id: infopic
+      description: Grand Copthorne Waterfront Hotel, Singapore
+      button: find out more!
+      url: https://abnconf2025.bioethics-singapore.gov.sg
+      alt: Image alt text
+      image: /images/ABN Conference
+        2025/MOH_NUS_ABNC_2025___Website_Banner__with_pre_con_.png
+  - infopic:
+      title: Bioethics Exhibition
       subtitle: check out the
       id: infopic
       description: Singapore Science Centre
