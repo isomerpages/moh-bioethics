@@ -34,7 +34,8 @@ sections:
       button: find out more!
       url: https://abnconf2025.bioethics-singapore.gov.sg
       alt: Image alt text
-      image: /images/ABN Conference 2025/ABN_Conf_2025___save_the_date__cropped_.png
+      image: /images/ABN Conference
+        2025/MOH_NUS_ABNC_2025___Website_Banner__with_pre_con_.png
   - infopic:
       title: Bioethics Exhibition
       subtitle: check out the
