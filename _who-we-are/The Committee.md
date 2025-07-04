@@ -85,7 +85,7 @@ Medical School; and
 <br>Executive Director, Precision Health Research Singapore (PRECISE)</p>
 <p></p>
 <p><strong>Mr Tan Sze Yao</strong>
-<br>Director, Legal Office
+<br>Director (Legal), Legal Office
 <br>Ministry of Health, Singapore
 <br>
 </p>
