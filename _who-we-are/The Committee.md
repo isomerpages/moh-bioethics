@@ -49,9 +49,8 @@ NHG Health; and
 <br>Khoo Teck Puat-National University Children's Medical Institute, National
 University Hospital; and
 <br>Director of the Paediatric Ethics Program,
-<br>Centre for Biomedical Ethics
-<br>Yong Loo Lin School of Medicine,
-<br>National University of Singapore</p>
+<br>Centre for Biomedical Ethics, Yong Loo Lin School of Medicine, National
+University of Singapore</p>
 <p><strong>Ms Kuah Boon Theng</strong>
 <br>Senior Counsel and Managing Director
 <br>Legal Clinic LLC</p>
