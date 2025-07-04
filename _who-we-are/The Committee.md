@@ -35,7 +35,8 @@ Surgery
 <br>Associate Director and Senior Principal Scientist
 <br>Genome Institute of Singapore, Agency for Science, Technology and Research
 (A*STAR); and
-<br>Adjunct Assistant Professor, National University of Singapore</p>
+<br>Adjunct Assistant Professor
+<br>National University of Singapore</p>
 <p><strong>Professor Chin Jing Jih</strong>
 <br>Deputy Group Chief Executive Officer (Clinical and Academic Development),
 NHG Health; and
