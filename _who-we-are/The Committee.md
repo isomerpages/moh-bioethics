@@ -70,10 +70,10 @@ University of Singapore</p>
 <br>Chief Executive
 <br>Science Centre Board</p>
 <p><strong>Adjunct Professor Ngiam Kee Yuan</strong>
-<br>Head, Artificial Intelligence Office, National University Health System;
-and
-<br>Head, Division of Biomedical Informatics, Yong Loo Lin School of Medicine,
-National University of Singapore</p>
+<br>Head, Artificial Intelligence Office
+<br>National University Health System; and
+<br>Head, Division of Biomedical Informatics
+<br>Yong Loo Lin School of Medicine, National University of Singapore</p>
 <p><strong>Professor Vineeta Sinha</strong>
 <br>Professor, Department of Sociology, Faculty of Arts and Social Sciences
 <br>National University of Singapore</p>
