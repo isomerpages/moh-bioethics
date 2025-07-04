@@ -33,7 +33,8 @@ NTU
 <br>
 <br><strong>Dr Chew Wei Leong</strong>
 <br>Associate Director and Senior Principal Scientist
-<br>Genome Institute of Singapore, A*STAR; and
+<br>Genome Institute of Singapore, Agency for Science, Technology and Research
+(A*STAR); and
 <br>Adjunct Assistant Professor, National University of Singapore</p>
 <p><strong>Professor Chin Jing Jih</strong>
 <br>Deputy Group Chief Executive Officer
