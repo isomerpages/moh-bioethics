@@ -77,8 +77,8 @@ National University of Singapore</p>
 <br>National University of Singapore</p>
 <p><strong>Professor Patrick Tan Boon Ooi</strong>
 <br>Dean (Designate) and Provost’s Chair, Cancer and Stem Cell Biology, Duke-NUS
-Medical School; and
-<br>Executive Director, Precision Health Research Singapore (PRECISE)</p>
+Medical School; and Executive Director, Precision Health Research Singapore
+(PRECISE)</p>
 <p></p>
 <p><strong>Mr Tan Sze Yao</strong>
 <br>Director (Legal), Legal Office
