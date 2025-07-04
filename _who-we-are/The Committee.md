@@ -76,8 +76,7 @@ and
 <br>Head, Division of Biomedical Informatics, Yong Loo Lin School of Medicine,
 NUS</p>
 <p><strong>Professor Vineeta Sinha</strong>
-<br>Professor, Department of Sociology
-<br>Faculty of Arts and Social Sciences
+<br>Professor, Department of Sociology, Faculty of Arts and Social Sciences
 <br>National University of Singapore</p>
 <p><strong>Professor Patrick Tan Boon Ooi</strong>
 <br>Dean (Designate) and Provost’s Chair, Cancer and Stem Cell Biology, Duke-NUS
