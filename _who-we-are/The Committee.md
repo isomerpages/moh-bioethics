@@ -29,7 +29,7 @@ Surgery
 <br>Yong Loo Lin School of Medicine, National University of Singapore; and
 <br>Clinical Associate Professor
 <br>Duke-NUS Graduate Medical School and Lee Kong Chian School of Medicine,
-NTU
+Nanyang Technological University
 <br>
 <br><strong>Dr Chew Wei Leong</strong>
 <br>Associate Director and Senior Principal Scientist
