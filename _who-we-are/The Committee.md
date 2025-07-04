@@ -40,7 +40,8 @@ Surgery
 <p><strong>Professor Chin Jing Jih</strong>
 <br>Deputy Group Chief Executive Officer (Clinical and Academic Development)
 <br>NHG Health; and
-<br>Senior Consultant Geriatrician, Tan Tock Seng Hospital</p>
+<br>Senior Consultant Geriatrician
+<br>Tan Tock Seng Hospital</p>
 <p><strong>Dr Izal Bin Mustafa Kamar</strong>
 <br>Deputy Mufti
 <br>Islamic Religious Council of Singapore (MUIS)
