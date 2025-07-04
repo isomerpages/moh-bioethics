@@ -37,9 +37,8 @@ Nanyang Technological University
 (A*STAR); and
 <br>Adjunct Assistant Professor, National University of Singapore</p>
 <p><strong>Professor Chin Jing Jih</strong>
-<br>Deputy Group Chief Executive Officer
-<br>(Clinical and Academic Development),
-<br>NHG Health; and
+<br>Deputy Group Chief Executive Officer (Clinical and Academic Development),
+NHG Health; and
 <br>Senior Consultant Geriatrician, Tan Tock Seng Hospital</p>
 <p><strong>Dr Izal Bin Mustafa Kamar</strong>
 <br>Deputy Mufti
