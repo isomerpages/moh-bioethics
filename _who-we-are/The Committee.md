@@ -38,7 +38,7 @@ NTU
 <p><strong>Professor Chin Jing Jih</strong>
 <br>Deputy Group Chief Executive Officer
 <br>(Clinical and Academic Development),
-<br>National Healthcare Group; and
+<br>NHG Health; and
 <br>Senior Consultant Geriatrician, Tan Tock Seng Hospital</p>
 <p><strong>Dr Izal Bin Mustafa Kamar</strong>
 <br>Deputy Mufti
