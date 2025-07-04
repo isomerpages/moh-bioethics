@@ -74,7 +74,7 @@ University Hospital; and
 <br>Head, Artificial Intelligence Office, National University Health System;
 and
 <br>Head, Division of Biomedical Informatics, Yong Loo Lin School of Medicine,
-NUS</p>
+National University of Singapore</p>
 <p><strong>Professor Vineeta Sinha</strong>
 <br>Professor, Department of Sociology, Faculty of Arts and Social Sciences
 <br>National University of Singapore</p>
