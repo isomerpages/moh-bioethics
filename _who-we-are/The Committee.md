@@ -78,9 +78,10 @@ University of Singapore</p>
 <br>Professor, Department of Sociology, Faculty of Arts and Social Sciences
 <br>National University of Singapore</p>
 <p><strong>Professor Patrick Tan Boon Ooi</strong>
-<br>Dean (Designate) and Provost’s Chair, Cancer and Stem Cell Biology, Duke-NUS
-Medical School; and Executive Director, Precision Health Research Singapore
-(PRECISE)</p>
+<br>Dean (Designate) and Provost’s Chair, Cancer and Stem Cell Biology
+<br>Duke-NUS Medical School; and
+<br>Executive Director
+<br>Precision Health Research Singapore (PRECISE)</p>
 <p></p>
 <p><strong>Mr Tan Sze Yao</strong>
 <br>Director (Legal), Legal Office
