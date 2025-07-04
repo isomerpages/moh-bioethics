@@ -25,8 +25,8 @@ Surgery
 <br><strong>Associate Professor Chan Mei Yoke</strong>
 <br>Senior Consultant, Paediatric Haematology/Oncology
 <br>KK Women's and Children's Hospital (KKH);
-<br>Adjunct Associate Professor, Yong Loo Lin School of Medicine, National
-University of Singapore; and
+<br>Adjunct Associate Professor,
+<br>Yong Loo Lin School of Medicine, National University of Singapore; and
 <br>Clinical Associate Professor
 <br>Duke-NUS Graduate Medical School and Lee Kong Chian School of Medicine,
 NTU
