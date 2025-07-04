@@ -71,23 +71,18 @@ University Hospital; and
 <br>Chief Executive
 <br>Science Centre Board</p>
 <p><strong>Adjunct Professor Ngiam Kee Yuan</strong>
-<br>Head, Academic Informatics Office,
-<br>National University Health System
-<br>Head and Senior Consultant, Division of General Surgery (Endocrine and
-Thyroid Surgery),
-<br>Department of Surgery, NUH
-<br>Senior Consultant, Division of Surgical Oncology, NCIS; and
-<br>Adjunct Professor, Department of Surgery, NUS Medicine</p>
+<br>Head, Artificial Intelligence Office, National University Health System;
+and
+<br>Head, Division of Biomedical Informatics, Yong Loo Lin School of Medicine,
+NUS</p>
 <p><strong>Professor Vineeta Sinha</strong>
 <br>Professor, Department of Sociology
 <br>Faculty of Arts and Social Sciences
 <br>National University of Singapore</p>
 <p><strong>Professor Patrick Tan Boon Ooi</strong>
-<br>Senior Vice Dean (Research),
-<br>Duke-NUS Medical School
-<br>Executive Director,
-<br>Precision Health Research Singapore (PRECISE)
-<br>Chief Scientific Officer, Genome Institute of Singapore</p>
+<br>Dean (Designate) and Provost’s Chair, Cancer and Stem Cell Biology, Duke-NUS
+Medical School; and
+<br>Executive Director, Precision Health Research Singapore (PRECISE)</p>
 <p></p>
 <p><strong>Mr Tan Sze Yao</strong>
 <br>Director, Legal Office
@@ -100,8 +95,7 @@ Thyroid Surgery),
 <br>
 </p>
 <p><strong>Dr Voo Teck Chuan</strong>
-<br>Head, Office of Ethics in Healthcare
-<br>SingHealth; and
+<br>Head, Office of Ethics in Healthcare, SingHealth; and
 <br>Advisor, SingHealth Duke-NUS Medical Humanities Institute</p>
 <p></p>
 <h5><strong>International Panel of Experts</strong></h5>
