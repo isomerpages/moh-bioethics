@@ -59,8 +59,7 @@ University of Singapore</p>
 <br>Singapore University of Social Sciences (SUSS)</p>
 <p><strong>Associate Professor Lai Poh San</strong>
 <br>Associate Professor, Department of Paediatrics
-<br>Yong Loo Lin School of Medicine,
-<br>National University of Singapore
+<br>Yong Loo Lin School of Medicine, National University of Singapore
 <br>
 </p>
 <p><strong>Mr Charles Lim Aeng Cheng</strong>
