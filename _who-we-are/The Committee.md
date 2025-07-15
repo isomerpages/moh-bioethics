@@ -9,8 +9,8 @@ variant: tiptap
 <p></p>
 <p><strong>Chairman</strong>
 <br><strong>Emeritus Professor Lee Eng Hin</strong>
-<br>Emeritus Professor &amp; Emeritus Consultant
-<br>Department of Orthopaedic Surgery
+<br>Emeritus Professor &amp; Emeritus Consultant, Department of Orthopaedic
+Surgery
 <br>National University Health System</p>
 <p></p>
 <p><strong>Deputy Chairs</strong>
@@ -26,20 +26,22 @@ variant: tiptap
 <br>Senior Consultant, Paediatric Haematology/Oncology
 <br>KK Women's and Children's Hospital (KKH);
 <br>Adjunct Associate Professor
-<br>Yong Loo Lin School of Medicine, NUS; and
+<br>Yong Loo Lin School of Medicine, National University of Singapore; and
 <br>Clinical Associate Professor
 <br>Duke-NUS Graduate Medical School and Lee Kong Chian School of Medicine,
-NTU
+<br>Nanyang Technological University
 <br>
 <br><strong>Dr Chew Wei Leong</strong>
 <br>Associate Director and Senior Principal Scientist
-<br>Genome Institute of Singapore, A*STAR; and
-<br>Adjunct Assistant Professor, National University of Singapore</p>
+<br>Genome Institute of Singapore, Agency for Science, Technology and Research
+(A*STAR); and
+<br>Adjunct Assistant Professor
+<br>National University of Singapore</p>
 <p><strong>Professor Chin Jing Jih</strong>
-<br>Deputy Group Chief Executive Officer
-<br>(Clinical and Academic Development),
-<br>National Healthcare Group; and
-<br>Senior Consultant Geriatrician, Tan Tock Seng Hospital</p>
+<br>Deputy Group Chief Executive Officer (Clinical and Academic Development)
+<br>NHG Health; and
+<br>Senior Consultant Geriatrician
+<br>Tan Tock Seng Hospital</p>
 <p><strong>Dr Izal Bin Mustafa Kamar</strong>
 <br>Deputy Mufti
 <br>Islamic Religious Council of Singapore (MUIS)
@@ -47,11 +49,9 @@ NTU
 <p><strong>Emeritus Professor Roy Joseph</strong>
 <br>Emeritus Consultant, Department of Neonatology
 <br>Khoo Teck Puat-National University Children's Medical Institute, National
-University Hospital; and
-<br>Director of the Paediatric Ethics Program,
-<br>Centre for Biomedical Ethics
-<br>Yong Loo Lin School of Medicine,
-<br>National University of Singapore</p>
+University Hospital; and Director of the Paediatric Ethics Program,
+<br>Centre for Biomedical Ethics, Yong Loo Lin School of Medicine, National
+University of Singapore</p>
 <p><strong>Ms Kuah Boon Theng</strong>
 <br>Senior Counsel and Managing Director
 <br>Legal Clinic LLC</p>
@@ -60,8 +60,7 @@ University Hospital; and
 <br>Singapore University of Social Sciences (SUSS)</p>
 <p><strong>Associate Professor Lai Poh San</strong>
 <br>Associate Professor, Department of Paediatrics
-<br>Yong Loo Lin School of Medicine,
-<br>National University of Singapore
+<br>Yong Loo Lin School of Medicine, National University of Singapore
 <br>
 </p>
 <p><strong>Mr Charles Lim Aeng Cheng</strong>
@@ -71,26 +70,21 @@ University Hospital; and
 <br>Chief Executive
 <br>Science Centre Board</p>
 <p><strong>Adjunct Professor Ngiam Kee Yuan</strong>
-<br>Head, Academic Informatics Office,
-<br>National University Health System
-<br>Head and Senior Consultant, Division of General Surgery (Endocrine and
-Thyroid Surgery),
-<br>Department of Surgery, NUH
-<br>Senior Consultant, Division of Surgical Oncology, NCIS; and
-<br>Adjunct Professor, Department of Surgery, NUS Medicine</p>
+<br>Head, Artificial Intelligence Office
+<br>National University Health System; and
+<br>Head, Division of Biomedical Informatics
+<br>Yong Loo Lin School of Medicine, National University of Singapore</p>
 <p><strong>Professor Vineeta Sinha</strong>
-<br>Professor, Department of Sociology
-<br>Faculty of Arts and Social Sciences
+<br>Professor, Department of Sociology, Faculty of Arts and Social Sciences
 <br>National University of Singapore</p>
 <p><strong>Professor Patrick Tan Boon Ooi</strong>
-<br>Senior Vice Dean (Research),
-<br>Duke-NUS Medical School
-<br>Executive Director,
-<br>Precision Health Research Singapore (PRECISE)
-<br>Chief Scientific Officer, Genome Institute of Singapore</p>
+<br>Dean (Designate) and Provost’s Chair, Cancer and Stem Cell Biology
+<br>Duke-NUS Medical School; and
+<br>Executive Director
+<br>Precision Health Research Singapore (PRECISE)</p>
 <p></p>
 <p><strong>Mr Tan Sze Yao</strong>
-<br>Director, Legal Office
+<br>Director (Legal), Legal Office
 <br>Ministry of Health, Singapore
 <br>
 </p>
@@ -100,8 +94,7 @@ Thyroid Surgery),
 <br>
 </p>
 <p><strong>Dr Voo Teck Chuan</strong>
-<br>Head, Office of Ethics in Healthcare
-<br>SingHealth; and
+<br>Head, Office of Ethics in Healthcare, SingHealth; and
 <br>Advisor, SingHealth Duke-NUS Medical Humanities Institute</p>
 <p></p>
 <h5><strong>International Panel of Experts</strong></h5>
