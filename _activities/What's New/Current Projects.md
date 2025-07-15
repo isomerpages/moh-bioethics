@@ -9,7 +9,7 @@ variant: tiptap
 <h3>BAC's Current Projects</h3>
 <p><strong>Asian Bioethics Network Conference 2025</strong>
 </p>
-<p>The ABN Conference 2025, taking place from 22 to 23 October at the Grand
+<p>The ABN Conference 2025, taking place from 22 to 24 October at the Grand
 Copthorne Waterfront Hotel, marks the first in-person gathering for ABN
 members. Jointly organised by the Bioethics Advisory Committee (BAC) and
 the Centre for Biomedical Ethics at NUS (CBmE), with support from the Ministry
