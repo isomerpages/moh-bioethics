@@ -67,8 +67,8 @@ University of Singapore</p>
 <br>Principal Senior State Counsel, Legislation Division
 <br>Attorney-General’s Chambers (AGC)</p>
 <p><strong>Associate Professor Lim Tit Meng</strong>
-<br>Chief Executive
-<br>Science Centre Board</p>
+<br>APAC Regional Executive Director
+<br>OceanX Education</p>
 <p><strong>Adjunct Professor Ngiam Kee Yuan</strong>
 <br>Head, Artificial Intelligence Office
 <br>National University Health System; and
